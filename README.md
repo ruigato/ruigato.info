@@ -1,0 +1,2 @@
+# ruigato.info
+init
