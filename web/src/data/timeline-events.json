@@ -1,0 +1,1801 @@
+[
+    {
+        "id": "3037",
+        "label": "MERITA PROTEAN QUARTET",
+        "year": 2024,
+        "month": 4,
+        "workSlug": "merita-protean-quartet"
+    },
+    {
+        "id": "3029",
+        "label": "MERITA AKILONE QUARTET",
+        "year": 2024,
+        "month": 2,
+        "workSlug": "merita-akilone-quartet"
+    },
+    {
+        "id": "2979",
+        "label": "Passarola #2",
+        "year": 2023,
+        "month": 10,
+        "workSlug": "passarola-2"
+    },
+    {
+        "id": "3024",
+        "label": "Fading",
+        "year": 2023,
+        "month": 7,
+        "workSlug": "fading"
+    },
+    {
+        "id": "2960",
+        "label": "Passarola #1",
+        "year": 2022,
+        "month": 5,
+        "workSlug": "passarola"
+    },
+    {
+        "id": "2955",
+        "label": "MUSA TUTORING",
+        "year": 2021,
+        "month": 10,
+        "workSlug": "musa-tutoring"
+    },
+    {
+        "id": "2950",
+        "label": "Criatech 2020",
+        "year": 2020,
+        "month": 10,
+        "workSlug": "criatech-2020"
+    },
+    {
+        "id": "3348",
+        "label": "Porto Legends Custom Media Server",
+        "year": 2019,
+        "month": 9,
+        "workSlug": "porto-legends-custom-media-server"
+    },
+    {
+        "id": "3369",
+        "label": "Torre NOS v8",
+        "year": 2019,
+        "month": 5,
+        "workSlug": "torre-nos-v8"
+    },
+    {
+        "id": "2382",
+        "label": "Megalith (v2)",
+        "year": 2019,
+        "month": 4,
+        "workSlug": "megalith-v2"
+    },
+    {
+        "id": "3328",
+        "label": "Light Connector @ Brussels",
+        "year": 2019,
+        "month": 2,
+        "workSlug": "light-connector-brussels"
+    },
+    {
+        "id": "3320",
+        "label": "Light Connector @ Doha",
+        "year": 2018,
+        "month": 12,
+        "workSlug": "light-connector-doha"
+    },
+    {
+        "id": "3310",
+        "label": "Light Connector @ Cascais",
+        "year": 2018,
+        "month": 9,
+        "workSlug": "light-connector-cascais"
+    },
+    {
+        "id": "1436",
+        "label": "Megalith",
+        "year": 2018,
+        "month": 7,
+        "workSlug": "megalith"
+    },
+    {
+        "id": "1434",
+        "label": "Sacred Geometry in Music Composition",
+        "year": 2018,
+        "month": 7,
+        "workSlug": "sacred-geometry-in-music-composition-talk-at-the-liminal-village-boom-festival-2018"
+    },
+    {
+        "id": "1421",
+        "label": "Workshop TouchDesigner GOMA",
+        "year": 2018,
+        "month": 6,
+        "workSlug": "workshop-touchdesigner-goma"
+    },
+    {
+        "id": "1424",
+        "label": "Heineken Museum",
+        "year": 2018,
+        "month": 6,
+        "workSlug": "heineken-museum"
+    },
+    {
+        "id": "1420",
+        "label": "Torre NOS Primavera Sound v7",
+        "year": 2018,
+        "month": 6,
+        "workSlug": "torre-nos-primavera-sound-v7"
+    },
+    {
+        "id": "1390",
+        "label": "Aparelho Geométrico Levógiro",
+        "year": 2018,
+        "month": 5,
+        "workSlug": "aparelho-geometrico-levogiro"
+    },
+    {
+        "id": "1392",
+        "label": "Mónada Nómada",
+        "year": 2018,
+        "month": 5,
+        "workSlug": "monada-nomada"
+    },
+    {
+        "id": "904",
+        "label": "Eu Sou o Cosmos",
+        "year": 2018,
+        "month": 4,
+        "workSlug": "eu-sou-o-cosmos"
+    },
+    {
+        "id": "902",
+        "label": "Oficina TouchDesigner CCC.CR",
+        "year": 2018,
+        "month": 3,
+        "workSlug": "oficina-touchdesigner-ccc-cr"
+    },
+    {
+        "id": "900",
+        "label": "TouchDesigner Summit 2018",
+        "year": 2018,
+        "month": 2,
+        "workSlug": "touchdesigner-summit-2018"
+    },
+    {
+        "id": "898",
+        "label": "INSIDE",
+        "year": 2017,
+        "month": 9,
+        "workSlug": "inside"
+    },
+    {
+        "id": "896",
+        "label": "Space Machine",
+        "year": 2017,
+        "month": 8,
+        "workSlug": "space-machine"
+    },
+    {
+        "id": "894",
+        "label": "Torre NOS Primavera Sound v6",
+        "year": 2017,
+        "month": 6,
+        "workSlug": "torre-nos-primavera-sound-v6"
+    },
+    {
+        "id": "892",
+        "label": "Periférico",
+        "year": 2017,
+        "month": 4,
+        "workSlug": "periferico"
+    },
+    {
+        "id": "890",
+        "label": "Ginga Beat RBMA Alumni session",
+        "year": 2017,
+        "month": 3,
+        "workSlug": "ginga-beat-rbma-alumni-session"
+    },
+    {
+        "id": "888",
+        "label": "Boom Radio Release Rui Gato @ Boom festival 2016",
+        "year": 2017,
+        "month": 3,
+        "workSlug": "boom-radio-release-rui-gato-boom-festival-2016"
+    },
+    {
+        "id": "884",
+        "label": "Galeria Kinect Ericeira WSR",
+        "year": 2017,
+        "month": 2,
+        "workSlug": "galeria-kinect-ericeira-wsr"
+    },
+    {
+        "id": "886",
+        "label": "Retorno ao Paraíso @ Palício do Príncipe Real",
+        "year": 2017,
+        "month": 1,
+        "workSlug": "retorno-ao-paraiso-palacio-do-principe-real"
+    },
+    {
+        "id": "882",
+        "label": "MAAT opening",
+        "year": 2016,
+        "month": 10,
+        "workSlug": "maat-opening"
+    },
+    {
+        "id": "880",
+        "label": "Rui Gato @ Boom festival 2016",
+        "year": 2016,
+        "month": 8,
+        "workSlug": "rui-gato-boom-festival-2016"
+    },
+    {
+        "id": "878",
+        "label": "Boom Festival 2016 videomapping",
+        "year": 2016,
+        "month": 8,
+        "workSlug": "boom-festival-2016-videomapping"
+    },
+    {
+        "id": "876",
+        "label": "Retorno ao Paraíso @ Elvas",
+        "year": 2016,
+        "month": 7,
+        "workSlug": "retorno-ao-paraiso-elvas"
+    },
+    {
+        "id": "874",
+        "label": "Torre NOS Primavera Sound v5",
+        "year": 2016,
+        "month": 6,
+        "workSlug": "torre-nos-primavera-sound-v5"
+    },
+    {
+        "id": "872",
+        "label": "Mesa Interactiva Ericeira WSR",
+        "year": 2016,
+        "month": 6,
+        "workSlug": "mesa-interactiva-ericeira-wsr"
+    },
+    {
+        "id": "869",
+        "label": "Resistance",
+        "year": 2016,
+        "month": 5,
+        "workSlug": "resistance"
+    },
+    {
+        "id": "868",
+        "label": "Retorno ao Paraíso @ Ílhavo",
+        "year": 2016,
+        "month": 1,
+        "workSlug": "retorno-ao-paraiso-ilhavo"
+    },
+    {
+        "id": "866",
+        "label": "Blinc",
+        "year": 2015,
+        "month": 10,
+        "workSlug": "blinc"
+    },
+    {
+        "id": "944",
+        "label": "Miragem",
+        "year": 2015,
+        "month": 9,
+        "workSlug": "miragem"
+    },
+    {
+        "id": "942",
+        "label": "Lollapalooza",
+        "year": 2015,
+        "month": 7,
+        "workSlug": "lollapalooza"
+    },
+    {
+        "id": "940",
+        "label": "Torre NOS Primavera Sound v4",
+        "year": 2015,
+        "month": 6,
+        "workSlug": "torre-nos-primavera-sound-v4"
+    },
+    {
+        "id": "938",
+        "label": "How to do things with words #1",
+        "year": 2015,
+        "month": 4,
+        "workSlug": "how-to-do-things-with-words-1"
+    },
+    {
+        "id": "936",
+        "label": "Only Connect II",
+        "year": 2015,
+        "month": 4,
+        "workSlug": "only-connect-ii"
+    },
+    {
+        "id": "934",
+        "label": "Gatos live @ Pecha Kucha Night Lisbon",
+        "year": 2015,
+        "month": 3,
+        "workSlug": "gatos-live-pecha-kucha-night-lisbon"
+    },
+    {
+        "id": "932",
+        "label": "Boom Radio Release Rui Gato @ Boom festival 2014",
+        "year": 2014,
+        "month": 12,
+        "workSlug": "boom-radio-release-rui-gato-boom-festival-2014"
+    },
+    {
+        "id": "930",
+        "label": "Rui Gato @ Boom festival 2014",
+        "year": 2014,
+        "month": 8,
+        "workSlug": "rui-gato-boom-festival-2014"
+    },
+    {
+        "id": "928",
+        "label": "Boom Digital Mandalas",
+        "year": 2014,
+        "month": 8,
+        "workSlug": "boom-digital-mandalas"
+    },
+    {
+        "id": "926",
+        "label": "Torre NOS Primavera Sound v3",
+        "year": 2014,
+        "month": 6,
+        "workSlug": "torre-nos-primavera-sound-v3"
+    },
+    {
+        "id": "924",
+        "label": "Gatos live @ bar A Barraca",
+        "year": 2014,
+        "month": 4,
+        "workSlug": "gatos-live-bar-a-barraca"
+    },
+    {
+        "id": "922",
+        "label": "Centro Interpretativo Companhia das Lezírias",
+        "year": 2013,
+        "month": 10,
+        "workSlug": "centro-interpretativo-companhia-das-lezirias"
+    },
+    {
+        "id": "920",
+        "label": "Inauguração C.I. Tapete de Arraiolos",
+        "year": 2013,
+        "month": 8,
+        "workSlug": "inauguracao-c-i-tapete-de-arraiolos"
+    },
+    {
+        "id": "918",
+        "label": "Gatos live @ Aogosto",
+        "year": 2013,
+        "month": 8,
+        "workSlug": "gatos-live-aogosto"
+    },
+    {
+        "id": "916",
+        "label": "Santas de Roca",
+        "year": 2013,
+        "month": 6,
+        "workSlug": "santas-de-roca"
+    },
+    {
+        "id": "914",
+        "label": "Torre Optimus Primavera Sound v2",
+        "year": 2013,
+        "month": 5,
+        "workSlug": "torre-optimus-primavera-sound-v2"
+    },
+    {
+        "id": "912",
+        "label": "Festival IN warmup",
+        "year": 2013,
+        "month": 5,
+        "workSlug": "festival-in-warmup"
+    },
+    {
+        "id": "908",
+        "label": "As Barcas @ Aveiro",
+        "year": 2013,
+        "month": 4,
+        "workSlug": "as-barcas-aveiro"
+    },
+    {
+        "id": "910",
+        "label": "As Barcas @ SESC Consolação",
+        "year": 2013,
+        "month": 4,
+        "workSlug": "as-barcas-sesc-consolacao"
+    },
+    {
+        "id": "906",
+        "label": "As Barcas @ Rio De Janeiro",
+        "year": 2013,
+        "month": 3,
+        "workSlug": "as-barcas-rio-de-janeiro"
+    },
+    {
+        "id": "1064",
+        "label": "Pureza",
+        "year": 2012,
+        "month": 11,
+        "workSlug": "pureza"
+    },
+    {
+        "id": "1062",
+        "label": "As Barcas @ Dresden",
+        "year": 2012,
+        "month": 11,
+        "workSlug": "as-barcas-dresden"
+    },
+    {
+        "id": "1060",
+        "label": "Quatuor pour la fin du temps",
+        "year": 2012,
+        "month": 11,
+        "workSlug": "quatuor-pour-la-fin-du-temps"
+    },
+    {
+        "id": "1057",
+        "label": "As Barcas @ Bilbau",
+        "year": 2012,
+        "month": 11,
+        "workSlug": "as-barcas-bilbau"
+    },
+    {
+        "id": "1056",
+        "label": "Lilith",
+        "year": 2012,
+        "month": 10,
+        "workSlug": "lilith"
+    },
+    {
+        "id": "1053",
+        "label": "As Barcas @ Valência",
+        "year": 2012,
+        "month": 9,
+        "workSlug": "as-barcas-valencia"
+    },
+    {
+        "id": "1052",
+        "label": "Canal Q refresh",
+        "year": 2012,
+        "month": 9,
+        "workSlug": "canal-q-refresh"
+    },
+    {
+        "id": "1050",
+        "label": "Romeu e Julieta @ Ediburgh Fringe Festival",
+        "year": 2012,
+        "month": 8,
+        "workSlug": "romeu-e-julieta-ediburgh-fringe-festival"
+    },
+    {
+        "id": "1048",
+        "label": "As Barcas @ Teatro Cine Torres Vedras",
+        "year": 2012,
+        "month": 6,
+        "workSlug": "as-barcas-teatro-cine-torres-vedras"
+    },
+    {
+        "id": "1046",
+        "label": "Torre Optimus Primavera Sound v1",
+        "year": 2012,
+        "month": 6,
+        "workSlug": "torre-optimus-primavera-sound-v1"
+    },
+    {
+        "id": "1042",
+        "label": "As Barcas @ CCVF",
+        "year": 2012,
+        "month": 6,
+        "workSlug": "as-barcas-ccvf"
+    },
+    {
+        "id": "1043",
+        "label": "Romeu e Julieta @ Guarda",
+        "year": 2012,
+        "month": 5,
+        "workSlug": "romeu-e-julieta-guarda"
+    },
+    {
+        "id": "1040",
+        "label": "Only Connect I",
+        "year": 2012,
+        "month": 5,
+        "workSlug": "only-connect-i"
+    },
+    {
+        "id": "1038",
+        "label": "Romeu e Julieta @ Coimbra",
+        "year": 2012,
+        "month": 4,
+        "workSlug": "romeu-e-julieta-coimbra"
+    },
+    {
+        "id": "1036",
+        "label": "Romeu e Julieta @ Torres Novas",
+        "year": 2012,
+        "month": 4,
+        "workSlug": "romeu-e-julieta-torres-novas"
+    },
+    {
+        "id": "1034",
+        "label": "Romeu e Julieta @ Bombarral",
+        "year": 2012,
+        "month": 3,
+        "workSlug": "romeu-e-julieta-bombarral"
+    },
+    {
+        "id": "1032",
+        "label": "Romeu e Julieta @ CCCR",
+        "year": 2012,
+        "month": 3,
+        "workSlug": "romeu-e-julieta-cccr"
+    },
+    {
+        "id": "1030",
+        "label": "Romeu e Julieta @ Felgueiras",
+        "year": 2012,
+        "month": 3,
+        "workSlug": "romeu-e-julieta-felgueiras"
+    },
+    {
+        "id": "1028",
+        "label": "Romeu e Julieta @ Teatro Cine Torres Vedras",
+        "year": 2012,
+        "month": 2,
+        "workSlug": "romeu-e-julieta-teatro-cine-torres-vedras"
+    },
+    {
+        "id": "1026",
+        "label": "Metatron",
+        "year": 2012,
+        "month": 2,
+        "workSlug": "metatron"
+    },
+    {
+        "id": "1024",
+        "label": "Casa Moreira",
+        "year": 2011,
+        "month": 12,
+        "workSlug": "casa-moreira"
+    },
+    {
+        "id": "1022",
+        "label": "O Filho da Europa @ Barcelona",
+        "year": 2011,
+        "month": 10,
+        "workSlug": "o-filho-da-europa-barcelona"
+    },
+    {
+        "id": "1020",
+        "label": "Romeu e Julieta @ Espaço do Urso e dos Anjos",
+        "year": 2011,
+        "month": 10,
+        "workSlug": "romeu-e-julieta-espaco-do-urso-e-dos-anjos"
+    },
+    {
+        "id": "1018",
+        "label": "ANTENNA",
+        "year": 2011,
+        "month": 9,
+        "workSlug": "antenna"
+    },
+    {
+        "id": "1016",
+        "label": "Mãe Coragem @ Felgueiras",
+        "year": 2011,
+        "month": 9,
+        "workSlug": "mae-coragem-felgueiras"
+    },
+    {
+        "id": "1013",
+        "label": "EXD'11",
+        "year": 2011,
+        "month": 8,
+        "workSlug": "exd11"
+    },
+    {
+        "id": "1012",
+        "label": "Panda Cozinha nas escolas",
+        "year": 2011,
+        "month": 8,
+        "workSlug": "panda-cozinha-nas-escolas"
+    },
+    {
+        "id": "1010",
+        "label": "O Filho da Europa @ Setúbal",
+        "year": 2011,
+        "month": 8,
+        "workSlug": "o-filho-da-europa-setubal"
+    },
+    {
+        "id": "1008",
+        "label": "Panda Viagens",
+        "year": 2011,
+        "month": 7,
+        "workSlug": "panda-viagens"
+    },
+    {
+        "id": "1006",
+        "label": "Tone Scientists + Guests",
+        "year": 2011,
+        "month": 6,
+        "workSlug": "tone-scientists-guests"
+    },
+    {
+        "id": "1004",
+        "label": "O Filho da Europa @ Montemor-o-Novo",
+        "year": 2011,
+        "month": 6,
+        "workSlug": "o-filho-da-europa-montemor-o-novo"
+    },
+    {
+        "id": "1002",
+        "label": "O Filho da Europa @ Centro Cultural Vila Flor",
+        "year": 2011,
+        "month": 6,
+        "workSlug": "o-filho-da-europa-centro-cultural-vila-flor"
+    },
+    {
+        "id": "999",
+        "label": "BiggTrip",
+        "year": 2011,
+        "month": 5,
+        "workSlug": "biggtrip"
+    },
+    {
+        "id": "998",
+        "label": "Rainlith 2.0",
+        "year": 2011,
+        "month": 5,
+        "workSlug": "rainlith-2-0"
+    },
+    {
+        "id": "996",
+        "label": "Vestígios",
+        "year": 2011,
+        "month": 5,
+        "workSlug": "vestigios"
+    },
+    {
+        "id": "994",
+        "label": "ACP",
+        "year": 2011,
+        "month": 4,
+        "workSlug": "acp"
+    },
+    {
+        "id": "992",
+        "label": "O Filho da Europa @ Teatro Cine Torres Vedras",
+        "year": 2011,
+        "month": 4,
+        "workSlug": "o-filho-da-europa-teatro-cine-torres-vedras"
+    },
+    {
+        "id": "990",
+        "label": "O Filho da Europa @ Culturgest",
+        "year": 2011,
+        "month": 4,
+        "workSlug": "o-filho-da-europa-culturgest"
+    },
+    {
+        "id": "988",
+        "label": "Mãe Coragem @ Puertollano",
+        "year": 2011,
+        "month": 4,
+        "workSlug": "mae-coragem-puertollano"
+    },
+    {
+        "id": "986",
+        "label": "Colquímica",
+        "year": 2011,
+        "month": 3,
+        "workSlug": "colquimica"
+    },
+    {
+        "id": "984",
+        "label": "instalação a partir de O Filho da Europa",
+        "year": 2011,
+        "month": 2,
+        "workSlug": "instalacao-a-partir-de-o-filho-da-europa"
+    },
+    {
+        "id": "982",
+        "label": "Mãe Coragem @ Teatro Cine Torres Vedras",
+        "year": 2011,
+        "month": 2,
+        "workSlug": "mae-coragem-teatro-cine-torres-vedras"
+    },
+    {
+        "id": "980",
+        "label": "Beam Drop EP",
+        "year": 2011,
+        "month": 1,
+        "workSlug": "beam-drop-ep"
+    },
+    {
+        "id": "978",
+        "label": "Mãe Coragem @ CCB",
+        "year": 2011,
+        "month": 1,
+        "workSlug": "mae-coragem-ccb"
+    },
+    {
+        "id": "976",
+        "label": "seminário Desenho de Som",
+        "year": 2010,
+        "month": 12,
+        "workSlug": "seminario-desenho-de-som"
+    },
+    {
+        "id": "974",
+        "label": "Line Invaders",
+        "year": 2010,
+        "month": 11,
+        "workSlug": "line-invaders"
+    },
+    {
+        "id": "972",
+        "label": "Novus Mercatus",
+        "year": 2010,
+        "month": 9,
+        "workSlug": "novus-mercatus"
+    },
+    {
+        "id": "970",
+        "label": "Canal Q imagem",
+        "year": 2010,
+        "month": 9,
+        "workSlug": "canal-q-imagem"
+    },
+    {
+        "id": "966",
+        "label": "paixões - riberalves",
+        "year": 2010,
+        "month": 8,
+        "workSlug": "paixoes-riberalves"
+    },
+    {
+        "id": "967",
+        "label": "jí sei cozinhar",
+        "year": 2010,
+        "month": 7,
+        "workSlug": "ja-sei-cozinhar"
+    },
+    {
+        "id": "964",
+        "label": "história do brinquedo",
+        "year": 2010,
+        "month": 6,
+        "workSlug": "historia-do-brinquedo"
+    },
+    {
+        "id": "962",
+        "label": "O Filho da Europa @ TECA",
+        "year": 2010,
+        "month": 6,
+        "workSlug": "o-filho-da-europa-teca"
+    },
+    {
+        "id": "960",
+        "label": "geração Net",
+        "year": 2010,
+        "month": 5,
+        "workSlug": "geracao-net"
+    },
+    {
+        "id": "958",
+        "label": "brincka",
+        "year": 2010,
+        "month": 4,
+        "workSlug": "brincka"
+    },
+    {
+        "id": "956",
+        "label": "Boys just wanna have fun",
+        "year": 2010,
+        "month": 3,
+        "workSlug": "boys-just-wanna-have-fun"
+    },
+    {
+        "id": "954",
+        "label": "Boarding Pass",
+        "year": 2010,
+        "month": 2,
+        "workSlug": "boarding-pass"
+    },
+    {
+        "id": "952",
+        "label": "BiggStar",
+        "year": 2010,
+        "month": 1,
+        "workSlug": "biggstar"
+    },
+    {
+        "id": "950",
+        "label": "8mm",
+        "year": 2010,
+        "month": 1,
+        "workSlug": "8mm"
+    },
+    {
+        "id": "948",
+        "label": "Rainlith 1.0",
+        "year": 2009,
+        "month": 12,
+        "workSlug": "rainlith-1-0"
+    },
+    {
+        "id": "946",
+        "label": "O Banqueiro Anarquista",
+        "year": 2009,
+        "month": 12,
+        "workSlug": "o-banqueiro-anarquista"
+    },
+    {
+        "id": "1164",
+        "label": "Paradise Found",
+        "year": 2009,
+        "month": 12,
+        "workSlug": "paradise-found"
+    },
+    {
+        "id": "1162",
+        "label": "Art Algarve",
+        "year": 2009,
+        "month": 11,
+        "workSlug": "art-algarve"
+    },
+    {
+        "id": "1160",
+        "label": "Stretch 2.0",
+        "year": 2009,
+        "month": 11,
+        "workSlug": "stretch-2-0"
+    },
+    {
+        "id": "1157",
+        "label": "Casas com história",
+        "year": 2009,
+        "month": 11,
+        "workSlug": "casas-com-historia"
+    },
+    {
+        "id": "1156",
+        "label": "Red Bull House of Art São Paulo 2009",
+        "year": 2009,
+        "month": 10,
+        "workSlug": "red-bull-house-of-art-sao-paulo-2009"
+    },
+    {
+        "id": "1154",
+        "label": "fio da meada",
+        "year": 2009,
+        "month": 10,
+        "workSlug": "fio-da-meada"
+    },
+    {
+        "id": "1152",
+        "label": "Jardim de Santos",
+        "year": 2009,
+        "month": 10,
+        "workSlug": "jardim-de-santos"
+    },
+    {
+        "id": "1150",
+        "label": "Escola Profissional de Aveiro",
+        "year": 2009,
+        "month": 10,
+        "workSlug": "escola-profissional-de-aveiro"
+    },
+    {
+        "id": "1146",
+        "label": "Sangue - Estudos de Antígona",
+        "year": 2009,
+        "month": 9,
+        "workSlug": "sangue-estudos-de-antigona"
+    },
+    {
+        "id": "1147",
+        "label": "EXD'09",
+        "year": 2009,
+        "month": 9,
+        "workSlug": "exd09"
+    },
+    {
+        "id": "1144",
+        "label": "quem quer ganha",
+        "year": 2009,
+        "month": 9,
+        "workSlug": "quem-quer-ganha"
+    },
+    {
+        "id": "1142",
+        "label": "JGM Residência Artística",
+        "year": 2009,
+        "month": 8,
+        "workSlug": "jgm-residencia-artistica"
+    },
+    {
+        "id": "1140",
+        "label": "Limbo",
+        "year": 2009,
+        "month": 7,
+        "workSlug": "limbo"
+    },
+    {
+        "id": "1138",
+        "label": "plat|::|form @ CCB",
+        "year": 2009,
+        "month": 7,
+        "workSlug": "platform-ccb"
+    },
+    {
+        "id": "1136",
+        "label": "stand riberalves - novo dia",
+        "year": 2009,
+        "month": 7,
+        "workSlug": "stand-riberalves-novo-dia"
+    },
+    {
+        "id": "1134",
+        "label": "Gabinete de Apoio às Empresas",
+        "year": 2009,
+        "month": 6,
+        "workSlug": "gabinete-de-apoio-as-empresas"
+    },
+    {
+        "id": "1130",
+        "label": "fórum social intermunicipal",
+        "year": 2009,
+        "month": 5,
+        "workSlug": "forum-social-intermunicipal"
+    },
+    {
+        "id": "1131",
+        "label": "Camilo, o presidente",
+        "year": 2009,
+        "month": 4,
+        "workSlug": "camilo-o-presidente"
+    },
+    {
+        "id": "1128",
+        "label": "plat|::|form @ Lourinhã",
+        "year": 2009,
+        "month": 3,
+        "workSlug": "platform-lourinha"
+    },
+    {
+        "id": "1126",
+        "label": "apanha-me se puderes",
+        "year": 2009,
+        "month": 3,
+        "workSlug": "apanha-me-se-puderes"
+    },
+    {
+        "id": "1122",
+        "label": "action for age",
+        "year": 2009,
+        "month": 2,
+        "workSlug": "action-for-age"
+    },
+    {
+        "id": "1120",
+        "label": "Sempre a somar",
+        "year": 2008,
+        "month": 12,
+        "workSlug": "sempre-a-somar"
+    },
+    {
+        "id": "1124",
+        "label": "Carnaval de Torres Vedras",
+        "year": 2008,
+        "month": 11,
+        "workSlug": "carnaval-de-torres-vedras"
+    },
+    {
+        "id": "1118",
+        "label": "Bravo",
+        "year": 2008,
+        "month": 10,
+        "workSlug": "bravo"
+    },
+    {
+        "id": "1116",
+        "label": "Deutsche Bank",
+        "year": 2008,
+        "month": 10,
+        "workSlug": "deutsche-bank"
+    },
+    {
+        "id": "1114",
+        "label": "plat|::|form @ Paços do Concelho TV",
+        "year": 2008,
+        "month": 9,
+        "workSlug": "platform-pacos-do-concelho-tv"
+    },
+    {
+        "id": "1112",
+        "label": "Ao Sol",
+        "year": 2008,
+        "month": 9,
+        "workSlug": "ao-sol"
+    },
+    {
+        "id": "1110",
+        "label": "Anjo da Guarda",
+        "year": 2008,
+        "month": 8,
+        "workSlug": "anjo-da-guarda"
+    },
+    {
+        "id": "1108",
+        "label": "A minha Geração",
+        "year": 2008,
+        "month": 7,
+        "workSlug": "a-minha-geracao"
+    },
+    {
+        "id": "1106",
+        "label": "Stretch",
+        "year": 2008,
+        "month": 6,
+        "workSlug": "stretch"
+    },
+    {
+        "id": "1104",
+        "label": "plat|::|form - Templates",
+        "year": 2008,
+        "month": 6,
+        "workSlug": "platform-templates"
+    },
+    {
+        "id": "1102",
+        "label": "plat|::|form @ Festival Territorios Sevilla",
+        "year": 2008,
+        "month": 6,
+        "workSlug": "platform-festival-territorios-sevilla"
+    },
+    {
+        "id": "1100",
+        "label": "à procura de Sally",
+        "year": 2008,
+        "month": 5,
+        "workSlug": "a-procura-de-sally"
+    },
+    {
+        "id": "1098",
+        "label": "stop residuos",
+        "year": 2008,
+        "month": 4,
+        "workSlug": "stop-residuos"
+    },
+    {
+        "id": "1096",
+        "label": "plat|::|form @ Proxeto Edicíon",
+        "year": 2008,
+        "month": 4,
+        "workSlug": "platform-proxeto-edicion"
+    },
+    {
+        "id": "1094",
+        "label": "revolução",
+        "year": 2008,
+        "month": 3,
+        "workSlug": "revolucao"
+    },
+    {
+        "id": "1092",
+        "label": "Quatuor pour la fin du temps",
+        "year": 2008,
+        "month": 2,
+        "workSlug": "quatuor-pour-la-fin-du-temps-2"
+    },
+    {
+        "id": "1088",
+        "label": "Dreen",
+        "year": 2007,
+        "month": 12,
+        "workSlug": "dreen"
+    },
+    {
+        "id": "1086",
+        "label": "5 Cities Project",
+        "year": 2007,
+        "month": 8,
+        "workSlug": "5-cities-project"
+    },
+    {
+        "id": "1089",
+        "label": "Sal",
+        "year": 2007,
+        "month": 7,
+        "workSlug": "sal"
+    },
+    {
+        "id": "1082",
+        "label": "Clubbing 2",
+        "year": 2007,
+        "month": 6,
+        "workSlug": "clubbing-2"
+    },
+    {
+        "id": "1084",
+        "label": "Clubbing 1",
+        "year": 2007,
+        "month": 5,
+        "workSlug": "clubbing-1"
+    },
+    {
+        "id": "1080",
+        "label": "Outersites IIII",
+        "year": 2007,
+        "month": 4,
+        "workSlug": "outersites-iiii-2"
+    },
+    {
+        "id": "1078",
+        "label": "Os Franceses vêm aí!",
+        "year": 2007,
+        "month": 4,
+        "workSlug": "os-franceses-vem-ai"
+    },
+    {
+        "id": "1076",
+        "label": "atelier Daciano da Costa",
+        "year": 2007,
+        "month": 3,
+        "workSlug": "atelier-daciano-da-costa"
+    },
+    {
+        "id": "1074",
+        "label": "aniversírio Casa da Música",
+        "year": 2007,
+        "month": 2,
+        "workSlug": "aniversario-casa-da-musica"
+    },
+    {
+        "id": "1072",
+        "label": "Picasso",
+        "year": 2006,
+        "month": 9,
+        "workSlug": "picasso"
+    },
+    {
+        "id": "1070",
+        "label": "O Píssaro de Papel",
+        "year": 2006,
+        "month": 4,
+        "workSlug": "o-passaro-de-papel"
+    },
+    {
+        "id": "1068",
+        "label": "Outersites IIII",
+        "year": 2006,
+        "month": 1,
+        "workSlug": "outersites-iiii"
+    },
+    {
+        "id": "1066",
+        "label": "Fórum Mundial da água",
+        "year": 2005,
+        "month": 12,
+        "workSlug": "forum-mundial-da-agua"
+    },
+    {
+        "id": "1264",
+        "label": "(d)o outro lado",
+        "year": 2005,
+        "month": 10,
+        "workSlug": "do-outro-lado"
+    },
+    {
+        "id": "1262",
+        "label": "Transit",
+        "year": 2005,
+        "month": 9,
+        "workSlug": "transit"
+    },
+    {
+        "id": "1260",
+        "label": "Ringtones Vodafone",
+        "year": 2005,
+        "month": 9,
+        "workSlug": "ringtones-vodafone"
+    },
+    {
+        "id": "1258",
+        "label": "Zau",
+        "year": 2005,
+        "month": 7,
+        "workSlug": "zau"
+    },
+    {
+        "id": "1256",
+        "label": "CD colectivo Portugal: A new Sound Portrait",
+        "year": 2005,
+        "month": 6,
+        "workSlug": "cd-colectivo-portugal-a-new-sound-portrait"
+    },
+    {
+        "id": "1254",
+        "label": "Outersites III @ Sónar",
+        "year": 2005,
+        "month": 6,
+        "workSlug": "outersites-iii-sonar"
+    },
+    {
+        "id": "1252",
+        "label": "Outersites III @ ZdB",
+        "year": 2005,
+        "month": 6,
+        "workSlug": "outersites-iii-zdb-2"
+    },
+    {
+        "id": "1250",
+        "label": "Jeff Mills",
+        "year": 2005,
+        "month": 5,
+        "workSlug": "jeff-mills"
+    },
+    {
+        "id": "1248",
+        "label": "Outersites III @ BRG 2005",
+        "year": 2005,
+        "month": 5,
+        "workSlug": "outersites-iii-brg-2005"
+    },
+    {
+        "id": "1246",
+        "label": "Outersites III @ Teatro Cine Torres Vedras",
+        "year": 2005,
+        "month": 5,
+        "workSlug": "outersites-iii-teatro-cine-torres-vedras"
+    },
+    {
+        "id": "1244",
+        "label": "Carnaval de Verão 2005",
+        "year": 2005,
+        "month": 4,
+        "workSlug": "carnaval-de-verao-2005"
+    },
+    {
+        "id": "1242",
+        "label": "Transit EP",
+        "year": 2005,
+        "month": 3,
+        "workSlug": "transit-ep"
+    },
+    {
+        "id": "1240",
+        "label": "Festas da Cidade Torres Vedras",
+        "year": 2005,
+        "month": 2,
+        "workSlug": "festas-da-cidade-torres-vedras"
+    },
+    {
+        "id": "1238",
+        "label": "Chaosmos EP",
+        "year": 2005,
+        "month": 1,
+        "workSlug": "chaosmos-ep"
+    },
+    {
+        "id": "1236",
+        "label": "Masterclass Daz I Kue",
+        "year": 2004,
+        "month": 11,
+        "workSlug": "masterclass-daz-i-kue"
+    },
+    {
+        "id": "1234",
+        "label": "Outersites III @ CCCTV",
+        "year": 2004,
+        "month": 11,
+        "workSlug": "outersites-iii-ccctv"
+    },
+    {
+        "id": "1232",
+        "label": "Outersites III @ ZdB",
+        "year": 2004,
+        "month": 9,
+        "workSlug": "outersites-iii-zdb"
+    },
+    {
+        "id": "1230",
+        "label": "Caixa Geral de Depósitos",
+        "year": 2004,
+        "month": 6,
+        "workSlug": "caixa-geral-de-depositos"
+    },
+    {
+        "id": "1228",
+        "label": "Limbo",
+        "year": 2004,
+        "month": 6,
+        "workSlug": "limbo-2"
+    },
+    {
+        "id": "1226",
+        "label": "Outersites III @ Serralves",
+        "year": 2004,
+        "month": 6,
+        "workSlug": "outersites-iii-serralves"
+    },
+    {
+        "id": "1224",
+        "label": "Festival Realidades Invisíveis",
+        "year": 2004,
+        "month": 5,
+        "workSlug": "festival-realidades-invisiveis"
+    },
+    {
+        "id": "1222",
+        "label": "Festival Realidades Invisíveis Spot",
+        "year": 2004,
+        "month": 5,
+        "workSlug": "festival-realidades-invisiveis-spot"
+    },
+    {
+        "id": "1220",
+        "label": "Bastidores das Marchas de Lisboa",
+        "year": 2004,
+        "month": 3,
+        "workSlug": "bastidores-das-marchas-de-lisboa"
+    },
+    {
+        "id": "1218",
+        "label": "Carnaval de Verão 2004",
+        "year": 2004,
+        "month": 2,
+        "workSlug": "carnaval-de-verao-2004"
+    },
+    {
+        "id": "1215",
+        "label": "RBMA Portugal Cape Town CD",
+        "year": 2004,
+        "month": 2,
+        "workSlug": "rbma-portugal-cape-town-cd"
+    },
+    {
+        "id": "1214",
+        "label": "Playground Records Compilation",
+        "year": 2004,
+        "month": 2,
+        "workSlug": "playground-records-compilation"
+    },
+    {
+        "id": "1212",
+        "label": "Voyager Magazine",
+        "year": 2004,
+        "month": 1,
+        "workSlug": "voyager-magazine"
+    },
+    {
+        "id": "1210",
+        "label": "Simpletone - Bor Land Compilation",
+        "year": 2004,
+        "month": 1,
+        "workSlug": "simpletone-bor-land-compilation"
+    },
+    {
+        "id": "1206",
+        "label": "Dia Santo",
+        "year": 2003,
+        "month": 12,
+        "workSlug": "dia-santo"
+    },
+    {
+        "id": "1207",
+        "label": "Outersites II @ radio Spectrum FM",
+        "year": 2003,
+        "month": 12,
+        "workSlug": "outersites-ii-radio-spectrum-fm"
+    },
+    {
+        "id": "1204",
+        "label": "3 Ugly Ducks @ Sutra Club",
+        "year": 2003,
+        "month": 12,
+        "workSlug": "3-ugly-ducks-sutra-club"
+    },
+    {
+        "id": "1202",
+        "label": "Red Bull Music Academy Cape Town",
+        "year": 2003,
+        "month": 11,
+        "workSlug": "red-bull-music-academy-cape-town"
+    },
+    {
+        "id": "1200",
+        "label": "Invisible Reality",
+        "year": 2003,
+        "month": 10,
+        "workSlug": "invisible-reality"
+    },
+    {
+        "id": "1198",
+        "label": "Voyager 03",
+        "year": 2003,
+        "month": 9,
+        "workSlug": "voyager-03"
+    },
+    {
+        "id": "1196",
+        "label": "plat|::|form @ Superpanorama",
+        "year": 2003,
+        "month": 9,
+        "workSlug": "platform-superpanorama"
+    },
+    {
+        "id": "1194",
+        "label": "EXD 03",
+        "year": 2003,
+        "month": 9,
+        "workSlug": "exd-03"
+    },
+    {
+        "id": "1192",
+        "label": "plat|::|form @ Santa Bar",
+        "year": 2003,
+        "month": 8,
+        "workSlug": "platform-santa-bar"
+    },
+    {
+        "id": "1190",
+        "label": "plat|::|form @ Frescuras",
+        "year": 2003,
+        "month": 8,
+        "workSlug": "platform-frescuras"
+    },
+    {
+        "id": "1188",
+        "label": "Innova'03",
+        "year": 2003,
+        "month": 7,
+        "workSlug": "innova03"
+    },
+    {
+        "id": "1186",
+        "label": "plat|::|form @ Píteo da Música",
+        "year": 2003,
+        "month": 6,
+        "workSlug": "platform-pateo-da-musica"
+    },
+    {
+        "id": "1184",
+        "label": "O Jogo",
+        "year": 2003,
+        "month": 6,
+        "workSlug": "o-jogo"
+    },
+    {
+        "id": "1182",
+        "label": "Chaosmos",
+        "year": 2003,
+        "month": 5,
+        "workSlug": "chaosmos"
+    },
+    {
+        "id": "1180",
+        "label": "Silos Automóveis de Lisboa",
+        "year": 2003,
+        "month": 3,
+        "workSlug": "silos-automoveis-de-lisboa"
+    },
+    {
+        "id": "1178",
+        "label": "plat|::|form @ Lounge Bar",
+        "year": 2003,
+        "month": 2,
+        "workSlug": "platform-lounge-bar"
+    },
+    {
+        "id": "1176",
+        "label": "Saulo",
+        "year": 2003,
+        "month": 1,
+        "workSlug": "saulo"
+    },
+    {
+        "id": "1174",
+        "label": "plat|::|form @ ZdB",
+        "year": 2002,
+        "month": 12,
+        "workSlug": "platform-zdb"
+    },
+    {
+        "id": "1170",
+        "label": "plat|::|form @ Frígil",
+        "year": 2002,
+        "month": 12,
+        "workSlug": "platform-fragil"
+    },
+    {
+        "id": "1171",
+        "label": "Elastic Void",
+        "year": 2002,
+        "month": 11,
+        "workSlug": "elastic-void"
+    },
+    {
+        "id": "1168",
+        "label": "plat|::|form @ ESTGAD",
+        "year": 2002,
+        "month": 11,
+        "workSlug": "platform-estgad"
+    },
+    {
+        "id": "1166",
+        "label": "plat|::|form @ King Size",
+        "year": 2002,
+        "month": 11,
+        "workSlug": "platform-king-size"
+    },
+    {
+        "id": "1338",
+        "label": "plat|::|form @ Guarda",
+        "year": 2002,
+        "month": 10,
+        "workSlug": "platform-guarda"
+    },
+    {
+        "id": "1336",
+        "label": "Outersites II @ Vyrus Yorn Shopping",
+        "year": 2002,
+        "month": 10,
+        "workSlug": "outersites-ii-vyrus-yorn-shopping"
+    },
+    {
+        "id": "1334",
+        "label": "Outersites II @ Alcantara Club",
+        "year": 2002,
+        "month": 10,
+        "workSlug": "outersites-ii-alcantara-club"
+    },
+    {
+        "id": "1332",
+        "label": "Elastic Void @ Convento dels Angels",
+        "year": 2002,
+        "month": 9,
+        "workSlug": "elastic-void-convento-dels-angels"
+    },
+    {
+        "id": "1330",
+        "label": "Outersites II @ Boom Festival 2002",
+        "year": 2002,
+        "month": 8,
+        "workSlug": "outersites-ii-boom-festival-2002"
+    },
+    {
+        "id": "1326",
+        "label": "monocromatica radio spots",
+        "year": 2002,
+        "month": 8,
+        "workSlug": "monocromatica-radio-spots"
+    },
+    {
+        "id": "1328",
+        "label": "Outersites II @ Op Art",
+        "year": 2002,
+        "month": 6,
+        "workSlug": "outersites-ii-op-art-2"
+    },
+    {
+        "id": "1324",
+        "label": "Outersites II @ Frescuras",
+        "year": 2002,
+        "month": 6,
+        "workSlug": "outersites-ii-frescuras"
+    },
+    {
+        "id": "1322",
+        "label": "Dressing Room",
+        "year": 2002,
+        "month": 6,
+        "workSlug": "dressing-room"
+    },
+    {
+        "id": "1320",
+        "label": "Outersites II @ Maus Híbitos",
+        "year": 2002,
+        "month": 5,
+        "workSlug": "outersites-ii-maus-habitos"
+    },
+    {
+        "id": "1318",
+        "label": "Academia de Estrelas",
+        "year": 2002,
+        "month": 5,
+        "workSlug": "academia-de-estrelas"
+    },
+    {
+        "id": "1316",
+        "label": "Outersites II @ FNAC Chiado",
+        "year": 2002,
+        "month": 4,
+        "workSlug": "outersites-ii-fnac-chiado"
+    },
+    {
+        "id": "1314",
+        "label": "Outersites II @ S.H.E.",
+        "year": 2002,
+        "month": 4,
+        "workSlug": "outersites-ii-s-h-e"
+    },
+    {
+        "id": "1312",
+        "label": "Outersites II @ Op Art",
+        "year": 2002,
+        "month": 3,
+        "workSlug": "outersites-ii-op-art"
+    },
+    {
+        "id": "1308",
+        "label": "Outersites II @ FNAC Colombo",
+        "year": 2002,
+        "month": 3,
+        "workSlug": "outersites-ii-fnac-colombo"
+    },
+    {
+        "id": "1309",
+        "label": "Outersites II @ Santa Casa",
+        "year": 2002,
+        "month": 3,
+        "workSlug": "outersites-ii-santa-casa"
+    },
+    {
+        "id": "1306",
+        "label": "Volun",
+        "year": 2002,
+        "month": 2,
+        "workSlug": "volun"
+    },
+    {
+        "id": "1304",
+        "label": "Pensão de Sangue",
+        "year": 2002,
+        "month": 1,
+        "workSlug": "pensao-de-sangue"
+    },
+    {
+        "id": "1302",
+        "label": "Monitoring Space Invaders",
+        "year": 2001,
+        "month": 12,
+        "workSlug": "monitoring-space-invaders"
+    },
+    {
+        "id": "1300",
+        "label": "Stop Motion",
+        "year": 2001,
+        "month": 10,
+        "workSlug": "stop-motion"
+    },
+    {
+        "id": "1298",
+        "label": "Voyager Red Module",
+        "year": 2001,
+        "month": 10,
+        "workSlug": "voyager-red-module"
+    },
+    {
+        "id": "1296",
+        "label": "Voyager Blue Module",
+        "year": 2001,
+        "month": 10,
+        "workSlug": "voyager-blue-module"
+    },
+    {
+        "id": "1294",
+        "label": "Berlindes",
+        "year": 2001,
+        "month": 9,
+        "workSlug": "berlindes"
+    },
+    {
+        "id": "1292",
+        "label": "EXD Magazine",
+        "year": 2001,
+        "month": 8,
+        "workSlug": "exd-magazine"
+    },
+    {
+        "id": "1290",
+        "label": "Serviço Público",
+        "year": 2001,
+        "month": 8,
+        "workSlug": "servico-publico"
+    },
+    {
+        "id": "1286",
+        "label": "a Blues",
+        "year": 2001,
+        "month": 7,
+        "workSlug": "a-blues-2"
+    },
+    {
+        "id": "1288",
+        "label": "Outersites I @ ZdB",
+        "year": 2001,
+        "month": 7,
+        "workSlug": "outersites-i-2"
+    },
+    {
+        "id": "1284",
+        "label": "a Blues",
+        "year": 2001,
+        "month": 6,
+        "workSlug": "a-blues"
+    },
+    {
+        "id": "1282",
+        "label": "Outersites I",
+        "year": 2001,
+        "month": 6,
+        "workSlug": "outersites-i"
+    },
+    {
+        "id": "1278",
+        "label": "Voyager Exhibition Soundtrack",
+        "year": 2001,
+        "month": 6,
+        "workSlug": "voyager-exhibition-soundtrack"
+    },
+    {
+        "id": "1280",
+        "label": "Random Process of Creating Young Men",
+        "year": 2001,
+        "month": 3,
+        "workSlug": "random-process-of-creating-young-men"
+    },
+    {
+        "id": "1276",
+        "label": "Live act Elastic Void",
+        "year": 2000,
+        "month": 11,
+        "workSlug": "live-act-elastic-void"
+    },
+    {
+        "id": "1274",
+        "label": "Houseware 2000",
+        "year": 2000,
+        "month": 10,
+        "workSlug": "houseware-2000"
+    },
+    {
+        "id": "1272",
+        "label": "Loja do Cidadão",
+        "year": 2000,
+        "month": 9,
+        "workSlug": "loja-do-cidadao"
+    },
+    {
+        "id": "1270",
+        "label": "HLMRPHSS",
+        "year": 2000,
+        "month": 6,
+        "workSlug": "hlmrphss"
+    },
+    {
+        "id": "1268",
+        "label": "Enceguecer",
+        "year": 1998,
+        "month": 7,
+        "workSlug": "enceguecer"
+    },
+    {
+        "id": "1266",
+        "label": "Live act exposição pintura de Rui Matoso",
+        "year": 1996,
+        "month": 10,
+        "workSlug": "live-act-exposicao-pintura-de-rui-matoso"
+    }
+]

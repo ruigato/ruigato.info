@@ -1,2 +1,5 @@
 docs/dominios.pt\ site\ snapshot/
 docs/dominios.pt site snapshot/
+
+web/node_modules
+web/dist
