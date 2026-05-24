@@ -41,9 +41,8 @@ export function buildTimelinePluginData(
     const fallbackDate = `${ev.year}-${String(ev.month ?? 6).padStart(2, "0")}-15`
     const rawDate = w.date?.slice(0, 10) ?? fallbackDate
 
-    const thumb = w.featuredImage
-      ? rewriteLegacyMediaUrl(w.featuredImage)
-      : undefined
+    const imgSrc = w.featuredImageThumb ?? w.featuredImage
+    const thumb = imgSrc ? rewriteLegacyMediaUrl(imgSrc) : undefined
 
     buckets[catKey].posts.push({
       title: w.title,

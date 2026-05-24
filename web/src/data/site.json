@@ -5,9 +5,9 @@
   "items": [
     { "label": "portfolio", "to": "/works" },
     { "label": "Highlighted Works", "to": "/p/works" },
-    { "label": "timeline", "to": "/timeline" },
-    { "label": "Music", "to": "/p/music" },
-    { "label": "geoMusica", "to": "/p/geomusica" },
+    { "label": "timeline", "to": "/" },
+    { "label": "Music", "to": "/music" },
+    { "label": "geoMusica", "to": "/geomusica" },
     { "label": "About", "to": "/about" },
     { "label": "Links", "to": "/p/link" },
     { "label": "Contact", "to": "/p/contact" }

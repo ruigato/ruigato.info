@@ -1,0 +1,107 @@
+{
+  "id": "912",
+  "slug": "festival-in-warmup",
+  "title": "Festival IN warmup",
+  "published_at": "2013-05-29",
+  "occurred_on": "2013-05-29",
+  "event_name": "Festival In",
+  "summary": "Instalação interactiva no contexto do festival IN.",
+  "summary_localized": {
+    "pt": "Instalação interactiva no contexto do Festival IN.",
+    "en": "Interactive installation in the context of Festival IN."
+  },
+  "body_html": "</p>\n<p>name: Festival IN warmup<br />\ndate: 2013-05-29<br />\ntype:  interactive installation<br />\nevent: Festival In</p>\n<p>city: Lisboa, Portugal<br />\nplace: FIL</p>\n<p>client: Experimenta<br />\ncollaboration: Margarida Moura Guedes, David Negrão</p>\n<p>description PT: Instalação interactiva no contexto do festival IN.</p>\n<p>links: <a href=\"https://vimeo.com/69102450\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/69102450</a></p>\n",
+  "legacy_wp_id": 912,
+  "venue": {
+    "venue_name": "Fil",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/AD47MKRtFiNVUUbAAeD2R95_CNKBmFuDiH_p9T4gJf0.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "HOW",
+    "light",
+    "live performance",
+    "realtime",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/AD47MKRtFiNVUUbAAeD2R95_CNKBmFuDiH_p9T4gJf0.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/AD47MKRtFiNVUUbAAeD2R95_CNKBmFuDiH_p9T4gJf0-768x428.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/69102450",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Festival IN warmup",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

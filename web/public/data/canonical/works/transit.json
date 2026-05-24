@@ -1,0 +1,98 @@
+{
+  "id": "1262",
+  "slug": "transit",
+  "title": "Transit",
+  "published_at": "2005-10-01",
+  "occurred_on": "2005-10-01",
+  "event_name": "Exposição Transit",
+  "summary": "Desenho de som para exposição Transit ' contributos para um novo universo TAP, da experimentadesign.",
+  "summary_localized": {
+    "pt": "Desenho de som para a exposição Transit - contributos para um novo universo TAP, da experimentadesign.",
+    "en": "Sound design for the exhibition Transit - contributos para um novo universo TAP, by experimentadesign."
+  },
+  "body_html": "</p>\n<p>name: Transit<br />date: 2005-10-01<br />type: sonic art<br />event: Exposição Transit</p>\n<p>city: Lisboa, Portugal<br />place: Museu da Cidade Lisboa</p>\n<p>client: Experimenta<br />collaboration: Eva Gato, Frederico Gato</p>\n<p>description PT: Desenho de som para exposição Transit ' contributos para um novo universo TAP, da experimentadesign.</p>\n<p>links: <a data-mce-href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"hdj4z\" data-url=\"embedpresss://www.flickr.com/photos/seexd/sets/72157629318337563/\" id=\"embedpress_wrapper_hdj4z\" style=\"width: 640px; height: 429px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_hdj4z\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_hdj4z\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_hdj4z\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" data-mce-selected=\"inline-boundary\" href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-flickr ose-uid-5d73ddefe4a2774b061d1271c67cc56e responsive embedpress_ignore_mouseout\"><iframe frameborder=\"0\" height=\"429\" loading=\"lazy\" scrolling=\"no\" src=\"\" style=\"width: 100%;\" width=\"640\"></iframe></div>\n<p><span class=\"wpview-end embedpress_ignore_mouseout\"></span></p>\n</div>\n<p> </p>\n",
+  "legacy_wp_id": 1262,
+  "venue": {
+    "venue_name": "Museu da Cidade Lisboa",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/vYEEq4fhfWgr1t82V8UAp3Wvi2ooYg9AMKwZuq1Oz-w.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "experimenta",
+    "installation",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Eva Gato",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Frederico Gato",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.flickr.com/photos/seexd/sets/72157629318337563/",
+      "url": "https://www.flickr.com/photos/seexd/sets/72157629318337563/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vYEEq4fhfWgr1t82V8UAp3Wvi2ooYg9AMKwZuq1Oz-w.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vYEEq4fhfWgr1t82V8UAp3Wvi2ooYg9AMKwZuq1Oz-w-420x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Transit",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "876",
+  "slug": "retorno-ao-paraiso-elvas",
+  "title": "Retorno ao Paraíso @ Elvas",
+  "published_at": "2016-07-27",
+  "occurred_on": "2016-07-27",
+  "event_name": "Festival \"A Salto\"",
+  "summary": "Colaboração com desenho de som para instalação de João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Colaboração no desenho de som para uma instalação de João Garcia Miguel.",
+    "en": "Collaboration on sound design for an installation by João Garcia Miguel."
+  },
+  "body_html": "<p>name: Retorno ao Paraíso @ Elvas<br>date: 2016-07-27<br>type: sound design<br>event: Festival \"A Salto\"</p><p>city: Elvas, Portugal<br>place: Elvas</p><p>client: João Garcia Miguel<br>collaboration: João Garcia Miguel</p><p>description PT: Colaboração com desenho de som para instalação de João Garcia Miguel.</p><p>links: <a href=\"https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204\">https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204</a></p><p> </p>",
+  "legacy_wp_id": 876,
+  "venue": {
+    "venue_name": null,
+    "city": "Elvas",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Elvas, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "retorno-ao-paraiso",
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "collaboration",
+    "installation",
+    "music",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204",
+      "url": "https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Retorno ao Paraíso @ Elvas",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

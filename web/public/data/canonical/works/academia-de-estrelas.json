@@ -1,0 +1,68 @@
+{
+  "id": "1318",
+  "slug": "academia-de-estrelas",
+  "title": "Academia de Estrelas",
+  "published_at": "2002-05-05",
+  "occurred_on": "2002-05-05",
+  "event_name": "operação de áudio",
+  "summary": "Operador de áudio para programa de televisão.",
+  "summary_localized": {
+    "pt": "Operador de áudio para programa de televisão.",
+    "en": "Audio operator for a television programme."
+  },
+  "body_html": "<p><br>\nname: Academia de Estrelas<br>\ndate: 2002-05-05<br>\ntype:  sound engineering<br>\nevent: operação de áudio<br>\n<br>\ncity: Venda do Pinheiro, Portugal<br>\nplace: Sonotech<br>\n<br>\nclient: Sonotech<br>\ncollaboration: Pedro Jesus<br>\n<br>\ndescription PT: Operador de áudio para programa de televisão.<br>\n<br>\nlinks: <a href=\"https://filmow.com/academia-de-estrelas-t65609/\" rel=\"noopener\" target=\"_blank\">https://filmow.com/academia-de-estrelas-t65609/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1318,
+  "venue": {
+    "venue_name": "Sonotech",
+    "city": "Venda do Pinheiro",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Venda do Pinheiro, Portugal"
+  },
+  "client": {
+    "id": "sonotech",
+    "name": "Sonotech",
+    "slug": "sonotech",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound engineering",
+  "categories": [
+    "sound engineering"
+  ],
+  "tags": [
+    "sonotech",
+    "sound engineering",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Pedro Jesus",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://filmow.com/academia-de-estrelas-t65609/",
+      "url": "https://filmow.com/academia-de-estrelas-t65609/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Academia de Estrelas",
+    "umbrella_signals": []
+  }
+}

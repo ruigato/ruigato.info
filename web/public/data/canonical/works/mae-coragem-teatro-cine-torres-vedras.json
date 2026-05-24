@@ -1,0 +1,144 @@
+{
+  "id": "982",
+  "slug": "mae-coragem-teatro-cine-torres-vedras",
+  "title": "Mãe Coragem @ Teatro Cine Torres Vedras",
+  "published_at": "2011-02-05",
+  "occurred_on": "2011-02-05",
+  "event_name": "peça teatro",
+  "summary": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device, live music, and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "<p>name: Mãe Coragem @ Teatro Cine Torres Vedras<br>date: 2011-02-05<br>type: theatre<br>event: peça teatro</p><p>city: Torres Vedras, Portugal<br>place: Teatro-Cine Torres Vedras</p><p>client: João Garcia Miguel<br>collaboration: Paulo Carocinho, André Sier, Jonathan Street, Tonan Quito, Miguel Moreira, Custódia Gallego, Sara Ribeiro, Paula Diogo, Luís Bombico</p><p>description PT: Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p><p>links: <a href=\"https://vimeo.com/23849370\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/23849370\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/23849370\" data-uid=\"zqybd\" id=\"embedpress_wrapper_zqybd\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_zqybd\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_zqybd\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/23849370\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/23849370\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_zqybd\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/23849370\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/23849370\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-089231d8789ebf242c88ea5bb902c757 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/23849370?app_id=122963\" width=\"750\" height=\"422\" frameborder=\"0\" title=\"2011 . Mãe Coragem . mapping\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p></p><p><a href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" data-mce-selected=\"inline-boundary\">http://www.joaogarciamiguel.com/Mae-Coragem</a></p>",
+  "legacy_wp_id": 982,
+  "venue": {
+    "venue_name": "Teatro-Cine Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "mae-coragem",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "live performance",
+    "music",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Jonathan Street",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Tonan Quito",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Miguel Moreira",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Custódia Gallego",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "collaboration",
+      "name": "Paula Diogo",
+      "is_organization": false,
+      "sort_order": 7
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 8
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "url": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/23849370",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/23849370?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Mãe Coragem @ Teatro Cine Torres Vedras",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

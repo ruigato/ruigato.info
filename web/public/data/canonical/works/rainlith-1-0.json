@@ -1,0 +1,103 @@
+{
+  "id": "948",
+  "slug": "rainlith-1-0",
+  "title": "Rainlith 1.0",
+  "published_at": "2009-12-15",
+  "occurred_on": "2009-12-15",
+  "event_name": "Red Bull House of Art",
+  "summary": "Instalação sonora interactiva, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+  "summary_localized": {
+    "pt": "Instalação sonora interactiva, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+    "en": "Interactive sound installation in the context of the artistic residency at Red Bull House of Arts in São Paulo."
+  },
+  "body_html": "</p>\n<div class=\"jetpack-video-wrapper\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"422\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/8237043?app_id=122963\" title=\"Rainlith - Making Of\" webkitallowfullscreen=\"\" width=\"750\"></iframe></div>\n<p>name: Rainlith 1.0<br />\ndate: 2009-12-15<br />\ntype: interactive installation<br />\nevent: Red Bull House of Art</p>\n<p>city: São Paulo, Brazil<br />\nplace: Hotel Central</p>\n<p>client: Red Bull Music Academy Portugal<br />\ncollaboration: n/a</p>\n<p>description PT: Instalação sonora interactiva, no contexto da residência artística da Red Bull House of Arts em São Paulo.</p>\n<p>description EN:</p>\n<p class=\"first\">On Rainlith, the primitive naturally granular sound of a big rainstick gets explored in real-time by cyber-age sound manipulation tools.</p>\n<p>This is an interactive piece, in which the presence of an audience near the sonic sculpture triggers a circular movement that is at the same time hypnotic and subtle, under a quasi-random set of sequenced movements, controlled by a microchip, originating on the physical force of an electric motor.</p>\n<p>The object consists of a self-standing structure that will suspend the rainstick, also incorporating two microphones attached to both edges. The sound is then processed and routed through a spatialized sound system, radially installed around the area of detection of human presence.</p>\n<p>The piece provides therefore a bridge between two completely different sonic universes, the natural acoustic world and the digital synthetic world. The almost magical movement and the sound resulting from the real-time manipulation give rise to a feeling of awe, alluding to the monolith (2001) and its alienness, producing a strong impact on visitors and a powerfully expressive sound environment.</p>\n<p>Piece concept and production by Rui Gato, during the artistic residency Red Bull House of Art, São Paulo November 2009</p>\n<p>Curators:</p>\n<p>Maria Montero<br />\nLucas Bambozzi</p>\n<p>Collaborators:</p>\n<p>Thiago Sanchez Moraes<br />\nDaniel Garcia Costa<br />\nGlauco Garcia Oliveira<br />\nAdriano Araújo<br />\nRadamés Ajna</p>\n<p>links: <a href=\"https://www.ruigato.info/rainlith-making-of/\" rel=\"noopener\" target=\"_blank\">https://www.ruigato.info/rainlith-making-of/</a></p>\n",
+  "legacy_wp_id": 948,
+  "venue": {
+    "venue_name": "Hotel Central",
+    "city": "Sao Paulo",
+    "region_or_state": null,
+    "country": "Brazil",
+    "raw_location": "São Paulo, Brazil"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/tyx88Zp79ps8o49xIZ7i7AnWZMAR1qkNBQIoQ4nYhrA.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "interactive installation",
+    "sonic art"
+  ],
+  "tags": [
+    "arduino",
+    "code",
+    "collaboration",
+    "installation",
+    "interactive",
+    "sonic art"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.ruigato.info/rainlith-making-of/",
+      "url": "https://www.ruigato.info/rainlith-making-of/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "On Rainlith, the primitive naturally granular sound of a big rainstick gets explored in real-time by cyber-age sound manipulation tools.\n\nThis is an interactive piece, in which the presence of an audience near the sonic sculpture triggers a circular movement that is at the same time hypnotic and subtle, under a quasi-random set of sequenced movements, controlled by a microchip, originating on the physical force of an electric motor.\n\nThe object consists of a self-standing structure that will suspend the rainstick, also incorporating two microphones attached to both edges. The sound is then processed and routed through a spatialized sound system, radially installed around the area of detection of human presence.\n\nThe piece provides therefore a bridge between two completely different sonic universes, the natural acoustic world and the digital synthetic world. The almost magical movement and the sound resulting from the real-time manipulation give rise to a feeling of awe, alluding to the monolith (2001) and its alienness, producing a strong impact on visitors and a powerfully expressive sound environment.\n\nPiece concept and production by Rui Gato, during the artistic residency Red Bull House of Art, São Paulo November 2009\n\nCurators:"
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/tyx88Zp79ps8o49xIZ7i7AnWZMAR1qkNBQIoQ4nYhrA.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/tyx88Zp79ps8o49xIZ7i7AnWZMAR1qkNBQIoQ4nYhrA-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/8237043?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Rainlith 1.0",
+    "umbrella_signals": []
+  }
+}

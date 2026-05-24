@@ -1,0 +1,80 @@
+{
+  "id": "3024",
+  "slug": "fading",
+  "title": "Fading",
+  "published_at": "2023-07-03",
+  "occurred_on": "2023-07-03",
+  "event_name": "Exposição individual Luís Campos",
+  "summary": "Sound Design para video em exposição individual \"Fading\" de Luís Campos.",
+  "summary_localized": {
+    "pt": "Desenho de som para o vídeo da exposição individual \"Fading\", de Luís Campos.",
+    "en": "Sound design for the video in Luís Campos's solo exhibition \"Fading\"."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: Fading<br>date: 2023-07-03<br>type: sound design<br>event: Exposição individual Luís Campos</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: Lisboa, Portugal<br>place: Galeria Carlos Carvalho - Arte Contemporânea</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: Luís Campos</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Sound Design para video em exposição individual \"Fading\" de Luís Campos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\"Trata-se de um conjunto de fotografias de animais selvagens no seu habitat natural, tiradas ao longo de 12 anos em 14 países como Cuba, Brasil, Quénia, México, Canadá, Zimbabué, Botswana, EUA, Argentina, Indonésia, Maldivas, Equador (Galápagos), Colômbia e Sri Lanka. São fotografias a preto e branco, de 110X146 cm, com uma elipse preta esbatida à volta de uma imagem central, que alude a um processo cinematográfico de desaparecimento da imagem, designado por <em>fading</em>.\" - in Luís Campos website.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 3024,
+  "venue": {
+    "venue_name": "Galeria Carlos Carvalho - Arte Contemporânea",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "luis-campos",
+    "name": "Luís Campos",
+    "slug": "luis-campos",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/04/fading.png",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "sound design"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [
+    {
+      "locale": "pt",
+      "content": "Trata-se de um conjunto de fotografias de animais selvagens no seu habitat natural, tiradas ao longo de 12 anos em 14 países como Cuba, Brasil, Quénia, México, Canadá, Zimbabué, Botswana, EUA, Argentina, Indonésia, Maldivas, Equador (Galápagos), Colômbia e Sri Lanka. São fotografias a preto e branco, de 110X146 cm, com uma elipse preta esbatida à volta de uma imagem central, que alude a um processo cinematográfico de desaparecimento da imagem, designado por fading.\" - in Luís Campos website.",
+      "source_label": null,
+      "source_url": null
+    }
+  ],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/fading.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/fading-768x577.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Fading",
+    "umbrella_signals": []
+  }
+}

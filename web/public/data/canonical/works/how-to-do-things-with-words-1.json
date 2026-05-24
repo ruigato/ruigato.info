@@ -1,0 +1,120 @@
+{
+  "id": "938",
+  "slug": "how-to-do-things-with-words-1",
+  "title": "How to do things with words #1",
+  "published_at": "2015-04-23",
+  "occurred_on": "2015-04-23",
+  "event_name": "Only Connect Lab II",
+  "summary": "Instalação interactiva ao ar livre, no contexto do Only Connect II ' Laboratório de artes digitais da Companhia João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Instalação interactiva ao ar livre, no contexto do Only Connect II, laboratório de artes digitais da Companhia João Garcia Miguel.",
+    "en": "Outdoor interactive installation in the context of Only Connect II, the digital arts laboratory of Companhia João Garcia Miguel."
+  },
+  "body_html": "</p>\n<p>name: How to do things with words #1<br />\ndate: 2015-04-23<br />\ntype:  interactive installation<br />\nevent: Only Connect Lab II</p>\n<p>city: Aberystwyth, Reino Unido<br />\nplace: Aberystwyth University</p>\n<p>client: Aberystwyth Arts Centre<br />\ncollaboration: David Negrão, João Garcia Miguel</p>\n<p>description PT: Instalação interactiva ao ar livre, no contexto do Only Connect II ' Laboratório de artes digitais da Companhia João Garcia Miguel.</p>\n<p>links: <a href=\"https://youtu.be/DcZDxoG8pLc\" rel=\"noopener\" target=\"_blank\">https://youtu.be/DcZDxoG8pLc</a></p>\n<p>[flickr_set id=”72157694037521991\"]</p>\n",
+  "legacy_wp_id": 938,
+  "venue": {
+    "venue_name": "Aberystwyth University",
+    "city": "Aberystwyth",
+    "region_or_state": null,
+    "country": "United Kingdom",
+    "raw_location": "Aberystwyth, Reino Unido"
+  },
+  "client": {
+    "id": "aberystwyth-arts-centre",
+    "name": "Aberystwyth Arts Centre",
+    "slug": "aberystwyth-arts-centre",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2015/04/words.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "how-to-do-things-with-words",
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "blakat",
+    "code",
+    "collaboration",
+    "interactive",
+    "realtime",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2015/04/words.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2015/04/words-768x513.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521991/41517488422.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521991/41517488422.jpg",
+        "/media/flickr/72157694037521991/41517485222.jpg",
+        "/media/flickr/72157694037521991/41517483482.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/DcZDxoG8pLc",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "How to do things with words #1",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

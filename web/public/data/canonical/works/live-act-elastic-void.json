@@ -1,0 +1,74 @@
+{
+  "id": "1276",
+  "slug": "live-act-elastic-void",
+  "title": "Live act Elastic Void",
+  "published_at": "2000-11-11",
+  "occurred_on": "2000-11-11",
+  "event_name": "concerto",
+  "summary": "Live acts de música electrónica do projecto “Elastic Void”.",
+  "summary_localized": {
+    "pt": "Live acts de música electrónica do projecto “Elastic Void”.",
+    "en": "Live electronic music acts by the \"Elastic Void\" project."
+  },
+  "body_html": "<p><br>\nname: Live act Elastic Void<br>\ndate: 2000-11-11<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: Tuna Comercial Torreense<br>\n<br>\nclient: Rui Gato<br>\ncollaboration: Daniel Barroca, Virginia Mota<br>\n<br>\ndescription PT: Live acts de música electrónica do projecto “Elastic Void”.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1276,
+  "venue": {
+    "venue_name": "Tuna Comercial Torreense",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "rui-gato",
+    "name": "Rui Gato",
+    "slug": "rui-gato",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Daniel Barroca",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Virginia Mota",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Live act Elastic Void",
+    "umbrella_signals": []
+  }
+}

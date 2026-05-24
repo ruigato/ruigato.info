@@ -10,7 +10,11 @@ npm install
 npm run dev
 ```
 
-Abre **http://localhost:7777** (porta fixa em `vite.config.ts`).
+Abre **http://localhost/** (porta fixa em `vite.config.ts`).
+
+Se arrancares o túnel Cloudflare configurado para `ruigato.info`, este front-end local também fica exposto publicamente a partir da mesma porta `80`.
+
+Em desenvolvimento via túnel, o Vite serve também pedidos a `/wp-content/...` directamente a partir da cópia local do WordPress em `C:\xampp\htdocs\ruigato\wp-content` por omissão. Esse fallback continua disponível, mas o modelo preferido agora é servir media legado já copiado para `public/media/wp-content/...`.
 
 ## Build
 
@@ -39,9 +43,23 @@ Saída: `web/src/data/works.json`, `pages.json`, `timeline-events.json`. Cada ob
 
 ### Media e URLs do WordPress
 
-O HTML exportado usa URLs absolutas (`https://www.ruigato.info/wp-content/...`). Em desenvolvimento isso continua a servir a partir do site público.
+O export canónico reescreve referências do WordPress (`https://www.ruigato.info/wp-content/...`) para caminhos locais do front-end em `/media/wp-content/...`.
 
-Para apontar uploads para uma cópia local (ex.: mesmo host que o WP em XAMPP), copia `web/.env.example` para `web/.env` e define `VITE_LEGACY_WP_ORIGIN` (sem barra final), por exemplo `http://127.0.0.1/ruigato.info`.
+Para sincronizar esses ficheiros locais a partir da tua cópia WordPress em XAMPP, corre:
+
+```bash
+cd web
+node scripts/export-canonical-works.mjs
+```
+
+O script copia apenas os ficheiros `wp-content` realmente referenciados nas obras para `public/media/wp-content/...`.
+
+Se a tua cópia local do WordPress estiver noutro sítio, define a variável de ambiente `LEGACY_WP_CONTENT_DIR` antes de correr o script. Exemplo em Windows:
+
+```bash
+set LEGACY_WP_CONTENT_DIR=D:\sites\ruigato\wp-content
+node scripts/export-canonical-works.mjs
+```
 
 ### Timeline WebGL (plugin timeline-threejs)
 

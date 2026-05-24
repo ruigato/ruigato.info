@@ -29,22 +29,22 @@ const oldSanity = `  // ——————————————————�
   });
 `
 
-const newSanity = `  // 3) HOST STYLING (embedded in SPA) — viewport inteiro; header do site fica por cima (z-index)
+const newSanity = `  // 3) HOST STYLING (embedded in SPA) — preenche o .timeline-canvas-host (flex); header no fluxo do Layout
   if (!container || !timelineData || Object.keys(timelineData).length === 0) {
     return () => {}
   }
   Object.assign(container.style, {
-    position: "fixed",
-    top: "0",
-    left: "0",
-    width: "100vw",
-    height: "100vh",
+    position: "relative",
+    width: "100%",
+    height: "100%",
+    minHeight: "0",
     maxHeight: "none",
     margin: "0",
     padding: "0",
     overflow: "hidden",
     zIndex: "1",
-    background: "linear-gradient(to top,#333,#000,#333)",
+    background:
+      "linear-gradient(to bottom, #333333 0%, #2a2a2a 22%, #1a1a1a 50%, #2a2a2a 78%, #333333 100%)",
   })
 `
 
@@ -117,10 +117,35 @@ if (!lockedArcCat) {
 
 }`
 
-const fixedMove = `// pointer-move: arcs first, then dots
+const fixedMove = `// pointer-move: pontos primeiro (tooltip), depois arcos (como WordPress)
 function handlePointerMove(e) {
   if (staticTooltip) return;
   updateThreshold();
+
+  const hit = pickPoint(e.clientX, e.clientY);
+  if (hit) {
+    const { sys, idx, point } = hit;
+    const id = \`\${sys.cat}_\${idx}\`;
+    if (!lockedArcCat) {
+      highlightCategory(sys.cat);
+      showCategoryLabel(sys.cat);
+    }
+    if (id !== prevHitId) highlightDot(sys, idx);
+    if (id !== prevTipId) {
+      spawnParticles(point, sys.mesh.material.color);
+      prevTipId = id;
+      tooltip.innerHTML = makeHTML(sys.posts[idx], false);
+    }
+    showTooltip();
+    return;
+  }
+
+  if (prevHoverMesh) {
+    scene.remove(prevHoverMesh);
+    prevHoverMesh = null;
+  }
+  prevHitId = prevTipId = null;
+  hideTooltip();
 
   const arcCatHover = pickArc(e.clientX, e.clientY);
   if (arcCatHover) {
@@ -128,7 +153,6 @@ function handlePointerMove(e) {
       highlightCategory(arcCatHover);
       showCategoryLabel(arcCatHover);
     }
-    hideTooltip();
     return;
   }
 
@@ -136,27 +160,6 @@ function handlePointerMove(e) {
     clearCategoryHighlight();
     hideCategoryLabel();
   }
-
-  const hit = pickPoint(e.clientX, e.clientY);
-  if (!hit) {
-    if (prevHoverMesh) {
-      scene.remove(prevHoverMesh);
-      prevHoverMesh = null;
-    }
-    prevHitId = prevTipId = null;
-    hideTooltip();
-    return;
-  }
-
-  const { sys, idx, point } = hit;
-  const id = \`\${sys.cat}_\${idx}\`;
-  if (id !== prevHitId) highlightDot(sys, idx);
-  if (id !== prevTipId) {
-    spawnParticles(point, sys.mesh.material.color);
-    prevTipId = id;
-    tooltip.innerHTML = makeHTML(sys.posts[idx], false);
-  }
-  showTooltip();
 }`
 
 if (!s.includes("// ─── pointer‐move:")) {
@@ -186,14 +189,11 @@ s = s.replace(
   "function animate(){\n    rafId = requestAnimationFrame(animate);",
 )
 
-s = s.replace(
-  ".addEventListener('click', () => window.open(sys.posts[idx].link, '_blank'));",
-  ".addEventListener('click', () => { window.location.href = sys.posts[idx].link });",
-)
+// O plugin original usa window.open(..., '_blank'); não reescrever.
 
 const header = `/**
  * Runtime gerado a partir de \`plugin/timeline-threejs.raw.js\` (plugin WordPress).
- * Regenerar: \`node scripts/patch-timeline-plugin.mjs\`
+ * pickPoint / updateThreshold / pointer: alinhados ao .js; regenerar: \`node scripts/patch-timeline-plugin.mjs\`
  */
 // @ts-nocheck — código gerado a partir do JS do plugin; tipagem manual seria frágil.
 import type { TimelinePluginData } from "./timelinePluginTypes"
@@ -220,9 +220,15 @@ const footer = `
     if (renderer) {
       renderer.domElement.removeEventListener("pointermove", handlePointerMove)
       renderer.domElement.removeEventListener("pointerdown", handlePointerDown)
+      renderer.domElement.removeEventListener("pointerup", handleCanvasPointerUp)
+      renderer.domElement.removeEventListener("dblclick", handleCanvasDoubleClick)
       renderer.dispose()
     }
     if (controls) controls.dispose()
+    if (tooltip) {
+      tooltip.remove()
+      tooltip = null
+    }
     container.replaceChildren()
   }
 

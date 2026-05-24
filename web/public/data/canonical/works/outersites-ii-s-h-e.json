@@ -1,0 +1,69 @@
+{
+  "id": "1314",
+  "slug": "outersites-ii-s-h-e",
+  "title": "Outersites II @ S.H.E.",
+  "published_at": "2002-04-08",
+  "occurred_on": "2002-04-08",
+  "event_name": "concerto",
+  "summary": "Live act Outersites II @ Sociedade Harmonia Eborense.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo de Outersites II na Sociedade Harmonia Eborense.",
+    "en": "Live act Outersites II @ Sociedade Harmonia Eborense."
+  },
+  "body_html": "<p><br>\nname: Outersites II @ S.H.E.<br>\ndate: 2002-04-08<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Évora, Portugal<br>\nplace: Sociedade Harmonia Eborense<br>\n<br>\nclient: bar<br>\ncollaboration: Tiago Martins<br>\n<br>\ndescription PT: Live act Outersites II @ Sociedade Harmonia Eborense.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1314,
+  "venue": {
+    "venue_name": "Sociedade Harmonia Eborense",
+    "city": "Évora",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Évora, Portugal"
+  },
+  "client": {
+    "id": "bar",
+    "name": "Bar",
+    "slug": "bar",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-ii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "monocromatica",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites II @ S.H.E.",
+    "umbrella_signals": []
+  }
+}

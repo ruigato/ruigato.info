@@ -1,0 +1,86 @@
+{
+  "id": "1171",
+  "slug": "elastic-void",
+  "title": "Elastic Void",
+  "published_at": "2002-11-21",
+  "occurred_on": "2002-11-21",
+  "event_name": "release",
+  "summary": "Edição de CD.",
+  "summary_localized": {
+    "pt": "Edição de CD.",
+    "en": "CD release."
+  },
+  "body_html": "<p>name: Elastic Void<br />date: 2002-11-21<br />type: music release<br />event: release</p>\n<p>city: Lisboa, Portugal<br />place: CD</p>\n<p>client: monocromática<br />collaboration: n/a</p>\n<p>description PT: Edição de CD.</p>\n<p>links: <a href=\"http://www.monocromatica.com/v5/releases/releases_MC002.htm\" target=\"_blank\" rel=\"noopener\">http://www.monocromatica.com/v5/releases/releases_MC002.htm</a></p>\n\n<!-- wp:shortcode -->\n[audioalbum title=\"Elastic Void\" detail=\"Elastic Void\" date=\"2002\"]\n<!-- /wp:shortcode -->\n\n<!-- wp:shortcode -->\n[audiotrack title=\"Intro\" songwriter=\"Rui Gato\" mp3=\"/media/wp-content/uploads/2025/04/evoid1.mp3\"]\n<!-- /wp:shortcode -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 1171,
+  "venue": {
+    "venue_name": "Cd",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "monocromatica",
+    "name": "Monocromática",
+    "slug": "monocromatica",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/eMrPywd90rXurOxfzJV0y8ep_YYANf6z8TUU35Kbm3E.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "CD",
+    "monocromatica",
+    "music",
+    "release"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/releases/releases_MC002.htm",
+      "url": "http://www.monocromatica.com/v5/releases/releases_MC002.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/eMrPywd90rXurOxfzJV0y8ep_YYANf6z8TUU35Kbm3E.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/eMrPywd90rXurOxfzJV0y8ep_YYANf6z8TUU35Kbm3E-768x681.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Elastic Void",
+    "umbrella_signals": []
+  }
+}

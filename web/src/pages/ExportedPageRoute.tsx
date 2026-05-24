@@ -5,9 +5,11 @@ import { prepareLegacyBodyHtml } from "../lib/legacyHtml"
 /** Slugs WordPress que têm rota dedicada nesta app. */
 const SLUG_REDIRECT: Record<string, string> = {
   about: "/about",
-  timeline: "/timeline",
-  "timeline-three": "/timeline",
-  "timeline-webgl": "/timeline",
+  timeline: "/",
+  "timeline-three": "/",
+  "timeline-webgl": "/",
+  geomusica: "/geomusica",
+  music: "/music",
 }
 
 function ExportedPageBody({ slug }: { slug: string }) {
@@ -40,9 +42,6 @@ function ExportedPageBody({ slug }: { slug: string }) {
 
   return (
     <div className="page work-detail">
-      <p>
-        <Link to="/">← Início</Link>
-      </p>
       <h1>{page.title}</h1>
       {page.excerpt ? <p className="excerpt">{page.excerpt}</p> : null}
       {page.bodyHtml ? (

@@ -1,0 +1,106 @@
+{
+  "id": "1434",
+  "slug": "sacred-geometry-in-music-composition-talk-at-the-liminal-village-boom-festival-2018",
+  "title": "Sacred Geometry in Music Composition",
+  "published_at": "2018-07-25",
+  "occurred_on": "2018-07-25",
+  "event_name": "Boom Festival 2018",
+  "summary": "The harmony of sacred geometric proportions has been inspiring many artists to interpret its beauty in many different directions.",
+  "summary_localized": {
+    "pt": "A harmonia das proporções da geometria sagrada tem inspirado muitos artistas a interpretar a sua beleza em diferentes direcções.",
+    "en": "The harmony of sacred geometric proportions has inspired many artists to interpret its beauty in many different directions."
+  },
+  "body_html": "<figure class=\"wp-block-image size-large\"></figure>\n<p>name: Sacred Geometry in Music Composition ' Talk at the Liminal Village Boom Festival 2018<br />date: 2018-07-25<br />type: tutoring<br />event: Boom Festival 2018</p>\n<p>city: Idanha-a-nova, Portugal<br />place: Boomland</p>\n<p>client: Boom Festival<br />collaboration: n/a</p>\n<p>description EN:</p>\n<p>The harmony of sacred geometric proportions has been inspiring many artists to interpret its beauty in many different directions. In this interactive workshop Rui Gato will be presenting an ongoing research which aims at translating geometrical shapes and numbers into music. In fact we can think of the proportions of geometric shapes as expression of numbers in space, and the harmonies of music as expression of numbers in time. Both are forms of vibration, and both working together can generate high forms of synesthesia. The talk will be based on the geoMusic system devised by Rui Gato, through a visual programming language (TouchDesigner), connected with Ableton Live.</p>\n<p>links: <a href=\"https://www.boomfestival.org/boom2018/program/liminal-village/sacred-geometry-in-music-composition-interactive-workshop/\" target=\"_blank\" rel=\"noopener\">https://www.boomfestival.org/boom2018/program/liminal-village/sacred-geometry-in-music-composition-interactive-workshop/</a><!-- ./photonic-level-1-container --><span id=\"photonic-flickr-stream-3-container-end\"></span></p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157696572625732\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1434,
+  "venue": {
+    "venue_name": "Boomland",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2018/07/sacred.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "boom",
+    "sacred geometry",
+    "talks",
+    "touchdesigner",
+    "tutoring"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.boomfestival.org/boom2018/program/liminal-village/sacred-geometry-in-music-composition-interactive-workshop/",
+      "url": "https://www.boomfestival.org/boom2018/program/liminal-village/sacred-geometry-in-music-composition-interactive-workshop/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2018/07/sacred.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2018/07/sacred-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157696572625732/44258585831.jpg",
+      "gallery_items": [
+        "/media/flickr/72157696572625732/44258585831.jpg",
+        "/media/flickr/72157696572625732/44210267552.jpg",
+        "/media/flickr/72157696572625732/29323039037.jpg",
+        "/media/flickr/72157696572625732/29323038447.jpg",
+        "/media/flickr/72157696572625732/44210254152.jpg",
+        "/media/flickr/72157696572625732/28869940797.jpg",
+        "/media/flickr/72157696572625732/28869940737.jpg",
+        "/media/flickr/72157696572625732/28869940717.jpg",
+        "/media/flickr/72157696572625732/28869940577.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Sacred Geometry in Music Composition ' Talk at the Liminal Village Boom Festival 2018",
+    "umbrella_signals": []
+  }
+}

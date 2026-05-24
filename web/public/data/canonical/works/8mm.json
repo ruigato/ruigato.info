@@ -1,0 +1,114 @@
+{
+  "id": "950",
+  "slug": "8mm",
+  "title": "8mm",
+  "published_at": "2010-01-10",
+  "occurred_on": "2010-01-10",
+  "event_name": "n/a",
+  "summary": "Live Act de performance musical com cinema, projecção de 8mm.",
+  "summary_localized": {
+    "pt": "Live Act de performance musical com cinema, projecção de 8mm.",
+    "en": "Live act of musical performance with cinema and 8mm projection."
+  },
+  "body_html": "<p>name: 8mm<br />date: 2010-01-10<br />type: live act<br />event: n/a</p>\n<p>city: Torres Vedras, Portugal<br />place: Teatro-Cine Torres Vedras</p>\n<p>client: Teatro-Cine Torres Vedras<br />collaboration: Ruben Santos, Telmo Martins, Bruno Henriques</p>\n<p>description PT: Live Act de performance musical com cinema, projecção de 8mm.</p>\n<p>links:</p>\n<div id=\"embedpress_wrapper_5npsg\" class=\"embedpress_wrapper wpview wpview-wrap\" style=\"width: 589px;\" data-loading-text=\"Loading your embed...\" data-uid=\"5npsg\" data-url=\"embedpresss://vimeo.com/9282189\">\n<div id=\"embedpress_controller_panel_5npsg\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\">\n<div id=\"embedpress_button_edit_5npsg\" class=\"embedpress_ignore_mouseout embedpress_controller_button\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" href=\"https://vimeo.com/9282189\" target=\"_blank\" rel=\"noopener\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div id=\"embedpress_button_remove_5npsg\" class=\"embedpress_ignore_mouseout embedpress_controller_button\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" href=\"https://vimeo.com/9282189\" target=\"_blank\" rel=\"noopener\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-42ac1c09d8c3ca8e8c85dc5c1bc9efc0 responsive\" style=\"max-width: 589px;\"><iframe title=\"8mm #1\" src=\"https://player.vimeo.com/video/9282189?app_id=122963\" width=\"750\" height=\"422\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>\n</div>\n\n<!-- wp:paragraph -->\n<p>a performance designed for opening a screening of Dziga Vertov's \"Man with Movie Camera\", commissioned by ATV and Teatro-Cine TV.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The music is fully made in realtime, by sampling the 8mm projector with piezos and a zoom h4n, and then looping and modulating the audio.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This performance is somehow a stage zero of a more complex and longer performance i want to do in the near future, based on the same principle.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Concept, sound mangling and multicam edit:<br>Rui Gato</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Men with video cameras:<br>Ruben Santos<br>Telmo Martins<br>Bruno Henriques</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Production:<br>Gonçalo Oliveira - ATV</p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 950,
+  "venue": {
+    "venue_name": "Teatro-Cine Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "teatro-cine-torres-vedras",
+    "name": "Teatro-Cine Torres Vedras",
+    "slug": "teatro-cine-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/3ePzcbmnYtleRKdxG60PFNJN5rpijyYtVdS61UFtK-w.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music",
+    "performance"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Telmo Martins",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Bruno Henriques",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/3ePzcbmnYtleRKdxG60PFNJN5rpijyYtVdS61UFtK-w.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/3ePzcbmnYtleRKdxG60PFNJN5rpijyYtVdS61UFtK-w-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/9282189",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/9282189?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "8mm",
+    "umbrella_signals": [
+      "HOW:mention"
+    ]
+  }
+}

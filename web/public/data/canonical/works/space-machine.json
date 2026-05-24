@@ -1,0 +1,135 @@
+{
+  "id": "896",
+  "slug": "space-machine",
+  "title": "Space Machine",
+  "published_at": "2017-09-01",
+  "occurred_on": "2017-09-01",
+  "event_name": "Festival Lisb-On",
+  "summary": "Live act com Lunn no festival Lisb-On palco principal ' colectivo de ex alunos portugueses da Red Bull Music Academy.",
+  "summary_localized": {
+    "pt": "Live act com Lunn no palco principal do festival Lisb-On, com o colectivo de ex-alunos portugueses da Red Bull Music Academy.",
+    "en": "Live act with Lunn on the main stage of Lisb-On festival, with the collective of Portuguese Red Bull Music Academy alumni."
+  },
+  "body_html": "\n\n<p>name: Space Machine<br/>date: 2017-09-01<br/>type: live act<br/>event: Festival Lisb-On</p>\n<p>city: Lisboa, Portugal<br/>place: parque eduardo VII</p>\n<p>client: Red Bull Music Academy Portugal<br/>collaboration: Frederico Vinhas, Jorge Caiado, Bruno Mushug, Papercutz, GPU Panic, ghost wavves, Mono, Lunn</p>\n<p>description PT: Live act com Lunn no festival Lisb-On palco principal ' colectivo de ex alunos portugueses da Red Bull Music Academy.</p>\n<p>links: <a href=\"http://lisb-on.pt/\" rel=\"noopener\" target=\"_blank\">http://lisb-on.pt/</a></p>\n",
+  "legacy_wp_id": 896,
+  "venue": {
+    "venue_name": "parque eduardo VII",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/9E2rQ6aXIl4J4mwGEw8laAWidtP_k7N_xqqCAYkDo9w.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Frederico Vinhas",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Jorge Caiado",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Bruno Mushug",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Papercutz",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "GPU Panic",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Ghost Wavves",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Mono",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "collaboration",
+      "name": "Lunn",
+      "is_organization": false,
+      "sort_order": 7
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://lisb-on.pt/",
+      "url": "http://lisb-on.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/9E2rQ6aXIl4J4mwGEw8laAWidtP_k7N_xqqCAYkDo9w.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/9E2rQ6aXIl4J4mwGEw8laAWidtP_k7N_xqqCAYkDo9w-768x511.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Space Machine",
+    "umbrella_signals": []
+  }
+}

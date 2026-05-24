@@ -1,0 +1,79 @@
+{
+  "id": "1184",
+  "slug": "o-jogo",
+  "title": "O Jogo",
+  "published_at": "2003-06-06",
+  "occurred_on": "2003-06-06",
+  "event_name": "n/a",
+  "summary": "Música Original para genérico TV.",
+  "summary_localized": {
+    "pt": "Música Original para genérico TV.",
+    "en": "Original music for a TV title sequence."
+  },
+  "body_html": "<p><br>\nname: O Jogo<br>\ndate: 2003-06-06<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: SIC<br>\n<br>\nclient: SIC<br>\ncollaboration: Margarida Moura Guedes, Eva Gato, Nuno Clímaco Pinto<br>\n<br>\ndescription PT: Música Original para genérico TV.<br>\n<br>\nlinks: <a href=\"https://vimeo.com/15363109\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/15363109</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1184,
+  "venue": {
+    "venue_name": "Sic",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "sic",
+    "name": "Sic",
+    "slug": "sic",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "collaboration",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Eva Gato",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363109",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "O Jogo",
+    "umbrella_signals": []
+  }
+}

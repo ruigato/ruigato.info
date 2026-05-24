@@ -1,0 +1,128 @@
+{
+  "id": "1274",
+  "slug": "houseware-2000",
+  "title": "Houseware 2000",
+  "published_at": "2000-10-05",
+  "occurred_on": "2000-10-05",
+  "event_name": "concerto",
+  "summary": "Live act do colectivo de mixed media Houselab.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo do colectivo de mixed media Houselab.",
+    "en": "Live act do colectivo de mixed media Houselab."
+  },
+  "body_html": "<p>\nname: Houseware 2000<br>\ndate: 2000-10-05<br>\ntype:  live act<br>\nevent: concerto</p><p>city: Hannover, Alemanha<br>\nplace: Expo Hannover</p><p>client: Expo Hannover<br>\ncollaboration: João Paulo Feliciano, Rafael Toral, João Carrilho, Rui Toscano, Rui Valério, Hélder Luís, Pedro Fradique</p><p>description PT: Live act do colectivo de mixed media Houselab.</p><p>links: <a href=\"http://www.joaopaulofeliciano.com/jpf_images_content/hw2000.jpg http://www.helderluis.com/graphic-design/houseware-experience-2000/\" rel=\"noopener\" target=\"_blank\" data-mce-selected=\"inline-boundary\">http://www.joaopaulofeliciano.com/jpf_images_content/hw2000.jpg </a></p><p><a href=\"http://www.joaopaulofeliciano.com/jpf_images_content/hw2000.jpg http://www.helderluis.com/graphic-design/houseware-experience-2000/\" rel=\"noopener\" target=\"_blank\">http://www.helderluis.com/graphic-design/houseware-experience-2000/</a></p>",
+  "legacy_wp_id": 1274,
+  "venue": {
+    "venue_name": "Expo Hannover",
+    "city": "Hannover",
+    "region_or_state": null,
+    "country": "Germany",
+    "raw_location": "Hannover, Alemanha"
+  },
+  "client": {
+    "id": "expo-hannover",
+    "name": "Expo Hannover",
+    "slug": "expo-hannover",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2000/10/hw2000.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Rafael Toral",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "João Carrilho",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Toscano",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Valério",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Hélder Luís",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Fradique",
+      "is_organization": false,
+      "sort_order": 6
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaopaulofeliciano.com/jpf_images_content/hw2000.jpg http://www.helderluis.com/graphic-design/houseware-experience-2000/",
+      "url": "http://www.joaopaulofeliciano.com/jpf_images_content/hw2000.jpg http://www.helderluis.com/graphic-design/houseware-experience-2000/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2000/10/hw2000.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2000/10/hw2000-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Houseware 2000",
+    "umbrella_signals": []
+  }
+}

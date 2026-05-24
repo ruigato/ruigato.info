@@ -1,0 +1,108 @@
+{
+  "id": "1040",
+  "slug": "only-connect-i",
+  "title": "Only Connect I",
+  "published_at": "2012-05-05",
+  "occurred_on": "2012-05-05",
+  "event_name": "Only Connect Lab I",
+  "summary": "Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.",
+    "en": "Tutor in the digital arts laboratory of Companhia João Garcia Miguel."
+  },
+  "body_html": "<p>name: Only Connect I<br />\ndate: 2012-05-05<br />\ntype:  tutoring<br />\nevent: Only Connect Lab I</p>\n<p>city: Aberystwyth, Reino Unido<br />\nplace: Aberystwyth University</p>\n<p>client: Aberystwyth Arts Centre<br />\ncollaboration: André Sier, João Garcia Miguel</p>\n<p>description PT: Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.</p>\n<p>links: <a href=\"https://vimeo.com/49558175\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/49558175</a></p>\n",
+  "legacy_wp_id": 1040,
+  "venue": {
+    "venue_name": "Aberystwyth University",
+    "city": "Aberystwyth",
+    "region_or_state": null,
+    "country": "United Kingdom",
+    "raw_location": "Aberystwyth, Reino Unido"
+  },
+  "client": {
+    "id": "aberystwyth-arts-centre",
+    "name": "Aberystwyth Arts Centre",
+    "slug": "aberystwyth-arts-centre",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/vd3Bi526-3rgJLEDfdrgnh84tEMr9uGioVXzXeKyts4.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "3D",
+    "code",
+    "collaboration",
+    "digital arts",
+    "live performance",
+    "music",
+    "touchdesigner",
+    "tutoring"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vd3Bi526-3rgJLEDfdrgnh84tEMr9uGioVXzXeKyts4.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vd3Bi526-3rgJLEDfdrgnh84tEMr9uGioVXzXeKyts4-768x430.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/49558175",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Only Connect I",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

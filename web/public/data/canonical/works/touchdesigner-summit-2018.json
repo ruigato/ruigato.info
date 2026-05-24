@@ -1,0 +1,76 @@
+{
+  "id": "900",
+  "slug": "touchdesigner-summit-2018",
+  "title": "TouchDesigner Summit 2018",
+  "published_at": "2018-02-04",
+  "occurred_on": "2018-02-04",
+  "event_name": "TouchDesigner Summit 2018",
+  "summary": "Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018.",
+  "summary_localized": {
+    "pt": "Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018.",
+    "en": "Presentation of the Geometrical Music project at TouchDesigner Summit 2018."
+  },
+  "body_html": "\n<figure class=\"wp-block-image\"></figure>\n<p>name: TouchDesigner Summit 2018<br/>date: 2018-02-04<br/>type: tutoring<br/>event: TouchDesigner Summit 2018</p>\n<p>city: Berlim, Alemanha<br/>place: Forum Factory</p>\n<p>client: Derivative<br/>collaboration: n/a</p>\n<p>description PT: Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018. A apresentação começou por um breve apanhado dos projectos de Rui Gato em que o TouchDesigner foi utilizado, passando para uma explicação esquemática do sistema da geoMusic, seguida de uma visita guiada pela “network” de programação, terminando com uma demonstração do sistema em utilização ao vivo.</p>\n<p>links:</p>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://touchdesignersummit.com\n</div>\n</figure>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://derivative.ca/events/2018/TDSummit18\n</div>\n</figure>\n",
+  "legacy_wp_id": 900,
+  "venue": {
+    "venue_name": "Forum Factory",
+    "city": "Berlin",
+    "region_or_state": null,
+    "country": "Germany",
+    "raw_location": "Berlim, Alemanha"
+  },
+  "client": {
+    "id": "derivative",
+    "name": "Derivative",
+    "slug": "derivative",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/DzRKW70ZQJ3Z8JwcsCj0ESZ3ky7LM9KfWxdy4jDsc2o.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "live performance",
+    "music",
+    "talks",
+    "touchdesigner"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/DzRKW70ZQJ3Z8JwcsCj0ESZ3ky7LM9KfWxdy4jDsc2o.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/DzRKW70ZQJ3Z8JwcsCj0ESZ3ky7LM9KfWxdy4jDsc2o-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "TouchDesigner Summit 2018",
+    "umbrella_signals": []
+  }
+}

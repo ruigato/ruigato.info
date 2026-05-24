@@ -7,7 +7,13 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "download-flickr": "node scripts/download-flickr-galleries.mjs",
+    "export-canonical": "node scripts/export-canonical-works.mjs",
+    "build-text-translation-sources": "node scripts/build-text-translation-sources.mjs",
+    "migrate-pt-export-typos": "node scripts/migrate-pt-export-typos.mjs",
+    "strip-canonical-description-meta": "node scripts/strip-legacy-meta-from-canonical-descriptions.mjs",
+    "dedupe-canonical-media": "node scripts/dedupe-canonical-media.mjs"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
@@ -30,6 +36,6 @@
     "globals": "^17.4.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.57.0",
-    "vite": "^8.0.1"
+    "vite": "^8.0.5"
   }
 }

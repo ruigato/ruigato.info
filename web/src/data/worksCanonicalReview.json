@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "retorno-ao-paraiso-palacio-do-principe-real",
+    "title": "Retorno ao Paraíso @ Palácio do Príncipe Real",
+    "review_flags": [
+      "manual_title_conflict"
+    ],
+    "umbrella_entity_candidate": {
+      "id": "companhia-joao-garcia-miguel",
+      "name": "Companhia João Garcia Miguel",
+      "slug": "companhia-joao-garcia-miguel",
+      "kind": "company"
+    },
+    "umbrella_entity_confidence": "high",
+    "source_signals": [
+      "Companhia João Garcia Miguel:high"
+    ],
+    "categories": [
+      "sound design"
+    ],
+    "tags": [
+      "installation",
+      "music",
+      "sound design"
+    ],
+    "client": "João Garcia Miguel"
+  }
+]

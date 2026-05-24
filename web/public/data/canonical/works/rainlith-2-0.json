@@ -1,0 +1,121 @@
+{
+  "id": "998",
+  "slug": "rainlith-2-0",
+  "title": "Rainlith 2.0",
+  "published_at": "2011-05-28",
+  "occurred_on": "2011-05-28",
+  "event_name": "Caldas Late Night",
+  "summary": "Instalação sonora interactiva.",
+  "summary_localized": {
+    "pt": "Instalação sonora interactiva.",
+    "en": "Interactive sound installation."
+  },
+  "body_html": "<p> </p>\n<p>name: Rainlith 2.0<br />date: 2011-05-28<br />type: interactive installation<br />event: Caldas Late Night</p>\n<p>city: Caldas da Rainha, Portugal<br />place: Silos Contentor Criativo</p>\n<p>client: CLN<br />collaboration: n/a</p>\n<p>descritivo:</p>\n<p class=\"first\">Rainlith 2 - Kinectic sound art piece.</p>\n<p>On Rainlith, the primitive naturally granular sound of a big rainstick gets explored in real-time by cyber-age sound manipulation tools.<br />It's an interactive piece in witch the movement of the audience's body activates an electric motor, making a reflex movement on the structure that embraces the instrument.<br />The sound of the rainstick is captured and processed in realtime, and sent 24 meters above, filling the empty space of a old industrial cereal container. The reverberated acoustic mix is then received back by the audience in the spot right below the opening of the container.</p>\n<p>Na peça Rainlith o som primitivo, naturalmente granular, de um pau de chuva é explorado por ferramentas modernas de sound design, em tempo real.<br />É uma peça interactiva em que o movimento do corpo do público activa um motor eléctrico, provocando um movimento reflexo na estrutura que sustenta o instrumento.<br />O som captado em tempo real é processado e enviado 24 metros acima, enchendo o espaço de um silo de cereais industrial. A mistura acústica reverberada é absorvida pelo visitante no local imediatamente abaixo da abertura do silo.</p>\n<p>hardware:</p>\n<p>microsoft kinect<br />arduino duemilanove<br />H-bridge (hand made)<br />24v 6A DC motor<br />CPU<br />zoom H4N<br />FM emitter / receiver<br />ion ipa3 portable speaker</p>\n<p>software:</p>\n<p>MAX/MSP<br />Max for Live<br />OSCeleton<br />OpenNI<br />Nite<br />toxiclibs</p>\n<p>agradecimentos especiais:</p>\n<p>Nicola Henriques<br />Susana Luiz<br />Luís Pereira<br />Paulo Carocinho<br />André Sier<br />Daniel Coimbra<br />Ruben Santos</p>\n<p>[embed mce-style=\"width: 589px;\"]https://vimeo.com/25165614[/embed]</p>\n<p>links: <a href=\"https://www.ruigato.info/rainlith-2-0-seres/\" target=\"_blank\" rel=\"noopener\">https://www.ruigato.info/rainlith-2-0-seres/</a></p>\n<p> </p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037521841\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 998,
+  "venue": {
+    "venue_name": "Silos Contentor Criativo",
+    "city": "Caldas da Rainha",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Caldas da Rainha, Portugal"
+  },
+  "client": {
+    "id": "cln",
+    "name": "Cln",
+    "slug": "cln",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2016/06/rainlith.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "interactive installation",
+    "sonic art"
+  ],
+  "tags": [
+    "code",
+    "interactive",
+    "sonic art",
+    "video"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.ruigato.info/rainlith-2-0-seres/",
+      "url": "https://www.ruigato.info/rainlith-2-0-seres/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "descritivo:\n\nRainlith 2 - Kinectic sound art piece.\n\nOn Rainlith, the primitive naturally granular sound of a big rainstick gets explored in real-time by cyber-age sound manipulation tools.\nIt's an interactive piece in witch the movement of the audience's body activates an electric motor, making a reflex movement on the structure that embraces the instrument.\nThe sound of the rainstick is captured and processed in realtime, and sent 24 meters above, filling the empty space of a old industrial cereal container. The reverberated acoustic mix is then received back by the audience in the spot right below the opening of the container.\n\nNa peça Rainlith o som primitivo, naturalmente granular, de um pau de chuva é explorado por ferramentas modernas de sound design, em tempo real.\nÉ uma peça interactiva em que o movimento do corpo do público activa um motor eléctrico, provocando um movimento reflexo na estrutura que sustenta o instrumento.\nO som captado em tempo real é processado e enviado 24 metros acima, enchendo o espaço de um silo de cereais industrial. A mistura acústica reverberada é absorvida pelo visitante no local imediatamente abaixo da abertura do silo."
+    },
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "descritivo:\n\nRainlith 2 - peça de arte sonora cinética.\n\nEm Rainlith, o som primitivo naturalmente granular de um grande pau de chuva é explorado em tempo real por ferramentas de manipulação sonora da era cibernética.\nÉ uma peça interactiva em que o movimento do corpo do público activa um motor eléctrico, provocando um movimento reflexo na estrutura que envolve o instrumento.\nO som do pau de chuva é captado e processado em tempo real, e enviado 24 metros acima, enchendo o espaço vazio de um antigo silo industrial de cereais. A mistura acústica reverberada é depois recebida pelo público no ponto imediatamente abaixo da abertura do silo.\n\nNa peça Rainlith o som primitivo, naturalmente granular, de um pau de chuva é explorado por ferramentas modernas de sound design, em tempo real.\nÉ uma peça interactiva em que o movimento do corpo do público activa um motor eléctrico, provocando um movimento reflexo na estrutura que sustenta o instrumento.\nO som captado em tempo real é processado e enviado 24 metros acima, enchendo o espaço de um silo de cereais industrial. A mistura acústica reverberada é absorvida pelo visitante no local imediatamente abaixo da abertura do silo."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2016/06/rainlith.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2016/06/rainlith-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521841/40847169814.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521841/40847169814.jpg",
+        "/media/flickr/72157694037521841/40665750655.jpg",
+        "/media/flickr/72157694037521841/27689015878.jpg",
+        "/media/flickr/72157694037521841/27689010518.jpg",
+        "/media/flickr/72157694037521841/27689009068.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/25165614[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Rainlith 2.0",
+    "umbrella_signals": []
+  }
+}

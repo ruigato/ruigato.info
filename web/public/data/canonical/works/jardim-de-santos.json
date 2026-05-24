@@ -1,0 +1,115 @@
+{
+  "id": "1152",
+  "slug": "jardim-de-santos",
+  "title": "Jardim de Santos",
+  "published_at": "2009-10-10",
+  "occurred_on": "2009-10-10",
+  "event_name": "experimentadesign",
+  "summary": "concepção de projecto de sound design para a Bienal experimentadesign 2009.",
+  "summary_localized": {
+    "pt": "concepção de projecto de sound design para a Bienal experimentadesign 2009.",
+    "en": "Concept for a sound design project for the 2009 ExperimentaDesign Biennial."
+  },
+  "body_html": "name: Jardim de Santos\ndate: 2009-10-10\ntype: sonic art\nevent: experimentadesign\n\ncity: Lisboa, Portugal\nplace: Jardim de Santos\n\nclient: Experimenta\ncollaboration: António Silveira Gomes, Fernando Brízio, João Gomes da Silva, José Álvaro Correia, Pedrita\n\ndescription PT: concepção de projecto de sound design para a Bienal experimentadesign 2009.\n\nlinks: <a href=\"http://www.experimentadesign.pt/2009/pt/02-04-01.html\" target=\"_blank\" rel=\"noopener\">http://www.experimentadesign.pt/2009/pt/02-04-01.html</a>",
+  "legacy_wp_id": 1152,
+  "venue": {
+    "venue_name": "Jardim de Santos",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/1yM6W-BcvJuUOR4VY4oVTohhYJXvQSpVSj0ChFRPPwQ.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "experimenta",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "António Silveira Gomes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Fernando Brízio",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "João Gomes da Silva",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "José Álvaro Correia",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedrita",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.experimentadesign.pt/2009/pt/02-04-01.html",
+      "url": "http://www.experimentadesign.pt/2009/pt/02-04-01.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/1yM6W-BcvJuUOR4VY4oVTohhYJXvQSpVSj0ChFRPPwQ.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/1yM6W-BcvJuUOR4VY4oVTohhYJXvQSpVSj0ChFRPPwQ-430x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Jardim de Santos",
+    "umbrella_signals": []
+  }
+}

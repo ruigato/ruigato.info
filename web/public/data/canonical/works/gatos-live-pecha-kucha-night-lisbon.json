@@ -1,0 +1,98 @@
+{
+  "id": "934",
+  "slug": "gatos-live-pecha-kucha-night-lisbon",
+  "title": "Gatos live @ Pecha Kucha Night Lisbon",
+  "published_at": "2015-03-28",
+  "occurred_on": "2015-03-28",
+  "event_name": "Pecha Kucha Night Lisbon",
+  "summary": "Perfomance live do bando Gatos na Pecha Kucha Night #20 Lisbon.",
+  "summary_localized": {
+    "pt": "Performance ao vivo do colectivo Gatos na Pecha Kucha Night #20 Lisbon.",
+    "en": "Live performance by the Gatos collective at Pecha Kucha Night #20 Lisbon."
+  },
+  "body_html": "<p>name: Gatos live @ Pecha Kucha Night Lisbon<br />\ndate: 2015-03-28<br />\ntype:  live act<br />\nevent: Pecha Kucha Night Lisbon</p>\n<p>city: Lisboa, Portugal<br />\nplace: Bar a Barraca</p>\n<p>client: Pecha Kucha Night<br />\ncollaboration: Gonçalo Gato, Vasco Gato</p>\n<p>description PT: Perfomance live do bando Gatos na Pecha Kucha Night #20 Lisbon.</p>\n<p>links: <a href=\"http://2.bp.blogspot.com/-IhsLr_-Gleg/VRLaley7PrI/AAAAAAAAAkw/TnqyZ8LaVCE/s1600/PKNL%2320_1%2Bcopy.jpg\" rel=\"noopener\" target=\"_blank\">http://2.bp.blogspot.com/-IhsLr_-Gleg/VRLaley7PrI/AAAAAAAAAkw/TnqyZ8LaVCE/s1600/PKNL%2320_1%2Bcopy.jpg</a></p>\n",
+  "legacy_wp_id": 934,
+  "venue": {
+    "venue_name": "Bar a Barraca",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "pecha-kucha-night",
+    "name": "Pecha Kucha Night",
+    "slug": "pecha-kucha-night",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/TULeGzLa3ZjTBmYkI0cvJ1_zm0uSwiWzsI6rM_i_lD8.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "gatos-live",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Gonçalo Gato",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Vasco Gato",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://2.bp.blogspot.com/-IhsLr_-Gleg/VRLaley7PrI/AAAAAAAAAkw/TnqyZ8LaVCE/s1600/PKNL%2320_1%2Bcopy.jpg",
+      "url": "http://2.bp.blogspot.com/-IhsLr_-Gleg/VRLaley7PrI/AAAAAAAAAkw/TnqyZ8LaVCE/s1600/PKNL%2320_1%2Bcopy.jpg",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/TULeGzLa3ZjTBmYkI0cvJ1_zm0uSwiWzsI6rM_i_lD8.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/TULeGzLa3ZjTBmYkI0cvJ1_zm0uSwiWzsI6rM_i_lD8-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Gatos live @ Pecha Kucha Night Lisbon",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "996",
+  "slug": "vestigios",
+  "title": "Vestígios",
+  "published_at": "2011-05-27",
+  "occurred_on": "2011-05-27",
+  "event_name": "Exposição Vestígios",
+  "summary": "Sound design para instalação de fotografia de Luís Campos.",
+  "summary_localized": {
+    "pt": "Sound design para instalação de fotografia de Luís Campos.",
+    "en": "Sound design for a photography installation by Luís Campos."
+  },
+  "body_html": "<p>name: Vestígios<br />\ndate: 2011-05-27<br />\ntype:  sonic art<br />\nevent: Exposição Vestígios</p>\n<p>city: Lisboa, Portugal<br />\nplace: Fundação EDP</p>\n<p>client: Luís Campos<br />\ncollaboration: n/a</p>\n<p>description PT: Sound design para instalação de fotografia de Luís Campos.</p>\n<p>links: <a href=\"https://artecapital.net/recomendacoes.php?ref=426\" rel=\"noopener\" target=\"_blank\">https://artecapital.net/recomendacoes.php?ref=426</a></p>\n",
+  "legacy_wp_id": 996,
+  "venue": {
+    "venue_name": "Fundação EDP",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "luis-campos",
+    "name": "Luís Campos",
+    "slug": "luis-campos",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/n7aGjc59gbMiuH7eAEzikbiFthWWjFxDuqs6dpzz34w.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "sound design"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://artecapital.net/recomendacoes.php?ref=426",
+      "url": "https://artecapital.net/recomendacoes.php?ref=426",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/n7aGjc59gbMiuH7eAEzikbiFthWWjFxDuqs6dpzz34w.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/n7aGjc59gbMiuH7eAEzikbiFthWWjFxDuqs6dpzz34w-590x393.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Vestígios",
+    "umbrella_signals": []
+  }
+}

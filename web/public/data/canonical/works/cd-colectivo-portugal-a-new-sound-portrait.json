@@ -1,0 +1,94 @@
+{
+  "id": "1256",
+  "slug": "cd-colectivo-portugal-a-new-sound-portrait",
+  "title": "CD colectivo Portugal: A new Sound Portrait",
+  "published_at": "2005-07-01",
+  "occurred_on": "2005-07-01",
+  "event_name": "release",
+  "summary": "Edição em CD com uma faixa de Outersites III, “The Pattern of The Poscriptive Watchdog”.",
+  "summary_localized": {
+    "pt": "Edição em CD com uma faixa de Outersites III, \"The Pattern of The Poscriptive Watchdog\".",
+    "en": "CD release featuring a track by Outersites III, \"The Pattern of The Poscriptive Watchdog\"."
+  },
+  "body_html": "</p>\n<p>name: CD colectivo Portugal: A new Sound Portrait<br />date: 2005-07-01<br />type: music release<br />event: release</p>\n<p>city: Lisboa, Portugal<br />place: Mediateca Lisboa</p>\n<p>client: Numero Records<br />collaboration: n/a</p>\n<p>description PT: Edição em CD com uma faixa de Outersites III, “The Pattern of The Poscriptive Watchdog”.</p>\n<p>links:</p>\n<p> <a data-mce-href=\"https://www.discogs.com/Various-Portugal-A-New-Sound-Portrait/release/521380\" href=\"https://www.discogs.com/Various-Portugal-A-New-Sound-Portrait/release/521380\" rel=\"noopener\" target=\"_blank\">https://www.discogs.com/Various-Portugal-A-New-Sound-Portrait/release/521380 </a></p>\n<p><a data-mce-href=\"http://clientes.netvisao.pt/oladon/media/underworld18.pdf\" href=\"http://clientes.netvisao.pt/oladon/media/underworld18.pdf\" rel=\"noopener\" target=\"_blank\">http://clientes.netvisao.pt/oladon/media/underworld18.pdf</a></p>\n",
+  "legacy_wp_id": 1256,
+  "venue": {
+    "venue_name": "Mediateca Lisboa",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "numero-records",
+    "name": "Numero Records",
+    "slug": "numero-records",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/I2vdVB-L9IvoJhN2yiASfMSXCYUsOwz46N-fExH7aTI.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "CD",
+    "music",
+    "release"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.discogs.com/Various-Portugal-A-New-Sound-Portrait/release/521380",
+      "url": "https://www.discogs.com/Various-Portugal-A-New-Sound-Portrait/release/521380",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://clientes.netvisao.pt/oladon/media/underworld18.pdf",
+      "url": "http://clientes.netvisao.pt/oladon/media/underworld18.pdf",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/I2vdVB-L9IvoJhN2yiASfMSXCYUsOwz46N-fExH7aTI.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/I2vdVB-L9IvoJhN2yiASfMSXCYUsOwz46N-fExH7aTI-590x531.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "CD colectivo Portugal: A new Sound Portrait",
+    "umbrella_signals": []
+  }
+}

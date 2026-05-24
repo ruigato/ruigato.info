@@ -1,0 +1,93 @@
+{
+  "id": "1104",
+  "slug": "platform-templates",
+  "title": "plat|::|form - Templates",
+  "published_at": "2008-06-06",
+  "occurred_on": "2008-06-06",
+  "event_name": "release",
+  "summary": "Edição online de música do projecto Platform com Nuno Clímaco Pinto, pela testtube.",
+  "summary_localized": {
+    "pt": "Edição online de música do projecto Platform com Nuno Clímaco Pinto, pela testtube.",
+    "en": "Online music release from the Platform project with Nuno Clímaco Pinto, by testtube."
+  },
+  "body_html": "name: plat|::|form - Templates\ndate: 2008-06-06\ntype: music release\nevent: release\n\ncity: Lisboa, Portugal\nplace: internet\n\nclient: testtube\ncollaboration: Nuno Clímaco Pinto\n\ndescription PT: Edição online de música do projecto Platform com Nuno Clímaco Pinto, pela testtube.\n\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" target=\"_blank\" rel=\"noopener\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a>",
+  "legacy_wp_id": 1104,
+  "venue": {
+    "venue_name": "Internet",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "testtube",
+    "name": "Testtube",
+    "slug": "testtube",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2008/06/patformTemplates.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "collaboration",
+    "monocromatica",
+    "music",
+    "release"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2008/06/patformTemplates.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2008/06/patformTemplates-460x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form - Templates",
+    "umbrella_signals": []
+  }
+}

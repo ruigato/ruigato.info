@@ -1,0 +1,99 @@
+{
+  "id": "884",
+  "slug": "galeria-kinect-ericeira-wsr",
+  "title": "Galeria Kinect Ericeira WSR",
+  "published_at": "2017-02-22",
+  "occurred_on": "2017-02-22",
+  "event_name": "Instalação Permanente",
+  "summary": "Sistema interactivo de design experiencial, instalação permanente.",
+  "summary_localized": {
+    "pt": "Sistema interactivo de design experiencial em instalação permanente.",
+    "en": "Interactive experiential design system in a permanent installation."
+  },
+  "body_html": "\n\n<p>name: Galeria Kinect Ericeira WSR<br/>date: 2017-02-22<br/>type: interactive installation<br/>event: Instalação Permanente</p>\n<p>city: Ericeira, Portugal<br/>place: Posto Turismo Ericeira</p>\n<p>client: CM Mafra<br/>collaboration: experimenta, ALTA</p>\n<p>description PT: Sistema interactivo de design experiencial, instalação permanente. Uma galeria de videos e fotos em que o utilizador navega usando a sua gestualidade.</p>\n<p>links:</p>\n",
+  "legacy_wp_id": 884,
+  "venue": {
+    "venue_name": "Posto Turismo Ericeira",
+    "city": "Ericeira",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Ericeira, Portugal"
+  },
+  "client": {
+    "id": "cm-mafra",
+    "name": "CM Mafra",
+    "slug": "cm-mafra",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "alta",
+    "name": "ALTA",
+    "slug": "alta",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/b7RhVrq4YfPT0ZVVx33NjpiwnIIJRZZpggKOqx5370s.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "ALTA",
+    "code",
+    "installation",
+    "interactive",
+    "realtime",
+    "touchdesigner",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Experimenta",
+      "is_organization": true,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "ALTA",
+      "is_organization": true,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/b7RhVrq4YfPT0ZVVx33NjpiwnIIJRZZpggKOqx5370s.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/b7RhVrq4YfPT0ZVVx33NjpiwnIIJRZZpggKOqx5370s-768x513.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Galeria Kinect Ericeira WSR",
+    "umbrella_signals": [
+      "ALTA:high"
+    ]
+  }
+}

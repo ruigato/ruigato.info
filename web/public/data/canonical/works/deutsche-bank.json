@@ -1,0 +1,78 @@
+{
+  "id": "1116",
+  "slug": "deutsche-bank",
+  "title": "Deutsche Bank",
+  "published_at": "2008-10-05",
+  "occurred_on": "2008-10-05",
+  "event_name": "n/a",
+  "summary": "Video institucional.",
+  "summary_localized": {
+    "pt": "Vídeo institucional.",
+    "en": "Institutional video."
+  },
+  "body_html": "<p>name: Deutsche Bank<br>date: 2008-10-05<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: HOW</p><p>client: ZDA<br>collaboration: n/a</p><p>description PT: Video institucional.</p><p>links: <a href=\"https://vimeo.com/15363418\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363418\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15363418\" data-uid=\"1u906\" id=\"embedpress_wrapper_1u906\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_1u906\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_1u906\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363418\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363418\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_1u906\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363418\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363418\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-3980e89fa0c98845294dd26facfdad30 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15363418?app_id=122963\" width=\"640\" height=\"512\" frameborder=\"0\" title=\"2008 . deutsche bank\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1116,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "zda",
+    "name": "Zda",
+    "slug": "zda",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "video"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363418",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15363418?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Deutsche Bank",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "920",
+  "slug": "inauguracao-c-i-tapete-de-arraiolos",
+  "title": "Inauguração C.I. Tapete de Arraiolos",
+  "published_at": "2013-08-28",
+  "occurred_on": "2013-08-28",
+  "event_name": "Inauguração",
+  "summary": "Videomapping para inauguração do Centro Interpretativo do Tapete de Arraiolos.",
+  "summary_localized": {
+    "pt": "Videomapping para a inauguração do Centro Interpretativo do Tapete de Arraiolos.",
+    "en": "Video mapping for the opening of the Centro Interpretativo do Tapete de Arraiolos."
+  },
+  "body_html": "</p>\n<p>name: Inauguração C.I. Tapete de Arraiolos<br />\ndate: 2013-08-28<br />\ntype:  video mapping<br />\nevent: Inauguração</p>\n<p>city: Arraiolos, Portugal<br />\nplace: Largo Central</p>\n<p>client: CM Arraiolos<br />\ncollaboration: Ruben Santos, Luís Bombico, Leonardo Medeiros</p>\n<p>description PT: Videomapping para inauguração do Centro Interpretativo do Tapete de Arraiolos.</p>\n<p>links: <a href=\"https://vimeo.com/81161151\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/81161151</a></p>\n",
+  "legacy_wp_id": 920,
+  "venue": {
+    "venue_name": "Largo Central",
+    "city": "Arraiolos",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Arraiolos, Portugal"
+  },
+  "client": {
+    "id": "cm-arraiolos",
+    "name": "CM Arraiolos",
+    "slug": "cm-arraiolos",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/f_I8hri8Xq-oYPVJoax29C5yykCFY-2cC41bz_cq6EE.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Leonardo Medeiros",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/f_I8hri8Xq-oYPVJoax29C5yykCFY-2cC41bz_cq6EE.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/f_I8hri8Xq-oYPVJoax29C5yykCFY-2cC41bz_cq6EE-768x426.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/81161151",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Inauguração C.I. Tapete de Arraiolos",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

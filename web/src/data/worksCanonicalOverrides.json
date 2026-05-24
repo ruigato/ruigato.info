@@ -1,0 +1,78 @@
+{
+  "musa-tutoring": {
+    "title": "MUSA TUTORING",
+    "primary_category": "tutoring",
+    "umbrella_entity": null
+  },
+  "merita-protean-quartet": {
+    "title": "MERITA PROTEAN QUARTET"
+  },
+  "merita-akilone-quartet": {
+    "title": "MERITA AKILONE QUARTET"
+  },
+  "passarola-2": {
+    "title": "Passarola #2"
+  },
+  "torre-nos-v8": {
+    "title": "Torre NOS Primavera Sound v8"
+  },
+  "megalith-v2": {
+    "primary_category": "interactive installation"
+  },
+  "light-connector-brussels": {
+    "title": "Light Connector @ Brussels",
+    "occurred_on": "2019-02-14"
+  },
+  "light-connector-doha": {
+    "title": "Light Connector @ Doha"
+  },
+  "light-connector-cascais": {
+    "title": "Light Connector @ Cascais"
+  },
+  "sacred-geometry-in-music-composition-talk-at-the-liminal-village-boom-festival-2018": {
+    "title": "Sacred Geometry in Music Composition"
+  },
+  "monada-nomada": {
+    "umbrella_entity": null
+  },
+  "eu-sou-o-cosmos": {
+    "umbrella_entity": null
+  },
+  "resistance": {
+    "primary_category": "video mapping"
+  },
+  "rainlith-2-0": {
+    "primary_category": "sonic art"
+  },
+  "line-invaders": {
+    "primary_category": "interactive installation"
+  },
+  "8mm": {
+    "umbrella_entity": null
+  },
+  "rainlith-1-0": {
+    "primary_category": "sonic art"
+  },
+  "paradise-found": {
+    "primary_category": "sonic art"
+  },
+  "outersites-iii-sonar": {
+    "umbrella_entity": null
+  },
+  "innova03": {
+    "title": "Innova'03"
+  },
+  "voyager-red-module": {
+    "primary_category": "sound design"
+  },
+  "outersites-i-2": {
+    "title": "Outersites I @ ZdB",
+    "occurred_on": "2001-07-27"
+  },
+  "hlmrphss": {
+    "umbrella_entity": null
+  },
+  "megalith": {
+    "primary_category": "interactive installation"
+  }
+}

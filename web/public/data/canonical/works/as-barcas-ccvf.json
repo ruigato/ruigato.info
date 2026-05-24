@@ -1,0 +1,94 @@
+{
+  "id": "1042",
+  "slug": "as-barcas-ccvf",
+  "title": "As Barcas @ CCVF",
+  "published_at": "2012-06-07",
+  "occurred_on": "2012-06-07",
+  "event_name": null,
+  "summary": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device, live music, and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "<a href=\"https://www.ccvf.pt/conteudo.php?id=19&amp;cat=&amp;prog=6&amp;on=false&amp;ano=2012&amp;evento=2974&amp;s=\">https://www.ccvf.pt/conteudo.php?id=19&amp;cat=&amp;prog=6&amp;on=false&amp;ano=2012&amp;evento=2974&amp;s=</a>\r\n\r\n[embed]https://www.youtube.com/watch?v=XBnEh6kTdDM&amp;list=PL74C5DF36663002A6[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 1042,
+  "venue": null,
+  "client": null,
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/wdO0o7DzGUz_ECReq-oW4Ppsq_vB2c7vOgO4EqA3LcA-1.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "as-barcas",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "interactive",
+    "live performance",
+    "music",
+    "realtime",
+    "theatre",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.ccvf.pt/conteudo.php?id=19&cat=&prog=6&on=false&ano=2012&evento=2974&s=",
+      "url": "https://www.ccvf.pt/conteudo.php?id=19&cat=&prog=6&on=false&ano=2012&evento=2974&s=",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/wdO0o7DzGUz_ECReq-oW4Ppsq_vB2c7vOgO4EqA3LcA-1.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/wdO0o7DzGUz_ECReq-oW4Ppsq_vB2c7vOgO4EqA3LcA-1-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=XBnEh6kTdDM&list=PL74C5DF36663002A6[/embed",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": null,
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

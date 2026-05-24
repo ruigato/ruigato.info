@@ -1,0 +1,82 @@
+{
+  "id": "1136",
+  "slug": "stand-riberalves-novo-dia",
+  "title": "stand riberalves - novo dia",
+  "published_at": "2009-07-07",
+  "occurred_on": "2009-07-07",
+  "event_name": "n/a",
+  "summary": "Previsualização 3D.",
+  "summary_localized": {
+    "pt": "Pré-visualização 3D.",
+    "en": "3D preview."
+  },
+  "body_html": "<p>name: stand riberalves - novo dia<br>date: 2009-07-07<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: HOW</p><p>client: ZDA<br>collaboration: Margarida Moura Guedes</p><p>description PT: Previsualização 3D.</p><p>links: <a href=\"https://vimeo.com/21461598\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/21461598\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/21461598\" data-uid=\"xi3s6\" id=\"embedpress_wrapper_xi3s6\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_xi3s6\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_xi3s6\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/21461598\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/21461598\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_xi3s6\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/21461598\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/21461598\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-4d03083cbc94d0155f079af3d0b7c615 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/21461598?app_id=122963\" width=\"750\" height=\"166\" frameborder=\"0\" title=\"2011 . RIBERALVES ALIMENTARIA\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1136,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "zda",
+    "name": "Zda",
+    "slug": "zda",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/21461598",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/21461598?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "stand riberalves - novo dia",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

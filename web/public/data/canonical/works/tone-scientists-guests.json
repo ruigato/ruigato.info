@@ -1,0 +1,141 @@
+{
+  "id": "1006",
+  "slug": "tone-scientists-guests",
+  "title": "Tone Scientists + Guests",
+  "published_at": "2011-06-23",
+  "occurred_on": "2011-06-23",
+  "event_name": "One Listens Recording",
+  "summary": "Por convite dos Tone Scientists, live act na Quadrum Gallery.",
+  "summary_localized": {
+    "pt": "Por convite dos Tone Scientists, actuação ao vivo na Quadrum Gallery.",
+    "en": "Por convite dos Tone Scientists, live act na Quadrum Gallery."
+  },
+  "body_html": "<p><br /><br />name: Tone Scientists + Guests<br />date: 2011-06-23<br />type: music release<br />event: One Listens Recording<br /><br />city: Lisboa, Portugal<br />place: Galeria Quadrum<br /><br />client: Rui Toscano<br />collaboration: João Paulo Feliciano, Rui Toscano, Rui Valério, Fernando Fadigas, André Pinto, Augusto Sampaio Sanches<br /><br />description PT: Por convite dos Tone Scientists, live act na Quadrum Gallery.<br /><br />links: <a href=\"https://www.discogs.com/Tone-Scientists-One-Listens/release/6125882\" target=\"_blank\" rel=\"noopener\">https://www.discogs.com/Tone-Scientists-One-Listens/release/6125882</a><br /><br /></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037521941\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1006,
+  "venue": {
+    "venue_name": "Galeria Quadrum",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "rui-toscano",
+    "name": "Rui Toscano",
+    "slug": "rui-toscano",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2011/06/tone.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music",
+    "release",
+    "vinyl"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Toscano",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Valério",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Fernando Fadigas",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "André Pinto",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Augusto Sampaio Sanches",
+      "is_organization": false,
+      "sort_order": 5
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.discogs.com/Tone-Scientists-One-Listens/release/6125882",
+      "url": "https://www.discogs.com/Tone-Scientists-One-Listens/release/6125882",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/06/tone.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/06/tone-768x574.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521941/43686484660.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521941/43686484660.jpg",
+        "/media/flickr/72157694037521941/30563023237.jpg",
+        "/media/flickr/72157694037521941/39750044250.jpg",
+        "/media/flickr/72157694037521941/39750043220.jpg",
+        "/media/flickr/72157694037521941/39750041960.jpg",
+        "/media/flickr/72157694037521941/27688983358.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Tone Scientists + Guests",
+    "umbrella_signals": []
+  }
+}

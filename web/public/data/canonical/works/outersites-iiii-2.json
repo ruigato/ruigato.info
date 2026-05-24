@@ -1,0 +1,109 @@
+{
+  "id": "1080",
+  "slug": "outersites-iiii-2",
+  "title": "Outersites IIII",
+  "published_at": "2007-04-25",
+  "occurred_on": "2007-04-25",
+  "event_name": "Festival \"Hí Revolta No Cais\"",
+  "summary": "Live act no festival \"Hí Revolta no Cais\".",
+  "summary_localized": {
+    "pt": "Live act no festival \"Hí Revolta no Cais\".",
+    "en": "Live act at the festival \"Hí Revolta no Cais\"."
+  },
+  "body_html": "<p>name: Outersites IIII<br />date: 2007-04-25<br />type: live act<br />event: Festival \"Hí Revolta No Cais\"</p>\n<p>city: Lisboa, Portugal<br />place: Europa</p>\n<p>client: Revolta<br />collaboration: João Faustino</p>\n<p>description PT: Live act no festival \"Hí Revolta no Cais\".</p>\n<p>links:</p>\n<p><a href=\"http://a-trompa.net/destaque/destaqueha-revolta-no-cais\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://a-trompa.net/destaque/destaqueha-revolta-no-cais\">http://a-trompa.net/destaque/destaqueha-revolta-no-cais </a></p>\n<p><a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a></p>\n\n<!-- wp:image {\"id\":2993,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2007/04/outersitesIIII.png\" alt=\"\" class=\"wp-image-2993\"/></figure>\n<!-- /wp:image -->",
+  "legacy_wp_id": 1080,
+  "venue": {
+    "venue_name": "Europa",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "revolta",
+    "name": "Revolta",
+    "slug": "revolta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2007/04/Image0008.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Faustino",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://a-trompa.net/destaque/destaqueha-revolta-no-cais",
+      "url": "http://a-trompa.net/destaque/destaqueha-revolta-no-cais",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2007/04/Image0008.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2007/04/Image0008-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2007/04/outersitesIIII.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites IIII",
+    "umbrella_signals": []
+  }
+}

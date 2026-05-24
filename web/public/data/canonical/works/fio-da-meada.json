@@ -1,0 +1,81 @@
+{
+  "id": "1154",
+  "slug": "fio-da-meada",
+  "title": "fio da meada",
+  "published_at": "2009-10-11",
+  "occurred_on": "2009-10-11",
+  "event_name": "n/a",
+  "summary": "Genérico e pós-produção documentário.",
+  "summary_localized": {
+    "pt": "Genérico e pós-produção documentário.",
+    "en": "Title sequence and post-production for a documentary."
+  },
+  "body_html": "name: fio da meada\r\ndate: 2009-10-11\r\ntype: sound engineering\r\nevent: n/a\r\n\r\ncity: Torres Vedras, Portugal\r\nplace: RTP\r\n\r\nclient: Mínima Ideia\r\ncollaboration: Margarida Moura Guedes, Ruben Santos\r\n\r\ndescription PT: Genérico e pós-produção documentário.\r\n\r\nlinks:\r\n\r\n[embed]https://vimeo.com/15332747[/embed]",
+  "legacy_wp_id": 1154,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound engineering",
+  "categories": [
+    "sound engineering"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "sound engineering",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15332747[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "fio da meada",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

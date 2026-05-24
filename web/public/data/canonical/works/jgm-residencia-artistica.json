@@ -1,0 +1,112 @@
+{
+  "id": "1142",
+  "slug": "jgm-residencia-artistica",
+  "title": "JGM Residência Artística",
+  "published_at": "2009-08-08",
+  "occurred_on": "2009-08-08",
+  "event_name": "residência artística espaço do tempo",
+  "summary": "Artistic residence at “Espaço do Tempo” of Rui Horta, for reflexion on the piece of João Garcia Miguel “O banqueiro Anarquista”",
+  "summary_localized": {
+    "pt": "Residência artística no Espaço do Tempo, de Rui Horta, para reflexão sobre a peça \"O banqueiro Anarquista\", de João Garcia Miguel.",
+    "en": "Artistic residency at Rui Horta's Espaço do Tempo for reflection on João Garcia Miguel's piece \"O banqueiro Anarquista\"."
+  },
+  "body_html": "<p>name: JGM Residência Artística<br />\ndate: 2009-08-08<br />\ntype:  artistic residency<br />\nevent: residência artística espaço do tempo</p>\n<p>city: Montemor-o-novo, Portugal<br />\nplace: Espaço do Tempo</p>\n<p>client: João Garcia Miguel<br />\ncollaboration: Sara Ribeiro, Luís Bombico, João Garcia Miguel</p>\n<p>description PT: Artistic residence at “Espaço do Tempo” of Rui Horta, for reflexion on the piece of João Garcia Miguel “O banqueiro Anarquista”</p>\n<p>links: <a href=\"http://www.joaogarciamiguel.com/O-Banqueiro-Anarquista\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/O-Banqueiro-Anarquista</a></p>\n",
+  "legacy_wp_id": 1142,
+  "venue": {
+    "venue_name": "Espaço do Tempo",
+    "city": "Montemor-o-novo",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Montemor-o-novo, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/lW4EHjFXmK9h0iOpicKlQMfa85dQzMrDWmKfKBqnAwM.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "artistic residency",
+  "categories": [
+    "artistic residency"
+  ],
+  "tags": [
+    "artistic residency",
+    "collaboration",
+    "JGM",
+    "theatre"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/O-Banqueiro-Anarquista",
+      "url": "http://www.joaogarciamiguel.com/O-Banqueiro-Anarquista",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/lW4EHjFXmK9h0iOpicKlQMfa85dQzMrDWmKfKBqnAwM.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/lW4EHjFXmK9h0iOpicKlQMfa85dQzMrDWmKfKBqnAwM-590x394.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "JGM Residência Artística",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

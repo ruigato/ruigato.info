@@ -1,0 +1,82 @@
+{
+  "id": "1112",
+  "slug": "ao-sol",
+  "title": "Ao Sol",
+  "published_at": "2008-09-09",
+  "occurred_on": "2008-09-09",
+  "event_name": "n/a",
+  "summary": "Video institucional.",
+  "summary_localized": {
+    "pt": "Vídeo institucional.",
+    "en": "Institutional video."
+  },
+  "body_html": "name: Ao Sol\r\ndate: 2008-09-09\r\ntype: 3D\r\nevent: n/a\r\n\r\ncity: Torres Vedras, Portugal\r\nplace: HOW\r\n\r\nclient: Ao Sol\r\ncollaboration: Margarida Moura Guedes, Ricardo Viana\r\n\r\ndescription PT: Video institucional.\r\n\r\nlinks:\r\n\r\n[embed mce-style=\"width: 589px;\"]https://vimeo.com/15361597[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 1112,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "ao-sol",
+    "name": "Ao Sol",
+    "slug": "ao-sol",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Viana",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15361597[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Ao Sol",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

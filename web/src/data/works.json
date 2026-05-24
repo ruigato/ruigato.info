@@ -37,7 +37,7 @@
         "title": "Passarola #2",
         "date": "2023-10-25",
         "summary": null,
-        "bodyHtml": "<!-- wp:paragraph -->\n<p>name: Passarola #2 - Music variations on the past and the future - k.87</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br>date: 2023-10-25<br>type: live act, music<br>event: CEM presentation<br>location: Biblioteca do Palício Nacional de Mafra</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Concerto do projecto VIA Scarlatti | Passarola: Sonata em Si Menor, K.87, Domenico Scarlatti + Vítor Joaquim, Pedro Emanuel Pereira e Rui Gato, no contexto da apresentação do CEM Portugal, no Palício Nacional de Mafra, sala da Biblioteca.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":2983,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.ruigato.info/wp-content/uploads/2025/04/Screenshot-2025-04-07-143121-1024x738.png\" alt=\"\" class=\"wp-image-2983\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2984,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.ruigato.info/wp-content/uploads/2025/04/Screenshot-2025-04-07-143149-1024x715.png\" alt=\"\" class=\"wp-image-2984\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3247,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://www.ruigato.info/wp-content/uploads/2023/10/image.png\" alt=\"\" class=\"wp-image-3247\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3248,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://www.ruigato.info/wp-content/uploads/2023/10/image-1.png\" alt=\"\" class=\"wp-image-3248\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3249,\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-style-default\"><img src=\"https://www.ruigato.info/wp-content/uploads/2023/10/image-2.png\" alt=\"\" class=\"wp-image-3249\"/></figure>\n<!-- /wp:image -->",
+        "bodyHtml": "<!-- wp:paragraph -->\n<p>name: Passarola #2 - Music variations on the past and the future - k.87</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br>date: 2023-10-25<br>type: live act, music<br>event: CEM presentation<br>location: Biblioteca do Palácio Nacional de Mafra</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Concerto do projecto VIA Scarlatti | Passarola: Sonata em Si Menor, K.87, Domenico Scarlatti + Vítor Joaquim, Pedro Emanuel Pereira e Rui Gato, no contexto da apresentação do CEM Portugal, no Palácio Nacional de Mafra, sala da Biblioteca.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":2983,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.ruigato.info/wp-content/uploads/2025/04/Screenshot-2025-04-07-143121-1024x738.png\" alt=\"\" class=\"wp-image-2983\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2984,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.ruigato.info/wp-content/uploads/2025/04/Screenshot-2025-04-07-143149-1024x715.png\" alt=\"\" class=\"wp-image-2984\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3247,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://www.ruigato.info/wp-content/uploads/2023/10/image.png\" alt=\"\" class=\"wp-image-3247\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3248,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://www.ruigato.info/wp-content/uploads/2023/10/image-1.png\" alt=\"\" class=\"wp-image-3248\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3249,\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-style-default\"><img src=\"https://www.ruigato.info/wp-content/uploads/2023/10/image-2.png\" alt=\"\" class=\"wp-image-3249\"/></figure>\n<!-- /wp:image -->",
         "tags": [
             "live act",
             "passarola"
@@ -140,7 +140,7 @@
         "title": "Torre NOS v8",
         "date": "2019-05-16",
         "summary": null,
-        "bodyHtml": "<!-- wp:paragraph -->\n<p>name: Torre NOS Primavera Sound v8<br>date: 2019-05-16<br>type: interactive installation<br>event: NOS Primavera Sound</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: Porto, Portugal<br>place: Parque da Cidade Porto</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: João Paulo Feliciano<br>collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sí, André Gonçalves</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+        "bodyHtml": "<!-- wp:paragraph -->\n<p>name: Torre NOS Primavera Sound v8<br>date: 2019-05-16<br>type: interactive installation<br>event: NOS Primavera Sound</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: Porto, Portugal<br>place: Parque da Cidade Porto</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: João Paulo Feliciano<br>collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sá, André Gonçalves</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
         "tags": [
             "code",
             "collaboration",
@@ -325,8 +325,8 @@
         "slug": "torre-nos-primavera-sound-v7",
         "title": "Torre NOS Primavera Sound v7",
         "date": "2018-06-04",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "<p>name: Torre NOS Primavera Sound v7<br />date: 2018-06-04<br />type: interactive installation<br />event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br />place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sí, André Gonçalves</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links:</p>\n<div id=\"photonic-flickr-stream-6\" class=\"photonic-flickr-stream photonic-stream\">\n<p><!-- ./photonic-level-1-container --><br /><span id=\"photonic-flickr-stream-6-container-end\"></span></p>\n</div>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157696765566051\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "<p>name: Torre NOS Primavera Sound v7<br />date: 2018-06-04<br />type: interactive installation<br />event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br />place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sá, André Gonçalves</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links:</p>\n<div id=\"photonic-flickr-stream-6\" class=\"photonic-flickr-stream photonic-stream\">\n<p><!-- ./photonic-level-1-container --><br /><span id=\"photonic-flickr-stream-6-container-end\"></span></p>\n</div>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157696765566051\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
         "tags": [
             "code",
             "collaboration",
@@ -435,7 +435,7 @@
         "title": "TouchDesigner Summit 2018",
         "date": "2018-02-04",
         "summary": "Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018.",
-        "bodyHtml": "\n<figure class=\"wp-block-image\"></figure>\n<p>name: TouchDesigner Summit 2018<br/>date: 2018-02-04<br/>type: tutoring<br/>event: TouchDesigner Summit 2018</p>\n<p>city: Berlim, Alemanha<br/>place: Forum Factory</p>\n<p>client: Derivative<br/>collaboration: n/a</p>\n<p>description PT: Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018. A apresentação começou por um breve apanhado dos projectos de Rui Gato em que o TouchDesigner foi utilizado, passando para uma explicação esquemítica do sistema da geoMusic, seguida de uma visita guiada pela “network” de programação, terminando com uma demonstração do sistema em utilização ao vivo.</p>\n<p>links:</p>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://touchdesignersummit.com\n</div>\n</figure>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://derivative.ca/events/2018/TDSummit18\n</div>\n</figure>\n",
+        "bodyHtml": "\n<figure class=\"wp-block-image\"></figure>\n<p>name: TouchDesigner Summit 2018<br/>date: 2018-02-04<br/>type: tutoring<br/>event: TouchDesigner Summit 2018</p>\n<p>city: Berlim, Alemanha<br/>place: Forum Factory</p>\n<p>client: Derivative<br/>collaboration: n/a</p>\n<p>description PT: Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018. A apresentação começou por um breve apanhado dos projectos de Rui Gato em que o TouchDesigner foi utilizado, passando para uma explicação esquemática do sistema da geoMusic, seguida de uma visita guiada pela “network” de programação, terminando com uma demonstração do sistema em utilização ao vivo.</p>\n<p>links:</p>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://touchdesignersummit.com\n</div>\n</figure>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://derivative.ca/events/2018/TDSummit18\n</div>\n</figure>\n",
         "tags": [
             "live performance",
             "music",
@@ -454,7 +454,7 @@
         "title": "INSIDE",
         "date": "2017-09-30",
         "summary": "Espectáculo audiovisual de 100 metros no contexto do programa Primeira Pedra da experimentadesign.",
-        "bodyHtml": "<p>name: inside<br />date: 2017-09-30<br />type: video mapping<br />event: experimentadesign ’17</p>\n<p>city: lisboa, portugal<br />place: museu nacional dos coches</p>\n<p>client: experimenta<br />collaboration: david negrão, manuel morgado</p>\n<p>description pt:</p>\n<p>INSIDE é uma obra audiovisual que ocupou 1.024 m² da fachada do Museu Nacional dos Coches com videomapping.<br />O sistema tecnológico utilizado criou um dispositivo narrativo imersivo e sensorial, com elementos visuais de geração em tempo real, desenho de som multicanal e vídeo.</p>\n<p>Num espectáculo audiovisual de cerca de 15 minutos, INSIDW conta uma história em 3 momentos, desenvolvendo uma narrativa que explora as diferentes fases da formação da pedra, a sua extração e transformação através do engenho humano e o uso resultante da genialidade do trabalho do homem.</p>\n<p>Fez parte do programa Primeira Pedra <a class=\"\" href=\"http://www.primeirapedra.com\">www.primeirapedra.com</a> e integrou a EXD17, numa primeira<br />noite de 30.09.17.</p>\n<p>description EN:</p>\n<p><strong>INSIDE</strong> is an audio-visual piece that occupied 1,024 m² of the National Coach Museum façade with videomapping.<br />The technological system used created an immersive and sensorial effect, with real-time generated visual elements, combined with multi-channel sound and video.</p>\n<p>Lasting about 15 minutes, this audio-visual show tells a story divided into 3 moments, exploring the different stages of stone formation, its extraction and transformation through human device, and the uses it is given through the genius of human creation.</p>\n<p>It is part of the First Stone programme <a class=\"\" href=\"http://www.primeirapedra.com\">www.primeirapedra.com</a> and of the EXD17 Biennale,<br />and premiered on the night of 30.09.17.</p>\n<p>links: </p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/SU49Kg4W1TM\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/SU49Kg4W1TM\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:embed {\"url\":\"https://youtu.be/sPsxqP706Pc\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/sPsxqP706Pc\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157665934499537\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+        "bodyHtml": "<p>name: inside<br />date: 2017-09-30<br />type: video mapping<br />event: experimentadesign ’17</p>\n<p>city: lisboa, portugal<br />place: museu nacional dos coches</p>\n<p>client: experimenta<br />collaboration: david negrão, manuel morgado</p>\n<p>description pt:</p>\n<p>INSIDE é uma obra audiovisual que ocupou 1.024 m² da fachada do Museu Nacional dos Coches com videomapping.<br />O sistema tecnológico utilizado criou um dispositivo narrativo imersivo e sensorial, com elementos visuais de geração em tempo real, desenho de som multicanal e vídeo.</p>\n<p>Num espectáculo audiovisual de cerca de 15 minutos, INSIDE conta uma história em 3 momentos, desenvolvendo uma narrativa que explora as diferentes fases da formação da pedra, a sua extração e transformação através do engenho humano e o uso resultante da genialidade do trabalho do homem.</p>\n<p>Fez parte do programa Primeira Pedra <a class=\"\" href=\"http://www.primeirapedra.com\">www.primeirapedra.com</a> e integrou a EXD17, numa primeira<br />noite de 30.09.17.</p>\n<p>description EN:</p>\n<p><strong>INSIDE</strong> is an audio-visual piece that occupied 1,024 m² of the National Coach Museum façade with videomapping.<br />The technological system used created an immersive and sensorial effect, with real-time generated visual elements, combined with multi-channel sound and video.</p>\n<p>Lasting about 15 minutes, this audio-visual show tells a story divided into 3 moments, exploring the different stages of stone formation, its extraction and transformation through human device, and the uses it is given through the genius of human creation.</p>\n<p>It is part of the First Stone programme <a class=\"\" href=\"http://www.primeirapedra.com\">www.primeirapedra.com</a> and of the EXD17 Biennale,<br />and premiered on the night of 30.09.17.</p>\n<p>links: </p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/SU49Kg4W1TM\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/SU49Kg4W1TM\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:embed {\"url\":\"https://youtu.be/sPsxqP706Pc\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/sPsxqP706Pc\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157665934499537\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
         "tags": [
             "3D",
             "ALTA",
@@ -497,8 +497,8 @@
         "slug": "torre-nos-primavera-sound-v6",
         "title": "Torre NOS Primavera Sound v6",
         "date": "2017-06-10",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "\n\n<p>name: Torre NOS Primavera Sound v6<br/>date: 2017-06-10<br/>type: light<br/>event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br/>place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br/>collaboration: João Paulo Feliciano, José álvaro Correia, Pedro Cabral, Sílvia de Sí, André Gonçalves</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "\n\n<p>name: Torre NOS Primavera Sound v6<br/>date: 2017-06-10<br/>type: light<br/>event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br/>place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br/>collaboration: João Paulo Feliciano, José Álvaro Correia, Pedro Cabral, Sílvia de Sá, André Gonçalves</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
         "tags": [
             "code",
             "collaboration",
@@ -538,8 +538,8 @@
         "slug": "ginga-beat-rbma-alumni-session",
         "title": "Ginga Beat RBMA Alumni session",
         "date": "2017-03-23",
-        "summary": "Conversa de alunos da RBMA na emissão da Pop Up rídio Ginga Beat / vodafone.fm.",
-        "bodyHtml": "\n\n<p>name: Ginga Beat RBMA Alumni session<br/>date: 2017-03-23<br/>type: misc<br/>event: Ginga Beat Pop Up Radio</p>\n<p>city: Lisboa, Portugal<br/>place: Ginga Beat Pop Up Radio Chiado</p>\n<p>client: Red Bull Music Academy Portugal<br/>collaboration: GPU Panic, Octapush, Papercutz, Mono, Jorge Caiado</p>\n<p>description PT: Conversa de alunos da RBMA na emissão da Pop Up rídio Ginga Beat / vodafone.fm.</p>\n<p>links: <a href=\"https://www.redbullradio.com/events/ginga-beat\" rel=\"noopener\" target=\"_blank\">https://www.redbullradio.com/events/ginga-beat</a></p>\n",
+        "summary": "Conversa de alunos da RBMA na emissão da Pop Up rádio Ginga Beat / vodafone.fm.",
+        "bodyHtml": "\n\n<p>name: Ginga Beat RBMA Alumni session<br/>date: 2017-03-23<br/>type: misc<br/>event: Ginga Beat Pop Up Radio</p>\n<p>city: Lisboa, Portugal<br/>place: Ginga Beat Pop Up Radio Chiado</p>\n<p>client: Red Bull Music Academy Portugal<br/>collaboration: GPU Panic, Octapush, Papercutz, Mono, Jorge Caiado</p>\n<p>description PT: Conversa de alunos da RBMA na emissão da Pop Up rádio Ginga Beat / vodafone.fm.</p>\n<p>links: <a href=\"https://www.redbullradio.com/events/ginga-beat\" rel=\"noopener\" target=\"_blank\">https://www.redbullradio.com/events/ginga-beat</a></p>\n",
         "tags": [
             "music",
             "radio"
@@ -592,7 +592,7 @@
     },
     {
         "slug": "retorno-ao-paraiso-palacio-do-principe-real",
-        "title": "Retorno ao Paraíso @ Palício do Príncipe Real",
+        "title": "Retorno ao Paraíso @ Palácio do Príncipe Real",
         "date": "2017-01-29",
         "summary": "Colaboração com desenho de som para instalação de João Garcia Miguel.",
         "bodyHtml": "<!-- wp:image {\"id\":2547,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.ruigato.info/wp-content/uploads/2024/06/maxresdefault-1024x576.jpg\" alt=\"\" class=\"wp-image-2547\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>name: retorno ao paraíso @ palício do príncipe real<br>date: 2017-01-29<br>type: sound design<br>event: exposição mundo interior</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: lisboa, portugal<br>place: palício do príncipe real</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: joão garcia miguel<br>collaboration: joão garcia miguel</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description pt: colaboração com desenho de som para instalação de joão garcia miguel.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:&nbsp;<a href=\"https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204</a></p>\n<!-- /wp:paragraph -->",
@@ -700,8 +700,8 @@
         "slug": "torre-nos-primavera-sound-v5",
         "title": "Torre NOS Primavera Sound v5",
         "date": "2016-06-09",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "\n\n<p>name: Torre NOS Primavera Sound v5<br/>date: 2016-06-09<br/>type: light<br/>event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br/>place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br/>collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sí, Alberto Lopes</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "\n\n<p>name: Torre NOS Primavera Sound v5<br/>date: 2016-06-09<br/>type: light<br/>event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br/>place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br/>collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sá, Alberto Lopes</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
         "tags": [
             "code",
             "collaboration",
@@ -851,8 +851,8 @@
         "slug": "torre-nos-primavera-sound-v4",
         "title": "Torre NOS Primavera Sound v4",
         "date": "2015-06-04",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "</p>\n<p>name: Torre NOS Primavera Sound v4<br />\ndate: 2015-06-04<br />\ntype:  light<br />\nevent: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br />\nplace: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />\ncollaboration: João Paulo Feliciano, José álvaro Correia, Pedro Cabral, Sílvia de Sí, Gonçalo Santos</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "</p>\n<p>name: Torre NOS Primavera Sound v4<br />\ndate: 2015-06-04<br />\ntype:  light<br />\nevent: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br />\nplace: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />\ncollaboration: João Paulo Feliciano, José Álvaro Correia, Pedro Cabral, Sílvia de Sá, Gonçalo Santos</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
         "tags": [
             "code",
             "collaboration",
@@ -997,8 +997,8 @@
         "slug": "torre-nos-primavera-sound-v3",
         "title": "Torre NOS Primavera Sound v3",
         "date": "2014-06-05",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "</p>\n<p>name: Torre NOS Primavera Sound v3<br />\ndate: 2014-06-05<br />\ntype:  light<br />\nevent: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br />\nplace: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />\ncollaboration: João Paulo Feliciano, José álvaro Correia, Pedro Cabral, Sílvia de Sí</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre NOS - Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "</p>\n<p>name: Torre NOS Primavera Sound v3<br />\ndate: 2014-06-05<br />\ntype:  light<br />\nevent: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br />\nplace: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />\ncollaboration: João Paulo Feliciano, José Álvaro Correia, Pedro Cabral, Sílvia de Sá</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
         "tags": [
             "code",
             "collaboration",
@@ -1037,7 +1037,7 @@
         "title": "Centro Interpretativo Companhia das Lezírias",
         "date": "2013-10-10",
         "summary": "Sistema para instalação museulógica com 12 ecrãs.",
-        "bodyHtml": "</p>\n<p>name: Centro Interpretativo Companhia das Lezírias<br />\ndate: 2013-10-10<br />\ntype:  interactive installation<br />\nevent: Instalação Permanente</p>\n<p>city: Lisboa, Portugal<br />\nplace: Companhia das Lezírias</p>\n<p>client: Companhia das Lezírias<br />\ncollaboration: José álvaro Correia, Patrícia Garcia Pereira</p>\n<p>description PT: Sistema para instalação museulógica com 12 ecrãs.</p>\n<p>links: <a href=\"http://www.cl.pt\" rel=\"noopener\" target=\"_blank\">http://www.cl.pt</a></p>\n",
+        "bodyHtml": "</p>\n<p>name: Centro Interpretativo Companhia das Lezírias<br />\ndate: 2013-10-10<br />\ntype:  interactive installation<br />\nevent: Instalação Permanente</p>\n<p>city: Lisboa, Portugal<br />\nplace: Companhia das Lezírias</p>\n<p>client: Companhia das Lezírias<br />\ncollaboration: José Álvaro Correia, Patrícia Garcia Pereira</p>\n<p>description PT: Sistema para instalação museulógica com 12 ecrãs.</p>\n<p>links: <a href=\"http://www.cl.pt\" rel=\"noopener\" target=\"_blank\">http://www.cl.pt</a></p>\n",
         "tags": [
             "code",
             "installation",
@@ -1111,8 +1111,8 @@
         "slug": "torre-optimus-primavera-sound-v2",
         "title": "Torre Optimus Primavera Sound v2",
         "date": "2013-05-30",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre Optimus - Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "</p>\n<p>name: Torre Optimus Primavera Sound v2<br />date: 2013-05-30<br />type: light<br />event: Optimus Primavera Sound</p>\n<p>city: Porto, Portugal<br />place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />collaboration: João Paulo Feliciano, José álvaro Correia, Pedro Cabral, Sílvia de Sí</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre Optimus ' Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a data-mce-href=\"https://www.nosprimaverasound.com/?lang=en\" href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre Optimus - Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "</p>\n<p>name: Torre Optimus Primavera Sound v2<br />date: 2013-05-30<br />type: light<br />event: Optimus Primavera Sound</p>\n<p>city: Porto, Portugal<br />place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />collaboration: João Paulo Feliciano, José Álvaro Correia, Pedro Cabral, Sílvia de Sá</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre Optimus ' Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a data-mce-href=\"https://www.nosprimaverasound.com/?lang=en\" href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
         "tags": [
             "code",
             "light",
@@ -1414,8 +1414,8 @@
         "slug": "torre-optimus-primavera-sound-v1",
         "title": "Torre Optimus Primavera Sound v1",
         "date": "2012-06-07",
-        "summary": "Sistema em tempo real para controlo lúminico da Torre Optimus - Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
-        "bodyHtml": "</p>\n<p>name: Torre Optimus Primavera Sound v1<br />\ndate: 2012-06-07<br />\ntype: light<br />\nevent: Optimus Primavera Sound</p>\n<p>city: Porto, Portugal<br />\nplace: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />\ncollaboration: João Paulo Feliciano, José álvaro Correia, Pedro Cabral, Sílvia de Sí</p>\n<p>description PT: Sistema em tempo real para controlo lúminico da Torre Optimus ' Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n<p>[flickr_set id=”72157675937872298\"]</p>\n",
+        "summary": "Sistema em tempo real para controlo lumínico da Torre Optimus - Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.",
+        "bodyHtml": "</p>\n<p>name: Torre Optimus Primavera Sound v1<br />\ndate: 2012-06-07<br />\ntype: light<br />\nevent: Optimus Primavera Sound</p>\n<p>city: Porto, Portugal<br />\nplace: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br />\ncollaboration: João Paulo Feliciano, José Álvaro Correia, Pedro Cabral, Sílvia de Sá</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre Optimus ' Palco principal Optimus Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n<p>[flickr_set id=”72157675937872298\"]</p>\n",
         "tags": [
             "code",
             "collaboration",
@@ -2097,8 +2097,8 @@
         "slug": "seminario-desenho-de-som",
         "title": "seminário Desenho de Som",
         "date": "2010-12-12",
-        "summary": "Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD. Aula teórica e aula prítica, com projectos de grupo.",
-        "bodyHtml": "<p>name: seminário Desenho de Som<br />\ndate: 2010-12-12<br />\ntype:  tutoring<br />\nevent: seminário Design de Ambientes</p>\n<p>city: Caldas da Rainha, Portugal<br />\nplace: ESAD</p>\n<p>client: ESAD<br />\ncollaboration: Henrique Ralheta</p>\n<p>description PT: Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD. Aula teórica e aula prítica, com projectos de grupo.</p>\n<p>links: <a href=\"https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/\" rel=\"noopener\" target=\"_blank\">https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/</a></p>\n",
+        "summary": "Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD. Aula teórica e aula prática, com projectos de grupo.",
+        "bodyHtml": "<p>name: seminário Desenho de Som<br />\ndate: 2010-12-12<br />\ntype:  tutoring<br />\nevent: seminário Design de Ambientes</p>\n<p>city: Caldas da Rainha, Portugal<br />\nplace: ESAD</p>\n<p>client: ESAD<br />\ncollaboration: Henrique Ralheta</p>\n<p>description PT: Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD. Aula teórica e aula prática, com projectos de grupo.</p>\n<p>links: <a href=\"https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/\" rel=\"noopener\" target=\"_blank\">https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/</a></p>\n",
         "tags": [
             "tutoring"
         ],
@@ -2546,7 +2546,7 @@
         "title": "Jardim de Santos",
         "date": "2009-10-10",
         "summary": "concepção de projecto de sound design para a Bienal experimentadesign 2009.",
-        "bodyHtml": "name: Jardim de Santos\ndate: 2009-10-10\ntype: sonic art\nevent: experimentadesign\n\ncity: Lisboa, Portugal\nplace: Jardim de Santos\n\nclient: Experimenta\ncollaboration: António Silveira Gomes, Fernando Brízio, João Gomes da Silva, José álvaro Correia, Pedrita\n\ndescription PT: concepção de projecto de sound design para a Bienal experimentadesign 2009.\n\nlinks: <a href=\"http://www.experimentadesign.pt/2009/pt/02-04-01.html\" target=\"_blank\" rel=\"noopener\">http://www.experimentadesign.pt/2009/pt/02-04-01.html</a>",
+        "bodyHtml": "name: Jardim de Santos\ndate: 2009-10-10\ntype: sonic art\nevent: experimentadesign\n\ncity: Lisboa, Portugal\nplace: Jardim de Santos\n\nclient: Experimenta\ncollaboration: António Silveira Gomes, Fernando Brízio, João Gomes da Silva, José Álvaro Correia, Pedrita\n\ndescription PT: concepção de projecto de sound design para a Bienal experimentadesign 2009.\n\nlinks: <a href=\"http://www.experimentadesign.pt/2009/pt/02-04-01.html\" target=\"_blank\" rel=\"noopener\">http://www.experimentadesign.pt/2009/pt/02-04-01.html</a>",
         "tags": [
             "experimenta",
             "sound design"
@@ -3546,7 +3546,7 @@
         "title": "Outersites III @ BRG 2005",
         "date": "2005-05-27",
         "summary": "Live act Outersites III no Festival BRG 2005, com Monolake, Pascal Comelade, Pedro Tudela, entre outros.",
-        "bodyHtml": "<p>name: Outersites III @ BRG 2005<br />date: 2005-05-27<br />type: live act<br />event: concertos</p>\n<p>city: Braga, Portugal<br />place: Estídio Sp. Braga</p>\n<p>client: monocromática<br />collaboration: Tiago Martins</p>\n<p>description PT: Live act Outersites III no Festival BRG 2005, com Monolake, Pascal Comelade, Pedro Tudela, entre outros.</p>\n<p>links: <a href=\"http://lazer.publico.pt/festivais/129095_brg-2005-braga-festival\" target=\"_blank\" rel=\"noopener\">http://lazer.publico.pt/festivais/129095_brg-2005-braga-festival</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037521711\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+        "bodyHtml": "<p>name: Outersites III @ BRG 2005<br />date: 2005-05-27<br />type: live act<br />event: concertos</p>\n<p>city: Braga, Portugal<br />place: Estádio Sp. Braga</p>\n<p>client: monocromática<br />collaboration: Tiago Martins</p>\n<p>description PT: Live act Outersites III no Festival BRG 2005, com Monolake, Pascal Comelade, Pedro Tudela, entre outros.</p>\n<p>links: <a href=\"http://lazer.publico.pt/festivais/129095_brg-2005-braga-festival\" target=\"_blank\" rel=\"noopener\">http://lazer.publico.pt/festivais/129095_brg-2005-braga-festival</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037521711\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
         "tags": [
             "concert",
             "live performance",
@@ -4105,10 +4105,10 @@
     },
     {
         "slug": "platform-pateo-da-musica",
-        "title": "plat|::|form @ Píteo da Música",
+        "title": "plat|::|form @ Páteo da Música",
         "date": "2003-06-07",
-        "summary": "Live act plat|::|form @ Píteo da Música.",
-        "bodyHtml": "<p><br>\nname: plat|::|form @ Píteo da Música<br>\ndate: 2003-06-07<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Palmela, Portugal<br>\nplace: Píteo da Música<br>\n<br>\nclient: bar<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ Píteo da Música.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a><br>\n<br>\n </p>",
+        "summary": "Live act plat|::|form @ Páteo da Música.",
+        "bodyHtml": "<p><br>\nname: plat|::|form @ Páteo da Música<br>\ndate: 2003-06-07<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Palmela, Portugal<br>\nplace: Páteo da Música<br>\n<br>\nclient: bar<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ Páteo da Música.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a><br>\n<br>\n </p>",
         "tags": [
             "concert",
             "live performance",
@@ -4234,10 +4234,10 @@
     },
     {
         "slug": "platform-fragil",
-        "title": "plat|::|form @ Frígil",
+        "title": "plat|::|form @ Frágil",
         "date": "2002-12-06",
-        "summary": "Live act plat|::|form @ Frígil.",
-        "bodyHtml": "<p><br>\nname: plat|::|form @ Frígil<br>\ndate: 2002-12-06<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Frígil<br>\n<br>\nclient: bar<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ Frígil.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a><br>\n<br>\n </p>",
+        "summary": "Live act plat|::|form @ Frágil.",
+        "bodyHtml": "<p><br>\nname: plat|::|form @ Frágil<br>\ndate: 2002-12-06<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Frágil<br>\n<br>\nclient: bar<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ Frágil.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a><br>\n<br>\n </p>",
         "tags": [
             "collaboration",
             "concert",
@@ -4403,8 +4403,8 @@
         "slug": "monocromatica-radio-spots",
         "title": "monocromatica radio spots",
         "date": "2002-08-05",
-        "summary": "Sound Design e Produção de 2 spots publicitírios para rídio.",
-        "bodyHtml": "<p><br>\nname: monocromatica radio spots<br>\ndate: 2002-08-05<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Radio Oxigénio<br>\n<br>\nclient: monocromática<br>\ncollaboration: Jean de Maurissens<br>\n<br>\ndescription PT: Sound Design e Produção de 2 spots publicitírios para rídio.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/</a><br>\n<br>\n </p>",
+        "summary": "Sound Design e Produção de 2 spots publicitários para rádio.",
+        "bodyHtml": "<p><br>\nname: monocromatica radio spots<br>\ndate: 2002-08-05<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Radio Oxigénio<br>\n<br>\nclient: monocromática<br>\ncollaboration: Jean de Maurissens<br>\n<br>\ndescription PT: Sound Design e Produção de 2 spots publicitários para rádio.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/</a><br>\n<br>\n </p>",
         "tags": [
             "blackbox",
             "monocromatica",
@@ -4458,7 +4458,7 @@
         "title": "Dressing Room",
         "date": "2002-06-07",
         "summary": "Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.",
-        "bodyHtml": "<p><br>\nname: Dressing Room<br>\ndate: 2002-06-07<br>\ntype:  sound design<br>\nevent: operação de íudio<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: Patricia Sobreiro<br>\ncollaboration: Patrícia Sobreiro<br>\n<br>\ndescription PT: Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.<br>\n<br>\nlinks: <a href=\"http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536\" rel=\"noopener\" target=\"_blank\">http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536</a><br>\n<br>\n </p>",
+        "bodyHtml": "<p><br>\nname: Dressing Room<br>\ndate: 2002-06-07<br>\ntype:  sound design<br>\nevent: operação de áudio<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: Patricia Sobreiro<br>\ncollaboration: Patrícia Sobreiro<br>\n<br>\ndescription PT: Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.<br>\n<br>\nlinks: <a href=\"http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536\" rel=\"noopener\" target=\"_blank\">http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536</a><br>\n<br>\n </p>",
         "tags": [
             "live performance",
             "sound design"
@@ -4472,10 +4472,10 @@
     },
     {
         "slug": "outersites-ii-maus-habitos",
-        "title": "Outersites II @ Maus Híbitos",
+        "title": "Outersites II @ Maus Hábitos",
         "date": "2002-06-01",
-        "summary": "Live act Outersites II @ Maus Híbitos.",
-        "bodyHtml": "<p><br>\nname: Outersites II @ Maus Híbitos<br>\ndate: 2002-06-01<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Porto, Portugal<br>\nplace: Maus Híbitos<br>\n<br>\nclient: monocromática<br>\ncollaboration: Tiago Martins<br>\n<br>\ndescription PT: Live act Outersites II @ Maus Híbitos.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+        "summary": "Live act Outersites II @ Maus Hábitos.",
+        "bodyHtml": "<p><br>\nname: Outersites II @ Maus Hábitos<br>\ndate: 2002-06-01<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Porto, Portugal<br>\nplace: Maus Hábitos<br>\n<br>\nclient: monocromática<br>\ncollaboration: Tiago Martins<br>\n<br>\ndescription PT: Live act Outersites II @ Maus Hábitos.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
         "tags": [
             "concert",
             "live performance",
@@ -4493,8 +4493,8 @@
         "slug": "academia-de-estrelas",
         "title": "Academia de Estrelas",
         "date": "2002-05-05",
-        "summary": "Operador de íudio para programa de televisão.",
-        "bodyHtml": "<p><br>\nname: Academia de Estrelas<br>\ndate: 2002-05-05<br>\ntype:  sound engineering<br>\nevent: operação de íudio<br>\n<br>\ncity: Venda do Pinheiro, Portugal<br>\nplace: Sonotech<br>\n<br>\nclient: Sonotech<br>\ncollaboration: Pedro Jesus<br>\n<br>\ndescription PT: Operador de íudio para programa de televisão.<br>\n<br>\nlinks: <a href=\"https://filmow.com/academia-de-estrelas-t65609/\" rel=\"noopener\" target=\"_blank\">https://filmow.com/academia-de-estrelas-t65609/</a><br>\n<br>\n </p>",
+        "summary": "Operador de áudio para programa de televisão.",
+        "bodyHtml": "<p><br>\nname: Academia de Estrelas<br>\ndate: 2002-05-05<br>\ntype:  sound engineering<br>\nevent: operação de áudio<br>\n<br>\ncity: Venda do Pinheiro, Portugal<br>\nplace: Sonotech<br>\n<br>\nclient: Sonotech<br>\ncollaboration: Pedro Jesus<br>\n<br>\ndescription PT: Operador de áudio para programa de televisão.<br>\n<br>\nlinks: <a href=\"https://filmow.com/academia-de-estrelas-t65609/\" rel=\"noopener\" target=\"_blank\">https://filmow.com/academia-de-estrelas-t65609/</a><br>\n<br>\n </p>",
         "tags": [
             "sonotech",
             "sound engineering",

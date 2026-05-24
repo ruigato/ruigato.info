@@ -1,0 +1,122 @@
+{
+  "id": "1246",
+  "slug": "outersites-iii-teatro-cine-torres-vedras",
+  "title": "Outersites III @ Teatro Cine Torres Vedras",
+  "published_at": "2005-05-05",
+  "occurred_on": "2005-05-05",
+  "event_name": "concertos",
+  "summary": "Série de live acts música electrónica.",
+  "summary_localized": {
+    "pt": "Série de live acts de música electrónica.",
+    "en": "Series of electronic music live acts."
+  },
+  "body_html": "<p>name: Outersites III @ Teatro Cine Torres Vedras<br />date: 2005-05-05<br />type: live act<br />event: concertos</p>\n<p>city: Lisboa, Porto, Torres Vedras, Braga, Portugal<br />place: TCTV</p>\n<p>client: Teatro-Cine Torres Vedras<br />collaboration: Tiago Martins</p>\n<p>description PT: Série de live acts música electrónica.</p>\n<p>links: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" target=\"_blank\" rel=\"noopener\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272177720325157819\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1246,
+  "venue": {
+    "venue_name": "Tctv",
+    "city": "Lisbon",
+    "region_or_state": "Porto",
+    "country": null,
+    "raw_location": "Lisboa, Porto, Torres Vedras, Braga, Portugal"
+  },
+  "client": {
+    "id": "teatro-cine-torres-vedras",
+    "name": "Teatro-Cine Torres Vedras",
+    "slug": "teatro-cine-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2005/05/P1010112.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "outersites-iii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2005/05/P1010112.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2005/05/P1010112-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72177720325157819/54457018980.jpg",
+      "gallery_items": [
+        "/media/flickr/72177720325157819/54457018980.jpg",
+        "/media/flickr/72177720325157819/54457019195.jpg",
+        "/media/flickr/72177720325157819/54457019165.jpg",
+        "/media/flickr/72177720325157819/54457019090.jpg",
+        "/media/flickr/72177720325157819/54457019045.jpg",
+        "/media/flickr/72177720325157819/54457019010.jpg",
+        "/media/flickr/72177720325157819/54456913948.jpg",
+        "/media/flickr/72177720325157819/54456913888.jpg",
+        "/media/flickr/72177720325157819/54456846744.jpg",
+        "/media/flickr/72177720325157819/54456846684.jpg",
+        "/media/flickr/72177720325157819/54456846679.jpg",
+        "/media/flickr/72177720325157819/54456654596.jpg",
+        "/media/flickr/72177720325157819/54455817492.jpg",
+        "/media/flickr/72177720325157819/54455817472.jpg",
+        "/media/flickr/72177720325157819/54456914053.jpg",
+        "/media/flickr/72177720325157819/54456846864.jpg",
+        "/media/flickr/72177720325157819/54456846859.jpg",
+        "/media/flickr/72177720325157819/54456846829.jpg",
+        "/media/flickr/72177720325157819/54456846789.jpg",
+        "/media/flickr/72177720325157819/54456846754.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites III @ Teatro Cine Torres Vedras",
+    "umbrella_signals": []
+  }
+}

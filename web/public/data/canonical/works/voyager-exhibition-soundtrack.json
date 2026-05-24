@@ -1,0 +1,100 @@
+{
+  "id": "1278",
+  "slug": "voyager-exhibition-soundtrack",
+  "title": "Voyager Exhibition Soundtrack",
+  "published_at": "2001-06-10",
+  "occurred_on": "2001-06-10",
+  "event_name": "Inauguração",
+  "summary": "Live act música improvisada para exposição Voyager, na Bienal experimentadesign 2001.",
+  "summary_localized": {
+    "pt": "Live act música improvisada para exposição Voyager, na Bienal experimentadesign 2001.",
+    "en": "Live improvised music act for the Voyager exhibition at the 2001 ExperimentaDesign Biennial."
+  },
+  "body_html": "<p><br>\nname: Voyager Exhibition Soundtrack<br>\ndate: 2001-06-10<br>\ntype:  live act<br>\nevent: Inauguração<br>\n<br>\ncity: Londres, Reino Unido<br>\nplace: Old Truman Brewery<br>\n<br>\nclient: Experimenta<br>\ncollaboration: João Paulo Feliciano, Rafael Toral<br>\n<br>\ndescription PT: Live act música improvisada para exposição Voyager, na Bienal experimentadesign 2001.<br>\n<br>\nlinks: <a href=\"http://www.joaopaulofeliciano.com/jpf_images_content/houselablondon.jpg\" rel=\"noopener\" target=\"_blank\">http://www.joaopaulofeliciano.com/jpf_images_content/houselablondon.jpg</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1278,
+  "venue": {
+    "venue_name": "Old Truman Brewery",
+    "city": "Londres",
+    "region_or_state": null,
+    "country": "United Kingdom",
+    "raw_location": "Londres, Reino Unido"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2001/06/houselablondon.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "experimenta",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Rafael Toral",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaopaulofeliciano.com/jpf_images_content/houselablondon.jpg",
+      "url": "http://www.joaopaulofeliciano.com/jpf_images_content/houselablondon.jpg",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2001/06/houselablondon.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2001/06/houselablondon-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Voyager Exhibition Soundtrack",
+    "umbrella_signals": []
+  }
+}

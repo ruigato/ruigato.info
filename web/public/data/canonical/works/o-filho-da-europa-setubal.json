@@ -1,0 +1,85 @@
+{
+  "id": "1010",
+  "slug": "o-filho-da-europa-setubal",
+  "title": "O Filho da Europa @ Setúbal",
+  "published_at": "2011-08-20",
+  "occurred_on": "2011-08-20",
+  "event_name": "Festival Teatro Setúbal",
+  "summary": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "<p>name: O Filho da Europa @ Setúbal<br>date: 2011-08-20<br>type: theatre<br>event: Festival Teatro Setúbal</p><p>city: Setúbal, Portugal<br>place: Teatro Setúbal</p><p>client: João Garcia Miguel<br>collaboration: André Sier</p><p>description PT: Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p><p>links: <a href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15339123\" data-uid=\"hcpom\" id=\"embedpress_wrapper_hcpom\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_hcpom\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_hcpom\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_hcpom\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-3939c7016dce3113f60aadb604fa5e65 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15339123?app_id=122963\" width=\"640\" height=\"480\" frameborder=\"0\" title=\"2010 . o filho da europa\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1010,
+  "venue": {
+    "venue_name": "Teatro Setúbal",
+    "city": "Setúbal",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Setúbal, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "o-filho-da-europa",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "jitter",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15339123",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15339123?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "O Filho da Europa @ Setúbal",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

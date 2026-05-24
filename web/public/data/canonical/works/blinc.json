@@ -1,0 +1,111 @@
+{
+  "id": "866",
+  "slug": "blinc",
+  "title": "Blinc",
+  "published_at": "2015-10-23",
+  "occurred_on": "2015-10-23",
+  "event_name": "Blinc Festival",
+  "summary": "Videomapping para o festival Blinc.",
+  "summary_localized": {
+    "pt": "Videomapping para o festival Blinc.",
+    "en": "Video mapping for the Blinc festival."
+  },
+  "body_html": "<p>name: Blinc<br />date: 2015-10-23<br />type: video mapping<br />event: Blinc Festival</p>\n<p>city: Conwy, Reino Unido<br />place: Conwy Castle</p>\n<p>client: Blinc Festival<br />collaboration: David Negrão, Manuel Morgado, Joel Cockrill</p>\n<p>description PT: Videomapping para o festival Blinc.</p>\n<p>links: </p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/iISAX4O5JGw\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/iISAX4O5JGw\n</div></figure>\n<!-- /wp:embed -->",
+  "legacy_wp_id": 866,
+  "venue": {
+    "venue_name": "Conwy Castle",
+    "city": "Conwy",
+    "region_or_state": null,
+    "country": "United Kingdom",
+    "raw_location": "Conwy, Reino Unido"
+  },
+  "client": {
+    "id": "blinc-festival",
+    "name": "Blinc Festival",
+    "slug": "blinc-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/anq5pAsF9-bKZzpXe3PsQ7bKdsBZqdV7UvgWFm7fKbY.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "blakat",
+    "code",
+    "collaboration",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Manuel Morgado",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Joel Cockrill",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/anq5pAsF9-bKZzpXe3PsQ7bKdsBZqdV7UvgWFm7fKbY.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/anq5pAsF9-bKZzpXe3PsQ7bKdsBZqdV7UvgWFm7fKbY-419x590.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/iISAX4O5JGw",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Blinc",
+    "umbrella_signals": [
+      "Blakat:high"
+    ]
+  }
+}

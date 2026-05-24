@@ -1,0 +1,60 @@
+{
+  "id": "1244",
+  "slug": "carnaval-de-verao-2005",
+  "title": "Carnaval de Verão 2005",
+  "published_at": "2005-05-01",
+  "occurred_on": "2005-05-01",
+  "event_name": "n/a",
+  "summary": "Composição e Pós-Produção para anuncio de TV.",
+  "summary_localized": {
+    "pt": "Composição e pós-produção para anúncio de TV.",
+    "en": "Composition and post-production for a TV spot."
+  },
+  "body_html": "<p><br>\nname: Carnaval de Verão 2005<br>\ndate: 2005-05-01<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: RTP<br>\n<br>\nclient: Slingshot<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Composição e Pós-Produção para anuncio de TV.<br>\n<br>\nlinks: <a href=\"http://www.cm-tvedras.pt/\" rel=\"noopener\" target=\"_blank\">http://www.cm-tvedras.pt/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1244,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "slingshot",
+    "name": "Slingshot",
+    "slug": "slingshot",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "sound design"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.cm-tvedras.pt/",
+      "url": "http://www.cm-tvedras.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Carnaval de Verão 2005",
+    "umbrella_signals": []
+  }
+}

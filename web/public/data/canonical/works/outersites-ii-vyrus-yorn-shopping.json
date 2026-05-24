@@ -1,0 +1,61 @@
+{
+  "id": "1336",
+  "slug": "outersites-ii-vyrus-yorn-shopping",
+  "title": "Outersites II @ Vyrus Yorn Shopping",
+  "published_at": "2002-10-22",
+  "occurred_on": "2002-10-22",
+  "event_name": "concerto",
+  "summary": "Live act Outersites II @ Vyrus Yorn Shopping.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo de Outersites II no Vyrus Yorn Shopping.",
+    "en": "Live act Outersites II @ Vyrus Yorn Shopping."
+  },
+  "body_html": "<p><br>\nname: Outersites II @ Vyrus Yorn Shopping<br>\ndate: 2002-10-22<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Vyrus Yorn Shopping<br>\n<br>\nclient: pulsar (journeys)<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Live act Outersites II @ Vyrus Yorn Shopping.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1336,
+  "venue": {
+    "venue_name": "Vyrus Yorn Shopping",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "pulsar-journeys",
+    "name": "Pulsar (journeys)",
+    "slug": "pulsar-journeys",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-ii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites II @ Vyrus Yorn Shopping",
+    "umbrella_signals": []
+  }
+}

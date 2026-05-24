@@ -1,0 +1,68 @@
+{
+  "id": "1240",
+  "slug": "festas-da-cidade-torres-vedras",
+  "title": "Festas da Cidade Torres Vedras",
+  "published_at": "2005-03-01",
+  "occurred_on": "2005-03-01",
+  "event_name": "n/a",
+  "summary": "Produção, Pós-Produção áudio de documentário",
+  "summary_localized": {
+    "pt": "Produção e pós-produção áudio para documentário.",
+    "en": "Audio production and post-production for a documentary."
+  },
+  "body_html": "<p><br>\nname: Festas da Cidade Torres Vedras<br>\ndate: 2005-03-01<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: Promotorres<br>\ncollaboration: Margarida Moura Guedes<br>\n<br>\ndescription PT: Produção, Pós-Produção áudio de documentário<br>\n<br>\nlinks: <a href=\"http://www.cm-tvedras.pt/\" rel=\"noopener\" target=\"_blank\">http://www.cm-tvedras.pt/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1240,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "promotorres",
+    "name": "Promotorres",
+    "slug": "promotorres",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "production",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.cm-tvedras.pt/",
+      "url": "http://www.cm-tvedras.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Festas da Cidade Torres Vedras",
+    "umbrella_signals": []
+  }
+}

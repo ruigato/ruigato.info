@@ -1,0 +1,67 @@
+{
+  "id": "1302",
+  "slug": "monitoring-space-invaders",
+  "title": "Monitoring Space Invaders",
+  "published_at": "2001-12-12",
+  "occurred_on": "2001-12-12",
+  "event_name": "n/a",
+  "summary": "Sound Design para documentário.",
+  "summary_localized": {
+    "pt": "Sound Design para documentário.",
+    "en": "Sound design for a documentary."
+  },
+  "body_html": "<p><br>\nname: Monitoring Space Invaders<br>\ndate: 2001-12-12<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: British Council<br>\ncollaboration: Deborah Stokes<br>\n<br>\ndescription PT: Sound Design para documentário.<br>\n<br>\nlinks: <a href=\"https://www.linkedin.com/in/deborah-stokes-62567140/\" rel=\"noopener\" target=\"_blank\">https://www.linkedin.com/in/deborah-stokes-62567140/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1302,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "british-council",
+    "name": "British Council",
+    "slug": "british-council",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Deborah Stokes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.linkedin.com/in/deborah-stokes-62567140/",
+      "url": "https://www.linkedin.com/in/deborah-stokes-62567140/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Monitoring Space Invaders",
+    "umbrella_signals": []
+  }
+}

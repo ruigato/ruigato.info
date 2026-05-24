@@ -1,0 +1,101 @@
+{
+  "id": "3029",
+  "slug": "merita-akilone-quartet",
+  "title": "MERITA AKILONE QUARTET",
+  "published_at": "2024-02-24",
+  "occurred_on": "2024-02-24",
+  "event_name": "Akilone Quartet in Leiria",
+  "summary": "Workshop e Residência Artística em Portugal:\nOf place and space: tutor sobre o tema, com João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Workshop e residência artística em Portugal sobre \"Of place and space\", com tutoria de João Garcia Miguel.",
+    "en": "Workshop and artistic residency in Portugal on \"Of place and space\", with tutoring by João Garcia Miguel."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: MERITA – Music cultural hERItage TAlent<br>date: 2024-02-24<br>type: tutoring<br>event: Akilone Quartet in Leiria</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Workshop e Residência Artística em Portugal:<br>Of place and space: tutor sobre o tema, com João Garcia Miguel.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\"The MERITA Residency in Leiria proved to be a transformative journey for the Akilone Quartet, culminating in an extraordinary exploration of music and performance and their effect on space and place. Nestled in the historic Manor Verde de Oliveira, the quartet delved into an immersive experience, guided by the visionary mentorship of João Garcia Miguel and Rui Gato. Their collaborative efforts transcended traditional boundaries, igniting a creative fusion of classical music, art, improvisation and choreography.\"</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:embed {\"url\":\"https://www.meritaplatform.eu/news/training/performance-sound-and-space-the-akilone-quartet-in-leiria/\",\"type\":\"wp-embed\",\"providerNameSlug\":\"merita\"} -->\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-merita wp-block-embed-merita\"><div class=\"wp-block-embed__wrapper\">\nhttps://www.meritaplatform.eu/news/training/performance-sound-and-space-the-akilone-quartet-in-leiria/\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:image {\"id\":3031,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2025/04/image.png\" alt=\"\" class=\"wp-image-3031\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3033,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2025/04/image-2.png\" alt=\"\" class=\"wp-image-3033\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3034,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2025/04/image-3.png\" alt=\"\" class=\"wp-image-3034\"/></figure>\n<!-- /wp:image -->",
+  "legacy_wp_id": 3029,
+  "venue": null,
+  "client": null,
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "medium",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/04/IMG_2343.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "merita",
+    "tutoring"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [
+    {
+      "locale": "en",
+      "content": "The MERITA Residency in Leiria proved to be a transformative journey for the Akilone Quartet, culminating in an extraordinary exploration of music and performance and their effect on space and place. Nestled in the historic Manor Verde de Oliveira, the quartet delved into an immersive experience, guided by the visionary mentorship of João Garcia Miguel and Rui Gato. Their collaborative efforts transcended traditional boundaries, igniting a creative fusion of classical music, art, improvisation and choreography.",
+      "source_label": null,
+      "source_url": null
+    }
+  ],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/IMG_2343.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/IMG_2343-768x1024.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/image.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/image-2.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-5",
+      "sort_order": 4,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/image-3.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "MERITA – Music cultural hERItage TAlent",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:medium"
+    ]
+  }
+}

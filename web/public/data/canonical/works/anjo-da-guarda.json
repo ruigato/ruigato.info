@@ -1,0 +1,90 @@
+{
+  "id": "1110",
+  "slug": "anjo-da-guarda",
+  "title": "Anjo da Guarda",
+  "published_at": "2008-08-08",
+  "occurred_on": "2008-08-08",
+  "event_name": "n/a",
+  "summary": "Genérico para programa TV.",
+  "summary_localized": {
+    "pt": "Genérico para programa de TV.",
+    "en": "Title sequence for a TV programme."
+  },
+  "body_html": "<p>name: Anjo da Guarda<br>date: 2008-08-08<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: HOW</p><p>client: CBV<br>collaboration: Margarida Moura Guedes, David Negrão</p><p>description PT: Genérico para programa TV.</p><p>links: <a href=\"https://vimeo.com/15331848\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15331848\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15331848\" data-uid=\"toi04\" id=\"embedpress_wrapper_toi04\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_toi04\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_toi04\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15331848\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15331848\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_toi04\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15331848\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15331848\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-b09bdc203d019dc7c93e2e34778d2e40 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15331848?app_id=122963\" width=\"640\" height=\"512\" frameborder=\"0\" title=\"2008 . anjo da guarda\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1110,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cbv",
+    "name": "Cbv",
+    "slug": "cbv",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15331848",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15331848?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Anjo da Guarda",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

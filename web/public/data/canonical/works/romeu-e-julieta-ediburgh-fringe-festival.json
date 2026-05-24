@@ -1,0 +1,123 @@
+{
+  "id": "1050",
+  "slug": "romeu-e-julieta-ediburgh-fringe-festival",
+  "title": "Romeu e Julieta @ Ediburgh Fringe Festival",
+  "published_at": "2012-08-19",
+  "occurred_on": "2012-08-19",
+  "event_name": "Fringe Festival",
+  "summary": "Música ao vivo para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "en": "Live music for a theatre piece by JGM."
+  },
+  "body_html": "<p>name: Romeu e Julieta @ Ediburgh Fringe Festival<br />\ndate: 2012-08-19<br />\ntype:  theatre<br />\nevent: Fringe Festival</p>\n<p>city: Edinburgo, Escócia<br />\nplace: Venue 13</p>\n<p>client: João Garcia Miguel<br />\ncollaboration: João Garcia Miguel, Sara Ribeiro, David Pereira Bastos, Luís Bombico, Filipa Hora</p>\n<p>description PT: Música ao vivo para peça de Teatro da companhia JGM.</p>\n<p>links: <a href=\"http://www.joaogarciamiguel.com/Romeo-Juliet\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/Romeo-Juliet</a></p>\n",
+  "legacy_wp_id": 1050,
+  "venue": {
+    "venue_name": "Venue 13",
+    "city": "Edinburgo",
+    "region_or_state": "Escócia",
+    "country": null,
+    "raw_location": "Edinburgo, Escócia"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/3zdB4GSjSCu86d2CsJN_mGOR2M-AgfHck0DSh6pzEpU.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "romeu-e-julieta",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "live performance",
+    "music",
+    "theatre"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "David Pereira Bastos",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Filipa Hora",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Romeo-Juliet",
+      "url": "http://www.joaogarciamiguel.com/Romeo-Juliet",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/3zdB4GSjSCu86d2CsJN_mGOR2M-AgfHck0DSh6pzEpU.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/3zdB4GSjSCu86d2CsJN_mGOR2M-AgfHck0DSh6pzEpU-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Romeu e Julieta @ Ediburgh Fringe Festival",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

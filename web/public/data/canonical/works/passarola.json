@@ -1,0 +1,80 @@
+{
+  "id": "2960",
+  "slug": "passarola",
+  "title": "Passarola #1",
+  "published_at": "2022-05-04",
+  "occurred_on": "2022-05-04",
+  "event_name": "XV COTEC Europe Summit",
+  "summary": "Concerto do projecto VIA Scarlatti | Passarola: Culture, Technology and Innovation at Work, com Pedro Emanuel Pereira, Piano; Vítor Joaquim, Electrónica; Rui Gato, Electrónica.",
+  "summary_localized": {
+    "pt": "Concerto do projecto VIA Scarlatti | Passarola, \"Culture, Technology and Innovation at Work\", com Pedro Emanuel Pereira, Vítor Joaquim e Rui Gato.",
+    "en": "Concert from the VIA Scarlatti | Passarola project, \"Culture, Technology and Innovation at Work\", with Pedro Emanuel Pereira, Vítor Joaquim, and Rui Gato."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: Passarola #1<br>date: 2022-05-04<br>type: live act, music<br>event: XV COTEC Europe Summit<br>location: Theatro Circo, Braga</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Concerto do projecto VIA Scarlatti | Passarola: Culture, Technology and Innovation at Work, com Pedro Emanuel Pereira, Piano; Vítor Joaquim, Electrónica; Rui Gato, Electrónica.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>11:00 PANEL III - Os Activos Culturais como Vantagem Competitiva</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>Isabel Furtado | President of the Board of COTEC Portugal</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Clemens PFlanz | Member of European Cultural and Creative Industries Alliance</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Piero Gandini | Former CEO and Art Director of Flos<br></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>11:30 VIA Scarlatti | Passarola: Culture, Technology and Innovation at Work<br></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>11:45 Closing Speeches</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>H.E. the President of the Italian Republic, Sergio Mattarella</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>H.M. the King of Spain, Felipe VI</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>H.E. the President of the Portuguese Republic, Marcelo Rebelo de Sousa</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->",
+  "legacy_wp_id": 2960,
+  "venue": {
+    "venue_name": "Theatro Circo",
+    "city": "Braga",
+    "region_or_state": null,
+    "country": null,
+    "raw_location": "Theatro Circo, Braga"
+  },
+  "client": null,
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2022/05/passarola1b.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "passarola",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "live act",
+    "passarola"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "Concerto do projecto VIA Scarlatti | Passarola, \"Culture, Technology and Innovation at Work\", com Pedro Emanuel Pereira no piano, Vítor Joaquim na electrónica e Rui Gato na electrónica.\n\n11:00 PANEL III - Os Activos Culturais como Vantagem Competitiva\n\nIsabel Furtado | Presidente do Conselho de Administração da COTEC Portugal\n\nClemens Pflanz | Membro da European Cultural and Creative Industries Alliance"
+    },
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "Concert from the VIA Scarlatti | Passarola project, \"Culture, Technology and Innovation at Work\", with Pedro Emanuel Pereira on piano, Vítor Joaquim on electronics, and Rui Gato on electronics.\n\n11:00 PANEL III - Cultural Assets as a Competitive Advantage\n\nIsabel Furtado | President of the Board of COTEC Portugal\n\nClemens Pflanz | Member of the European Cultural and Creative Industries Alliance"
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2022/05/passarola1b.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2022/05/passarola1b-768x1087.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Passarola #1",
+    "umbrella_signals": []
+  }
+}

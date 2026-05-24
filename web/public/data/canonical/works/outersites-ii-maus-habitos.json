@@ -1,0 +1,69 @@
+{
+  "id": "1320",
+  "slug": "outersites-ii-maus-habitos",
+  "title": "Outersites II @ Maus Hábitos",
+  "published_at": "2002-06-01",
+  "occurred_on": "2002-06-01",
+  "event_name": "concerto",
+  "summary": "Live act Outersites II @ Maus Hábitos.",
+  "summary_localized": {
+    "pt": "Live act Outersites II @ Maus Hábitos.",
+    "en": "Live performance by Outersites II at Maus Hábitos."
+  },
+  "body_html": "<p><br>\nname: Outersites II @ Maus Hábitos<br>\ndate: 2002-06-01<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Porto, Portugal<br>\nplace: Maus Hábitos<br>\n<br>\nclient: monocromática<br>\ncollaboration: Tiago Martins<br>\n<br>\ndescription PT: Live act Outersites II @ Maus Hábitos.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1320,
+  "venue": {
+    "venue_name": "Maus Hábitos",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "monocromatica",
+    "name": "Monocromática",
+    "slug": "monocromatica",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-ii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "monocromatica",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites II @ Maus Hábitos",
+    "umbrella_signals": []
+  }
+}

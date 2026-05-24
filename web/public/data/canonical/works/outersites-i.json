@@ -1,0 +1,61 @@
+{
+  "id": "1282",
+  "slug": "outersites-i",
+  "title": "Outersites I",
+  "published_at": "2001-06-14",
+  "occurred_on": "2001-06-14",
+  "event_name": "Dia e Vento",
+  "summary": "Live act de música electrónica do projecto “Outersites”.",
+  "summary_localized": {
+    "pt": "Live act de música electrónica do projecto “Outersites”.",
+    "en": "A live electronic music act by the \"Outersites\" project."
+  },
+  "body_html": "<p><br>\nname: Outersites I<br>\ndate: 2001-06-14<br>\ntype:  live act<br>\nevent: Dia e Vento<br>\n<br>\ncity: Porto, Portugal<br>\nplace: Teatro Campo Alegre<br>\n<br>\nclient: Teatro Campo Alegre<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Live act de música electrónica do projecto “Outersites”.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1282,
+  "venue": {
+    "venue_name": "Teatro Campo Alegre",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "teatro-campo-alegre",
+    "name": "Teatro Campo Alegre",
+    "slug": "teatro-campo-alegre",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites I",
+    "umbrella_signals": []
+  }
+}

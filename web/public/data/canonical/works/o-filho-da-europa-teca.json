@@ -1,0 +1,118 @@
+{
+  "id": "962",
+  "slug": "o-filho-da-europa-teca",
+  "title": "O Filho da Europa @ TECA",
+  "published_at": "2010-06-05",
+  "occurred_on": "2010-06-05",
+  "event_name": "peça teatro",
+  "summary": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "</p>\n<p>name: O Filho da Europa @ TECA<br />date: 2010-06-05<br />type: theatre<br />event: peça teatro</p>\n<p>city: Porto, Portugal<br />place: Teatro Carlos Alberto</p>\n<p>client: João Garcia Miguel<br />collaboration: André Sier</p>\n<p>description PT: Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p>\n<p>links:</p>\n<p><a data-mce-href=\"https://vimeo.com/15339123\" href=\"https://vimeo.com/15339123\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"78gke\" data-url=\"embedpresss://vimeo.com/15339123\" id=\"embedpress_wrapper_78gke\" style=\"width: 589px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_78gke\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_78gke\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/15339123\" href=\"https://vimeo.com/15339123\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_78gke\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/15339123\" href=\"https://vimeo.com/15339123\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-3939c7016dce3113f60aadb604fa5e65 responsive\" style=\"max-width: 589px;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"480\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/15339123?app_id=122963\" title=\"2010 . o filho da europa\" webkitallowfullscreen=\"\" width=\"640\"></iframe></div>\n<p><span class=\"wpview-end\"></span></p>\n</div>\n<p><a data-mce-href=\"http://www.joaogarciamiguel.com/Filho-Da-Europa\" data-mce-selected=\"inline-boundary\" href=\"http://www.joaogarciamiguel.com/Filho-Da-Europa\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/Filho-Da-Europa</a></p>\n",
+  "legacy_wp_id": 962,
+  "venue": {
+    "venue_name": "Teatro Carlos Alberto",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/e8wooBvd2cBVzwKVzmvm2M86d72kGJAlYDEtblOmpXc.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "o-filho-da-europa",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "jitter",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Filho-Da-Europa",
+      "url": "http://www.joaogarciamiguel.com/Filho-Da-Europa",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/e8wooBvd2cBVzwKVzmvm2M86d72kGJAlYDEtblOmpXc.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/e8wooBvd2cBVzwKVzmvm2M86d72kGJAlYDEtblOmpXc-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15339123",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15339123?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "O Filho da Europa @ TECA",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

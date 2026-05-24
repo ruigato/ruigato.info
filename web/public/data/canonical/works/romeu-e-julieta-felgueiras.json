@@ -1,0 +1,99 @@
+{
+  "id": "1030",
+  "slug": "romeu-e-julieta-felgueiras",
+  "title": "Romeu e Julieta @ Felgueiras",
+  "published_at": "2012-03-10",
+  "occurred_on": "2012-03-10",
+  "event_name": "peça teatro",
+  "summary": "Música ao vivo para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "en": "Live music for a theatre piece by JGM."
+  },
+  "body_html": "<p><br>\nname: Romeu e Julieta @ Felgueiras<br>\ndate: 2012-03-10<br>\ntype:  theatre<br>\nevent: peça teatro<br>\n<br>\ncity: Felgueiras, Portugal<br>\nplace: Casa das Artes de Felgueiras<br>\n<br>\nclient: João Garcia Miguel<br>\ncollaboration: João Garcia Miguel, Sara Ribeiro, David Pereira Bastos, Luís Bombico, Filipa Hora<br>\n<br>\ndescription PT: Música ao vivo para peça de Teatro da companhia JGM.<br>\n<br>\nlinks: <a href=\"http://www.joaogarciamiguel.com/Romeo-Juliet\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/Romeo-Juliet</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1030,
+  "venue": {
+    "venue_name": "Casa das Artes de Felgueiras",
+    "city": "Felgueiras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Felgueiras, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "romeu-e-julieta",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "live performance",
+    "music",
+    "theatre"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "David Pereira Bastos",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Filipa Hora",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Romeo-Juliet",
+      "url": "http://www.joaogarciamiguel.com/Romeo-Juliet",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Romeu e Julieta @ Felgueiras",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

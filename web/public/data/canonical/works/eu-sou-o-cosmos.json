@@ -1,0 +1,111 @@
+{
+  "id": "904",
+  "slug": "eu-sou-o-cosmos",
+  "title": "Eu Sou o Cosmos",
+  "published_at": "2018-04-12",
+  "occurred_on": "2018-04-12",
+  "event_name": "Exposição “Eu Sou o Cosmos”",
+  "summary": "Co-autoria de peça de arte com Rui Toscano, no contexto da sua exposição “Eu Sou o Cosmos”, patente na galeria Cristina Guerra, em Lisboa.",
+  "summary_localized": {
+    "pt": "Co-autoria de uma peça de arte com Rui Toscano, no contexto da sua exposição \"Eu Sou o Cosmos\", na galeria Cristina Guerra, em Lisboa.",
+    "en": "Co-authorship of an art piece with Rui Toscano in the context of his exhibition \"Eu Sou o Cosmos\" at Galeria Cristina Guerra in Lisbon."
+  },
+  "body_html": "<p>name: Eu Sou o Cosmos<br />date: 2018-04-12<br />type: sonic art<br />event: Exposição “Eu Sou o Cosmos”</p>\n<p>city: Lisboa, Portugal<br />place: Galeria Cristina Guerra</p>\n<p>client: Rui Toscano<br />collaboration: Rui Toscano</p>\n<p>description PT: Co-autoria de peça de arte com Rui Toscano, no contexto da sua exposição “Eu Sou o Cosmos”, patente na galeria Cristina Guerra, em Lisboa. Música feita a partir de sintetizadores analógicos, usando geometria para gerar as sequências, gravada numa só sessão “live on tape” de 4 horas de duração.</p>\n<p>description EN: Co-authorship of an art piece with Rui Toscano, as part of his exhibition “Eu Sou o Cosmos”, showcased at the Cristina Guerra Gallery in Lisbon. Music created using analog synthesizers, employing geometry to generate sequences, recorded in a single “live on tape” session lasting 4 hours.</p>\n<p>links: <a href=\"http://www.cristinaguerra.com/exhibition.current.php\" target=\"_blank\" rel=\"noopener\">http://www.cristinaguerra.com/exhibition.current.php</a></p>\n<div id=\"photonic-flickr-stream-9\" class=\"photonic-flickr-stream photonic-stream\">\n<p><!-- ./photonic-level-1-container --><br /><span id=\"photonic-flickr-stream-9-container-end\"></span></p>\n</div>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157667966264698\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 904,
+  "venue": {
+    "venue_name": "Galeria Cristina Guerra",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "rui-toscano",
+    "name": "Rui Toscano",
+    "slug": "rui-toscano",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/u7NFNRHCGho6MBLfP9ro2nbnbS4cQchr_pct57tTw3c.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "collaboration",
+    "installation",
+    "music",
+    "sacred geometry",
+    "sonic art",
+    "sound design",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Rui Toscano",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.cristinaguerra.com/exhibition.current.php",
+      "url": "http://www.cristinaguerra.com/exhibition.current.php",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/u7NFNRHCGho6MBLfP9ro2nbnbS4cQchr_pct57tTw3c.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/u7NFNRHCGho6MBLfP9ro2nbnbS4cQchr_pct57tTw3c-768x1024.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157667966264698/41515637812.jpg",
+      "gallery_items": [
+        "/media/flickr/72157667966264698/41515637812.jpg",
+        "/media/flickr/72157667966264698/41515637622.jpg",
+        "/media/flickr/72157667966264698/41515637222.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Eu Sou o Cosmos",
+    "umbrella_signals": [
+      "HOW:mention"
+    ]
+  }
+}

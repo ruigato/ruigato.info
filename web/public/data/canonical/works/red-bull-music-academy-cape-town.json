@@ -1,0 +1,97 @@
+{
+  "id": "1202",
+  "slug": "red-bull-music-academy-cape-town",
+  "title": "Red Bull Music Academy Cape Town",
+  "published_at": "2003-12-01",
+  "occurred_on": "2003-12-01",
+  "event_name": "Residencia Artistica",
+  "summary": "Residência artística na Red Bull Music Academy Cape Town 2003.",
+  "summary_localized": {
+    "pt": "Residência artística na Red Bull Music Academy Cape Town 2003.",
+    "en": "Artistic residency at Red Bull Music Academy Cape Town 2003."
+  },
+  "body_html": "name: Red Bull Music Academy Cape Town\ndate: 2003-12-01\ntype: artistic residency\nevent: Residencia Artistica\n\ncity: Cape Town, áfrica do Sul\nplace: RBMA studios\n\nclient: Red Bull Music Academy Portugal\ncollaboration: n/a\n\ndescription PT: Residência artística na Red Bull Music Academy Cape Town 2003.\n\nlinks: <a href=\"http://www.redbullmusicacademy.com/about/projects/capetown2003\" target=\"_blank\" rel=\"noopener\">http://www.redbullmusicacademy.com/about/projects/capetown2003</a>\n\n[flickr_set id=\"72157694037521691\"]",
+  "legacy_wp_id": 1202,
+  "venue": {
+    "venue_name": "RBMA studios",
+    "city": "Cape Town",
+    "region_or_state": "áfrica do Sul",
+    "country": null,
+    "raw_location": "Cape Town, áfrica do Sul"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2003/12/cape.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "artistic residency",
+  "categories": [
+    "artistic residency"
+  ],
+  "tags": [
+    "artistic residency",
+    "collaboration",
+    "music"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.redbullmusicacademy.com/about/projects/capetown2003",
+      "url": "http://www.redbullmusicacademy.com/about/projects/capetown2003",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2003/12/cape.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2003/12/cape-768x521.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521691/26690167637.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521691/26690167637.jpg",
+        "/media/flickr/72157694037521691/26690166907.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Red Bull Music Academy Cape Town",
+    "umbrella_signals": []
+  }
+}

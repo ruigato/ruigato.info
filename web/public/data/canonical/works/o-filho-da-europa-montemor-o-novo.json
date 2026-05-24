@@ -1,0 +1,112 @@
+{
+  "id": "1004",
+  "slug": "o-filho-da-europa-montemor-o-novo",
+  "title": "O Filho da Europa @ Montemor-o-Novo",
+  "published_at": "2011-06-05",
+  "occurred_on": "2011-06-05",
+  "event_name": "Plataforma das Artes Performativas",
+  "summary": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "<p>name: O Filho da Europa @ Montemor-o-Novo<br />\ndate: 2011-06-05<br />\ntype:  theatre<br />\nevent: Plataforma das Artes Performativas</p>\n<p>city: Montemor-o-novo, Portugal<br />\nplace: Espaço do Tempo</p>\n<p>client: João Garcia Miguel<br />\ncollaboration: André Sier</p>\n<p>description PT: Dispositivo cénico audiovisual,  manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p>\n<p>links: <a href=\"https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/15339123 http://www.joaogarciamiguel.com/Filho-Da-Europa</a></p>\n<p>[flickr_set id=”72157694037521931\"]</p>\n",
+  "legacy_wp_id": 1004,
+  "venue": {
+    "venue_name": "Espaço do Tempo",
+    "city": "Montemor-o-novo",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Montemor-o-novo, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/vc2MBgw3-GbIrqo38ORWjeEsQR5xxg5vXbE8tLoNgdM.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "o-filho-da-europa",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "jitter",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vc2MBgw3-GbIrqo38ORWjeEsQR5xxg5vXbE8tLoNgdM.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vc2MBgw3-GbIrqo38ORWjeEsQR5xxg5vXbE8tLoNgdM-768x574.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521931/41517510132.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521931/41517510132.jpg",
+        "/media/flickr/72157694037521931/40847152014.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15339123",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "O Filho da Europa @ Montemor-o-Novo",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

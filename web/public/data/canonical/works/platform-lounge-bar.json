@@ -1,0 +1,75 @@
+{
+  "id": "1178",
+  "slug": "platform-lounge-bar",
+  "title": "plat|::|form @ Lounge Bar",
+  "published_at": "2003-02-13",
+  "occurred_on": "2003-02-13",
+  "event_name": "concerto",
+  "summary": "Live act plat|::|form @ Lounge Bar.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo de plat|::|form no Lounge Bar.",
+    "en": "Live act plat|::|form @ Lounge Bar."
+  },
+  "body_html": "<p><br>\nname: plat|::|form @ Lounge Bar<br>\ndate: 2003-02-13<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Lounge<br>\n<br>\nclient: Lounge<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ Lounge Bar.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1178,
+  "venue": {
+    "venue_name": "Lounge",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "lounge",
+    "name": "Lounge",
+    "slug": "lounge",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "plat-form",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form @ Lounge Bar",
+    "umbrella_signals": []
+  }
+}

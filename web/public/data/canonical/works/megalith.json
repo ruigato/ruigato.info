@@ -1,0 +1,197 @@
+{
+  "id": "1436",
+  "slug": "megalith",
+  "title": "Megalith",
+  "published_at": "2018-07-27",
+  "occurred_on": "2018-07-27",
+  "event_name": "Boom Festival 2018",
+  "summary": "It's a solar clock driven installation, designed for Boom Festival, that starts at sunset and ends at sunrise, with generative geometry controlling 6 robotic beams, standing on...",
+  "summary_localized": {
+    "pt": "Instalação guiada por relógio solar para o Boom Festival, activa do pôr-do-sol ao nascer do sol, com geometria generativa a controlar 6 feixes robóticos.",
+    "en": "Solar-clock-driven installation for Boom Festival, active from sunset to sunrise, with generative geometry controlling 6 robotic beams."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: Megalith<br>date: 2018-07-27<br>type: light<br>event: Boom Festival 2018</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: Idanha-a-nova, Portugal<br>place: Boomland</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: Boom Festival<br>collaboration: David Negrão, João Beira, Rethorica Studio</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description EN:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It's a solar clock driven installation, designed for Boom Festival, that starts at sunset and ends at sunrise, with generative geometry controlling 6 robotic beams, standing on top of 6 neo-megalithic structures made by atelier Rethorica with bio construction techniques.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Every hour, and every half hour, the interactive mode activates for 10 minutes, and the boomers can control the lights with their bodies.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>During the first half hour the installation is focused on Earth light patterns, projected on the ground. During the second half hour, the focus is the night sky, using lines to draw Sacred Geometry in the starred canvas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>team:<br>bio construction and concept by Rethorica Studio (Pedro Pereira, Miguel Madrinha, Vasco Duque, Miguel Setas)<br>coding, concept and tech installation by Rui Gato, David Negrão and João Data (Datagrama).</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>special thanks to:<br>Echo Higuchi<br>João Rodriguez<br>Bruno Morais<br>David Leitão<br>Inês Branco<br>Jorge Neurion Ceras<br>Bento<br>Raul Aragão<br>FX Roadlights</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157699361223534\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1436,
+  "venue": {
+    "venue_name": "Boomland",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "datagrama",
+    "name": "Datagrama",
+    "slug": "datagrama",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "medium",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/MQtAyDrHpwp689-IVHkKv_z_FBXYpMc6c2mvWhoJn_4.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation",
+    "light"
+  ],
+  "tags": [
+    "boom",
+    "code",
+    "collaboration",
+    "generative",
+    "installation",
+    "interactive",
+    "light",
+    "sacred geometry",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Beira",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Rethorica Studio",
+      "is_organization": true,
+      "sort_order": 2
+    },
+    {
+      "role": "bio_construction_and_concept",
+      "name": "Rethorica Studio (Pedro Pereira",
+      "is_organization": true,
+      "sort_order": 3
+    },
+    {
+      "role": "bio_construction_and_concept",
+      "name": "Miguel Madrinha",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "bio_construction_and_concept",
+      "name": "Vasco Duque",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "bio_construction_and_concept",
+      "name": "Miguel Setas)",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "coding_concept_and_tech_installation",
+      "name": "Rui Gato",
+      "is_organization": false,
+      "sort_order": 7
+    },
+    {
+      "role": "coding_concept_and_tech_installation",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 8
+    },
+    {
+      "role": "coding_concept_and_tech_installation",
+      "name": "João Data (Datagrama)",
+      "is_organization": true,
+      "sort_order": 9
+    },
+    {
+      "role": "special_thanks",
+      "name": "Echo Higuchi\nJoão Rodriguez\nBruno Morais\nDavid Leitão\nInês Branco\nJorge Neurion Ceras\nBento\nRaul Aragão\nFX Roadlights",
+      "is_organization": false,
+      "sort_order": 10
+    }
+  ],
+  "links": [],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "It is a solar-clock-driven installation designed for Boom Festival, starting at sunset and ending at sunrise, with generative geometry controlling 6 robotic beams placed on top of 6 neo-megalithic structures built by atelier Rethorica using bio-construction techniques.\n\nEvery hour and every half hour, the interactive mode activates for 10 minutes, allowing participants to control the lights with their bodies.\n\nDuring the first half hour, the installation focuses on earthbound light patterns projected onto the ground. During the second half hour, the focus shifts to the night sky, using lines to draw sacred geometry across the starlit canopy."
+    },
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "É uma instalação guiada por um relógio solar, concebida para o Boom Festival, que começa ao pôr-do-sol e termina ao nascer do sol, com geometria generativa a controlar 6 feixes robóticos colocados no topo de 6 estruturas neo-megalíticas construídas pelo atelier Rethorica com técnicas de bioconstrução.\n\nA cada hora e a cada meia hora, o modo interactivo activa-se durante 10 minutos, permitindo aos participantes controlar as luzes com o corpo.\n\nDurante a primeira meia hora, a instalação concentra-se em padrões de luz terrestres projectados no chão. Durante a segunda meia hora, o foco desloca-se para o céu nocturno, usando linhas para desenhar geometria sagrada na abóbada estrelada."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/MQtAyDrHpwp689-IVHkKv_z_FBXYpMc6c2mvWhoJn_4.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/MQtAyDrHpwp689-IVHkKv_z_FBXYpMc6c2mvWhoJn_4-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157699361223534/44303297741.jpg",
+      "gallery_items": [
+        "/media/flickr/72157699361223534/44303297741.jpg",
+        "/media/flickr/72157699361223534/44303297431.jpg",
+        "/media/flickr/72157699361223534/44303296511.jpg",
+        "/media/flickr/72157699361223534/44303296331.jpg",
+        "/media/flickr/72157699361223534/44303296211.jpg",
+        "/media/flickr/72157699361223534/44303296161.jpg",
+        "/media/flickr/72157699361223534/43586336834.jpg",
+        "/media/flickr/72157699361223534/43586336414.jpg",
+        "/media/flickr/72157699361223534/43586335674.jpg",
+        "/media/flickr/72157699361223534/43397564385.jpg",
+        "/media/flickr/72157699361223534/43397562825.jpg",
+        "/media/flickr/72157699361223534/43397562365.jpg",
+        "/media/flickr/72157699361223534/43397561995.jpg",
+        "/media/flickr/72157699361223534/43397561835.jpg",
+        "/media/flickr/72157699361223534/43397561775.jpg",
+        "/media/flickr/72157699361223534/30436638648.jpg",
+        "/media/flickr/72157699361223534/30436638398.jpg",
+        "/media/flickr/72157699361223534/30436637378.jpg",
+        "/media/flickr/72157699361223534/30436636998.jpg",
+        "/media/flickr/72157699361223534/30436636688.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Megalith",
+    "umbrella_signals": [
+      "Datagrama:medium"
+    ]
+  }
+}

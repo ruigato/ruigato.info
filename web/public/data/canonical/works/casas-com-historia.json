@@ -1,0 +1,85 @@
+{
+  "id": "1157",
+  "slug": "casas-com-historia",
+  "title": "Casas com história",
+  "published_at": "2009-11-06",
+  "occurred_on": "2009-11-06",
+  "event_name": "n/a",
+  "summary": "Genérico e pós-produção série documental.",
+  "summary_localized": {
+    "pt": "Genérico e pós-produção série documental.",
+    "en": "Title sequence and post-production for a documentary series."
+  },
+  "body_html": "<p>name: Casas com história<br>date: 2009-11-06<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: RTP</p><p>client: Mínima Ideia<br>collaboration: Margarida Moura Guedes</p><p>description PT: Genérico e pós-produção série documental.</p><p>links: <a href=\"https://vimeo.com/15331923\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15331923\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15331923\" data-uid=\"qu3f9\" id=\"embedpress_wrapper_qu3f9\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_qu3f9\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_qu3f9\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15331923\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15331923\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_qu3f9\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15331923\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15331923\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-ec49e26db7db80738f196ea9b8162664 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15331923?app_id=122963\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"2009 . casas com história\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1157,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15331923",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15331923?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Casas com história",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

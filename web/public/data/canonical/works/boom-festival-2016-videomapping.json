@@ -1,0 +1,117 @@
+{
+  "id": "878",
+  "slug": "boom-festival-2016-videomapping",
+  "title": "Boom Festival 2016 videomapping",
+  "published_at": "2016-08-11",
+  "occurred_on": "2016-08-11",
+  "event_name": "Boom Festival",
+  "summary": "Participação na equipa responsível pelo videomapping / pixelmapping do Alchemy Circle, e instalação de video no Boom Festival 2016.",
+  "summary_localized": {
+    "pt": "Participação na equipa responsável pelo videomapping e pixelmapping do Alchemy Circle, e por uma instalação de vídeo no Boom Festival 2016.",
+    "en": "Participation in the team responsible for the Alchemy Circle video mapping and pixel mapping, and for a video installation at Boom Festival 2016."
+  },
+  "body_html": "\n\n<p>name: Boom Festival 2016 videomapping<br/>date: 2016-08-11<br/>type: video mapping<br/>event: Boom Festival</p>\n<p>city: Idanha-a-nova, Portugal<br/>place: Boomland</p>\n<p>client: Boom Festival<br/>collaboration: João Beira, David Negrão, Ivo Reis</p>\n<p>description PT: Participação na equipa responsível pelo videomapping / pixelmapping do Alchemy Circle, e instalação de video no Boom Festival 2016.</p>\n<p>links: <a href=\"https://www.behance.net/gallery/44993139/Alchemy-Circle-Boom-Festival-2016\" rel=\"noopener\" target=\"_blank\">https://www.behance.net/gallery/44993139/Alchemy-Circle-Boom-Festival-2016</a></p>\n",
+  "legacy_wp_id": 878,
+  "venue": {
+    "venue_name": "Boomland",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/Ol-awKgreWQz9UZ8LkvG2lB8dvHaB8wpohz2G-OD-EY.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "blakat",
+    "boom",
+    "code",
+    "collaboration",
+    "installation",
+    "live performance",
+    "pixelmapping",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Beira",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Ivo Reis",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.behance.net/gallery/44993139/Alchemy-Circle-Boom-Festival-2016",
+      "url": "https://www.behance.net/gallery/44993139/Alchemy-Circle-Boom-Festival-2016",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Ol-awKgreWQz9UZ8LkvG2lB8dvHaB8wpohz2G-OD-EY.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Ol-awKgreWQz9UZ8LkvG2lB8dvHaB8wpohz2G-OD-EY-768x431.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Boom Festival 2016 videomapping",
+    "umbrella_signals": [
+      "Blakat:high"
+    ]
+  }
+}

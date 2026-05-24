@@ -1,0 +1,76 @@
+{
+  "id": "1162",
+  "slug": "art-algarve",
+  "title": "Art Algarve",
+  "published_at": "2009-11-11",
+  "occurred_on": "2009-11-11",
+  "event_name": "vários",
+  "summary": "Instalação audiovisual no contexto do programa Art Algarve.",
+  "summary_localized": {
+    "pt": "Instalação audiovisual no contexto do programa Art Algarve.",
+    "en": "Audiovisual installation in the context of the Art Algarve programme."
+  },
+  "body_html": "name: Art Algarve\r\ndate: 2009-11-11\r\ntype: 3D\r\nevent: vários\r\n\r\ncity: Londres, Berlim, Paris, Faro, Alemanha, Reino Unido, França, Portugal\r\nplace: vários\r\n\r\nclient: Turismo de Portugal\r\ncollaboration: Margarida Moura Guedes\r\n\r\ndescription PT: Instalação audiovisual no contexto do programa Art Algarve.\r\n\r\nlinks:\r\n\r\n[embed mce-style=\"width: 589px;\"]https://vimeo.com/4869167[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 1162,
+  "venue": {
+    "venue_name": "Vários",
+    "city": "Londres",
+    "region_or_state": "Berlim",
+    "country": null,
+    "raw_location": "Londres, Berlim, Paris, Faro, Alemanha, Reino Unido, França, Portugal"
+  },
+  "client": {
+    "id": "turismo-de-portugal",
+    "name": "Turismo de Portugal",
+    "slug": "turismo-de-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/4869167[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Art Algarve",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

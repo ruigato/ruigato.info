@@ -1,0 +1,104 @@
+{
+  "id": "3369",
+  "slug": "torre-nos-v8",
+  "title": "Torre NOS Primavera Sound v8",
+  "published_at": "2019-05-16",
+  "occurred_on": "2019-05-16",
+  "event_name": "NOS Primavera Sound",
+  "summary": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+  "summary_localized": {
+    "pt": "Sistema em tempo real para controlo lumínico da Torre NOS no palco principal do NOS Primavera Sound.",
+    "en": "Real-time system for lighting control of the Torre NOS on the NOS Primavera Sound main stage."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: Torre NOS Primavera Sound v8<br>date: 2019-05-16<br>type: interactive installation<br>event: NOS Primavera Sound</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: Porto, Portugal<br>place: Parque da Cidade Porto</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: João Paulo Feliciano<br>collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sá, André Gonçalves</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 3369,
+  "venue": {
+    "venue_name": "Parque da Cidade Porto",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "joao-paulo-feliciano",
+    "name": "João Paulo Feliciano",
+    "slug": "joao-paulo-feliciano",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2019/05/FB_IMG_1560116057783.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "torre-nos",
+  "primary_category": "light",
+  "categories": [
+    "light"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "festival",
+    "light",
+    "live performance",
+    "realtime",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Cabral",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Sílvia de Sá",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "André Gonçalves",
+      "is_organization": false,
+      "sort_order": 3
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2019/05/FB_IMG_1560116057783.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2019/05/FB_IMG_1560116057783-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Torre NOS Primavera Sound v8",
+    "umbrella_signals": []
+  }
+}

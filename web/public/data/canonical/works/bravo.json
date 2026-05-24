@@ -1,0 +1,78 @@
+{
+  "id": "1118",
+  "slug": "bravo",
+  "title": "Bravo",
+  "published_at": "2008-10-10",
+  "occurred_on": "2008-10-10",
+  "event_name": "n/a",
+  "summary": "Genérico para programa TV.",
+  "summary_localized": {
+    "pt": "Genérico para programa de TV.",
+    "en": "Title sequence for a TV programme."
+  },
+  "body_html": "<p>name: Bravo<br>date: 2008-10-10<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: RTP</p><p>client: Mínima Ideia<br>collaboration: n/a</p><p>description PT: Genérico para programa TV.</p><p>links: <a href=\"https://vimeo.com/15330046\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15330046\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15330046\" data-uid=\"aak1d\" id=\"embedpress_wrapper_aak1d\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_aak1d\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_aak1d\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15330046\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15330046\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_aak1d\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15330046\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15330046\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-f6627a5d1c5b12fccf3b4b68dcceac30 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15330046?app_id=122963\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"2008 . bravo\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1118,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "minimaideia",
+    "motion graphics",
+    "television"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15330046",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15330046?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Bravo",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

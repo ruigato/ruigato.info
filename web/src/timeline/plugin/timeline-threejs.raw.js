@@ -1,4 +1,4 @@
-﻿(function(){
+(function(){
   // —————————————————————————————————————————————
   // 1) CONFIGURATION
   // —————————————————————————————————————————————
@@ -22,6 +22,9 @@
     WIND_STRENGTH:      20,
     FADE_OPACITY:       0.2
   };
+  const currentUtcYear = new Date().getUTCFullYear();
+  const NAV_MIN_TS = Date.UTC(1990,0,1,0,0,0,0);
+  const NAV_MAX_TS = Date.UTC(currentUtcYear,11,31,23,59,59,999);
 
   // —————————————————————————————————————————————
   // 2) GLOBAL STATE
@@ -33,8 +36,15 @@
   let categoryLabel;
   let TOTAL_SPAN   = 0;
   let currentSpan  = 0;
+  let dataMinTs    = NAV_MIN_TS;
+  let dataMaxTs    = NAV_MAX_TS;
   let BASE_LINEWIDTH = 2;
   let toggledCategory = null;
+  let sidePanZones = [];
+  let activeSidePanZone = null;
+  let activeSidePanPointerId = null;
+  let activeSidePanX = 0;
+  let activeSidePanY = 0;
   const arcLines   = [];
   const arcLinesByCat = {};
   const pointSystems   = [];
@@ -51,6 +61,9 @@
   let staticTooltip= false;
   let showMonths   = false;
   let baselineLine = null;
+  let lastTouchTapTs = 0;
+  let lastTouchTapX = 0;
+  let lastTouchTapY = 0;
 
   // —————————————————————————————————————————————
   // 3) SANITY + STYLING
@@ -62,7 +75,7 @@
   if (!container) { return; }
   Object.assign(container.style, {
     position:'fixed',top:'140px',left:'0',width:'100vw',height:'100vh',margin:'0',padding:'0',
-    zIndex:'100',background:'linear-gradient(to top,#333,#000,#333)'
+    zIndex:'100',background:'linear-gradient(to bottom, #333333 0%, #2a2a2a 22%, #1a1a1a 50%, #2a2a2a 78%, #333333 100%)'
   });
 
   // —————————————————————————————————————————————
@@ -72,7 +85,7 @@
 
   function init(){
     setDimensions(); initScene(); initRenderer(); initCameraAndControls();
-    initAxesCanvas(); initToggles(); initCategoryLabel(); initDataStructures();
+    initAxesCanvas(); initSidePanZones(); initToggles(); initCategoryLabel(); initDataStructures();
     attachEventHandlers(); drawAxes2D();
   }
 
@@ -123,11 +136,15 @@ raycaster.params.Points = { threshold: 0 };}
   // 7) RENDERER
   // —————————————————————————————————————————————
   function initRenderer(){
-    renderer=new THREE.WebGLRenderer({alpha:true,antialias:true});
+    renderer=new THREE.WebGLRenderer({alpha:true,antialias:true,premultipliedAlpha:true});
     renderer.setClearColor(0x000000,0);
-    renderer.setPixelRatio(window.devicePixelRatio);
+    if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
     renderer.setSize(width,height);
-    Object.assign(renderer.domElement.style,{position:'absolute',top:0,left:0,zIndex:1,touchAction:'none'});
+    Object.assign(renderer.domElement.style,{
+      position:'absolute',top:0,left:0,zIndex:1,touchAction:'none',
+      background:'transparent',
+    });
     container.appendChild(renderer.domElement);
   }
 
@@ -146,6 +163,96 @@ raycaster.params.Points = { threshold: 0 };}
     scene.add(camera); recenterCamera();
   }
   function recenterCamera(){ camera.position.set(0,0,camera.position.z); controls.target.set(0,0,0); controls.update(); }
+  function getVisibleWorldRange(){
+    if(ORIENTATION==='horizontal'){
+      const min=new THREE.Vector3(-1,0,0).unproject(camera).x;
+      const max=new THREE.Vector3(1,0,0).unproject(camera).x;
+      return { min, max, center:(min+max)/2 };
+    }
+    let min=new THREE.Vector3(0,-1,0).unproject(camera).y;
+    let max=new THREE.Vector3(0,1,0).unproject(camera).y;
+    if(min>max){ const tmp=min; min=max; max=tmp; }
+    return { min, max, center:(min+max)/2 };
+  }
+  function centerCameraOnWorld(worldCenter){
+    const { center } = getVisibleWorldRange();
+    const delta = worldCenter - center;
+    if(ORIENTATION==='horizontal'){
+      camera.position.x += delta;
+      controls.target.x += delta;
+    } else {
+      camera.position.y += delta;
+      controls.target.y += delta;
+    }
+  }
+  function clampCameraToTimelineBounds(){
+    if(!camera||!controls) return;
+    if(ORIENTATION==='horizontal'){
+      const minWorld=M.left;
+      const maxWorld=M.left+W;
+      let visibleMin=new THREE.Vector3(-1,0,0).unproject(camera).x;
+      let visibleMax=new THREE.Vector3(1,0,0).unproject(camera).x;
+      const visibleSpan=visibleMax-visibleMin;
+      const allowedSpan=maxWorld-minWorld;
+      if(visibleSpan>=allowedSpan){
+        const allowedCenter=(minWorld+maxWorld)/2;
+        const visibleCenter=(visibleMin+visibleMax)/2;
+        const shift=allowedCenter-visibleCenter;
+        if(shift!==0){
+          camera.position.x+=shift;
+          controls.target.x+=shift;
+        }
+        return;
+      }
+      let shift=0;
+      if(visibleMin<minWorld) shift=minWorld-visibleMin;
+      else if(visibleMax>maxWorld) shift=maxWorld-visibleMax;
+      if(shift!==0){
+        camera.position.x+=shift;
+        controls.target.x+=shift;
+      }
+    } else {
+      const minWorld=M.top;
+      const maxWorld=M.top+H;
+      let visibleMin=new THREE.Vector3(0,-1,0).unproject(camera).y;
+      let visibleMax=new THREE.Vector3(0,1,0).unproject(camera).y;
+      if(visibleMin>visibleMax){ const tmp=visibleMin; visibleMin=visibleMax; visibleMax=tmp; }
+      const visibleSpan=visibleMax-visibleMin;
+      const allowedSpan=maxWorld-minWorld;
+      if(visibleSpan>=allowedSpan){
+        const allowedCenter=(minWorld+maxWorld)/2;
+        const visibleCenter=(visibleMin+visibleMax)/2;
+        const shift=allowedCenter-visibleCenter;
+        if(shift!==0){
+          camera.position.y+=shift;
+          controls.target.y+=shift;
+        }
+        return;
+      }
+      let shift=0;
+      if(visibleMin<minWorld) shift=minWorld-visibleMin;
+      else if(visibleMax>maxWorld) shift=maxWorld-visibleMax;
+      if(shift!==0){
+        camera.position.y+=shift;
+        controls.target.y+=shift;
+      }
+    }
+  }
+  function zoomToFill(){
+    if(!camera||!controls) return;
+    const dataSpan = Math.max(1, dataMaxTs - dataMinTs);
+    const padding = Math.max(180 * 24 * 60 * 60 * 1000, dataSpan * 0.08);
+    const desiredMin = Math.max(NAV_MIN_TS, dataMinTs - padding);
+    const desiredMax = Math.min(NAV_MAX_TS, dataMaxTs + padding);
+    const desiredSpan = Math.max(1, desiredMax - desiredMin);
+    camera.zoom = Math.max(controls.minZoom || 1, TOTAL_SPAN / desiredSpan);
+    camera.updateProjectionMatrix();
+    const centerTs = desiredMin + desiredSpan / 2;
+    const worldCenter = ORIENTATION==='horizontal' ? xScale(centerTs) : yScale(centerTs);
+    centerCameraOnWorld(worldCenter);
+    clampCameraToTimelineBounds();
+    controls.update();
+  }
 
   // —————————————————————————————————————————————
   // 9) AXIS CANVAS
@@ -160,6 +267,102 @@ raycaster.params.Points = { threshold: 0 };}
     ctx2d=axisCanvas.getContext('2d'); ctx2d.scale(dpr,dpr);
     ctx2d.textAlign='center'; ctx2d.textBaseline='top'; ctx2d.font='10px Helvetica,Arial,sans-serif';
     ctx2d.fillStyle='#999'; ctx2d.strokeStyle='#999';
+  }
+
+  // Zonas laterais livres em mobile: permitem pan com um dedo sem roubar taps no eixo central.
+  function initSidePanZones(){
+    sidePanZones.forEach(zone=>zone.remove());
+    sidePanZones = [];
+    activeSidePanZone = null;
+    activeSidePanPointerId = null;
+
+    if(ORIENTATION!=='vertical') return;
+
+    const gutter = Math.max(56, Math.min(96, Math.round(width * 0.2)));
+    const bottomClearance = 76;
+
+    ['left','right'].forEach(side=>{
+      const zone=document.createElement('div');
+      Object.assign(zone.style,{
+        position:'absolute',
+        top:'0',
+        bottom:`${bottomClearance}px`,
+        [side]:'0',
+        width:`${gutter}px`,
+        zIndex:'3',
+        background:'transparent',
+        touchAction:'none',
+      });
+      zone.dataset.panZone = side;
+      zone.addEventListener('pointerdown',handleSidePanStart);
+      zone.addEventListener('pointermove',handleSidePanMove);
+      zone.addEventListener('pointerup',finishSidePanGesture);
+      zone.addEventListener('pointercancel',finishSidePanGesture);
+      container.appendChild(zone);
+      sidePanZones.push(zone);
+    });
+  }
+
+  function panCameraByPixels(dx,dy){
+    const invZoom = 1 / (camera.zoom || 1);
+    const worldDx = dx * invZoom;
+    const worldDy = dy * invZoom;
+    camera.position.x -= worldDx;
+    camera.position.y += worldDy;
+    controls.target.x -= worldDx;
+    controls.target.y += worldDy;
+    clampCameraToTimelineBounds();
+    controls.update();
+  }
+
+  function handleSidePanStart(e){
+    if(e.pointerType==='mouse') return;
+    if(e.isPrimary===false) return;
+    activeSidePanZone = e.currentTarget;
+    activeSidePanPointerId = e.pointerId;
+    activeSidePanX = e.clientX;
+    activeSidePanY = e.clientY;
+    if(activeSidePanZone.setPointerCapture){
+      activeSidePanZone.setPointerCapture(e.pointerId);
+    }
+    if(!staticTooltip){
+      if(prevHoverMesh){
+        scene.remove(prevHoverMesh);
+        prevHoverMesh = null;
+      }
+      prevHitId = prevTipId = null;
+      hideTooltip();
+      if(!lockedArcCat){
+        clearCategoryHighlight();
+        hideCategoryLabel();
+      }
+    }
+    e.preventDefault();
+    e.stopPropagation();
+  }
+
+  function handleSidePanMove(e){
+    if(activeSidePanPointerId!==e.pointerId) return;
+    const dx = e.clientX - activeSidePanX;
+    const dy = e.clientY - activeSidePanY;
+    activeSidePanX = e.clientX;
+    activeSidePanY = e.clientY;
+    if(dx===0 && dy===0) return;
+    panCameraByPixels(dx,dy);
+    e.preventDefault();
+    e.stopPropagation();
+  }
+
+  function finishSidePanGesture(e){
+    if(activeSidePanPointerId!==e.pointerId) return;
+    const zone = activeSidePanZone;
+    if(zone && zone.hasPointerCapture && zone.hasPointerCapture(e.pointerId)){
+      zone.releasePointerCapture(e.pointerId);
+    }
+    activeSidePanZone = null;
+    activeSidePanPointerId = null;
+    e.preventDefault();
+    e.stopPropagation();
   }
 
   // —————————————————————————————————————————————
@@ -179,13 +382,16 @@ raycaster.params.Points = { threshold: 0 };}
       Object.assign(cb.style,{width:'12px',height:'12px',border:`1px solid ${color}`,background:color,cursor:'pointer',flexShrink:'0'});
       const lbl=document.createElement('span'); lbl.textContent=timelineData[cat].name;
       Object.assign(lbl.style,{color,margin:'0 4px',fontSize:'12px',whiteSpace:'nowrap'});
-      const box=document.createElement('div'); Object.assign(box.style,{display:'flex',alignItems:'center',marginBottom:'4px'});
+      const box=document.createElement('div'); Object.assign(box.style,{display:'flex',alignItems:'center',marginBottom:'4px',cursor:'pointer'});
       box.append(cb,lbl); wrapper.appendChild(box);
       items.push({el:box,defaultDisplay:box.style.display});
-      cb.addEventListener('click',()=>{
+      const toggleCategory=()=>{
         categoryState[cat]=!categoryState[cat]; cb.style.background=categoryState[cat]?color:'transparent';
         pointSystems.find(s=>s.cat===cat).group.visible=categoryState[cat]; hideTooltip();
-      });
+      };
+      cb.addEventListener('click',e=>{ e.stopPropagation(); toggleCategory(); });
+      lbl.addEventListener('click',e=>{ e.stopPropagation(); toggleCategory(); });
+      box.addEventListener('click',toggleCategory);
       toggles[cat]=cb;
     });
     ['Show All','Hide All'].forEach((txt,i)=>{
@@ -200,33 +406,60 @@ raycaster.params.Points = { threshold: 0 };}
         }); hideTooltip();
       }); wrapper.appendChild(btn); items.push({el:btn,defaultDisplay:''});
     });
-    let filtersVisible=false;
+    let filtersVisible=true;
     const filtersBtn=document.createElement('button');
     function updateFiltersBtnLabel(){ filtersBtn.textContent=filtersVisible?'HIDE FILTERS':'SHOW FILTERS'; }
     Object.assign(filtersBtn.style,{margin:'0 4px',padding:'4px 8px',cursor:'pointer',border:'none',borderRadius:'0px',background:'#444',color:'#fff',fontSize:'12px'});
     filtersBtn.addEventListener('click',()=>{
       filtersVisible=!filtersVisible; items.forEach(item=>item.el.style.display=filtersVisible?item.defaultDisplay:'none'); updateFiltersBtnLabel();
     }); wrapper.appendChild(filtersBtn);
-    items.forEach(item=>item.el.style.display='none'); updateFiltersBtnLabel();
+    items.forEach(item=>{ item.el.style.display=filtersVisible?item.defaultDisplay:'none'; }); updateFiltersBtnLabel();
   }
 
   // —————————————————————————————————————————————
   // CATEGORY LABEL
   // —————————————————————————————————————————————
   function initCategoryLabel(){
+    if(categoryLabel) categoryLabel.remove();
     categoryLabel=document.createElement('div');
-    Object.assign(categoryLabel.style,{position:'absolute',top:'10px',right:'40px',padding:'4px 8px',fontSize:'14px',color:'#fff',textTransform:'uppercase',pointerEvents:'none',display:'none',zIndex:'400'});
-    container.appendChild(categoryLabel);
+    categoryLabel.id='webgl-category-label';
+    Object.assign(categoryLabel.style,{
+      position:'fixed',
+      right:'24px',
+      padding:'6px 10px',
+      fontSize:'13px',
+      fontFamily:'Helvetica,Arial,sans-serif',
+      color:'#fff',
+      textTransform:'uppercase',
+      letterSpacing:'0.06em',
+      pointerEvents:'none',
+      display:'none',
+      zIndex:'1050',
+      maxWidth:'min(50vw, 420px)',
+      textAlign:'right',
+      textShadow:'0 1px 2px rgba(0,0,0,0.85)',
+    });
+    document.body.appendChild(categoryLabel);
   }
-function showCategoryLabel(slug){
-  const label = slug
-    .replace(/-/g, ' ')
-    .split(' ')
-    .map(s => s.charAt(0).toUpperCase() + s.slice(1))
-    .join(' ');
-  categoryLabel.textContent = label;
-  categoryLabel.style.display = 'block';
-}
+
+  function syncCategoryLabelPlacement(){
+    if(!categoryLabel) return;
+    const mast=document.getElementById('masthead');
+    const gap=10;
+    const top=mast?Math.round(mast.getBoundingClientRect().bottom)+gap:56;
+    categoryLabel.style.top=`${top}px`;
+  }
+
+  function showCategoryLabel(slug){
+    const entry=timelineData[slug];
+    const label=entry&&entry.name&&entry.name.trim()
+      ? entry.name
+      : slug.replace(/-/g,' ').split(' ').map(s=>s.charAt(0).toUpperCase()+s.slice(1)).join(' ');
+    categoryLabel.textContent=label;
+    syncCategoryLabelPlacement();
+    categoryLabel.style.display='block';
+  }
+
   function hideCategoryLabel(){ categoryLabel.style.display='none'; }
 
   // —————————————————————————————————————————————
@@ -234,7 +467,10 @@ function showCategoryLabel(slug){
   // —————————————————————————————————————————————
   function initDataStructures(){
     const allTs=Object.values(timelineData).flatMap(cat=>cat.posts.map(p=>new Date(p.date).getTime())).filter(t=>!isNaN(t));
-    tMin=Math.min(...allTs); tMax=Math.max(...allTs); TOTAL_SPAN=tMax-tMin; arcLines.length=0;
+    tMin=NAV_MIN_TS; tMax=NAV_MAX_TS; TOTAL_SPAN=tMax-tMin; arcLines.length=0;
+    const boundedTs=allTs.filter(ts=>ts>=NAV_MIN_TS&&ts<=NAV_MAX_TS);
+    dataMinTs=boundedTs.length?Math.min(...boundedTs):NAV_MIN_TS;
+    dataMaxTs=boundedTs.length?Math.max(...boundedTs):NAV_MAX_TS;
     pointSystems.forEach(s=>scene.remove(s.group)); pointSystems.length=0;
     if(particleSystem) scene.remove(particleSystem);
     if(baselineLine) scene.remove(baselineLine);
@@ -260,9 +496,10 @@ function showCategoryLabel(slug){
           const startAngle=sign<0?Math.PI:0, delta=(Math.PI/steps)*sign;
           for(let j=0;j<=steps;j++){const θ=startAngle+delta*j; pts.push(xMid+sign*r*Math.sin(θ),cy+r*Math.cos(θ),0);}        }
         const lineGeo=new THREE.LineGeometry(); lineGeo.setPositions(pts);
-        const lineMat=new THREE.LineMaterial({color:color.getHex(),linewidth:BASE_LINEWIDTH,resolution:new THREE.Vector2(width,height),dashed:false,opacity:1,transparent:true});
+        const lineMat=new THREE.LineMaterial({color:color.getHex(),linewidth:BASE_LINEWIDTH,resolution:new THREE.Vector2(width,height),dashed:false,opacity:1,transparent:true,worldUnits:false});
+        lineMat.depthTest=false;
+        lineMat.depthWrite=false;
         const line2=new THREE.Line2(lineGeo,lineMat); line2.computeLineDistances(); line2.scale.set(1,1,1); line2.renderOrder = 0;
-line2.material.depthTest = true;
         group.add(line2); arcLines.push(line2); arcLinesByCat[cat].push(line2);
       });
 
@@ -277,10 +514,15 @@ pts.material.depthTest = false; // always on top
 group.add(pts);
       pointSystems.push({cat,group,mesh:group.children.slice(-1)[0],posts}); categoryState[cat]=true;
     });
+    syncArcLineMaterialResolution();
     initTooltip();
   }
 
-
+  function syncArcLineMaterialResolution(){
+    arcLines.forEach((l2)=>{
+      if(l2.material&&l2.material.resolution) l2.material.resolution.set(width,height);
+    });
+  }
   function createCircleTexture(size){
     const c=document.createElement('canvas');
     c.width=c.height=size;
@@ -366,14 +608,27 @@ group.add(pts);
   // —————————————————————————————————————————————
   // 12) TOOLTIP (now pointer-events toggled)
   // —————————————————————————————————————————————
+  function syncTooltipPlacement(){
+    if(!tooltip) return;
+    const mast=document.getElementById('masthead');
+    const gap=12;
+    const top=mast?Math.round(mast.getBoundingClientRect().bottom)+gap:64;
+    tooltip.style.top=`${top}px`;
+    tooltip.style.left='50%';
+    tooltip.style.transform='translateX(-50%)';
+    tooltip.style.right='auto';
+  }
   function initTooltip(){
     if(tooltip) tooltip.remove();
     tooltip=document.createElement('div');
     tooltip.id='webgl-tooltip';
     Object.assign(tooltip.style,{
       fontFamily:'Helvetica,Arial,sans-serif',
-      position:'absolute',
-      top:'4px',
+      position:'fixed',
+      top:'64px',
+      left:'50%',
+      transform:'translateX(-50%)',
+      right:'auto',
       background:'rgba(0,0,0,0.7)',
       color:'#fff',
       padding:'8px',
@@ -383,22 +638,16 @@ group.add(pts);
       textTransform:'uppercase',
       border:'1px solid #999',
       opacity:'0',
-      pointerEvents:'none',       // ← no mouse blocking when hidden
+      pointerEvents:'none',
       transition:'opacity 0.2s ease',
-      zIndex:'300'
+      zIndex:'1050',
+      maxWidth:'min(360px, calc(100vw - 24px))',
+      width:'auto'
     });
-    if(ORIENTATION==='vertical'){
-      tooltip.style.left='0';
-      tooltip.style.width=`${width}px`;
-      tooltip.style.maxWidth=`${width/3}px`;
-    } else {
-      tooltip.style.left='0px';
-      tooltip.style.maxWidth='512px';
-      tooltip.style.width='auto';
-    }
-    container.appendChild(tooltip);
+    document.body.appendChild(tooltip);
   }
   function showTooltip(){
+    syncTooltipPlacement();
     tooltip.style.opacity='1';
     tooltip.style.pointerEvents='auto';
   }
@@ -411,7 +660,10 @@ group.add(pts);
     let html=`<strong style="display:block;margin-bottom:4px">${post.title}</strong>
               <small>${post.date.slice(0,10)}</small>`;
     if(post.thumbnail){
-      html+=`<img src="${post.thumbnail}" style="width:100%;margin-top:6px;display:block;">`;
+      const TW=280,TH=158;
+      html+=`<div style="width:${TW}px;height:${TH}px;max-width:100%;margin-top:8px;overflow:hidden;border-radius:2px;background:#111;box-sizing:border-box;">
+        <img src="${post.thumbnail}" alt="" style="width:100%;height:100%;object-fit:cover;display:block;"/>
+      </div>`;
     }
     if(includeBtn){
       html+=`<button class="open-post-btn" style="margin-top:8px;padding:4px 8px;cursor:pointer">
@@ -555,10 +807,18 @@ group.add(pts);
     prevHitId=`${sys.cat}_${idx}`;
   }
 
-  function pickPoint(x,y){
+  function getPointerNDC(x,y){
     const rect=renderer.domElement.getBoundingClientRect();
-    const nx=((x-rect.left)/width)*2-1;
-    const ny=-((y-rect.top)/height)*2+1;
+    const rw=rect.width||1;
+    const rh=rect.height||1;
+    return{
+      nx:((x-rect.left)/rw)*2-1,
+      ny:-((y-rect.top)/rh)*2+1
+    };
+  }
+
+  function pickPoint(x,y){
+    const {nx,ny}=getPointerNDC(x,y);
     raycaster.setFromCamera({x:nx,y:ny},camera);
     for(const sys of pointSystems){
       if(!categoryState[sys.cat]) continue;
@@ -569,63 +829,71 @@ group.add(pts);
   }
 
 
-// ─── pointer‐move: first try arcs, else dots ────────────────────────────────
+// ─── pointer‐move: como no WordPress — pontos primeiro (tooltip), depois arcos ────────────────────────────────
 function handlePointerMove(e) {
   if (staticTooltip) return;
   updateThreshold();
 
-
-  // 2) fallback to your existing dot‐hover logic:
   const hit = pickPoint(e.clientX, e.clientY);
-  if (!hit) {
-    if (prevHoverMesh) {
-      scene.remove(prevHoverMesh);
-      prevHoverMesh = null;
-    }
-    prevHitId = prevTipId = null;
-if (!lockedArcCat) {
-    clearCategoryHighlight();
-    hideCategoryLabel();
-    }
-    hideTooltip();
-    return;
-  }
-  const { sys, idx, point } = hit;
-  const id = `${sys.cat}_${idx}`;
-  if (id !== prevHitId) highlightDot(sys, idx);
-  if (id !== prevTipId) {
-    spawnParticles(point, sys.mesh.material.color);
-    prevTipId = id;
-    tooltip.innerHTML = makeHTML(sys.posts[idx], false);
- if (!lockedArcCat) {
-    highlightCategory(arcCat);
-    showCategoryLabel(arcCat);
-    }
-  }
-  showTooltip();
-
-  // 1) arc hover?
-  const arcCat = pickArc(e.clientX, e.clientY);
-  if (arcCat) {
+  if (hit) {
+    const { sys, idx, point } = hit;
+    const id = `${sys.cat}_${idx}`;
     if (!lockedArcCat) {
-    // highlight that category, fade others, show label
-    highlightCategory(arcCat);
-    showCategoryLabel(arcCat);
+      highlightCategory(sys.cat);
+      showCategoryLabel(sys.cat);
     }
+    if (id !== prevHitId) highlightDot(sys, idx);
+    if (id !== prevTipId) {
+      spawnParticles(point, sys.mesh.material.color);
+      prevTipId = id;
+      tooltip.innerHTML = makeHTML(sys.posts[idx], false);
+    }
+    showTooltip();
     return;
-  } else {
-if (!lockedArcCat) {
-    clearCategoryHighlight();
-    hideCategoryLabel();
-    }
   }
 
+  if (prevHoverMesh) {
+    scene.remove(prevHoverMesh);
+    prevHoverMesh = null;
+  }
+  prevHitId = prevTipId = null;
+  hideTooltip();
+
+  const arcCatHover = pickArc(e.clientX, e.clientY);
+  if (arcCatHover) {
+    if (!lockedArcCat) {
+      highlightCategory(arcCatHover);
+      showCategoryLabel(arcCatHover);
+    }
+    return;
+  }
+
+  if (!lockedArcCat) {
+    clearCategoryHighlight();
+    hideCategoryLabel();
+  }
 }
 
 // ─── pointer‐down: toggle arc selection if you clicked an arc ──────────────
 let lockedArcCat = null;
 function handlePointerDown(e) {
-  // 1) arc click?
+  if (staticTooltip) return;
+  updateThreshold();
+
+  const hit = pickPoint(e.clientX, e.clientY);
+  if (hit) {
+    const { sys, idx } = hit;
+    highlightDot(sys, idx);
+    staticTooltip = true;
+    renderer.domElement.removeEventListener('pointermove', handlePointerMove);
+    tooltip.innerHTML = makeHTML(sys.posts[idx], true);
+    showTooltip();
+    setTimeout(() => document.addEventListener('pointerdown', docClickOutside), 0);
+    tooltip.querySelector('.open-post-btn')
+           .addEventListener('click', () => window.open(sys.posts[idx].link, '_blank'));
+    return;
+  }
+
   const arcCat = pickArc(e.clientX, e.clientY);
   if (arcCat) {
     lockedArcCat = lockedArcCat === arcCat ? null : arcCat;
@@ -636,23 +904,34 @@ function handlePointerDown(e) {
       clearCategoryHighlight();
       hideCategoryLabel();
     }
+  }
+}
+
+function handleCanvasDoubleClick(e){
+  e.preventDefault();
+  zoomToFill();
+}
+
+function handleCanvasPointerUp(e){
+  if(e.pointerType!=='touch') return;
+  updateThreshold();
+  if(pickPoint(e.clientX,e.clientY)||pickArc(e.clientX,e.clientY)){
+    lastTouchTapTs = 0;
     return;
   }
-
-  // 2) dot‐click fallback (static tooltip)… (your existing code)
-  if (staticTooltip) return;
-  updateThreshold();
-  const hit = pickPoint(e.clientX, e.clientY);
-  if (!hit) return;
-  const { sys, idx } = hit;
-  highlightDot(sys, idx);
-  staticTooltip = true;
-  renderer.domElement.removeEventListener('pointermove', handlePointerMove);
-  tooltip.innerHTML = makeHTML(sys.posts[idx], true);
-  showTooltip();
-  setTimeout(() => document.addEventListener('pointerdown', docClickOutside), 0);
-  tooltip.querySelector('.open-post-btn')
-         .addEventListener('click', () => window.open(sys.posts[idx].link, '_blank'));
+  const now = e.timeStamp || performance.now();
+  const dt = now - lastTouchTapTs;
+  const dx = e.clientX - lastTouchTapX;
+  const dy = e.clientY - lastTouchTapY;
+  if(lastTouchTapTs && dt < 320 && (dx*dx + dy*dy) < (24*24)){
+    lastTouchTapTs = 0;
+    e.preventDefault();
+    zoomToFill();
+    return;
+  }
+  lastTouchTapTs = now;
+  lastTouchTapX = e.clientX;
+  lastTouchTapY = e.clientY;
 }
 
 
@@ -688,6 +967,8 @@ function handlePointerDown(e) {
   function attachEventHandlers(){
     renderer.domElement.addEventListener('pointermove',handlePointerMove);
     renderer.domElement.addEventListener('pointerdown',handlePointerDown);
+    renderer.domElement.addEventListener('pointerup',handleCanvasPointerUp);
+    renderer.domElement.addEventListener('dblclick',handleCanvasDoubleClick);
     window.addEventListener('resize',onResize);
   }
 
@@ -752,9 +1033,7 @@ function updateArcLineWidths() {
 
 // ─── NEW: raycast against all Line2 arcs ───────────────────────────────────
 function pickArc(x, y) {
-  const rect = renderer.domElement.getBoundingClientRect();
-  const nx   = ((x - rect.left) / width) * 2 - 1;
-  const ny   = -((y - rect.top) / height) * 2 + 1;
+  const { nx, ny } = getPointerNDC(x, y);
   raycaster.setFromCamera({ x: nx, y: ny }, camera);
   // for each category, for each Line2
   for (const cat in arcLinesByCat) {
@@ -776,6 +1055,7 @@ function pickArc(x, y) {
     updateParticles(dt);
     updateHoverAnims(dt);
     controls.update();
+    clampCameraToTimelineBounds();
     drawAxes2D();
     updateArcLineWidths();
     renderer.render(scene,camera);
@@ -792,8 +1072,10 @@ function pickArc(x, y) {
     camera.updateProjectionMatrix();
     recenterCamera();
     initAxesCanvas();
+    initSidePanZones();
     initDataStructures();
     drawAxes2D();
+    syncCategoryLabelPlacement();
   }
 
 })();

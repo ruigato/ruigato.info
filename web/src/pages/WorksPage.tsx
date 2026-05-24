@@ -124,76 +124,78 @@ export function WorksPage({ highlightedOnly = false }: WorksPageProps = {}) {
 
         <div className="tg-grid-area-top2">
           <div className="tg-sorters-holder">
-            <label className="tg-dropdown-holder tg-nav-border tg-nav-font tg-sort-block">
-              <span className="tg-dropdown-title tg-nav-color">Sort By</span>
-              <span className="tg-sort-sep" aria-hidden>
-                &nbsp;
-              </span>
-              <select
-                className="tg-sort-select tg-nav-color tg-nav-font"
-                value={kind}
-                onChange={(e) => {
-                  const v = e.target.value as "date" | "title"
-                  if (v === "title") {
-                    setFilters((f) => ({ ...f, sort: "title-asc" }))
-                  } else {
-                    setFilters((f) => ({ ...f, sort: "date-desc" }))
-                  }
-                }}
-              >
-                <option value="date">Date</option>
-                <option value="title">Title</option>
-              </select>
-            </label>
+            <div className="tg-sort-cluster">
+              <label className="tg-dropdown-holder tg-nav-border tg-nav-font tg-sort-block">
+                <span className="tg-dropdown-title tg-nav-color">Sort By</span>
+                <span className="tg-sort-sep" aria-hidden>
+                  &nbsp;
+                </span>
+                <select
+                  className="tg-sort-select tg-nav-color tg-nav-font"
+                  value={kind}
+                  onChange={(e) => {
+                    const v = e.target.value as "date" | "title"
+                    if (v === "title") {
+                      setFilters((f) => ({ ...f, sort: "title-asc" }))
+                    } else {
+                      setFilters((f) => ({ ...f, sort: "date-desc" }))
+                    }
+                  }}
+                >
+                  <option value="date">Date</option>
+                  <option value="title">Title</option>
+                </select>
+              </label>
+              {kind === "date" ? (
+                <div
+                  className="tg-sorter-order tg-nav-border tg-nav-color"
+                  role="group"
+                  aria-label="Sort order"
+                >
+                  <button
+                    type="button"
+                    className={
+                      filters.sort === "date-desc"
+                        ? "tg-sorter-dir tg-sorter-dir-active"
+                        : "tg-sorter-dir"
+                    }
+                    aria-label="Newest first"
+                    aria-pressed={filters.sort === "date-desc"}
+                    onMouseDown={preventMouseFocus}
+                    onClick={() =>
+                      setFilters((f) => ({ ...f, sort: "date-desc" }))
+                    }
+                  >
+                    <span className="tg-icon-sorter-down" aria-hidden />
+                  </button>
+                  <button
+                    type="button"
+                    className={
+                      filters.sort === "date-asc"
+                        ? "tg-sorter-dir tg-sorter-dir-active"
+                        : "tg-sorter-dir"
+                    }
+                    aria-label="Oldest first"
+                    aria-pressed={filters.sort === "date-asc"}
+                    onMouseDown={preventMouseFocus}
+                    onClick={() =>
+                      setFilters((f) => ({ ...f, sort: "date-asc" }))
+                    }
+                  >
+                    <span className="tg-icon-sorter-up" aria-hidden />
+                  </button>
+                </div>
+              ) : null}
+            </div>
             <button
               type="button"
-              className="tg-thumbs-toggle tg-nav-font"
+              className="tg-thumbs-toggle tg-nav-font tg-nav-border tg-nav-color"
               aria-pressed={showThumbs}
               onMouseDown={preventMouseFocus}
               onClick={() => setShowThumbs((v) => !v)}
             >
               {showThumbs ? "Collapse all thumbs" : "Expand all thumbs"}
             </button>
-            {kind === "date" ? (
-              <div
-                className="tg-sorter-order tg-nav-border tg-nav-color"
-                role="group"
-                aria-label="Sort order"
-              >
-                <button
-                  type="button"
-                  className={
-                    filters.sort === "date-desc"
-                      ? "tg-sorter-dir tg-sorter-dir-active"
-                      : "tg-sorter-dir"
-                  }
-                  aria-label="Newest first"
-                  aria-pressed={filters.sort === "date-desc"}
-                  onMouseDown={preventMouseFocus}
-                  onClick={() =>
-                    setFilters((f) => ({ ...f, sort: "date-desc" }))
-                  }
-                >
-                  <span className="tg-icon-sorter-down" aria-hidden />
-                </button>
-                <button
-                  type="button"
-                  className={
-                    filters.sort === "date-asc"
-                      ? "tg-sorter-dir tg-sorter-dir-active"
-                      : "tg-sorter-dir"
-                  }
-                  aria-label="Oldest first"
-                  aria-pressed={filters.sort === "date-asc"}
-                  onMouseDown={preventMouseFocus}
-                  onClick={() =>
-                    setFilters((f) => ({ ...f, sort: "date-asc" }))
-                  }
-                >
-                  <span className="tg-icon-sorter-up" aria-hidden />
-                </button>
-              </div>
-            ) : null}
           </div>
 
           <div className="tg-tags-search-group">
@@ -266,6 +268,7 @@ export function WorksPage({ highlightedOnly = false }: WorksPageProps = {}) {
         <PortfolioWorksGrid
           works={visible}
           showThumbs={showThumbs}
+          highlightedWorksNav={highlightedOnly}
           onMouseDownLink={preventMouseFocus}
         />
       )}

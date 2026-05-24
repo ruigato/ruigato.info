@@ -1,0 +1,85 @@
+{
+  "id": "930",
+  "slug": "rui-gato-boom-festival-2014",
+  "title": "Rui Gato @ Boom festival 2014",
+  "published_at": "2014-08-06",
+  "occurred_on": "2014-08-06",
+  "event_name": "Boom Festival",
+  "summary": "Live act no palco Chill Out Gardens do Boom Festival 2014.",
+  "summary_localized": {
+    "pt": "Live act no palco Chill Out Gardens do Boom Festival 2014.",
+    "en": "Live act on the Chill Out Gardens stage at Boom Festival 2014."
+  },
+  "body_html": "name: Rui Gato @ Boom festival 2014\ndate: 2014-08-06\ntype: live act\nevent: Boom Festival\n\ncity: Idanha-a-nova, Portugal\nplace: Boomland\n\nclient: Boom Festival\ncollaboration: n/a\n\ndescription PT: Live act no palco Chill Out Gardens do Boom Festival 2014.\n\nlinks: <a href=\"https://soundcloud.com/boomfestival/boom-festival-2014-chill-out-ep-09-rui-gato\" target=\"_blank\" rel=\"noopener\">https://soundcloud.com/boomfestival/boom-festival-2014-chill-out-ep-09-rui-gato</a>",
+  "legacy_wp_id": 930,
+  "venue": {
+    "venue_name": "Boomland",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2014/08/boom2014.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "rui-gato",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "boom",
+    "concert",
+    "live performance",
+    "music",
+    "touchdesigner"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2014/08/boom2014.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2014/08/boom2014-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "audio_embed",
+      "local_path": null,
+      "external_url": "https://soundcloud.com/boomfestival/boom-festival-2014-chill-out-ep-09-rui-gato",
+      "platform": "soundcloud"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Rui Gato @ Boom festival 2014",
+    "umbrella_signals": []
+  }
+}

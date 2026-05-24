@@ -1,0 +1,132 @@
+{
+  "id": "872",
+  "slug": "mesa-interactiva-ericeira-wsr",
+  "title": "Mesa Interactiva Ericeira WSR",
+  "published_at": "2016-06-03",
+  "occurred_on": "2016-06-03",
+  "event_name": "instalação permanente",
+  "summary": "sistema interactivo design experiencial, instalação permanente.",
+  "summary_localized": {
+    "pt": "Sistema interactivo de design experiencial em instalação permanente.",
+    "en": "Interactive experiential design system in a permanent installation."
+  },
+  "body_html": "<p>name: mesa interactiva ericeira wsr<br />date: 2016-06-03<br />type: interactive installation<br />event: instalação permanente</p>\n<p>city: ericeira, portugal<br />place: posto turismo ericeira</p>\n<p>client: cm mafra<br />collaboration: experimenta, alta</p>\n<p>description pt: sistema interactivo design experiencial, instalação permanente. uma maquete à escala 1/1000 da reserva mundial de surf da ericeira serve de tela interactiva para os utilizadores navegarem na informação da reserva.</p>\n<p>links:</p>\n<p><a href=\"http://alta.international/work-ewsr.html\">http://alta.international/work-ewsr.html</a></p>\n<p><a href=\"http://www.derivative.ca/events/2016/Ericeira/\">http://www.derivative.ca/events/2016/Ericeira/</a></p>\n<div id=\"photonic-flickr-stream-11\" class=\"photonic-flickr-stream photonic-stream\"><header class=\"photonic-object-header photonic-flickr-set\"></header>\n<p> </p>\n</div>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037522071\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 872,
+  "venue": {
+    "venue_name": "Posto Turismo Ericeira",
+    "city": "Ericeira",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "ericeira, portugal"
+  },
+  "client": {
+    "id": "cm-mafra",
+    "name": "Cm Mafra",
+    "slug": "cm-mafra",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "alta",
+    "name": "ALTA",
+    "slug": "alta",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2024/06/centro-02.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "ALTA",
+    "code",
+    "collaboration",
+    "interactive",
+    "realtime",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Experimenta",
+      "is_organization": true,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "ALTA",
+      "is_organization": true,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://alta.international/work-ewsr.html",
+      "url": "http://alta.international/work-ewsr.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://www.derivative.ca/events/2016/Ericeira/",
+      "url": "http://www.derivative.ca/events/2016/Ericeira/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/06/centro-02.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/06/centro-02-768x509.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037522071/41519505692.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037522071/41519505692.jpg",
+        "/media/flickr/72157694037522071/41519492632.jpg",
+        "/media/flickr/72157694037522071/40667525215.jpg",
+        "/media/flickr/72157694037522071/39752125230.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "mesa interactiva ericeira wsr",
+    "umbrella_signals": [
+      "ALTA:high"
+    ]
+  }
+}

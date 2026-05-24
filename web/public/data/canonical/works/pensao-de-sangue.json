@@ -1,0 +1,68 @@
+{
+  "id": "1304",
+  "slug": "pensao-de-sangue",
+  "title": "Pensão de Sangue",
+  "published_at": "2002-01-06",
+  "occurred_on": "2002-01-06",
+  "event_name": "n/a",
+  "summary": "Pós-produção de áudio para adaptação de peça de teatro para DVD.",
+  "summary_localized": {
+    "pt": "Pós-produção de áudio para adaptação de peça de teatro para DVD.",
+    "en": "Audio post-production for a theatre play adaptation for DVD."
+  },
+  "body_html": "<p><br>\nname: Pensão de Sangue<br>\ndate: 2002-01-06<br>\ntype:  sound engineering<br>\nevent: n/a<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: RTP<br>\n<br>\nclient: Mínima Ideia<br>\ncollaboration: Margarida Moura Guedes<br>\n<br>\ndescription PT: Pós-produção de áudio para adaptação de peça de teatro para DVD.<br>\n<br>\nlinks: <a href=\"http://www.alfredobrito.pt/mylittlecms/renderpage/10\" rel=\"noopener\" target=\"_blank\">http://www.alfredobrito.pt/mylittlecms/renderpage/10</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1304,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound engineering",
+  "categories": [
+    "sound engineering"
+  ],
+  "tags": [
+    "blackbox",
+    "minimaideia",
+    "sound engineering"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.alfredobrito.pt/mylittlecms/renderpage/10",
+      "url": "http://www.alfredobrito.pt/mylittlecms/renderpage/10",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Pensão de Sangue",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1134",
+  "slug": "gabinete-de-apoio-as-empresas",
+  "title": "Gabinete de Apoio às Empresas",
+  "published_at": "2009-06-06",
+  "occurred_on": "2009-06-06",
+  "event_name": "n/a",
+  "summary": "Video institucional.",
+  "summary_localized": {
+    "pt": "Vídeo institucional.",
+    "en": "Institutional video."
+  },
+  "body_html": "<p>name: Gabinete de Apoio às Empresas<br>date: 2009-06-06<br>type: motion graphics<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: HOW</p><p>client: CM Torres Vedras<br>collaboration: Margarida Moura Guedes</p><p>description PT: Video institucional.</p><p>links: <a href=\"https://vimeo.com/4998063\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/4998063\"></a></p><div class=\"embedpress_wrapper embedpress_placeholder wpview wpview-wrap is-loading\" data-url=\"embedpresss://vimeo.com/4998063\" data-uid=\"wzx9s\" id=\"embedpress_wrapper_wzx9s\" data-loading-text=\"Loading your embed...\"><div id=\"embedpress_controller_panel_wzx9s\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_wzx9s\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/4998063\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/4998063\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_wzx9s\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/4998063\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/4998063\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;ï»¿</span></a></div></div></div></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1134,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-torres-vedras",
+    "name": "CM Torres Vedras",
+    "slug": "cm-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/4998063",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Gabinete de Apoio às Empresas",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

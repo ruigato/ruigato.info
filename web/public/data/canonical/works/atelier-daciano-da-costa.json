@@ -1,0 +1,83 @@
+{
+  "id": "1076",
+  "slug": "atelier-daciano-da-costa",
+  "title": "atelier Daciano da Costa",
+  "published_at": "2007-03-03",
+  "occurred_on": "2007-03-03",
+  "event_name": "n/a",
+  "summary": "Video institucional.",
+  "summary_localized": {
+    "pt": "Vídeo institucional.",
+    "en": "Institutional video."
+  },
+  "body_html": "<p>name: atelier Daciano da Costa<br>date: 2007-03-03<br>type: motion graphics<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: RTP</p><p>client: Atelier Daciano da Costa<br>collaboration: Margarida Moura Guedes</p><p>description PT: Video institucional.</p><p>links: <a href=\"https://vimeo.com/6687021\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6687021\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/6687021\" data-uid=\"6l4g0\" id=\"embedpress_wrapper_6l4g0\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_6l4g0\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_6l4g0\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/6687021\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6687021\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_6l4g0\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/6687021\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6687021\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-fe8d91aceed149a19e5e784e50a0b475 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/6687021?app_id=122963\" width=\"512\" height=\"384\" frameborder=\"0\" title=\"2007 . atelier daciano da costa\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1076,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "atelier-daciano-da-costa",
+    "name": "Atelier Daciano da Costa",
+    "slug": "atelier-daciano-da-costa",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "medium",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "blackbox",
+    "motion graphics",
+    "sound design",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/6687021",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/6687021?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "atelier Daciano da Costa",
+    "umbrella_signals": [
+      "HOW:medium"
+    ]
+  }
+}

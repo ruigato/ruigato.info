@@ -1,0 +1,98 @@
+{
+  "id": "1147",
+  "slug": "exd09",
+  "title": "EXD'09",
+  "published_at": "2009-09-06",
+  "occurred_on": "2009-09-06",
+  "event_name": "n/a",
+  "summary": "Sound design para anúncio TV.",
+  "summary_localized": {
+    "pt": "Sound design para anúncio TV.",
+    "en": "Sound design for a TV commercial."
+  },
+  "body_html": "name: EXD'09\ndate: 2009-09-06\ntype: sound design\nevent: n/a\n\ncity: Lisboa, Portugal\nplace: HOW\n\nclient: Experimenta\ncollaboration: n/a\n\ndescription PT: Sound design para anúncio TV.\n\nlinks:\n<div id=\"embedpress_wrapper_5uwqj\" class=\"embedpress_wrapper wpview wpview-wrap\" style=\"width: 589px;\" data-url=\"embedpresss://vimeo.com/15366835\" data-uid=\"5uwqj\" data-loading-text=\"Loading your embed...\">\n<div id=\"embedpress_controller_panel_5uwqj\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\">\n<div id=\"embedpress_button_edit_5uwqj\" class=\"embedpress_ignore_mouseout embedpress_controller_button\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" href=\"https://vimeo.com/15366835\" target=\"_blank\" rel=\"noopener\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div id=\"embedpress_button_remove_5uwqj\" class=\"embedpress_ignore_mouseout embedpress_controller_button\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" href=\"https://vimeo.com/15366835\" target=\"_blank\" rel=\"noopener\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-6f63548d7a3a3f68146e95ffb35dbd22 responsive\" style=\"max-width: 589px;\"><iframe title=\"2009 . 090909\" src=\"https://player.vimeo.com/video/15366835?app_id=122963\" width=\"600\" height=\"400\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</div>",
+  "legacy_wp_id": 1147,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2009/09/exd090909.png",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "experimenta",
+    "HOW",
+    "sound design"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2009/09/exd090909.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2009/09/exd090909-768x476.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15366835",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15366835?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "EXD'09",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

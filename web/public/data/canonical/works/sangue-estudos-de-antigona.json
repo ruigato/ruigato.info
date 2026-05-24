@@ -1,0 +1,84 @@
+{
+  "id": "1146",
+  "slug": "sangue-estudos-de-antigona",
+  "title": "Sangue - Estudos de Antígona",
+  "published_at": "2009-09-09",
+  "occurred_on": "2009-09-09",
+  "event_name": "peça teatro",
+  "summary": "Cenírio em videomapping para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Cenírio em videomapping para peça de Teatro da companhia JGM.",
+    "en": "Videomapping scenery for a theatre piece by JGM."
+  },
+  "body_html": "name: Sangue - Estudos de Antígona\r\ndate: 2009-09-09\r\ntype: theatre\r\nevent: peça teatro\r\n\r\ncity: Lisboa, Portugal\r\nplace: Teatro a Comuna\r\n\r\nclient: João Garcia Miguel\r\ncollaboration: João Faustino, Ruben Santos\r\n\r\ndescription PT: Cenírio em videomapping para peça de Teatro da companhia JGM.\r\n\r\nlinks:\r\n\r\n[embed mce-style=\"width: 589px;\"]https://vimeo.com/15377095[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 1146,
+  "venue": {
+    "venue_name": "Teatro a Comuna",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "JGM",
+    "motion graphics",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Faustino",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15377095[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Sangue - Estudos de Antígona",
+    "umbrella_signals": [
+      "HOW:medium",
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

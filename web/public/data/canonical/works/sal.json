@@ -1,0 +1,84 @@
+{
+  "id": "1089",
+  "slug": "sal",
+  "title": "Sal",
+  "published_at": "2007-07-07",
+  "occurred_on": "2007-07-07",
+  "event_name": "n/a",
+  "summary": "Anuncio institucional para TV.",
+  "summary_localized": {
+    "pt": "Anúncio institucional para TV.",
+    "en": "Institutional TV spot."
+  },
+  "body_html": "<p>name: Sal<br>date: 2007-07-07<br>type: motion graphics<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: RTP</p><p>client: Casa da Música<br>collaboration: Margarida Moura Guedes</p><p>description PT: Anuncio institucional para TV.</p><p>links: <a href=\"https://vimeo.com/15363222\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363222\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15363222\" data-uid=\"tx2gh\" id=\"embedpress_wrapper_tx2gh\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_tx2gh\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_tx2gh\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363222\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363222\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_tx2gh\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363222\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363222\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-82ab6ce03bf32d446f436936dd8959bf responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15363222?app_id=122963\" width=\"640\" height=\"512\" frameborder=\"0\" title=\"2007 . sal\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1089,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "casa-da-musica",
+    "name": "Casa da Música",
+    "slug": "casa-da-musica",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363222",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15363222?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Sal",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

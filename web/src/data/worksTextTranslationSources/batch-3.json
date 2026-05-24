@@ -1,0 +1,587 @@
+[
+  {
+    "slug": "quem-quer-ganha",
+    "title": "quem quer ganha",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "jgm-residencia-artistica",
+    "title": "JGM Residência Artística",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Artistic residence at “Espaço do Tempo” of Rui Horta, for reflexion on the piece of João Garcia Miguel “O banqueiro Anarquista”",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "limbo",
+    "title": "Limbo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Animação video para exposição de Luís Campos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-ccb",
+    "title": "plat|::|form @ CCB",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Concerto de Platform.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "stand-riberalves-novo-dia",
+    "title": "stand riberalves - novo dia",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Previsualização 3D.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "gabinete-de-apoio-as-empresas",
+    "title": "Gabinete de Apoio às Empresas",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "forum-social-intermunicipal",
+    "title": "fórum social intermunicipal",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "camilo-o-presidente",
+    "title": "Camilo, o presidente",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-lourinha",
+    "title": "plat|::|form @ Lourinhã",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Concerto de Platform com live visual de Ruben Santos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "apanha-me-se-puderes",
+    "title": "apanha-me se puderes",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "action-for-age",
+    "title": "action for age",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "sempre-a-somar",
+    "title": "Sempre a somar",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "carnaval-de-torres-vedras",
+    "title": "Carnaval de Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "bravo",
+    "title": "Bravo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "deutsche-bank",
+    "title": "Deutsche Bank",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-pacos-do-concelho-tv",
+    "title": "plat|::|form @ Paços do Concelho TV",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Concerto de Platform com live visual de Phaustino.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "ao-sol",
+    "title": "Ao Sol",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "anjo-da-guarda",
+    "title": "Anjo da Guarda",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "a-minha-geracao",
+    "title": "A minha Geração",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "stretch",
+    "title": "Stretch",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Primeira iteração da peça Stretch, apresentada em Torino na exposição Flexibility da experimentadesign.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-templates",
+    "title": "plat|::|form - Templates",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição online de música do projecto Platform com Nuno Clímaco Pinto, pela testtube.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-festival-territorios-sevilla",
+    "title": "plat|::|form @ Festival Territorios Sevilla",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Participação portuguesa com Platform, pela testtube.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "a-procura-de-sally",
+    "title": "à procura de Sally",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "stop-residuos",
+    "title": "stop residuos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-proxeto-edicion",
+    "title": "plat|::|form @ Proxeto Edicíon",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Participação portuguesa com Platform, pela testtube.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "revolucao",
+    "title": "revolução",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "quatuor-pour-la-fin-du-temps-2",
+    "title": "Quatuor pour la fin du temps",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Cenírio video para concerto do Ensemble D'Arcos de Nuno Corte-Real.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "dreen",
+    "title": "Dreen",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "5-cities-project",
+    "title": "5 Cities Project",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Colaboração no projecto 5 Cities da Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "sal",
+    "title": "Sal",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "clubbing-2",
+    "title": "Clubbing 2",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "clubbing-1",
+    "title": "Clubbing 1",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iiii-2",
+    "title": "Outersites IIII",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act no festival \"Hí Revolta no Cais\".",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "os-franceses-vem-ai",
+    "title": "Os Franceses vêm aí!",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Curta-metragem.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "atelier-daciano-da-costa",
+    "title": "atelier Daciano da Costa",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "aniversario-casa-da-musica",
+    "title": "aniversírio Casa da Música",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "picasso",
+    "title": "Picasso",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-passaro-de-papel",
+    "title": "O Píssaro de Papel",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Cenírio virtual para peça de teatro.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iiii",
+    "title": "Outersites IIII",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Série de live acts música electrónica.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "forum-mundial-da-agua",
+    "title": "Fórum Mundial da água",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação audiovisual para projecto de Pedro Campos Costa, participação portuguesa no FMM 2006.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "do-outro-lado",
+    "title": "(d)o outro lado",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Colaboração de sound design para peça de Raquel Feliciano.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "transit",
+    "title": "Transit",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Desenho de som para exposição Transit ' contributos para um novo universo TAP, da experimentadesign.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "ringtones-vodafone",
+    "title": "Ringtones Vodafone",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design de 3 ringtones para a Vodafone.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "zau",
+    "title": "Zau",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Remistura de uma faixa de Rão Kiau, “Zau” para edição em vinil da Red Bull Music Academy.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "cd-colectivo-portugal-a-new-sound-portrait",
+    "title": "CD colectivo Portugal: A new Sound Portrait",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição em CD com uma faixa de Outersites III, “The Pattern of The Poscriptive Watchdog”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-sonar",
+    "title": "Outersites III @ Sónar",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Showcase Red Bull Music Academy no Festival Sónar, pela editora Monocromatica.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-zdb-2",
+    "title": "Outersites III @ ZdB",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act de música electrónica.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "jeff-mills",
+    "title": "Jeff Mills",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música Original para documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-brg-2005",
+    "title": "Outersites III @ BRG 2005",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act Outersites III no Festival BRG 2005, com Monolake, Pascal Comelade, Pedro Tudela, entre outros.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-teatro-cine-torres-vedras",
+    "title": "Outersites III @ Teatro Cine Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Série de live acts música electrónica.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "carnaval-de-verao-2005",
+    "title": "Carnaval de Verão 2005",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Composição e Pós-Produção para anuncio de TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "transit-ep",
+    "title": "Transit EP",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição online de ílbum de música para exposição Transit - contributos para um novo universo TAP, da experimentadesign.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "festas-da-cidade-torres-vedras",
+    "title": "Festas da Cidade Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Produção, Pós-Produção áudio de documentário",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "chaosmos-ep",
+    "title": "Chaosmos EP",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição online de ílbum de música para exposição do pintor Paulo Quintas.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "masterclass-daz-i-kue",
+    "title": "Masterclass Daz I Kue",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Master Class Com Daz I Kue (Bugz in the Attic ' UK) e 9 músicos nacionais (Miguel Cardona (Coldfinger), João Barbosa (1-UIK Project), Kaspar, Kronic, Francisco Rebelo (Space Boy...",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-ccctv",
+    "title": "Outersites III @ CCCTV",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act Outersites III na Cooperativa Comunicação e Cultura de Torres Vedras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-zdb",
+    "title": "Outersites III @ ZdB",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act música electrónica na galeria Zé dos Bois.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "caixa-geral-de-depositos",
+    "title": "Caixa Geral de Depósitos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Composição e Pós-Produção para anuncio de cinema.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "limbo-2",
+    "title": "Limbo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora para fotografia de Luís Campos, no festival Luzboa 2004.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-iii-serralves",
+    "title": "Outersites III @ Serralves",
+    "summary_source_locale": "pt",
+    "summary_source_text": "live act Outersites III @ Serralves em Festa.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "festival-realidades-invisiveis",
+    "title": "Festival Realidades Invisíveis",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Produção de evento multidisciplinar, pela Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "festival-realidades-invisiveis-spot",
+    "title": "Festival Realidades Invisíveis Spot",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Composição e Pós-Produção para anuncio de TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "bastidores-das-marchas-de-lisboa",
+    "title": "Bastidores das Marchas de Lisboa",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Pós-Produção áudio para documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "carnaval-de-verao-2004",
+    "title": "Carnaval de Verão 2004",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Composição e Pós-Produção para anuncio de TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "rbma-portugal-cape-town-cd",
+    "title": "RBMA Portugal Cape Town CD",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Composição e Produção faixa New Atlantis de Elastic Void, cd da RBMA Portugal Cape Town.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  }
+]

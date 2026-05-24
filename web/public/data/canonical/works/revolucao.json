@@ -1,0 +1,90 @@
+{
+  "id": "1094",
+  "slug": "revolucao",
+  "title": "revolução",
+  "published_at": "2008-03-03",
+  "occurred_on": "2008-03-03",
+  "event_name": "n/a",
+  "summary": "Anuncio institucional para TV.",
+  "summary_localized": {
+    "pt": "Anúncio institucional para TV.",
+    "en": "Institutional TV spot."
+  },
+  "body_html": "<p>name: revolução<br>date: 2008-03-03<br>type: motion graphics<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: RTP</p><p>client: Casa da Música<br>collaboration: Margarida Moura Guedes, Ricardo Viana</p><p>description PT: Anuncio institucional para TV.</p><p>links: <a href=\"https://vimeo.com/6686533\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6686533\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/6686533\" data-uid=\"31xmo\" id=\"embedpress_wrapper_31xmo\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_31xmo\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_31xmo\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/6686533\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6686533\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_31xmo\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/6686533\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6686533\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-8957b88abb97741a1647be23d871ebf0 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/6686533?app_id=122963\" width=\"640\" height=\"480\" frameborder=\"0\" title=\"2008 . revolução\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1094,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "casa-da-musica",
+    "name": "Casa da Música",
+    "slug": "casa-da-musica",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Viana",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/6686533",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/6686533?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "revolução",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

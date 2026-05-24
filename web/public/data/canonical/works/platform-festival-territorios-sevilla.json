@@ -1,0 +1,99 @@
+{
+  "id": "1102",
+  "slug": "platform-festival-territorios-sevilla",
+  "title": "plat|::|form @ Festival Territorios Sevilla",
+  "published_at": "2008-06-04",
+  "occurred_on": "2008-06-04",
+  "event_name": "Territorios Digitales",
+  "summary": "Participação portuguesa com Platform, pela testtube.",
+  "summary_localized": {
+    "pt": "Participação portuguesa com Platform, pela testtube.",
+    "en": "Portuguese participation with Platform, by testtube."
+  },
+  "body_html": "<p>name: plat|::|form @ Festival Territorios Sevilla<br>date: 2008-06-04<br>type: live act<br>event: Territorios Digitales</p><p>city: Sevilla, Espanha<br>place: Centro Andaluz de Arte Contemporíneo</p><p>client: monocromática<br>collaboration: Nuno Clímaco Pinto, Pedro Leitão</p><p>description PT: Participação portuguesa com Platform, pela testtube.</p><p>links: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a></p>",
+  "legacy_wp_id": 1102,
+  "venue": {
+    "venue_name": "Centro Andaluz de Arte Contemporíneo",
+    "city": "Sevilla",
+    "region_or_state": null,
+    "country": "Spain",
+    "raw_location": "Sevilla, Espanha"
+  },
+  "client": {
+    "id": "monocromatica",
+    "name": "Monocromática",
+    "slug": "monocromatica",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2008/06/c05a5a3ff6eb4c47cc33dfd12e43d88d.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "plat-form",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Leitão",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2008/06/c05a5a3ff6eb4c47cc33dfd12e43d88d.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2008/06/c05a5a3ff6eb4c47cc33dfd12e43d88d-330x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form @ Festival Territorios Sevilla",
+    "umbrella_signals": []
+  }
+}

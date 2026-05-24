@@ -1,0 +1,67 @@
+{
+  "id": "1180",
+  "slug": "silos-automoveis-de-lisboa",
+  "title": "Silos Automóveis de Lisboa",
+  "published_at": "2003-03-03",
+  "occurred_on": "2003-03-03",
+  "event_name": "n/a",
+  "summary": "Sound design para apresentação de vídeo institucional.",
+  "summary_localized": {
+    "pt": "Sound design para apresentação de vídeo institucional.",
+    "en": "Sound design for an institutional presentation video."
+  },
+  "body_html": "<p><br>\nname: Silos Automóveis de Lisboa<br>\ndate: 2003-03-03<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: EGEAC<br>\ncollaboration: Margarida Moura Guedes<br>\n<br>\ndescription PT: Sound design para apresentação de vídeo institucional.<br>\n<br>\nlinks: <a href=\"http://www.experimentadesign.pt/\" rel=\"noopener\" target=\"_blank\">http://www.experimentadesign.pt/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1180,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "egeac",
+    "name": "Egeac",
+    "slug": "egeac",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.experimentadesign.pt/",
+      "url": "http://www.experimentadesign.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Silos Automóveis de Lisboa",
+    "umbrella_signals": []
+  }
+}

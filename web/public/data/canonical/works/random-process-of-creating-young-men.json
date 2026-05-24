@@ -1,0 +1,94 @@
+{
+  "id": "1280",
+  "slug": "random-process-of-creating-young-men",
+  "title": "Random Process of Creating Young Men",
+  "published_at": "2001-03-03",
+  "occurred_on": "2001-03-03",
+  "event_name": "exibição cinema",
+  "summary": "Banda Sonora Original para cinema.",
+  "summary_localized": {
+    "pt": "Banda Sonora Original para cinema.",
+    "en": "Original soundtrack for film."
+  },
+  "body_html": "<p><br>\nname: Random Process of Creating Young Men<br>\ndate: 2001-03-03<br>\ntype:  sound design<br>\nevent: exibição cinema<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: Parque Expo Torres Vedras<br>\n<br>\nclient: CM Torres Vedras<br>\ncollaboration: Ulisses Dias, Ricardo Viana, Luís Paulo Silva, Filipe Roque do Vale, Bruno Henriques<br>\n<br>\ndescription PT: Banda Sonora Original para cinema.<br>\n<br>\nlinks: <a href=\"http://www.transforma.org.pt/pt/?/historial/doismileum/dia-mundial-musica2\" rel=\"noopener\" target=\"_blank\">http://www.transforma.org.pt/pt/?/historial/doismileum/dia-mundial-musica2</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1280,
+  "venue": {
+    "venue_name": "Parque Expo Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-torres-vedras",
+    "name": "CM Torres Vedras",
+    "slug": "cm-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "cinema",
+    "collaboration",
+    "live performance",
+    "music",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Ulisses Dias",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Viana",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Paulo Silva",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Filipe Roque do Vale",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Bruno Henriques",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.transforma.org.pt/pt/?/historial/doismileum/dia-mundial-musica2",
+      "url": "http://www.transforma.org.pt/pt/?/historial/doismileum/dia-mundial-musica2",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Random Process of Creating Young Men",
+    "umbrella_signals": []
+  }
+}

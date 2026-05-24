@@ -1,0 +1,93 @@
+{
+  "id": "886",
+  "slug": "retorno-ao-paraiso-palacio-do-principe-real",
+  "title": "Retorno ao Paraíso @ Palácio do Príncipe Real",
+  "published_at": "2017-01-29",
+  "occurred_on": "2017-01-29",
+  "event_name": "exposição mundo interior",
+  "summary": "colaboração com desenho de som para instalação de joão garcia miguel.",
+  "summary_localized": {
+    "pt": "Colaboração no desenho de som para uma instalação de João Garcia Miguel.",
+    "en": "Collaboration on sound design for an installation by João Garcia Miguel."
+  },
+  "body_html": "<!-- wp:image {\"id\":2547,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2024/06/maxresdefault-1024x576.jpg\" alt=\"\" class=\"wp-image-2547\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>name: retorno ao paraíso @ palício do príncipe real<br>date: 2017-01-29<br>type: sound design<br>event: exposição mundo interior</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: lisboa, portugal<br>place: palício do príncipe real</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: joão garcia miguel<br>collaboration: joão garcia miguel</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description pt: colaboração com desenho de som para instalação de joão garcia miguel.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:&nbsp;<a href=\"https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204</a></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 886,
+  "venue": {
+    "venue_name": "Palício do Príncipe Real",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "lisboa, portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2024/06/maxresdefault-1024x576.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "retorno-ao-paraiso",
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "installation",
+    "music",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204",
+      "url": "https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/06/maxresdefault-1024x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [
+    "manual_title_conflict"
+  ],
+  "_migration_debug": {
+    "meta_name": "retorno ao paraíso @ palício do príncipe real",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

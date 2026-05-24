@@ -1,0 +1,170 @@
+{
+  "id": "898",
+  "slug": "inside",
+  "title": "INSIDE",
+  "published_at": "2017-09-30",
+  "occurred_on": "2017-09-30",
+  "event_name": "experimentadesign ’17",
+  "summary": "Espectáculo audiovisual de 100 metros no contexto do programa Primeira Pedra da experimentadesign.",
+  "summary_localized": {
+    "pt": "Espectáculo audiovisual de grande escala integrado no programa Primeira Pedra da experimentadesign.",
+    "en": "Large-scale audiovisual show presented as part of experimentadesign's Primeira Pedra programme."
+  },
+  "body_html": "<p>name: inside<br />date: 2017-09-30<br />type: video mapping<br />event: experimentadesign ’17</p>\n<p>city: lisboa, portugal<br />place: museu nacional dos coches</p>\n<p>client: experimenta<br />collaboration: david negrão, manuel morgado</p>\n<p>description pt:</p>\n<p>INSIDE é uma obra audiovisual que ocupou 1.024 m² da fachada do Museu Nacional dos Coches com videomapping.<br />O sistema tecnológico utilizado criou um dispositivo narrativo imersivo e sensorial, com elementos visuais de geração em tempo real, desenho de som multicanal e vídeo.</p>\n<p>Num espectáculo audiovisual de cerca de 15 minutos, INSIDE conta uma história em 3 momentos, desenvolvendo uma narrativa que explora as diferentes fases da formação da pedra, a sua extração e transformação através do engenho humano e o uso resultante da genialidade do trabalho do homem.</p>\n<p>Fez parte do programa Primeira Pedra <a class=\"\" href=\"http://www.primeirapedra.com\">www.primeirapedra.com</a> e integrou a EXD17, numa primeira<br />noite de 30.09.17.</p>\n<p>description EN:</p>\n<p><strong>INSIDE</strong> is an audio-visual piece that occupied 1,024 m² of the National Coach Museum façade with videomapping.<br />The technological system used created an immersive and sensorial effect, with real-time generated visual elements, combined with multi-channel sound and video.</p>\n<p>Lasting about 15 minutes, this audio-visual show tells a story divided into 3 moments, exploring the different stages of stone formation, its extraction and transformation through human device, and the uses it is given through the genius of human creation.</p>\n<p>It is part of the First Stone programme <a class=\"\" href=\"http://www.primeirapedra.com\">www.primeirapedra.com</a> and of the EXD17 Biennale,<br />and premiered on the night of 30.09.17.</p>\n<p>links: </p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/SU49Kg4W1TM\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/SU49Kg4W1TM\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:embed {\"url\":\"https://youtu.be/sPsxqP706Pc\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/sPsxqP706Pc\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157665934499537\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 898,
+  "venue": {
+    "venue_name": "Museu Nacional dos Coches",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "lisboa, portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "alta",
+    "name": "ALTA",
+    "slug": "alta",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/YJ-70uxXHnFhX5u1atVJb0T_K77wLc96jnyurkaMzuA.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "3D",
+    "ALTA",
+    "blakat",
+    "cinema",
+    "digital arts",
+    "music",
+    "sound design",
+    "spatialization",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Manuel Morgado",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.primeirapedra.com",
+      "url": "http://www.primeirapedra.com",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "INSIDE is an audio-visual piece that occupied 1,024 m² of the National Coach Museum façade with videomapping.\nThe technological system used created an immersive and sensorial effect, with real-time generated visual elements, combined with multi-channel sound and video.\n\nLasting about 15 minutes, this audio-visual show tells a story divided into 3 moments, exploring the different stages of stone formation, its extraction and transformation through human device, and the uses it is given through the genius of human creation.\n\nIt is part of the First Stone programme www.primeirapedra.com and of the EXD17 Biennale,\nand premiered on the night of 30.09.17.\n\nhttps://youtu.be/SU49Kg4W1TM\n\nhttps://youtu.be/sPsxqP706Pc"
+    },
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "INSIDE é uma obra audiovisual que ocupou 1.024 m² da fachada do Museu Nacional dos Coches com videomapping.\nO sistema tecnológico utilizado criou um dispositivo narrativo imersivo e sensorial, com elementos visuais de geração em tempo real, desenho de som multicanal e vídeo.\n\nNum espectáculo audiovisual de cerca de 15 minutos, INSIDE conta uma história em 3 momentos, desenvolvendo uma narrativa que explora as diferentes fases da formação da pedra, a sua extração e transformação através do engenho humano e o uso resultante da genialidade do trabalho do homem.\n\nFez parte do programa Primeira Pedra www.primeirapedra.com e integrou a EXD17, numa primeira\nnoite de 30.09.17.\n\nINSIDE is an audio-visual piece that occupied 1,024 m² of the National Coach Museum façade with videomapping.\nThe technological system used created an immersive and sensorial effect, with real-time generated visual elements, combined with multi-channel sound and video.\n\nLasting about 15 minutes, this audio-visual show tells a story divided into 3 moments, exploring the different stages of stone formation, its extraction and transformation through human device, and the uses it is given through the genius of human creation.\n\nIt is part of the First Stone programme www.primeirapedra.com and of the EXD17 Biennale,\nand premiered on the night of 30.09.17."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/YJ-70uxXHnFhX5u1atVJb0T_K77wLc96jnyurkaMzuA.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/YJ-70uxXHnFhX5u1atVJb0T_K77wLc96jnyurkaMzuA-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157665934499537/41560406061.jpg",
+      "gallery_items": [
+        "/media/flickr/72157665934499537/41560406061.jpg",
+        "/media/flickr/72157665934499537/41560405401.jpg",
+        "/media/flickr/72157665934499537/41560404461.jpg",
+        "/media/flickr/72157665934499537/41560403771.jpg",
+        "/media/flickr/72157665934499537/41560403071.jpg",
+        "/media/flickr/72157665934499537/41560402681.jpg",
+        "/media/flickr/72157665934499537/41560402241.jpg",
+        "/media/flickr/72157665934499537/41560401651.jpg",
+        "/media/flickr/72157665934499537/41519445862.jpg",
+        "/media/flickr/72157665934499537/41519444872.jpg",
+        "/media/flickr/72157665934499537/41519443982.jpg",
+        "/media/flickr/72157665934499537/40667488975.jpg",
+        "/media/flickr/72157665934499537/41560410571.jpg",
+        "/media/flickr/72157665934499537/41560410211.jpg",
+        "/media/flickr/72157665934499537/41560408981.jpg",
+        "/media/flickr/72157665934499537/41519448572.jpg",
+        "/media/flickr/72157665934499537/41519447622.jpg",
+        "/media/flickr/72157665934499537/41519446952.jpg",
+        "/media/flickr/72157665934499537/41519446452.jpg",
+        "/media/flickr/72157665934499537/41519446172.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/SU49Kg4W1TM",
+      "platform": "youtube"
+    },
+    {
+      "id": "media-5",
+      "sort_order": 4,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/sPsxqP706Pc",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "inside",
+    "umbrella_signals": [
+      "HOW:medium",
+      "ALTA:high"
+    ]
+  }
+}

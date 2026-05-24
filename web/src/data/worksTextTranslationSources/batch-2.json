@@ -1,0 +1,587 @@
+[
+  {
+    "slug": "as-barcas-valencia",
+    "title": "As Barcas @ Valência",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "canal-q-refresh",
+    "title": "Canal Q refresh",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Logotipo e imagem grífica para canal TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-ediburgh-fringe-festival",
+    "title": "Romeu e Julieta @ Ediburgh Fringe Festival",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-teatro-cine-torres-vedras",
+    "title": "As Barcas @ Teatro Cine Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-optimus-primavera-sound-v1",
+    "title": "Torre Optimus Primavera Sound v1",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre Optimus ' Palco principal Optimus Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-ccvf",
+    "title": "As Barcas @ CCVF",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-guarda",
+    "title": "Romeu e Julieta @ Guarda",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "only-connect-i",
+    "title": "Only Connect I",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-coimbra",
+    "title": "Romeu e Julieta @ Coimbra",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-torres-novas",
+    "title": "Romeu e Julieta @ Torres Novas",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-bombarral",
+    "title": "Romeu e Julieta @ Bombarral",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-cccr",
+    "title": "Romeu e Julieta @ CCCR",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-felgueiras",
+    "title": "Romeu e Julieta @ Felgueiras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-teatro-cine-torres-vedras",
+    "title": "Romeu e Julieta @ Teatro Cine Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "metatron",
+    "title": "Metatron",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping cenário de palco da banda Blasted Mechanism.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "casa-moreira",
+    "title": "Casa Moreira",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping para montra de loja tradicional, no contexto do concurso Montrarte '11 da Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-barcelona",
+    "title": "O Filho da Europa @ Barcelona",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "romeu-e-julieta-espaco-do-urso-e-dos-anjos",
+    "title": "Romeu e Julieta @ Espaço do Urso e dos Anjos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "antenna",
+    "title": "ANTENNA",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Participação na peça de video ANTENNA de Rui Toscano, com desenho de som a partir de sintetizador analógico.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "mae-coragem-felgueiras",
+    "title": "Mãe Coragem @ Felgueiras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "exd11",
+    "title": "EXD'11",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "panda-cozinha-nas-escolas",
+    "title": "Panda Cozinha nas escolas",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção série TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-setubal",
+    "title": "O Filho da Europa @ Setúbal",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "panda-viagens",
+    "title": "Panda Viagens",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção série TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "tone-scientists-guests",
+    "title": "Tone Scientists + Guests",
+    "summary_source_locale": "en",
+    "summary_source_text": "Por convite dos Tone Scientists, live act na Quadrum Gallery.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-montemor-o-novo",
+    "title": "O Filho da Europa @ Montemor-o-Novo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-centro-cultural-vila-flor",
+    "title": "O Filho da Europa @ Centro Cultural Vila Flor",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "biggtrip",
+    "title": "BiggTrip",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção série TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "rainlith-2-0",
+    "title": "Rainlith 2.0",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora interactiva.",
+    "description_source_locale": "en",
+    "description_source_text": "descritivo:\n\nRainlith 2 - Kinectic sound art piece.\n\nOn Rainlith, the primitive naturally granular sound of a big rainstick gets explored in real-time by cyber-age sound manipulation tools.\nIt's an interactive piece in witch the movement of the audience's body activates an electric motor, making a reflex movement on the structure that embraces the instrument.\nThe sound of the rainstick is captured and processed in realtime, and sent 24 meters above, filling the empty space of a old industrial cereal container. The reverberated acoustic mix is then received back by the audience in the spot right below the opening of the container.\n\nNa peça Rainlith o som primitivo, naturalmente granular, de um pau de chuva é explorado por ferramentas modernas de sound design, em tempo real.\nÉ uma peça interactiva em que o movimento do corpo do público activa um motor eléctrico, provocando um movimento reflexo na estrutura que sustenta o instrumento.\nO som captado em tempo real é processado e enviado 24 metros acima, enchendo o espaço de um silo de cereais industrial. A mistura acústica reverberada é absorvida pelo visitante no local imediatamente abaixo da abertura do silo.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "vestigios",
+    "title": "Vestígios",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para instalação de fotografia de Luís Campos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "acp",
+    "title": "ACP",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Packshot para anuncio TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-teatro-cine-torres-vedras",
+    "title": "O Filho da Europa @ Teatro Cine Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-culturgest",
+    "title": "O Filho da Europa @ Culturgest",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "mae-coragem-puertollano",
+    "title": "Mãe Coragem @ Puertollano",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "colquimica",
+    "title": "Colquímica",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "instalacao-a-partir-de-o-filho-da-europa",
+    "title": "instalação a partir de O Filho da Europa",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Manipulação sonora para performance com Sara Ribeiro, por João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "mae-coragem-teatro-cine-torres-vedras",
+    "title": "Mãe Coragem @ Teatro Cine Torres Vedras",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "beam-drop-ep",
+    "title": "Beam Drop EP",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição online de música, a partir de gravação feita com Hiraku Susuki, sobre a peça Beam Drop de Chris Burden, exposta em Inhotim.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "mae-coragem-ccb",
+    "title": "Mãe Coragem @ CCB",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "seminario-desenho-de-som",
+    "title": "seminário Desenho de Som",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "line-invaders",
+    "title": "Line Invaders",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping interactivo para celebração do 200 anos das Linhas de Torres Vedras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "novus-mercatus",
+    "title": "Novus Mercatus",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping com banda filarmónica de Torres Vedras (música de Carlos Garcia) para inauguração do Mercado Municipal de Torres Vedras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "canal-q-imagem",
+    "title": "Canal Q imagem",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Logotipo e imagem para canal TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "paixoes-riberalves",
+    "title": "paixões - riberalves",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio comercial.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "ja-sei-cozinhar",
+    "title": "jí sei cozinhar",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "historia-do-brinquedo",
+    "title": "história do brinquedo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-filho-da-europa-teca",
+    "title": "O Filho da Europa @ TECA",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "geracao-net",
+    "title": "geração Net",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção série TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "brincka",
+    "title": "brincka",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Anuncio institucional para TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "boys-just-wanna-have-fun",
+    "title": "Boys just wanna have fun",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "boarding-pass",
+    "title": "Boarding Pass",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção série TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "biggstar",
+    "title": "BiggStar",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico para programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "8mm",
+    "title": "8mm",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live Act de performance musical com cinema, projecção de 8mm.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "rainlith-1-0",
+    "title": "Rainlith 1.0",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora interactiva, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+    "description_source_locale": "en",
+    "description_source_text": "On Rainlith, the primitive naturally granular sound of a big rainstick gets explored in real-time by cyber-age sound manipulation tools.\n\nThis is an interactive piece, in which the presence of an audience near the sonic sculpture triggers a circular movement that is at the same time hypnotic and subtle, under a quasi-random set of sequenced movements, controlled by a microchip, originating on the physical force of an electric motor.\n\nThe object consists of a self-standing structure that will suspend the rainstick, also incorporating two microphones attached to both edges. The sound is then processed and routed through a spatialized sound system, radially installed around the area of detection of human presence.\n\nThe piece provides therefore a bridge between two completely different sonic universes, the natural acoustic world and the digital synthetic world. The almost magical movement and the sound resulting from the real-time manipulation give rise to a feeling of awe, alluding to the monolith (2001) and its alienness, producing a strong impact on visitors and a powerfully expressive sound environment.\n\nPiece concept and production by Rui Gato, during the artistic residency Red Bull House of Art, São Paulo November 2009\n\nCurators:",
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-banqueiro-anarquista",
+    "title": "O Banqueiro Anarquista",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Cenírio em videomapping para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "paradise-found",
+    "title": "Paradise Found",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora interactiva, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "art-algarve",
+    "title": "Art Algarve",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação audiovisual no contexto do programa Art Algarve.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "stretch-2-0",
+    "title": "Stretch 2.0",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "casas-com-historia",
+    "title": "Casas com história",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção série documental.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "red-bull-house-of-art-sao-paulo-2009",
+    "title": "Red Bull House of Art São Paulo 2009",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Residência artística da Red Bull House of Arts em São Paulo.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "fio-da-meada",
+    "title": "fio da meada",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Genérico e pós-produção documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "jardim-de-santos",
+    "title": "Jardim de Santos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "concepção de projecto de sound design para a Bienal experimentadesign 2009.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "escola-profissional-de-aveiro",
+    "title": "Escola Profissional de Aveiro",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para video institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "sangue-estudos-de-antigona",
+    "title": "Sangue - Estudos de Antígona",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Cenírio em videomapping para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "exd09",
+    "title": "EXD'09",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para anúncio TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  }
+]

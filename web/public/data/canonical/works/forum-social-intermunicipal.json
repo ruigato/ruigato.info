@@ -1,0 +1,82 @@
+{
+  "id": "1130",
+  "slug": "forum-social-intermunicipal",
+  "title": "fórum social intermunicipal",
+  "published_at": "2009-05-05",
+  "occurred_on": "2009-05-05",
+  "event_name": "n/a",
+  "summary": "Anuncio institucional para TV.",
+  "summary_localized": {
+    "pt": "Anúncio institucional para TV.",
+    "en": "Institutional TV spot."
+  },
+  "body_html": "<p>name: fórum social intermunicipal<br>date: 2009-05-05<br>type: motion graphics<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: RTP</p><p>client: CM Lourinhã<br>collaboration: Margarida Moura Guedes, Ruben Santos</p><p>description PT: Anuncio institucional para TV.</p><p>links:</p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/6503853\" data-uid=\"agj4r\" id=\"embedpress_wrapper_agj4r\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_agj4r\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_agj4r\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></div></div><div id=\"embedpress_button_remove_agj4r\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-f44388c2e28791082443411dd1b4cc6c responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/6503853?app_id=122963\" width=\"640\" height=\"512\" frameborder=\"0\" title=\"2009 . fórum social intermunicipal 2009\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1130,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-lourinha",
+    "name": "CM Lourinhã",
+    "slug": "cm-lourinha",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/6503853?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "fórum social intermunicipal",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

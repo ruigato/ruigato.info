@@ -1,0 +1,85 @@
+{
+  "id": "1086",
+  "slug": "5-cities-project",
+  "title": "5 Cities Project",
+  "published_at": "2007-08-08",
+  "occurred_on": "2007-08-08",
+  "event_name": "n/a",
+  "summary": "Colaboração no projecto 5 Cities da Cooperativa de Comunicação e Cultura de Torres Vedras.",
+  "summary_localized": {
+    "pt": "Colaboração no projecto 5 Cities da Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "en": "Collaboration on the 5 Cities project by the Cooperativa de Comunicação e Cultura de Torres Vedras."
+  },
+  "body_html": "<p><br>\nname: 5 Cities Project<br>\ndate: 2007-08-08<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: Torres Vedras<br>\n<br>\nclient: Pangeiart<br>\ncollaboration: David Gunn, Victor Gama, Alastair Dent, Paulo Carocinho<br>\n<br>\ndescription PT: Colaboração no projecto 5 Cities da Cooperativa de Comunicação e Cultura de Torres Vedras.<br>\n<br>\nlinks: <a href=\"http://www.pangeiainstrumentos.org/index.html\" rel=\"noopener\" target=\"_blank\">http://www.pangeiainstrumentos.org/index.html</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1086,
+  "venue": {
+    "venue_name": null,
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "pangeiart",
+    "name": "Pangeiart",
+    "slug": "pangeiart",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "collaboration",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Gunn",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Victor Gama",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Alastair Dent",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 3
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.pangeiainstrumentos.org/index.html",
+      "url": "http://www.pangeiainstrumentos.org/index.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "5 Cities Project",
+    "umbrella_signals": []
+  }
+}

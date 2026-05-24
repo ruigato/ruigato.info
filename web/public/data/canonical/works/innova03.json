@@ -1,0 +1,66 @@
+{
+  "id": "1188",
+  "slug": "innova03",
+  "title": "Innova'03",
+  "published_at": "2003-07-07",
+  "occurred_on": "2003-07-07",
+  "event_name": "n/a",
+  "summary": "Sound design para vídeo de apresentação institucional.",
+  "summary_localized": {
+    "pt": "Sound design para vídeo de apresentação institucional.",
+    "en": "Sound design for an institutional presentation video."
+  },
+  "body_html": "<p><br>\nname: Innova&#039;03<br>\ndate: 2003-07-07<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: FIL<br>\ncollaboration: Marco Madruga<br>\n<br>\ndescription PT: Sound design para vídeo de apresentação institucional.<br>\n<br>\nlinks: <a href=\"https://vimeo.com/15362271\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/15362271</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1188,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "fil",
+    "name": "Fil",
+    "slug": "fil",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Marco Madruga",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15362271",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Innova&#039;03",
+    "umbrella_signals": []
+  }
+}

@@ -12,6 +12,8 @@ type PortfolioWorksGridProps = {
   onMouseDownLink: (e: MouseEvent<HTMLElement>) => void
   /** Quando false, esconde thumbs em todos os cartões (só títulos). */
   showThumbs?: boolean
+  /** Liga à ficha com `?highlighted=1` para navegação anterior/seguinte só nas obras em destaque. */
+  highlightedWorksNav?: boolean
 }
 
 function layoutSignature(works: Work[], showThumbs: boolean): string {
@@ -33,6 +35,7 @@ export function PortfolioWorksGrid({
   works,
   onMouseDownLink,
   showThumbs = true,
+  highlightedWorksNav = false,
 }: PortfolioWorksGridProps) {
   const gridRef = useRef<HTMLUListElement>(null)
   const flipStateRef = useRef<ReturnType<typeof Flip.getState> | null>(null)
@@ -128,7 +131,11 @@ export function PortfolioWorksGrid({
             data-flip-id={w.slug}
           >
             <Link
-              to={"/works/" + w.slug}
+              to={
+                highlightedWorksNav
+                  ? `/works/${w.slug}?highlighted=1`
+                  : `/works/${w.slug}`
+              }
               className="pg-item-link"
               discover="none"
               onMouseDown={onMouseDownLink}

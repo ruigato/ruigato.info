@@ -1,0 +1,68 @@
+{
+  "id": "1214",
+  "slug": "playground-records-compilation",
+  "title": "Playground Records Compilation",
+  "published_at": "2004-02-02",
+  "occurred_on": "2004-02-02",
+  "event_name": "release",
+  "summary": "Composição e Produção faixa Expedit de Elastic Void, cd compilação da Playground Records.",
+  "summary_localized": {
+    "pt": "Composição e Produção faixa Expedit de Elastic Void, cd compilação da Playground Records.",
+    "en": "Composition and production of Elastic Void's track Expedit for a Playground Records compilation CD."
+  },
+  "body_html": "<p><br>\r\nname: Playground Records Compilation<br>\r\ndate: 2004-02-02<br>\r\ntype:  music release<br>\r\nevent: release<br>\r\n<br>\r\ncity: Thessaloniki, Grécia<br>\r\nplace: CD<br>\r\n<br>\r\nclient: Playground Records<br>\r\ncollaboration: Andreas Dimitriadis<br>\r\n<br>\r\ndescription PT: Composição e Produção faixa Expedit de Elastic Void, cd compilação da Playground Records.<br>\r\n<br>\r\nlinks: <a href=\"http://www.redbullmusicacademy.com/\" rel=\"noopener\" target=\"_blank\">http://www.redbullmusicacademy.com/</a><br>\r\n<br>\r\n </p>",
+  "legacy_wp_id": 1214,
+  "venue": {
+    "venue_name": "Cd",
+    "city": "Thessaloniki",
+    "region_or_state": "Grécia",
+    "country": null,
+    "raw_location": "Thessaloniki, Grécia"
+  },
+  "client": {
+    "id": "playground-records",
+    "name": "Playground Records",
+    "slug": "playground-records",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "CD",
+    "music",
+    "release"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Andreas Dimitriadis",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.redbullmusicacademy.com/",
+      "url": "http://www.redbullmusicacademy.com/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Playground Records Compilation",
+    "umbrella_signals": []
+  }
+}

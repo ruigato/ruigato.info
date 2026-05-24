@@ -1,0 +1,69 @@
+{
+  "id": "1316",
+  "slug": "outersites-ii-fnac-chiado",
+  "title": "Outersites II @ FNAC Chiado",
+  "published_at": "2002-04-16",
+  "occurred_on": "2002-04-16",
+  "event_name": "concerto",
+  "summary": "Live act Outersites II @ FNAC Chiado.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo de Outersites II na FNAC Chiado.",
+    "en": "Live act Outersites II @ FNAC Chiado."
+  },
+  "body_html": "<p><br>\nname: Outersites II @ FNAC Chiado<br>\ndate: 2002-04-16<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: FNAC<br>\n<br>\nclient: monocromática<br>\ncollaboration: Tiago Martins<br>\n<br>\ndescription PT: Live act Outersites II @ FNAC Chiado.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1316,
+  "venue": {
+    "venue_name": "Fnac",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "monocromatica",
+    "name": "Monocromática",
+    "slug": "monocromatica",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-ii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "monocromatica",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites II @ FNAC Chiado",
+    "umbrella_signals": []
+  }
+}

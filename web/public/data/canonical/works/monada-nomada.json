@@ -1,0 +1,108 @@
+{
+  "id": "1392",
+  "slug": "monada-nomada",
+  "title": "Mónada Nómada",
+  "published_at": "2018-05-14",
+  "occurred_on": "2018-05-14",
+  "event_name": "Residência Artística Rui Gato",
+  "summary": "Espectículo audiovisual inserido no contexto da residência artística no CCC.CR.",
+  "summary_localized": {
+    "pt": "Espectáculo audiovisual apresentado no contexto da residência artística no CCC.CR.",
+    "en": "Audiovisual performance presented in the context of the artistic residency at CCC.CR."
+  },
+  "body_html": "<p>name: Mónada Nómada<br />date: 2018-05-14<br />type: video mapping<br />event: Residência Artística Rui Gato</p>\n<p>city: Caldas da Rainha, Portugal<br />place: CCC.CR</p>\n<p>client: CCC.CR<br />collaboration: n/a</p>\n<p>description PT: Espectículo audiovisual inserido no contexto da residência artística no CCC.CR. <br />Uma projecção processada e interpretada em tempo real, com 50 metros de comprimento, na fachada do edifício principal do CCC.CR, com 17 minutos de duração, mais um período de interactividade onde o público foi convidado a participar. Curiosidade: o ficheiro do projecto (incluíndo a musica) tinha apenas 1024 Kb.</p>\n<p>description EN: Audiovisual show set within the context of the artistic residency at CCC.CR.<br />A projection processed and interpreted in real time, spanning 50 metres on the facade of the main CCC.CR building, with a duration of 17 minutes, plus an interactive period where the audience was invited to participate. Curiosity: the project file (including the music) was only 1024 Kb.</p>\n<p>links:</p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:embed {\"url\":\"https://www.youtube.com/embed/LbC6xWsg0iw\",\"type\":\"rich\",\"providerNameSlug\":\"embed-handler\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://www.youtube.com/embed/LbC6xWsg0iw\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157697270325755\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1392,
+  "venue": {
+    "venue_name": "CCC.CR",
+    "city": "Caldas da Rainha",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Caldas da Rainha, Portugal"
+  },
+  "client": {
+    "id": "ccc-cr",
+    "name": "CCC.CR",
+    "slug": "ccc-cr",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/pVPnikqXq7iegwDFef02WLN_vz56rgStl21FCtLYc2g.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "artistic residency",
+    "code",
+    "geoMusic",
+    "music",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/pVPnikqXq7iegwDFef02WLN_vz56rgStl21FCtLYc2g.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/pVPnikqXq7iegwDFef02WLN_vz56rgStl21FCtLYc2g-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157697270325755/41637809714.jpg",
+      "gallery_items": [
+        "/media/flickr/72157697270325755/41637809714.jpg",
+        "/media/flickr/72157697270325755/41637809624.jpg",
+        "/media/flickr/72157697270325755/41637809504.jpg",
+        "/media/flickr/72157697270325755/41637809434.jpg",
+        "/media/flickr/72157697270325755/41637809334.jpg",
+        "/media/flickr/72157697270325755/41637809154.jpg",
+        "/media/flickr/72157697270325755/27490680557.jpg",
+        "/media/flickr/72157697270325755/27490680517.jpg",
+        "/media/flickr/72157697270325755/27490680457.jpg",
+        "/media/flickr/72157697270325755/27490680377.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/embed/LbC6xWsg0iw",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Mónada Nómada",
+    "umbrella_signals": [
+      "HOW:mention"
+    ]
+  }
+}

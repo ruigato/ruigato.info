@@ -1,0 +1,113 @@
+{
+  "id": "1106",
+  "slug": "stretch",
+  "title": "Stretch",
+  "published_at": "2008-06-20",
+  "occurred_on": "2008-06-20",
+  "event_name": "Exposição Flexibility",
+  "summary": "Primeira iteração da peça Stretch, apresentada em Torino na exposição Flexibility da experimentadesign.",
+  "summary_localized": {
+    "pt": "Primeira iteração da peça Stretch, apresentada em Turim na exposição Flexibility, da experimentadesign.",
+    "en": "First iteration of Stretch, presented in Turin at the exhibition Flexibility by experimentadesign."
+  },
+  "body_html": "<p>name: Stretch<br />date: 2008-06-20<br />type: sonic art<br />event: Exposição Flexibility</p>\n<p>city: Torino, Itília<br />place: Torino</p>\n<p>client: Experimenta<br />collaboration: Paulo Carocinho</p>\n<p>description PT: Primeira iteração da peça Stretch, apresentada em Torino na exposição Flexibility da experimentadesign.</p>\n<p>[embed]https://vimeo.com/1341148[/embed]</p>\n<p>links: <a href=\"https://shrapnelcontemporary.wordpress.com/architecture/flexibility-exhibition-torino-world-design-capital/\" target=\"_blank\" rel=\"noopener\">https://shrapnelcontemporary.wordpress.com/architecture/flexibility-exhibition-torino-world-design-capital/</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037521721\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1106,
+  "venue": {
+    "venue_name": null,
+    "city": "Torino",
+    "region_or_state": null,
+    "country": "Italy",
+    "raw_location": "Torino, Itília"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/0aJNkJTuIkkh63CqtgBV4OjvBeJM1UQCpApiKsOuxiU.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "experimenta",
+    "sonic art",
+    "spatialization"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://shrapnelcontemporary.wordpress.com/architecture/flexibility-exhibition-torino-world-design-capital/",
+      "url": "https://shrapnelcontemporary.wordpress.com/architecture/flexibility-exhibition-torino-world-design-capital/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/0aJNkJTuIkkh63CqtgBV4OjvBeJM1UQCpApiKsOuxiU.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/0aJNkJTuIkkh63CqtgBV4OjvBeJM1UQCpApiKsOuxiU-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521721/41517592582.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521721/41517592582.jpg",
+        "/media/flickr/72157694037521721/41517592232.jpg",
+        "/media/flickr/72157694037521721/26690136277.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/1341148[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Stretch",
+    "umbrella_signals": []
+  }
+}

@@ -18,8 +18,19 @@ function workHaystack(w: Work): string {
   const parts = [
     w.title,
     w.summary ?? "",
+    w.normalizedSummary?.en ?? "",
+    w.normalizedSummary?.pt ?? "",
+    ...(w.textBlocks?.map((b) => b.content) ?? []),
+    ...(w.quotes?.map((q) => q.content) ?? []),
     ...(w.tags ?? []),
     ...(w.categories ?? []),
+    w.clientEntity?.name ?? "",
+    w.umbrellaEntity?.name ?? "",
+    ...(w.credits?.map((c) => c.name) ?? []),
+    w.eventName ?? "",
+    w.venue?.venueName ?? "",
+    w.venue?.city ?? "",
+    w.venue?.country ?? "",
   ]
   return norm(parts.join(" "))
 }

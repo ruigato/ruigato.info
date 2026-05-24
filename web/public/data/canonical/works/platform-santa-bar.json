@@ -1,0 +1,74 @@
+{
+  "id": "1192",
+  "slug": "platform-santa-bar",
+  "title": "plat|::|form @ Santa Bar",
+  "published_at": "2003-08-16",
+  "occurred_on": "2003-08-16",
+  "event_name": "concerto",
+  "summary": "Live act plat|::|form @ Santa Bar.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo de plat|::|form no Santa Bar.",
+    "en": "Live act plat|::|form @ Santa Bar."
+  },
+  "body_html": "<p><br>\nname: plat|::|form @ Santa Bar<br>\ndate: 2003-08-16<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Santa Cruz, Portugal<br>\nplace: Santa Bar<br>\n<br>\nclient: bar<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ Santa Bar.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1192,
+  "venue": {
+    "venue_name": "Santa Bar",
+    "city": "Santa Cruz",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Santa Cruz, Portugal"
+  },
+  "client": {
+    "id": "bar",
+    "name": "Bar",
+    "slug": "bar",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "plat-form",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form @ Santa Bar",
+    "umbrella_signals": []
+  }
+}

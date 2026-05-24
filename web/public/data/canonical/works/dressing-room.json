@@ -1,0 +1,67 @@
+{
+  "id": "1322",
+  "slug": "dressing-room",
+  "title": "Dressing Room",
+  "published_at": "2002-06-07",
+  "occurred_on": "2002-06-07",
+  "event_name": "operação de áudio",
+  "summary": "Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.",
+  "summary_localized": {
+    "pt": "Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.",
+    "en": "Sound manipulation and collaboration in Patrícia Sobreiro's performance art piece \"Dressing Room\"."
+  },
+  "body_html": "<p><br>\nname: Dressing Room<br>\ndate: 2002-06-07<br>\ntype:  sound design<br>\nevent: operação de áudio<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: Patricia Sobreiro<br>\ncollaboration: Patrícia Sobreiro<br>\n<br>\ndescription PT: Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.<br>\n<br>\nlinks: <a href=\"http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536\" rel=\"noopener\" target=\"_blank\">http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1322,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "patricia-sobreiro",
+    "name": "Patricia Sobreiro",
+    "slug": "patricia-sobreiro",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "live performance",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Patrícia Sobreiro",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536",
+      "url": "http://www.cm-tvedras.pt/cultura/arte-publica/?id=2536",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Dressing Room",
+    "umbrella_signals": []
+  }
+}

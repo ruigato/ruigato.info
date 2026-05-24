@@ -1,0 +1,97 @@
+{
+  "id": "880",
+  "slug": "rui-gato-boom-festival-2016",
+  "title": "Rui Gato @ Boom festival 2016",
+  "published_at": "2016-08-13",
+  "occurred_on": "2016-08-13",
+  "event_name": "boom festival",
+  "summary": "live act no chillout gardens do boom festival 2016.",
+  "summary_localized": {
+    "pt": "Live act nos Chill Out Gardens do Boom Festival 2016.",
+    "en": "Live act in the Chill Out Gardens at Boom Festival 2016."
+  },
+  "body_html": "<!-- wp:image {\"id\":2553,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2024/06/boomLive2016-1024x768.jpg\" alt=\"\" class=\"wp-image-2553\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>name: rui gato @ boom festival 2016<br>date: 2016-08-13<br>type: live act<br>event: boom festival</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: idanha-a-nova, portugal<br>place: boomland</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: boom festival<br>collaboration: n/a</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description pt: live act no chillout gardens do boom festival 2016.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:&nbsp;<a href=\"https://www.youtube.com/watch?v=4ZqRoADh058&amp;\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.youtube.com/watch?v=4zqroadh058&amp;</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:embed {\"url\":\"https://youtu.be/4ZqRoADh058?si=ojonAYCkKTHi1N79\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/4ZqRoADh058?si=ojonAYCkKTHi1N79\n</div></figure>\n<!-- /wp:embed -->",
+  "legacy_wp_id": 880,
+  "venue": {
+    "venue_name": "Boomland",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "idanha-a-nova, portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2024/06/boomLive2016-1024x768.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "rui-gato",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "boom",
+    "code",
+    "concert",
+    "live performance",
+    "music",
+    "performance",
+    "realtime",
+    "sacred geometry",
+    "touchdesigner"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/06/boomLive2016-1024x768.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=4ZqRoADh058&",
+      "platform": "youtube"
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=4zqroadh058&",
+      "platform": "youtube"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/4ZqRoADh058?si=ojonAYCkKTHi1N79",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "rui gato @ boom festival 2016",
+    "umbrella_signals": []
+  }
+}

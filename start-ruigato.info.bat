@@ -1,22 +1,10 @@
 @echo off
 setlocal
 
-set "XAMPP_ROOT=C:\xampp"
 set "CLOUDFLARED=cloudflared"
 set "TUNNEL_NAME=ruigato-prod"
 set "TUNNEL_CONFIG=C:\Users\gator\.cloudflared\ruigato-prod.yml"
-
-if not exist "%XAMPP_ROOT%\mysql\bin\mysqld.exe" (
-    echo [ERROR] Nao encontrei %XAMPP_ROOT%\mysql\bin\mysqld.exe
-    pause
-    exit /b 1
-)
-
-if not exist "%XAMPP_ROOT%\apache\bin\httpd.exe" (
-    echo [ERROR] Nao encontrei %XAMPP_ROOT%\apache\bin\httpd.exe
-    pause
-    exit /b 1
-)
+set "START_DEV_SCRIPT=%~dp0start-dev.bat"
 
 where %CLOUDFLARED% >nul 2>&1
 if errorlevel 1 (
@@ -33,15 +21,19 @@ if not exist "%TUNNEL_CONFIG%" (
     exit /b 1
 )
 
-echo [1/3] A iniciar MySQL...
-start "ruigato-mysql" /min "%XAMPP_ROOT%\mysql\bin\mysqld.exe" --defaults-file="%XAMPP_ROOT%\mysql\bin\my.ini" --standalone
+if not exist "%START_DEV_SCRIPT%" (
+    echo [ERROR] Ficheiro nao encontrado:
+    echo %START_DEV_SCRIPT%
+    pause
+    exit /b 1
+)
 
-echo [2/3] A iniciar Apache...
-start "ruigato-apache" /min "%XAMPP_ROOT%\apache\bin\httpd.exe" -d "C:/xampp/apache"
+echo [1/2] A iniciar o front-end novo em localhost:80...
+start "ruigato-web" /min "%START_DEV_SCRIPT%"
 
 timeout /t 4 >nul
 
-echo [3/3] A iniciar tunnel ruigato-prod...
+echo [2/2] A iniciar tunnel ruigato-prod...
 start "ruigato-tunnel" /min %CLOUDFLARED% tunnel --config "%TUNNEL_CONFIG%" run %TUNNEL_NAME%
 
 echo.

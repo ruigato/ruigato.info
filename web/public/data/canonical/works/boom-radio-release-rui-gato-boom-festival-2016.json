@@ -1,0 +1,90 @@
+{
+  "id": "888",
+  "slug": "boom-radio-release-rui-gato-boom-festival-2016",
+  "title": "Boom Radio Release Rui Gato @ Boom festival 2016",
+  "published_at": "2017-03-05",
+  "occurred_on": "2017-03-05",
+  "event_name": "n/a",
+  "summary": "Edição online de música.",
+  "summary_localized": {
+    "pt": "Edição online de música.",
+    "en": "Online music release."
+  },
+  "body_html": "</p>\n<p>name: Boom Radio Release Rui Gato @ Boom festival 2016<br />\ndate: 2017-03-05<br />\ntype:  music release<br />\nevent: n/a</p>\n<p>city: Idanha-a-nova, Portugal<br />\nplace: internet</p>\n<p>client: Boom Festival<br />\ncollaboration: n/a</p>\n<p>description PT: Edição online de música.</p>\n<p>links: <a href=\"https://soundcloud.com/boomfestival/boom-festival-2016-chill-out-gardens-ep-11-rui-gato\" rel=\"noopener\" target=\"_blank\">https://soundcloud.com/boomfestival/boom-festival-2016-chill-out-gardens-ep-11-rui-gato</a></p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/4ZqRoADh058?si=ojonAYCkKTHi1N79\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/4ZqRoADh058?si=ojonAYCkKTHi1N79\n</div></figure>\n<!-- /wp:embed -->",
+  "legacy_wp_id": 888,
+  "venue": {
+    "venue_name": "Internet",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/3F8k66wQ1gqThZqYgkDQPcxT9gI6eRjWkLf1zDYt4EI.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "boom-radio-release-rui-gato",
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "music",
+    "release"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/3F8k66wQ1gqThZqYgkDQPcxT9gI6eRjWkLf1zDYt4EI.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/3F8k66wQ1gqThZqYgkDQPcxT9gI6eRjWkLf1zDYt4EI-343x170.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "audio_embed",
+      "local_path": null,
+      "external_url": "https://soundcloud.com/boomfestival/boom-festival-2016-chill-out-gardens-ep-11-rui-gato",
+      "platform": "soundcloud"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/4ZqRoADh058?si=ojonAYCkKTHi1N79",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Boom Radio Release Rui Gato @ Boom festival 2016",
+    "umbrella_signals": []
+  }
+}

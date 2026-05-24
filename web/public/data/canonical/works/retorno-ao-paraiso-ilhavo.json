@@ -1,0 +1,76 @@
+{
+  "id": "868",
+  "slug": "retorno-ao-paraiso-ilhavo",
+  "title": "Retorno ao Paraíso @ Ílhavo",
+  "published_at": "2016-01-22",
+  "occurred_on": "2016-01-22",
+  "event_name": "Exposição",
+  "summary": "colaboração com desenho de som para instalação de João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Colaboração no desenho de som para uma instalação de João Garcia Miguel.",
+    "en": "Collaboration on sound design for an installation by João Garcia Miguel."
+  },
+  "body_html": "<p><br>\nname: Retorno ao Paraíso @ Ílhavo<br>\ndate: 2016-01-22<br>\ntype:  sonic art<br>\nevent: Exposição<br>\n<br>\ncity: Ílhavo, Portugal<br>\nplace: Centro Cultural de Ílhavo<br>\n<br>\nclient: João Garcia Miguel<br>\ncollaboration: João Garcia Miguel<br>\n<br>\ndescription PT: colaboração com desenho de som para instalação de João Garcia Miguel.<br>\n<br>\nlinks: <a href=\"https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204\" rel=\"noopener\" target=\"_blank\">https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 868,
+  "venue": {
+    "venue_name": "Centro Cultural de Ílhavo",
+    "city": "Ilhavo",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Ílhavo, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "retorno-ao-paraiso",
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "collaboration",
+    "installation",
+    "music",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204",
+      "url": "https://www.facebook.com/joaogarcia.miguel/posts/1235140109882204",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Retorno ao Paraíso @ Ílhavo",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "1421",
+  "slug": "workshop-touchdesigner-goma",
+  "title": "Workshop TouchDesigner GOMA",
+  "published_at": "2018-06-18",
+  "occurred_on": "2018-06-18",
+  "event_name": "GOMA",
+  "summary": "Oficina de Iniciação ao TouchDesigner no contexto da residência artística no CCC.CR.",
+  "summary_localized": {
+    "pt": "Oficina de iniciação ao TouchDesigner no contexto da residência artística no CCC.CR.",
+    "en": "Introductory TouchDesigner workshop in the context of the artistic residency at CCC.CR."
+  },
+  "body_html": "<p>name: Workshop TouchDesigner GOMA<br />date: 2018-06-18<br />type: tutoring<br />event: GOMA</p>\n<p>city: Porto, Portugal<br />place: Circulo Católico dos Operários do Porto</p>\n<p>client: GOMA<br />collaboration: David Negrão, Pedro de Castro</p>\n<p>description PT: Oficina de Iniciação ao TouchDesigner no contexto da residência artística no CCC.CR. Durante 3 dias, em sessões de 5 horas + laboratório livre à noite, foi dado um workshop intensivo de iniciação ao TouchDesigner, organizado pelo colectivo GOMA do Porto!</p>\n<p>links:</p>\n<p>fotos de Diana Ferreira, Rafael Pinto e Rui Gato</p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157698441607085\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1421,
+  "venue": {
+    "venue_name": "Circulo Católico dos Operários do Porto",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "goma",
+    "name": "Goma",
+    "slug": "goma",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/tV_Dl8XXqsN3nIX_s4HdaLgtgpxlNlqaHB8Fap4kCE.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "artistic residency",
+    "blakat",
+    "talks",
+    "touchdesigner",
+    "tutoring",
+    "Workshop"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro de Castro",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "photography",
+      "name": "Diana Ferreira",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "photography",
+      "name": "Rafael Pinto",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "photography",
+      "name": "Rui Gato",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/tV_Dl8XXqsN3nIX_s4HdaLgtgpxlNlqaHB8Fap4kCE.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/tV_Dl8XXqsN3nIX_s4HdaLgtgpxlNlqaHB8Fap4kCE-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157698441607085/43074239621.jpg",
+      "gallery_items": [
+        "/media/flickr/72157698441607085/43074239621.jpg",
+        "/media/flickr/72157698441607085/43074238031.jpg",
+        "/media/flickr/72157698441607085/43074236851.jpg",
+        "/media/flickr/72157698441607085/43023293982.jpg",
+        "/media/flickr/72157698441607085/43023292692.jpg",
+        "/media/flickr/72157698441607085/41262977600.jpg",
+        "/media/flickr/72157698441607085/41262975880.jpg",
+        "/media/flickr/72157698441607085/41262975340.jpg",
+        "/media/flickr/72157698441607085/41262975090.jpg",
+        "/media/flickr/72157698441607085/41262974880.jpg",
+        "/media/flickr/72157698441607085/41262974500.jpg",
+        "/media/flickr/72157698441607085/29201553848.jpg",
+        "/media/flickr/72157698441607085/29201553448.jpg",
+        "/media/flickr/72157698441607085/29201553118.jpg",
+        "/media/flickr/72157698441607085/41262978680.jpg",
+        "/media/flickr/72157698441607085/29201555728.jpg",
+        "/media/flickr/72157698441607085/29201555528.jpg",
+        "/media/flickr/72157698441607085/29201554458.jpg",
+        "/media/flickr/72157698441607085/28205087367.jpg",
+        "/media/flickr/72157698441607085/28205087107.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Workshop TouchDesigner GOMA",
+    "umbrella_signals": [
+      "Blakat:high"
+    ]
+  }
+}

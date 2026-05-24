@@ -1,0 +1,83 @@
+{
+  "id": "1194",
+  "slug": "exd-03",
+  "title": "EXD 03",
+  "published_at": "2003-09-17",
+  "occurred_on": "2003-09-17",
+  "event_name": "n/a",
+  "summary": "Sound design para anúncio TV.",
+  "summary_localized": {
+    "pt": "Sound design para anúncio TV.",
+    "en": "Sound design for a TV commercial."
+  },
+  "body_html": "[embed]https://vimeo.com/15363079[/embed]\r\n\r\nname: EXD 03\r\ndate: 2003-09-17\r\ntype: sound design\r\nevent: n/a\r\n\r\ncity: Lisboa, Portugal\r\nplace: RTP\r\n\r\nclient: Experimenta\r\ncollaboration: João Paulo Feliciano, Brandia\r\n\r\ndescription PT: Sound design para anúncio TV.\r\n\r\nlinks: <a href=\"http://www.experimentadesign.pt/2003/pt/progvoyager.htm\" target=\"_blank\" rel=\"noopener\">http://www.experimentadesign.pt/2003/pt/progvoyager.htm</a>",
+  "legacy_wp_id": 1194,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Brandia",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.experimentadesign.pt/2003/pt/progvoyager.htm",
+      "url": "http://www.experimentadesign.pt/2003/pt/progvoyager.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363079[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "EXD 03",
+    "umbrella_signals": []
+  }
+}

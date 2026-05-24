@@ -1,0 +1,109 @@
+{
+  "id": "2979",
+  "slug": "passarola-2",
+  "title": "Passarola #2",
+  "published_at": "2023-10-25",
+  "occurred_on": "2023-10-25",
+  "event_name": "CEM presentation",
+  "summary": "Concerto do projecto VIA Scarlatti | Passarola: Sonata em Si Menor, K.87, Domenico Scarlatti + Vítor Joaquim, Pedro Emanuel Pereira e Rui Gato, no contexto da apresentação do CE...",
+  "summary_localized": {
+    "pt": "Concerto do projecto VIA Scarlatti | Passarola com a Sonata em Si Menor, K.87, de Domenico Scarlatti, e com Vítor Joaquim, Pedro Emanuel Pereira e Rui Gato, no contexto da apresentação do CE.",
+    "en": "Concert from the VIA Scarlatti | Passarola project featuring Domenico Scarlatti's Sonata in B minor, K.87, with Vítor Joaquim, Pedro Emanuel Pereira, and Rui Gato, in the context of the CE presentation."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: Passarola #2 - Music variations on the past and the future - k.87</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br>date: 2023-10-25<br>type: live act, music<br>event: CEM presentation<br>location: Biblioteca do Palácio Nacional de Mafra</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Concerto do projecto VIA Scarlatti | Passarola: Sonata em Si Menor, K.87, Domenico Scarlatti + Vítor Joaquim, Pedro Emanuel Pereira e Rui Gato, no contexto da apresentação do CEM Portugal, no Palácio Nacional de Mafra, sala da Biblioteca.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":2983,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2025/04/Screenshot-2025-04-07-143121-1024x738.png\" alt=\"\" class=\"wp-image-2983\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2984,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2025/04/Screenshot-2025-04-07-143149-1024x715.png\" alt=\"\" class=\"wp-image-2984\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3247,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2023/10/image.png\" alt=\"\" class=\"wp-image-3247\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3248,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2023/10/image-1.png\" alt=\"\" class=\"wp-image-3248\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3249,\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-style-default\"><img src=\"/media/wp-content/uploads/2023/10/image-2.png\" alt=\"\" class=\"wp-image-3249\"/></figure>\n<!-- /wp:image -->",
+  "legacy_wp_id": 2979,
+  "venue": {
+    "venue_name": "Biblioteca do Palácio Nacional de Mafra",
+    "city": null,
+    "region_or_state": null,
+    "country": null,
+    "raw_location": "Biblioteca do Palácio Nacional de Mafra"
+  },
+  "client": null,
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/04/Passarola-AF_8-images-0.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "passarola",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "live act",
+    "passarola"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/Passarola-AF_8-images-0.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/Passarola-AF_8-images-0-768x1088.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/Screenshot-2025-04-07-143121-1024x738.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/04/Screenshot-2025-04-07-143149-1024x715.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-5",
+      "sort_order": 4,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2023/10/image.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-6",
+      "sort_order": 5,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2023/10/image-1.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-7",
+      "sort_order": 6,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2023/10/image-2.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Passarola #2 - Music variations on the past and the future - k.87",
+    "umbrella_signals": []
+  }
+}

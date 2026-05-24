@@ -1,0 +1,134 @@
+{
+  "id": "1424",
+  "slug": "heineken-museum",
+  "title": "Heineken Museum",
+  "published_at": "2018-06-06",
+  "occurred_on": "2018-06-06",
+  "event_name": "Heineken Museum",
+  "summary": "instalação interactiva de videomapping no Heineken Museum.",
+  "summary_localized": {
+    "pt": "Instalação interactiva de videomapping no Heineken Museum.",
+    "en": "Interactive video mapping installation at the Heineken Museum."
+  },
+  "body_html": "<p>name: Heineken Museum<br />date: 2018-06-06<br />type: interactive installation<br />event: Heineken Museum</p>\n<p>city: Lisboa, Portugal<br />place: Torreão Poente Praça do Comércio</p>\n<p>client: H2N<br />collaboration: Margarida Moura Guedes, David Negrão, Ruben Santos, Paulo Carocinho, Santiago Caiado</p>\n<p>description PT: instalação interactiva de videomapping no Heineken Museum. Coloque uma garrafa de Heineken no pedestal e veja a mensagem do Fundador em videomapping.</p>\n<p>links:</p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157668529023707\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1424,
+  "venue": {
+    "venue_name": "Torreão Poente Praça do Comércio",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "h2n",
+    "name": "H2n",
+    "slug": "h2n",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "alta",
+    "name": "ALTA",
+    "slug": "alta",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/w_Eapt8Af8mofJnQp8ztJDtHNlZ5hSNCZspAztOFOAM.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "ALTA",
+    "code",
+    "collaboration",
+    "generative",
+    "interactive",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Santiago Caiado",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/w_Eapt8Af8mofJnQp8ztJDtHNlZ5hSNCZspAztOFOAM.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/w_Eapt8Af8mofJnQp8ztJDtHNlZ5hSNCZspAztOFOAM-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157668529023707/42324315324.jpg",
+      "gallery_items": [
+        "/media/flickr/72157668529023707/42324315324.jpg",
+        "/media/flickr/72157668529023707/42324313294.jpg",
+        "/media/flickr/72157668529023707/42324312074.jpg",
+        "/media/flickr/72157668529023707/29171532028.jpg",
+        "/media/flickr/72157668529023707/29171531258.jpg",
+        "/media/flickr/72157668529023707/29171531018.jpg",
+        "/media/flickr/72157668529023707/29171530078.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Heineken Museum",
+    "umbrella_signals": [
+      "ALTA:high"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "924",
+  "slug": "gatos-live-bar-a-barraca",
+  "title": "Gatos live @ bar A Barraca",
+  "published_at": "2014-04-11",
+  "occurred_on": "2014-04-11",
+  "event_name": "concerto",
+  "summary": "Improvisação ao vivo do bando de Gatos.",
+  "summary_localized": {
+    "pt": "Improvisação ao vivo do colectivo Gatos.",
+    "en": "Live improvisation by the Gatos collective."
+  },
+  "body_html": "name: Gatos live @ bar A Barraca\ndate: 2014-04-11\ntype: live act\nevent: concerto\n\ncity: Lisboa, Portugal\nplace: Bar a Barraca\n\nclient: a Barraca\ncollaboration: Gonçalo Gato, Vasco Gato\n\ndescription PT: Improvisação ao vivo do bando de Gatos.\n\nlinks: <a href=\"https://www.youtube.com/watch?v=7oII1x4tg2Y\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=7oII1x4tg2Y</a>",
+  "legacy_wp_id": 924,
+  "venue": {
+    "venue_name": "Bar a Barraca",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "a-barraca",
+    "name": "a Barraca",
+    "slug": "a-barraca",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2014/04/gatos.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "gatos-live",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Gonçalo Gato",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Vasco Gato",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2014/04/gatos.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2014/04/gatos-768x436.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=7oII1x4tg2Y",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Gatos live @ bar A Barraca",
+    "umbrella_signals": []
+  }
+}

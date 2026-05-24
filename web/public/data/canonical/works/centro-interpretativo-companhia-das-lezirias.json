@@ -1,0 +1,98 @@
+{
+  "id": "922",
+  "slug": "centro-interpretativo-companhia-das-lezirias",
+  "title": "Centro Interpretativo Companhia das Lezírias",
+  "published_at": "2013-10-10",
+  "occurred_on": "2013-10-10",
+  "event_name": "Instalação Permanente",
+  "summary": "Sistema para instalação museulógica com 12 ecrãs.",
+  "summary_localized": {
+    "pt": "Sistema para instalação museológica com 12 ecrãs.",
+    "en": "System for a museum installation with 12 screens."
+  },
+  "body_html": "</p>\n<p>name: Centro Interpretativo Companhia das Lezírias<br />\ndate: 2013-10-10<br />\ntype:  interactive installation<br />\nevent: Instalação Permanente</p>\n<p>city: Lisboa, Portugal<br />\nplace: Companhia das Lezírias</p>\n<p>client: Companhia das Lezírias<br />\ncollaboration: José Álvaro Correia, Patrícia Garcia Pereira</p>\n<p>description PT: Sistema para instalação museulógica com 12 ecrãs.</p>\n<p>links: <a href=\"http://www.cl.pt\" rel=\"noopener\" target=\"_blank\">http://www.cl.pt</a></p>\n",
+  "legacy_wp_id": 922,
+  "venue": {
+    "venue_name": "Companhia das Lezírias",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "companhia-das-lezirias",
+    "name": "Companhia das Lezírias",
+    "slug": "companhia-das-lezirias",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/G1Gt6M4yh8I4tPw2scgNBtZaVBRwoFdk7e7-rqvpeBM.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "code",
+    "installation",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "José Álvaro Correia",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Patrícia Garcia Pereira",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.cl.pt",
+      "url": "http://www.cl.pt",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/G1Gt6M4yh8I4tPw2scgNBtZaVBRwoFdk7e7-rqvpeBM.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/G1Gt6M4yh8I4tPw2scgNBtZaVBRwoFdk7e7-rqvpeBM-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Centro Interpretativo Companhia das Lezírias",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "3037",
+  "slug": "merita-protean-quartet",
+  "title": "MERITA PROTEAN QUARTET",
+  "published_at": "2024-04-14",
+  "occurred_on": "2024-04-14",
+  "event_name": "Protean Quartet in Meres, Asturias",
+  "summary": "Workshop e Residência Artística em Espanha:\nOf place and space: tutor sobre o tema, com João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Workshop e residência artística em Espanha sobre \"Of place and space\", com tutoria de João Garcia Miguel.",
+    "en": "Workshop and artistic residency in Spain on \"Of place and space\", with tutoring by João Garcia Miguel."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: MERITA – Music cultural hERItage TAlent<br>date: 2024-04-14<br>type: tutoring<br>event: Protean Quartet in Meres, Asturias</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Workshop e Residência Artística em Espanha:<br>Of place and space: tutor sobre o tema, com João Garcia Miguel. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":3043,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2024/04/IMG_2945.jpg\" alt=\"\" class=\"wp-image-3043\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3044,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2024/04/IMG_2927.jpg\" alt=\"\" class=\"wp-image-3044\"/></figure>\n<!-- /wp:image -->",
+  "legacy_wp_id": 3037,
+  "venue": null,
+  "client": null,
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "medium",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2024/04/IMG_2846.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "tutoring"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/04/IMG_2846.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/04/IMG_2846-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/04/IMG_2945.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2024/04/IMG_2927.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "MERITA – Music cultural hERItage TAlent",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:medium"
+    ]
+  }
+}

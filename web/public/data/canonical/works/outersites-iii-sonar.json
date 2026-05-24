@@ -1,0 +1,124 @@
+{
+  "id": "1254",
+  "slug": "outersites-iii-sonar",
+  "title": "Outersites III @ Sónar",
+  "published_at": "2005-06-17",
+  "occurred_on": "2005-06-17",
+  "event_name": "Festival Sónar",
+  "summary": "Showcase Red Bull Music Academy no Festival Sónar, pela editora Monocromatica.",
+  "summary_localized": {
+    "pt": "Showcase da Red Bull Music Academy no Festival Sónar, pela editora Monocromatica.",
+    "en": "Red Bull Music Academy showcase at Festival Sónar, through the label Monocromatica."
+  },
+  "body_html": "<p>name: Outersites III @ Sónar<br />date: 2005-06-17<br />type: live act<br />event: Festival Sónar</p>\n<p>city: Barcelona, Espanha<br />place: Sónar</p>\n<p>client: Red Bull Music Academy Portugal<br />collaboration: Tiago Martins</p>\n<p>description PT: Showcase Red Bull Music Academy no Festival Sónar, pela editora Monocromatica.</p>\n<p>links: <a href=\"http://www.monocromatica.com/v5/news_2005.html\" target=\"_blank\" rel=\"noopener\">http://www.monocromatica.com/v5/news_2005.html</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272177720325134482\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1254,
+  "venue": {
+    "venue_name": "Sónar",
+    "city": "Barcelona",
+    "region_or_state": null,
+    "country": "Spain",
+    "raw_location": "Barcelona, Espanha"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2005/06/P6170182.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "outersites-iii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/news_2005.html",
+      "url": "http://www.monocromatica.com/v5/news_2005.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2005/06/P6170182.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2005/06/P6170182-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72177720325134482/54456792914.jpg",
+      "gallery_items": [
+        "/media/flickr/72177720325134482/54456792914.jpg",
+        "/media/flickr/72177720325134482/54456599846.jpg",
+        "/media/flickr/72177720325134482/54456964335.jpg",
+        "/media/flickr/72177720325134482/54456964305.jpg",
+        "/media/flickr/72177720325134482/54456964220.jpg",
+        "/media/flickr/72177720325134482/54456858738.jpg",
+        "/media/flickr/72177720325134482/54456858708.jpg",
+        "/media/flickr/72177720325134482/54456858628.jpg",
+        "/media/flickr/72177720325134482/54456792609.jpg",
+        "/media/flickr/72177720325134482/54456792589.jpg",
+        "/media/flickr/72177720325134482/54456599891.jpg",
+        "/media/flickr/72177720325134482/54455762492.jpg",
+        "/media/flickr/72177720325134482/54455762472.jpg",
+        "/media/flickr/72177720325134482/54455762422.jpg",
+        "/media/flickr/72177720325134482/54455762362.jpg",
+        "/media/flickr/72177720325134482/54455762347.jpg",
+        "/media/flickr/72177720325134482/54456964440.jpg",
+        "/media/flickr/72177720325134482/54456964385.jpg",
+        "/media/flickr/72177720325134482/54456964285.jpg",
+        "/media/flickr/72177720325134482/54456858883.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites III @ Sónar",
+    "umbrella_signals": [
+      "HOW:mention"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "890",
+  "slug": "ginga-beat-rbma-alumni-session",
+  "title": "Ginga Beat RBMA Alumni session",
+  "published_at": "2017-03-23",
+  "occurred_on": "2017-03-23",
+  "event_name": "Ginga Beat Pop Up Radio",
+  "summary": "Conversa de alunos da RBMA na emissão da Pop Up rádio Ginga Beat / vodafone.fm.",
+  "summary_localized": {
+    "pt": "Conversa com antigos alunos da RBMA na emissão da Pop Up rádio Ginga Beat / vodafone.fm.",
+    "en": "Conversation with RBMA alumni on the Ginga Beat / vodafone.fm Pop Up radio broadcast."
+  },
+  "body_html": "\n\n<p>name: Ginga Beat RBMA Alumni session<br/>date: 2017-03-23<br/>type: misc<br/>event: Ginga Beat Pop Up Radio</p>\n<p>city: Lisboa, Portugal<br/>place: Ginga Beat Pop Up Radio Chiado</p>\n<p>client: Red Bull Music Academy Portugal<br/>collaboration: GPU Panic, Octapush, Papercutz, Mono, Jorge Caiado</p>\n<p>description PT: Conversa de alunos da RBMA na emissão da Pop Up rádio Ginga Beat / vodafone.fm.</p>\n<p>links: <a href=\"https://www.redbullradio.com/events/ginga-beat\" rel=\"noopener\" target=\"_blank\">https://www.redbullradio.com/events/ginga-beat</a></p>\n",
+  "legacy_wp_id": 890,
+  "venue": {
+    "venue_name": "Ginga Beat Pop Up Radio Chiado",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/wYzHs9GviKkip_ofC0wzMnkuCSFUBN3UC4rojiu72sM.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "misc",
+  "categories": [
+    "misc"
+  ],
+  "tags": [
+    "music",
+    "radio"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "GPU Panic",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Octapush",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Papercutz",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Mono",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Jorge Caiado",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.redbullradio.com/events/ginga-beat",
+      "url": "https://www.redbullradio.com/events/ginga-beat",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/wYzHs9GviKkip_ofC0wzMnkuCSFUBN3UC4rojiu72sM.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/wYzHs9GviKkip_ofC0wzMnkuCSFUBN3UC4rojiu72sM-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Ginga Beat RBMA Alumni session",
+    "umbrella_signals": []
+  }
+}

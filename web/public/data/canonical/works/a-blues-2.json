@@ -1,0 +1,77 @@
+{
+  "id": "1286",
+  "slug": "a-blues-2",
+  "title": "a Blues",
+  "published_at": "2001-07-28",
+  "occurred_on": "2001-07-28",
+  "event_name": "performance",
+  "summary": "Manipulação sonora de feedback com amplificador combo, para performance de Margarida Mestre.",
+  "summary_localized": {
+    "pt": "Manipulação sonora de feedback com amplificador combo, para performance de Margarida Mestre.",
+    "en": "Sound manipulation of feedback with a combo amplifier for a performance by Margarida Mestre."
+  },
+  "body_html": "<div class=\"jetpack-video-wrapper\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"563\" loading=\"lazy\" src=\"https://www.youtube.com/embed/MXTnzfXStYU?feature=oembed\" width=\"750\"></iframe></div>\n</p>\n<p>name: a Blues<br />\ndate: 2001-07-28<br />\ntype: live act<br />\nevent: performance</p>\n<p>city: Lisboa, Portugal<br />\nplace: ZdB</p>\n<p>client: ZdB<br />\ncollaboration: Margarida Mestre</p>\n<p>description PT: Manipulação sonora de feedback com amplificador combo, para performance de Margarida Mestre.</p>\n<p>links: <a href=\"http://margarida-mestre.blogspot.pt/\" rel=\"noopener\" target=\"_blank\">http://margarida-mestre.blogspot.pt/</a></p>\n",
+  "legacy_wp_id": 1286,
+  "venue": {
+    "venue_name": "ZdB",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "zdb",
+    "name": "ZdB",
+    "slug": "zdb",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Mestre",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://margarida-mestre.blogspot.pt/",
+      "url": "http://margarida-mestre.blogspot.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/embed/MXTnzfXStYU?feature=oembed",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "a Blues",
+    "umbrella_signals": []
+  }
+}

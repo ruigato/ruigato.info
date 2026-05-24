@@ -1,0 +1,86 @@
+{
+  "id": "916",
+  "slug": "santas-de-roca",
+  "title": "Santas de Roca",
+  "published_at": "2013-06-06",
+  "occurred_on": "2013-06-06",
+  "event_name": "Estreia",
+  "summary": "Sonoplastia para peça de Teatro de Costanza Givone.",
+  "summary_localized": {
+    "pt": "Sonoplastia para a peça de teatro de Costanza Givone.",
+    "en": "Sound design for Costanza Givone's theatre piece."
+  },
+  "body_html": "<p>name: Santas de Roca<br />\ndate: 2013-06-06<br />\ntype:  theatre<br />\nevent: Estreia</p>\n<p>city: Alcanena, Portugal<br />\nplace: Cine-Teatro São Pedro</p>\n<p>client: Costanza Givone<br />\ncollaboration: n/a</p>\n<p>description PT: Sonoplastia para peça de Teatro de Costanza Givone.</p>\n<p>links: <a href=\"https://www.facebook.com/events/404767089632546/\" rel=\"noopener\" target=\"_blank\">https://www.facebook.com/events/404767089632546/</a></p>\n",
+  "legacy_wp_id": 916,
+  "venue": {
+    "venue_name": "Cine-Teatro São Pedro",
+    "city": "Alcanena",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Alcanena, Portugal"
+  },
+  "client": {
+    "id": "costanza-givone",
+    "name": "Costanza Givone",
+    "slug": "costanza-givone",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/LY0sVLaMBhZHYuHtOR2334QUPrZLnrWDVjhEpSr2-84.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "collaboration",
+    "music",
+    "sound design",
+    "theatre"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.facebook.com/events/404767089632546/",
+      "url": "https://www.facebook.com/events/404767089632546/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/LY0sVLaMBhZHYuHtOR2334QUPrZLnrWDVjhEpSr2-84.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/LY0sVLaMBhZHYuHtOR2334QUPrZLnrWDVjhEpSr2-84-400x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Santas de Roca",
+    "umbrella_signals": []
+  }
+}

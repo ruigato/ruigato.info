@@ -1,0 +1,69 @@
+{
+  "id": "1290",
+  "slug": "servico-publico",
+  "title": "Serviço Público",
+  "published_at": "2001-08-10",
+  "occurred_on": "2001-08-10",
+  "event_name": "n/a",
+  "summary": "Sound design para genérico de programa TV.",
+  "summary_localized": {
+    "pt": "Sound design para genérico de programa TV.",
+    "en": "Sound design for a TV programme title sequence."
+  },
+  "body_html": "<p>name: Serviço Público<br>date: 2001-08-10<br>type: sound design<br>event: n/a</p><p>city: Lisboa, Portugal<br>place: RTP</p><p>client: Mínima Ideia<br>collaboration: n/a</p><p>description PT: Sound design para genérico de programa TV.</p><p>links: <a href=\"https://vimeo.com/15363065\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363065\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15363065\" data-uid=\"rzlfs\" id=\"embedpress_wrapper_rzlfs\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_rzlfs\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_rzlfs\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363065\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363065\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_rzlfs\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363065\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363065\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-0c8398d1306b2fcc2b0a9e4b0fbd6843 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15363065?app_id=122963\" width=\"320\" height=\"240\" frameborder=\"0\" title=\"2001 . serviço público\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1290,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "minimaideia",
+    "sound design",
+    "television"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363065",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15363065?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Serviço Público",
+    "umbrella_signals": []
+  }
+}

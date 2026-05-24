@@ -1,0 +1,60 @@
+{
+  "id": "932",
+  "slug": "boom-radio-release-rui-gato-boom-festival-2014",
+  "title": "Boom Radio Release Rui Gato @ Boom festival 2014",
+  "published_at": "2014-12-10",
+  "occurred_on": "2014-12-10",
+  "event_name": "release",
+  "summary": "Edição online de música.",
+  "summary_localized": {
+    "pt": "Edição online de música.",
+    "en": "Online music release."
+  },
+  "body_html": "</p>\n<p>name: Boom Radio Release Rui Gato @ Boom festival 2014<br />\ndate: 2014-12-10<br />\ntype:  music release<br />\nevent: release</p>\n<p>city: Idanha-a-nova, Portugal<br />\nplace: internet</p>\n<p>client: Boom Festival<br />\ncollaboration: n/a</p>\n<p>description PT: Edição online de música. Gravação ao vivo do live act no palco Chill Out Gardens do Boom Festival 2014.</p>\n<p>links: <a href=\"https://soundcloud.com/boomfestival/boom-festival-2014-chill-out-ep-09-rui-gato\" rel=\"noopener\" target=\"_blank\">https://soundcloud.com/boomfestival/boom-festival-2014-chill-out-ep-09-rui-gato</a></p>\n",
+  "legacy_wp_id": 932,
+  "venue": {
+    "venue_name": "Internet",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "boom-radio-release-rui-gato",
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "boom",
+    "music",
+    "release"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "audio_embed",
+      "local_path": null,
+      "external_url": "https://soundcloud.com/boomfestival/boom-festival-2014-chill-out-ep-09-rui-gato",
+      "platform": "soundcloud"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Boom Radio Release Rui Gato @ Boom festival 2014",
+    "umbrella_signals": []
+  }
+}

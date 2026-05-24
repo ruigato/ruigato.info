@@ -1,0 +1,71 @@
+{
+  "id": "1182",
+  "slug": "chaosmos",
+  "title": "Chaosmos",
+  "published_at": "2003-05-05",
+  "occurred_on": "2003-05-05",
+  "event_name": "Exposição",
+  "summary": "Música original para exposição de pintura.",
+  "summary_localized": {
+    "pt": "Música original para exposição de pintura.",
+    "en": "Original music for a painting exhibition."
+  },
+  "body_html": "<p><br>\nname: Chaosmos<br>\ndate: 2003-05-05<br>\ntype:  live act<br>\nevent: Exposição<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: CCCTV<br>\n<br>\nclient: CCCTV<br>\ncollaboration: Paulo Quintas<br>\n<br>\ndescription PT: Música original para exposição de pintura.<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/netlabel/releases/tube009.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube009.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1182,
+  "venue": {
+    "venue_name": "Ccctv",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "ccctv",
+    "name": "Ccctv",
+    "slug": "ccctv",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "exhibition",
+    "live performance",
+    "music",
+    "painting"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Quintas",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube009.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube009.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Chaosmos",
+    "umbrella_signals": []
+  }
+}

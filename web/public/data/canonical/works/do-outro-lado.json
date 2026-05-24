@@ -1,0 +1,67 @@
+{
+  "id": "1264",
+  "slug": "do-outro-lado",
+  "title": "(d)o outro lado",
+  "published_at": "2005-11-01",
+  "occurred_on": "2005-11-01",
+  "event_name": "Oficinas do Convento",
+  "summary": "Colaboração de sound design para peça de Raquel Feliciano.",
+  "summary_localized": {
+    "pt": "Colaboração em sound design para peça de Raquel Feliciano.",
+    "en": "Sound design collaboration for a piece by Raquel Feliciano."
+  },
+  "body_html": "<p>name: (d)o outro lado<br>date: 2005-11-01<br>type: sonic art<br>event: Oficinas do Convento</p><p>city: Montemor-o-novo, Portugal<br>place: Espaço do Tempo</p><p>client: Raquel Feliciano<br>collaboration: Raquel Feliciano</p><p>description PT: Colaboração de sound design para peça de Raquel Feliciano.</p><p>links: <a href=\"http://www.oficinasdoconvento.com/wp-content/uploads/2016/02/TimelineOC.pdf\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.oficinasdoconvento.com/wp-content/uploads/2016/02/TimelineOC.pdf\">http://www.oficinasdoconvento.com/wp-content/uploads/2016/02/TimelineOC.pdf</a></p>",
+  "legacy_wp_id": 1264,
+  "venue": {
+    "venue_name": "Espaço do Tempo",
+    "city": "Montemor-o-novo",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Montemor-o-novo, Portugal"
+  },
+  "client": {
+    "id": "raquel-feliciano",
+    "name": "Raquel Feliciano",
+    "slug": "raquel-feliciano",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "collaboration",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Raquel Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.oficinasdoconvento.com/wp-content/uploads/2016/02/TimelineOC.pdf",
+      "url": "http://www.oficinasdoconvento.com/wp-content/uploads/2016/02/TimelineOC.pdf",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "(d)o outro lado",
+    "umbrella_signals": []
+  }
+}

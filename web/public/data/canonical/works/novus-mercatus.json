@@ -1,0 +1,130 @@
+{
+  "id": "972",
+  "slug": "novus-mercatus",
+  "title": "Novus Mercatus",
+  "published_at": "2010-09-18",
+  "occurred_on": "2010-09-18",
+  "event_name": "Inauguração",
+  "summary": "Videomapping com banda filarmónica de Torres Vedras (música de Carlos Garcia) para inauguração do Mercado Municipal de Torres Vedras.",
+  "summary_localized": {
+    "pt": "Videomapping com banda filarmónica de Torres Vedras (música de Carlos Garcia) para inauguração do Mercado Municipal de Torres Vedras.",
+    "en": "Videomapping with the Torres Vedras philharmonic band, with music by Carlos Garcia, for the inauguration of Mercado Municipal de Torres Vedras."
+  },
+  "body_html": "</p>\n<p>name: Novus Mercatus<br />date: 2010-09-18<br />type: video mapping<br />event: Inauguração</p>\n<p>city: Torres Vedras, Portugal<br />place: Mercado Municipal Torres Vedras</p>\n<p>client: CM Torres Vedras<br />collaboration: Margarida Moura Guedes, Ruben Santos, Carlos Garcia</p>\n<p>description PT: Videomapping com banda filarmónica de Torres Vedras (música de Carlos Garcia) para inauguração do Mercado Municipal de Torres Vedras.</p>\n<p>links: <a data-mce-href=\"https://vimeo.com/15314095\" href=\"https://vimeo.com/15314095\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"hgota\" data-url=\"embedpresss://vimeo.com/15314095\" id=\"embedpress_wrapper_hgota\" style=\"width: 589px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_hgota\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_hgota\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/15314095\" href=\"https://vimeo.com/15314095\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_hgota\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/15314095\" href=\"https://vimeo.com/15314095\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-de8d24e6abde8468f53e2d19b420d302 responsive\" style=\"max-width: 589px;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/15314095?app_id=122963\" title=\"2010 . novus mercatus - hdcam version\" webkitallowfullscreen=\"\" width=\"750\"></iframe></div>\n<p><span class=\"wpview-end\"></span></p>\n</div>\n<p><a data-mce-href=\"http://www.cm-tvedras.pt/artigos/detalhes/milhares-de-pessoas-na-inauguracao-do-mercado-municipal/\" data-mce-selected=\"inline-boundary\" href=\"http://www.cm-tvedras.pt/artigos/detalhes/milhares-de-pessoas-na-inauguracao-do-mercado-municipal/\" rel=\"noopener\" target=\"_blank\">http://www.cm-tvedras.pt/artigos/detalhes/milhares-de-pessoas-na-inauguracao-do-mercado-municipal/</a></p>\n",
+  "legacy_wp_id": 972,
+  "venue": {
+    "venue_name": "Mercado Municipal Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-torres-vedras",
+    "name": "CM Torres Vedras",
+    "slug": "cm-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/0bpsFRe-GcXYuQOH5mDnhQB-Euv75v3D6312CJLzS6M.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Carlos Garcia",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.cm-tvedras.pt/artigos/detalhes/milhares-de-pessoas-na-inauguracao-do-mercado-municipal/",
+      "url": "http://www.cm-tvedras.pt/artigos/detalhes/milhares-de-pessoas-na-inauguracao-do-mercado-municipal/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/0bpsFRe-GcXYuQOH5mDnhQB-Euv75v3D6312CJLzS6M.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/0bpsFRe-GcXYuQOH5mDnhQB-Euv75v3D6312CJLzS6M-768x308.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15314095",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15314095?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Novus Mercatus",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

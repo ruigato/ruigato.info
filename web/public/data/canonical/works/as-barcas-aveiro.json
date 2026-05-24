@@ -1,0 +1,144 @@
+{
+  "id": "908",
+  "slug": "as-barcas-aveiro",
+  "title": "As Barcas @ Aveiro",
+  "published_at": "2013-04-19",
+  "occurred_on": "2013-04-19",
+  "event_name": "peça teatro",
+  "summary": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, com música ao vivo e manipulação audiovisual ao vivo, para a peça de teatro da companhia JGM.",
+    "en": "Audiovisual scenic device, with live music and live audiovisual manipulation, for the theatre piece by the JGM company."
+  },
+  "body_html": "</p>\n<p>name: As Barcas @ Aveiro<br />date: 2013-04-19<br />type: theatre<br />event: peça teatro</p>\n<p>city: Aveiro, Portugal<br />place: Teatro Municipal Aveiro</p>\n<p>client: João Garcia Miguel<br />collaboration: André Sier, João Garcia Miguel, Sara Ribeiro, Felix Lozano, David Pereira Bastos, Luís Bombico, Ricardo Teodosio, Costanza Givone</p>\n<p>description PT: Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p>\n<p>links: <a data-mce-href=\"https://www.youtube.com/watch?v=XBnEh6kTdDM&amp;list=PL74C5DF36663002A6\" href=\"https://www.youtube.com/watch?v=XBnEh6kTdDM&amp;list=PL74C5DF36663002A6\" rel=\"noopener\" target=\"_blank\">https://www.youtube.com/watch?v=XBnEh6kTdDM&amp;list=PL74C5DF36663002A6</a></p>\n",
+  "legacy_wp_id": 908,
+  "venue": {
+    "venue_name": "Teatro Municipal Aveiro",
+    "city": "Aveiro",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Aveiro, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/6sJ-FY3O7J0y_-lXph-fkgZzP2rke8ODrbqzuU0NQwQ.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "as-barcas",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "interactive",
+    "live performance",
+    "music",
+    "realtime",
+    "theatre",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Felix Lozano",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "David Pereira Bastos",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Teodosio",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "collaboration",
+      "name": "Costanza Givone",
+      "is_organization": false,
+      "sort_order": 7
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/6sJ-FY3O7J0y_-lXph-fkgZzP2rke8ODrbqzuU0NQwQ.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/6sJ-FY3O7J0y_-lXph-fkgZzP2rke8ODrbqzuU0NQwQ-768x1024.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=XBnEh6kTdDM&list=PL74C5DF36663002A6",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "As Barcas @ Aveiro",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

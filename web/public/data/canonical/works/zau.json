@@ -1,0 +1,62 @@
+{
+  "id": "1258",
+  "slug": "zau",
+  "title": "Zau",
+  "published_at": "2005-08-01",
+  "occurred_on": "2005-08-01",
+  "event_name": "release",
+  "summary": "Remistura de uma faixa de Rão Kiau, “Zau” para edição em vinil da Red Bull Music Academy.",
+  "summary_localized": {
+    "pt": "Remistura da faixa \"Zau\", de Rão Kiau, para edição em vinil da Red Bull Music Academy.",
+    "en": "Remix of Rão Kiau's track \"Zau\" for a vinyl release by the Red Bull Music Academy."
+  },
+  "body_html": "</p>\n<p>name: Zau<br />\ndate: 2005-08-01<br />\ntype: music release<br />\nevent: release</p>\n<p>city: Lisboa, Portugal<br />\nplace: blackbox</p>\n<p>client: Red Bull Music Academy Portugal<br />\ncollaboration: n/a</p>\n<p>description PT: Remistura de uma faixa de Rão Kiau, “Zau” para edição em vinil da Red Bull Music Academy. Faixa resultante de uma masterclass na escola Restart.</p>\n<p>links: <a href=\"http://www.redbullmusicacademy.com/\" rel=\"noopener\" target=\"_blank\">http://www.redbullmusicacademy.com/</a></p>\n",
+  "legacy_wp_id": 1258,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "collaboration",
+    "RBMA",
+    "release",
+    "vinyl"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.redbullmusicacademy.com/",
+      "url": "http://www.redbullmusicacademy.com/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Zau",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1232",
+  "slug": "outersites-iii-zdb",
+  "title": "Outersites III @ ZdB",
+  "published_at": "2004-09-17",
+  "occurred_on": "2004-09-17",
+  "event_name": "concerto",
+  "summary": "Live act música electrónica na galeria Zé dos Bois.",
+  "summary_localized": {
+    "pt": "Live act de música electrónica na galeria Zé dos Bois.",
+    "en": "Electronic music live act at the Zé dos Bois gallery."
+  },
+  "body_html": "name: Outersites III @ ZdB\r\ndate: 2004-09-17\r\ntype: live act\r\nevent: concerto\r\n\r\ncity: Lisboa, Portugal\r\nplace: ZdB\r\n\r\nclient: ZdB\r\ncollaboration: Tiago Martins\r\n\r\ndescription PT: Live act música electrónica na galeria Zé dos Bois.\r\n\r\nlinks:\r\n\r\n<a href=\"https://www.publico.pt/2004/09/10/culturaipsilon/noticia/primeira-mostra-de-musica-electronica-experimental-celebra-dez-anos-da-zdb-1203195\" target=\"_blank\" rel=\"noopener\">https://www.publico.pt/2004/09/10/culturaipsilon/noticia/primeira-mostra-de-musica-electronica-experimental-celebra-dez-anos-da-zdb-1203195</a>",
+  "legacy_wp_id": 1232,
+  "venue": {
+    "venue_name": "ZdB",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "zdb",
+    "name": "ZdB",
+    "slug": "zdb",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-iii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.publico.pt/2004/09/10/culturaipsilon/noticia/primeira-mostra-de-musica-electronica-experimental-celebra-dez-anos-da-zdb-1203195",
+      "url": "https://www.publico.pt/2004/09/10/culturaipsilon/noticia/primeira-mostra-de-musica-electronica-experimental-celebra-dez-anos-da-zdb-1203195",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites III @ ZdB",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "936",
+  "slug": "only-connect-ii",
+  "title": "Only Connect II",
+  "published_at": "2015-04-16",
+  "occurred_on": "2015-04-16",
+  "event_name": "Only Connect Lab II",
+  "summary": "Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.",
+  "summary_localized": {
+    "pt": "Tutor no laboratório de artes digitais da Companhia João Garcia Miguel.",
+    "en": "Tutor in the digital arts laboratory of Companhia João Garcia Miguel."
+  },
+  "body_html": "<p>name: Only Connect II<br />date: 2015-04-16<br />type: tutoring<br />event: Only Connect Lab II</p>\n<p>city: Aberystwyth, Reino Unido<br />place: Aberystwyth University</p>\n<p>client: Aberystwyth Arts Centre<br />collaboration: David Negrão, João Garcia Miguel</p>\n<p>description PT: Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.</p>\n<p>links: </p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/DcZDxoG8pLc\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/DcZDxoG8pLc\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157668518870588\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 936,
+  "venue": {
+    "venue_name": "Aberystwyth University",
+    "city": "Aberystwyth",
+    "region_or_state": null,
+    "country": "United Kingdom",
+    "raw_location": "Aberystwyth, Reino Unido"
+  },
+  "client": {
+    "id": "aberystwyth-arts-centre",
+    "name": "Aberystwyth Arts Centre",
+    "slug": "aberystwyth-arts-centre",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/YeUWS24muKyMA137IZn4sox1GWxxzIlegsHKA1fk-0M.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "3D",
+    "blakat",
+    "code",
+    "digital arts",
+    "live performance",
+    "music",
+    "touchdesigner",
+    "tutoring"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/YeUWS24muKyMA137IZn4sox1GWxxzIlegsHKA1fk-0M.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/YeUWS24muKyMA137IZn4sox1GWxxzIlegsHKA1fk-0M-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157668518870588/41849464291.jpg",
+      "gallery_items": [
+        "/media/flickr/72157668518870588/41849464291.jpg",
+        "/media/flickr/72157668518870588/41849464181.jpg",
+        "/media/flickr/72157668518870588/41806848002.jpg",
+        "/media/flickr/72157668518870588/40950591635.jpg",
+        "/media/flickr/72157668518870588/40950591525.jpg",
+        "/media/flickr/72157668518870588/40950591445.jpg",
+        "/media/flickr/72157668518870588/40950591265.jpg",
+        "/media/flickr/72157668518870588/40950590895.jpg",
+        "/media/flickr/72157668518870588/40950590505.jpg",
+        "/media/flickr/72157668518870588/40950590425.jpg",
+        "/media/flickr/72157668518870588/40042624770.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/DcZDxoG8pLc",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Only Connect II",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

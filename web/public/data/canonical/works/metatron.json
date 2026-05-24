@@ -1,0 +1,124 @@
+{
+  "id": "1026",
+  "slug": "metatron",
+  "title": "Metatron",
+  "published_at": "2012-02-02",
+  "occurred_on": "2012-02-02",
+  "event_name": "Série de concertos",
+  "summary": "Videomapping cenário de palco da banda Blasted Mechanism.",
+  "summary_localized": {
+    "pt": "Videomapping cenário de palco da banda Blasted Mechanism.",
+    "en": "Videomapping for the stage set of Blasted Mechanism."
+  },
+  "body_html": "</p>\n<div class=\"jetpack-video-wrapper\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"422\" loading=\"lazy\" src=\"https://www.youtube.com/embed/2iXb1pqOHWc?feature=oembed\" width=\"750\"></iframe></div>\n<p>name: Metatron<br />\ndate: 2012-02-02<br />\ntype: video mapping<br />\nevent: Série de concertos</p>\n<p>city: Lisboa, Portugal<br />\nplace: Aula Magna</p>\n<p>client: Blasted Mechanism<br />\ncollaboration: David Negrão, Pedro Valdjiu, André Sier, Paulo Carocinho, Tiago Barradas</p>\n<p>description PT: Videomapping cenário de palco da banda Blasted Mechanism.</p>\n",
+  "legacy_wp_id": 1026,
+  "venue": {
+    "venue_name": "Aula Magna",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "blasted-mechanism",
+    "name": "Blasted Mechanism",
+    "slug": "blasted-mechanism",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "medium",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/BHtSlyUq_rYsLaPt6Z-ZQwIBmFw5peXIMUXf9dN7Yc8.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "3D",
+    "code",
+    "collaboration",
+    "touchdesigner",
+    "video",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Valdjiu",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Tiago Barradas",
+      "is_organization": false,
+      "sort_order": 4
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/BHtSlyUq_rYsLaPt6Z-ZQwIBmFw5peXIMUXf9dN7Yc8.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/BHtSlyUq_rYsLaPt6Z-ZQwIBmFw5peXIMUXf9dN7Yc8-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/embed/2iXb1pqOHWc?feature=oembed",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Metatron",
+    "umbrella_signals": [
+      "HOW:medium"
+    ]
+  }
+}

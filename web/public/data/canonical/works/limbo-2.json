@@ -1,0 +1,98 @@
+{
+  "id": "1228",
+  "slug": "limbo-2",
+  "title": "Limbo",
+  "published_at": "2004-06-06",
+  "occurred_on": "2004-06-06",
+  "event_name": "Festival Luzboa",
+  "summary": "Instalação sonora para fotografia de Luís Campos, no festival Luzboa 2004.",
+  "summary_localized": {
+    "pt": "Instalação sonora para fotografia de Luís Campos, no festival Luzboa 2004.",
+    "en": "Sound installation for a photograph by Luís Campos at the Luzboa 2004 festival."
+  },
+  "body_html": "<p>name: Limbo<br />\ndate: 2004-06-06<br />\ntype:  sonic art<br />\nevent: Festival Luzboa</p>\n<p>city: Lisboa, Portugal<br />\nplace: Largo S. Carlos</p>\n<p>client: Luís Campos<br />\ncollaboration: Luís Campos</p>\n<p>description PT: Instalação sonora para fotografia de Luís Campos, no festival Luzboa 2004.</p>\n<p>links: <a href=\"https://www.publico.pt/2004/06/21/culturaipsilon/noticia/luzboa-2004-as-cores-de-uma-bienal-1197142\" rel=\"noopener\" target=\"_blank\">https://www.publico.pt/2004/06/21/culturaipsilon/noticia/luzboa-2004-as-cores-de-uma-bienal-1197142</a></p>\n\n<!-- wp:image {\"id\":3022,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"/media/wp-content/uploads/2004/06/image.png\" alt=\"\" class=\"wp-image-3022\"/></figure>\n<!-- /wp:image -->",
+  "legacy_wp_id": 1228,
+  "venue": {
+    "venue_name": "Largo S. Carlos",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "luis-campos",
+    "name": "Luís Campos",
+    "slug": "luis-campos",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2004/06/LIMBO01.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Luís Campos",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.publico.pt/2004/06/21/culturaipsilon/noticia/luzboa-2004-as-cores-de-uma-bienal-1197142",
+      "url": "https://www.publico.pt/2004/06/21/culturaipsilon/noticia/luzboa-2004-as-cores-de-uma-bienal-1197142",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2004/06/LIMBO01.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2004/06/LIMBO01-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2004/06/image.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Limbo",
+    "umbrella_signals": []
+  }
+}

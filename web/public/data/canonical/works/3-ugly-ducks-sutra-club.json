@@ -1,0 +1,75 @@
+{
+  "id": "1204",
+  "slug": "3-ugly-ducks-sutra-club",
+  "title": "3 Ugly Ducks @ Sutra Club",
+  "published_at": "2003-12-11",
+  "occurred_on": "2003-12-11",
+  "event_name": "concerto",
+  "summary": "Live act com Adreas Dimitriadis (Grécia) e Serge Van der Velde (Bélgica) ' Sutra Club.",
+  "summary_localized": {
+    "pt": "Live act com Adreas Dimitriadis (Grécia) e Serge Van der Velde (Bélgica) ' Sutra Club.",
+    "en": "Live act with Adreas Dimitriadis (Greece) and Serge Van der Velde (Belgium) at Sutra Club."
+  },
+  "body_html": "<p><br>\nname: 3 Ugly Ducks @ Sutra Club<br>\ndate: 2003-12-11<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Cape Town, áfrica do Sul<br>\nplace: Sutra Club<br>\n<br>\nclient: Red Bull Music Academy Portugal<br>\ncollaboration: Andreas Dimitriadis, Serge Van Der Velde<br>\n<br>\ndescription PT: Live act com Adreas Dimitriadis (Grécia) e Serge Van der Velde (Bélgica) ' Sutra Club.<br>\n<br>\nlinks: <a href=\"http://www.redbullmusicacademy.com/about/projects/capetown2003\" rel=\"noopener\" target=\"_blank\">http://www.redbullmusicacademy.com/about/projects/capetown2003</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1204,
+  "venue": {
+    "venue_name": "Sutra Club",
+    "city": "Cape Town",
+    "region_or_state": "áfrica do Sul",
+    "country": null,
+    "raw_location": "Cape Town, áfrica do Sul"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "3-ugly-ducks",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Andreas Dimitriadis",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Serge Van Der Velde",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.redbullmusicacademy.com/about/projects/capetown2003",
+      "url": "http://www.redbullmusicacademy.com/about/projects/capetown2003",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "3 Ugly Ducks @ Sutra Club",
+    "umbrella_signals": []
+  }
+}

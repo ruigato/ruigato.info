@@ -1,0 +1,116 @@
+{
+  "id": "942",
+  "slug": "lollapalooza",
+  "title": "Lollapalooza",
+  "published_at": "2015-07-31",
+  "occurred_on": "2015-07-31",
+  "event_name": "Lollapalooza",
+  "summary": "Videomapping para palco de electrónica do Lollapalooza Festival, pelo colectivo Datagrama.",
+  "summary_localized": {
+    "pt": "Videomapping para o palco de electrónica do Lollapalooza Festival, pelo colectivo Datagrama.",
+    "en": "Video mapping for the electronic music stage of Lollapalooza Festival, by the Datagrama collective."
+  },
+  "body_html": "\n\n<p>name: Lollapalooza<br/>date: 2015-07-31<br/>type: video mapping<br/>event: Lollapalooza</p>\n<p>city: Chicago, Estados Unidos<br/>place: grant park</p>\n<p>client: João Beira<br/>collaboration: David Negrão, Daniel Schaeffer, João Beira</p>\n<p>description PT: Videomapping para palco de electrónica do Lollapalooza Festival, pelo colectivo Datagrama.</p>\n<p>links: <a href=\"http://blakat.xyz/lolla.html\" rel=\"noopener\" target=\"_blank\">http://blakat.xyz/lolla.html</a></p>\n",
+  "legacy_wp_id": 942,
+  "venue": {
+    "venue_name": "Grant Park",
+    "city": "Chicago",
+    "region_or_state": null,
+    "country": "United States",
+    "raw_location": "Chicago, Estados Unidos"
+  },
+  "client": {
+    "id": "joao-beira",
+    "name": "João Beira",
+    "slug": "joao-beira",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/W1n6SiNGX3mJsXCMQksgjIltxY1jzUVJoZHvxLCbeR8.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "blakat",
+    "code",
+    "collaboration",
+    "interactive",
+    "live performance",
+    "realtime",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Daniel Schaeffer",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "João Beira",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://blakat.xyz/lolla.html",
+      "url": "http://blakat.xyz/lolla.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/W1n6SiNGX3mJsXCMQksgjIltxY1jzUVJoZHvxLCbeR8.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/W1n6SiNGX3mJsXCMQksgjIltxY1jzUVJoZHvxLCbeR8-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Lollapalooza",
+    "umbrella_signals": [
+      "Blakat:high"
+    ]
+  }
+}

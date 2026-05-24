@@ -1,0 +1,89 @@
+{
+  "id": "1066",
+  "slug": "forum-mundial-da-agua",
+  "title": "Fórum Mundial da água",
+  "published_at": "2006-01-01",
+  "occurred_on": "2006-01-01",
+  "event_name": "Fórum Mundial da água",
+  "summary": "Instalação audiovisual para projecto de Pedro Campos Costa, participação portuguesa no FMM 2006.",
+  "summary_localized": {
+    "pt": "Instalação audiovisual para projecto de Pedro Campos Costa, participação portuguesa no FMM 2006.",
+    "en": "Audiovisual installation for a project by Pedro Campos Costa, as the Portuguese participation at FMM 2006."
+  },
+  "body_html": "<p>name: Fórum Mundial da água<br>date: 2006-01-01<br>type: sound design<br>event: Fórum Mundial da água</p><p>city: Cidade do México, México<br>place: Parque Exposições Cidade do México</p><p>client: Ministério do Ambiente<br>collaboration: Margarida Moura Guedes, Marco Madruga, Pedro Campos Costa</p><p>description PT: Instalação audiovisual para projecto de Pedro Campos Costa, participação portuguesa no FMM 2006.</p><p>links: <a href=\"https://vimeo.com/6687339\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6687339\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/6687339\" data-uid=\"9skle\" id=\"embedpress_wrapper_9skle\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_9skle\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_9skle\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/6687339\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6687339\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_9skle\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/6687339\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/6687339\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-cd167570e3d6311054f78b67a1075c6a responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/6687339?app_id=122963\" width=\"640\" height=\"512\" frameborder=\"0\" title=\"2006 . world water forum\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1066,
+  "venue": {
+    "venue_name": "Parque Exposições Cidade do México",
+    "city": "Cidade do México",
+    "region_or_state": "México",
+    "country": null,
+    "raw_location": "Cidade do México, México"
+  },
+  "client": {
+    "id": "ministerio-do-ambiente",
+    "name": "Ministério do Ambiente",
+    "slug": "ministerio-do-ambiente",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "collaboration",
+    "exhibition",
+    "motion graphics",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Marco Madruga",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Campos Costa",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/6687339",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/6687339?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Fórum Mundial da água",
+    "umbrella_signals": []
+  }
+}

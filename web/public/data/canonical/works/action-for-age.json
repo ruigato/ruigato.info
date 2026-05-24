@@ -1,0 +1,83 @@
+{
+  "id": "1122",
+  "slug": "action-for-age",
+  "title": "action for age",
+  "published_at": "2009-02-02",
+  "occurred_on": "2009-02-02",
+  "event_name": "n/a",
+  "summary": "Genérico para documentário.",
+  "summary_localized": {
+    "pt": "Genérico para documentário.",
+    "en": "Title sequence for a documentary."
+  },
+  "body_html": "name: action for age\r\ndate: 2009-02-02\r\ntype: motion graphics\r\nevent: n/a\r\n\r\ncity: Torres Vedras, Portugal\r\nplace: HOW\r\n\r\nclient: Mínima Ideia\r\ncollaboration: Margarida Moura Guedes, Ricardo Viana\r\n\r\ndescription PT: Genérico para documentário.\r\n\r\nlinks:\r\n\r\n[embed mce-style=\"width: 589px;\"]https://vimeo.com/15332367[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 1122,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "minimaideia",
+    "motion graphics",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Viana",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15332367[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "action for age",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

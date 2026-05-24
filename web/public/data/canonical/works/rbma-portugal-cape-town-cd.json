@@ -1,0 +1,61 @@
+{
+  "id": "1215",
+  "slug": "rbma-portugal-cape-town-cd",
+  "title": "RBMA Portugal Cape Town CD",
+  "published_at": "2004-02-15",
+  "occurred_on": "2004-02-15",
+  "event_name": "release",
+  "summary": "Composição e Produção faixa New Atlantis de Elastic Void, cd da RBMA Portugal Cape Town.",
+  "summary_localized": {
+    "pt": "Composição e produção da faixa New Atlantis, de Elastic Void, para o CD RBMA Portugal Cape Town.",
+    "en": "Composition and production of the track New Atlantis by Elastic Void for the RBMA Portugal Cape Town CD."
+  },
+  "body_html": "<p><br>\nname: RBMA Portugal Cape Town CD<br>\ndate: 2004-02-15<br>\ntype:  music release<br>\nevent: release<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: CD<br>\n<br>\nclient: Red Bull Music Academy Portugal<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Composição e Produção faixa New Atlantis de Elastic Void, cd da RBMA Portugal Cape Town.<br>\n<br>\nlinks: <a href=\"http://www.redbullmusicacademy.com/\" rel=\"noopener\" target=\"_blank\">http://www.redbullmusicacademy.com/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1215,
+  "venue": {
+    "venue_name": "Cd",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "CD",
+    "music",
+    "release"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.redbullmusicacademy.com/",
+      "url": "http://www.redbullmusicacademy.com/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "RBMA Portugal Cape Town CD",
+    "umbrella_signals": []
+  }
+}

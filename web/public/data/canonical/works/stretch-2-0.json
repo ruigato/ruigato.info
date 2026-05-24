@@ -1,0 +1,88 @@
+{
+  "id": "1160",
+  "slug": "stretch-2-0",
+  "title": "Stretch 2.0",
+  "published_at": "2009-11-11",
+  "occurred_on": "2009-11-11",
+  "event_name": "Red Bull House of Art",
+  "summary": "Instalação sonora, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+  "summary_localized": {
+    "pt": "Instalação sonora, no contexto da residência artística da Red Bull House of Arts em São Paulo.",
+    "en": "Sound installation in the context of the artistic residency at Red Bull House of Arts in São Paulo."
+  },
+  "body_html": "</p>\n<p>name: Stretch 2.0<br />\ndate: 2009-11-11<br />\ntype: sonic art<br />\nevent: Red Bull House of Art</p>\n<p>city: São Paulo, Brazil<br />\nplace: Hotel Central</p>\n<p>client: Red Bull Music Academy Portugal<br />\ncollaboration: n/a</p>\n<p>description PT: Instalação sonora, no contexto da residência artística da Red Bull House of Arts em São Paulo. Segunda iteração da peça Stretch, apresentada originalmente em Torino (2008) na exposição Flexibility da experimentadesign.</p>\n<p>links: <a href=\"https://www.ruigato.info/stretch-making-of/\" rel=\"noopener\" target=\"_blank\">https://www.ruigato.info/stretch-making-of/</a></p>\n",
+  "legacy_wp_id": 1160,
+  "venue": {
+    "venue_name": "Hotel Central",
+    "city": "Sao Paulo",
+    "region_or_state": null,
+    "country": "Brazil",
+    "raw_location": "São Paulo, Brazil"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/ZU2usXWSPallqCt4GaMOBjn59cWxIfVOYtM-KW8KGd4.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "installation",
+    "interactive",
+    "RBMA",
+    "sonic art",
+    "spatialization",
+    "surround"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.ruigato.info/stretch-making-of/",
+      "url": "https://www.ruigato.info/stretch-making-of/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/ZU2usXWSPallqCt4GaMOBjn59cWxIfVOYtM-KW8KGd4.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/ZU2usXWSPallqCt4GaMOBjn59cWxIfVOYtM-KW8KGd4-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Stretch 2.0",
+    "umbrella_signals": []
+  }
+}

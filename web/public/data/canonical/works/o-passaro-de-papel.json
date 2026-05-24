@@ -1,0 +1,81 @@
+{
+  "id": "1070",
+  "slug": "o-passaro-de-papel",
+  "title": "O Píssaro de Papel",
+  "published_at": "2006-05-01",
+  "occurred_on": "2006-05-01",
+  "event_name": "Teatro",
+  "summary": "Cenírio virtual para peça de teatro.",
+  "summary_localized": {
+    "pt": "Cenário virtual para peça de teatro.",
+    "en": "Virtual set for a theatre piece."
+  },
+  "body_html": "<p>name: O Píssaro de Papel<br>date: 2006-05-01<br>type: motion graphics<br>event: Teatro</p><p>city: Torres Vedras, Portugal<br>place: Teatro-Cine Torres Vedras</p><p>client: Moncho Rodriguez<br>collaboration: Margarida Moura Guedes, Catarina Sobreiro</p><p>description PT: Cenírio virtual para peça de teatro.</p><p>links: <a href=\"https://vimeo.com/15363207\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363207\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/15363207\" data-uid=\"qtf61\" id=\"embedpress_wrapper_qtf61\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_qtf61\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_qtf61\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363207\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363207\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_qtf61\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/15363207\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/15363207\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-c4eaf93ec699e7972f6dc3f927e7b9f0 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/15363207?app_id=122963\" width=\"640\" height=\"480\" frameborder=\"0\" title=\"2006 . o píssaro de papel\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1070,
+  "venue": {
+    "venue_name": "Teatro-Cine Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "moncho-rodriguez",
+    "name": "Moncho Rodriguez",
+    "slug": "moncho-rodriguez",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "blackbox",
+    "collaboration",
+    "motion graphics"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Catarina Sobreiro",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363207",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15363207?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "O Píssaro de Papel",
+    "umbrella_signals": []
+  }
+}

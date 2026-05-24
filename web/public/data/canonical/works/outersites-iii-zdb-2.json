@@ -1,0 +1,86 @@
+{
+  "id": "1252",
+  "slug": "outersites-iii-zdb-2",
+  "title": "Outersites III @ ZdB",
+  "published_at": "2005-06-07",
+  "occurred_on": "2005-06-07",
+  "event_name": "concerto",
+  "summary": "Live act de música electrónica.",
+  "summary_localized": {
+    "pt": "Live act de música electrónica.",
+    "en": "Electronic music live act."
+  },
+  "body_html": "name: Outersites III @ ZdB\r\ndate: 2005-06-07\r\ntype: live act\r\nevent: concerto\r\n\r\ncity: Lisboa, Portugal\r\nplace: ZdB\r\n\r\nclient: ZdB\r\ncollaboration: Tiago Martins\r\n\r\ndescription PT: Live act de música electrónica.\r\n\r\nlinks:\r\n\r\n<a href=\"http://santosdacasa.blogspot.pt/2005/07/variz-ao-vivo.html\" target=\"_blank\" rel=\"noopener\">http://santosdacasa.blogspot.pt/2005/07/variz-ao-vivo.html </a>\r\n\r\n<a href=\"http://www.ruadebaixo.com/portable.html\" target=\"_blank\" rel=\"noopener\">http://www.ruadebaixo.com/portable.html</a>\r\n\r\n<a href=\"http://ogemidodagemada.blogspot.com/2005/07/portable-producers.html\">http://ogemidodagemada.blogspot.com/2005/07/portable-producers.html</a>",
+  "legacy_wp_id": 1252,
+  "venue": {
+    "venue_name": "ZdB",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "zdb",
+    "name": "ZdB",
+    "slug": "zdb",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-iii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://santosdacasa.blogspot.pt/2005/07/variz-ao-vivo.html",
+      "url": "http://santosdacasa.blogspot.pt/2005/07/variz-ao-vivo.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://www.ruadebaixo.com/portable.html",
+      "url": "http://www.ruadebaixo.com/portable.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-3",
+      "label": "http://ogemidodagemada.blogspot.com/2005/07/portable-producers.html",
+      "url": "http://ogemidodagemada.blogspot.com/2005/07/portable-producers.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites III @ ZdB",
+    "umbrella_signals": []
+  }
+}

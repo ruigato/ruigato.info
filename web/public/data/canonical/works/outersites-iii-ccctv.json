@@ -1,0 +1,122 @@
+{
+  "id": "1234",
+  "slug": "outersites-iii-ccctv",
+  "title": "Outersites III @ CCCTV",
+  "published_at": "2004-11-05",
+  "occurred_on": "2004-11-05",
+  "event_name": "concertos",
+  "summary": "Live act Outersites III na Cooperativa Comunicação e Cultura de Torres Vedras.",
+  "summary_localized": {
+    "pt": "Live act de Outersites III na Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "en": "Outersites III live act at the Cooperativa de Comunicação e Cultura de Torres Vedras."
+  },
+  "body_html": "<p>name: Outersites III @ CCCTV<br />date: 2004-11-05<br />type: live act<br />event: concertos</p>\n<p>city: Torres Vedras, Portugal<br />place: CCCTV</p>\n<p>client: CCCTV<br />collaboration: Tiago Martins</p>\n<p>description PT: Live act Outersites III na Cooperativa Comunicação e Cultura de Torres Vedras.</p>\n<p>links: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" target=\"_blank\" rel=\"noopener\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272177720325152338\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1234,
+  "venue": {
+    "venue_name": "Ccctv",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "ccctv",
+    "name": "Ccctv",
+    "slug": "ccctv",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2004/11/OUTER5.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "outersites-iii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2004/11/OUTER5.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2004/11/OUTER5-768x1084.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72177720325152338/54457132665.jpg",
+      "gallery_items": [
+        "/media/flickr/72177720325152338/54457132665.jpg",
+        "/media/flickr/72177720325152338/54457132610.jpg",
+        "/media/flickr/72177720325152338/54457132605.jpg",
+        "/media/flickr/72177720325152338/54457132560.jpg",
+        "/media/flickr/72177720325152338/54457026658.jpg",
+        "/media/flickr/72177720325152338/54457026578.jpg",
+        "/media/flickr/72177720325152338/54457026568.jpg",
+        "/media/flickr/72177720325152338/54457026558.jpg",
+        "/media/flickr/72177720325152338/54457026488.jpg",
+        "/media/flickr/72177720325152338/54457026398.jpg",
+        "/media/flickr/72177720325152338/54456957369.jpg",
+        "/media/flickr/72177720325152338/54456957289.jpg",
+        "/media/flickr/72177720325152338/54456957219.jpg",
+        "/media/flickr/72177720325152338/54456766286.jpg",
+        "/media/flickr/72177720325152338/54456766261.jpg",
+        "/media/flickr/72177720325152338/54455928397.jpg",
+        "/media/flickr/72177720325152338/54455928372.jpg",
+        "/media/flickr/72177720325152338/54455928367.jpg",
+        "/media/flickr/72177720325152338/54455928292.jpg",
+        "/media/flickr/72177720325152338/54455928257.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites III @ CCCTV",
+    "umbrella_signals": []
+  }
+}

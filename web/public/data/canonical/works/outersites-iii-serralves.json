@@ -1,0 +1,77 @@
+{
+  "id": "1226",
+  "slug": "outersites-iii-serralves",
+  "title": "Outersites III @ Serralves",
+  "published_at": "2004-06-05",
+  "occurred_on": "2004-06-05",
+  "event_name": "Serralves em Festa",
+  "summary": "live act Outersites III @ Serralves em Festa.",
+  "summary_localized": {
+    "pt": "Live act de Outersites III no Serralves em Festa.",
+    "en": "Outersites III live act at Serralves em Festa."
+  },
+  "body_html": "<p>name: Outersites III @ Serralves<br>date: 2004-06-05<br>type: live act<br>event: Serralves em Festa</p><p>city: Porto, Portugal<br>place: Serralves</p><p>client: Fundação Serralves<br>collaboration: Tiago Martins</p><p>description PT: live act Outersites III @ Serralves em Festa.</p><p>links: </p><p><a href=\"https://www.serralves.pt/fotos/editor2/2004rec.pdf\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.serralves.pt/fotos/editor2/2004rec.pdf\">https://www.serralves.pt/fotos/editor2/2004rec.pdf </a></p><p><a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a></p><p> </p>",
+  "legacy_wp_id": 1226,
+  "venue": {
+    "venue_name": "Serralves",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "fundacao-serralves",
+    "name": "Fundação Serralves",
+    "slug": "fundacao-serralves",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "outersites-iii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.serralves.pt/fotos/editor2/2004rec.pdf",
+      "url": "https://www.serralves.pt/fotos/editor2/2004rec.pdf",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites III @ Serralves",
+    "umbrella_signals": []
+  }
+}

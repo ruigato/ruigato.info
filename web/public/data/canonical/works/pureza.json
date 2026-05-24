@@ -1,0 +1,111 @@
+{
+  "id": "1064",
+  "slug": "pureza",
+  "title": "Pureza",
+  "published_at": "2012-12-01",
+  "occurred_on": "2012-12-01",
+  "event_name": "Exposição Pureza",
+  "summary": "Instalação interactiva para exposição da experimentadesign.",
+  "summary_localized": {
+    "pt": "Instalação interactiva para uma exposição da experimentadesign.",
+    "en": "Interactive installation for an experimentadesign exhibition."
+  },
+  "body_html": "<p>name: Pureza<br />date: 2012-12-01<br />type: interactive installation<br />event: Exposição Pureza</p>\n<p>city: Lisboa, Portugal<br />place: Convento da Trindade</p>\n<p>client: Experimenta<br />collaboration: Margarida Moura Guedes</p>\n<p>description PT: Instalação interactiva para exposição da experimentadesign.</p>\n<p>links:</p>\n<p><a href=\"https://vimeo.com/69234741\" target=\"_blank\" rel=\"noopener\">https://vimeo.com/69234741 </a></p>\n<p><a href=\"https://vimeo.com/69640477\" target=\"_blank\" rel=\"noopener\">https://vimeo.com/69640477</a></p>\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 1064,
+  "venue": {
+    "venue_name": "Convento da Trindade",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/yXNLIT0FkgYUbFk0BYOgHgmBqr8JO26u3_yI4oDosDc.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "experimenta",
+    "HOW",
+    "installation",
+    "interactive",
+    "realtime",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/yXNLIT0FkgYUbFk0BYOgHgmBqr8JO26u3_yI4oDosDc.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/yXNLIT0FkgYUbFk0BYOgHgmBqr8JO26u3_yI4oDosDc-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/69234741",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/69640477",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Pureza",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

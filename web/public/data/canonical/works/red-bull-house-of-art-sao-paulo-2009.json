@@ -1,0 +1,84 @@
+{
+  "id": "1156",
+  "slug": "red-bull-house-of-art-sao-paulo-2009",
+  "title": "Red Bull House of Art São Paulo 2009",
+  "published_at": "2009-11-01",
+  "occurred_on": "2009-11-01",
+  "event_name": "Red Bull House of Art",
+  "summary": "Residência artística da Red Bull House of Arts em São Paulo.",
+  "summary_localized": {
+    "pt": "Residência artística da Red Bull House of Arts em São Paulo.",
+    "en": "Artistic residency at Red Bull House of Arts in São Paulo."
+  },
+  "body_html": "<p>name: Red Bull House of Art São Paulo 2009<br />\ndate: 2009-11-01<br />\ntype:  artistic residency<br />\nevent: Red Bull House of Art</p>\n<p>city: São Paulo, Brazil<br />\nplace: Hotel Central</p>\n<p>client: Red Bull Music Academy Portugal<br />\ncollaboration: n/a</p>\n<p>description PT: Residência artística da Red Bull House of Arts em São Paulo.</p>\n<p>links: <a href=\"https://vimeo.com/redbullhoa\" rel=\"noopener\" target=\"_blank\">https://vimeo.com/redbullhoa</a></p>\n",
+  "legacy_wp_id": 1156,
+  "venue": {
+    "venue_name": "Hotel Central",
+    "city": "Sao Paulo",
+    "region_or_state": null,
+    "country": "Brazil",
+    "raw_location": "São Paulo, Brazil"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/U8R9YIKvpVVPEHXUrnb3tfoI-dRXVkUlVmyoMCFRC1o.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "artistic residency",
+  "categories": [
+    "artistic residency"
+  ],
+  "tags": [
+    "artistic residency",
+    "music",
+    "RBMA",
+    "sonic art"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/U8R9YIKvpVVPEHXUrnb3tfoI-dRXVkUlVmyoMCFRC1o.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/U8R9YIKvpVVPEHXUrnb3tfoI-dRXVkUlVmyoMCFRC1o-768x486.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/redbullhoa",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Red Bull House of Art São Paulo 2009",
+    "umbrella_signals": []
+  }
+}

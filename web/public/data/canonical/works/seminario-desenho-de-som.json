@@ -1,0 +1,90 @@
+{
+  "id": "976",
+  "slug": "seminario-desenho-de-som",
+  "title": "seminário Desenho de Som",
+  "published_at": "2010-12-12",
+  "occurred_on": "2010-12-12",
+  "event_name": "seminário Design de Ambientes",
+  "summary": "Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD.",
+  "summary_localized": {
+    "pt": "Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD.",
+    "en": "Participation by invitation from Henrique Ralheta in the Design de Ambientes seminar at ESAD."
+  },
+  "body_html": "<p>name: seminário Desenho de Som<br />\ndate: 2010-12-12<br />\ntype:  tutoring<br />\nevent: seminário Design de Ambientes</p>\n<p>city: Caldas da Rainha, Portugal<br />\nplace: ESAD</p>\n<p>client: ESAD<br />\ncollaboration: Henrique Ralheta</p>\n<p>description PT: Participação por convite de Henrique Ralheta, no seminário de Design de Ambientes, ESAD. Aula teórica e aula prática, com projectos de grupo.</p>\n<p>links: <a href=\"https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/\" rel=\"noopener\" target=\"_blank\">https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/</a></p>\n",
+  "legacy_wp_id": 976,
+  "venue": {
+    "venue_name": "Esad",
+    "city": "Caldas da Rainha",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Caldas da Rainha, Portugal"
+  },
+  "client": {
+    "id": "esad",
+    "name": "Esad",
+    "slug": "esad",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/LGKcCum9fAAL5p1UawX5KSd0xemHkABeKdJwOY7Ajck.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "tutoring"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Henrique Ralheta",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/",
+      "url": "https://www.ipleiria.pt/cursos/course/licenciatura-em-design-de-ambientes/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/LGKcCum9fAAL5p1UawX5KSd0xemHkABeKdJwOY7Ajck.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/LGKcCum9fAAL5p1UawX5KSd0xemHkABeKdJwOY7Ajck-768x514.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "seminário Desenho de Som",
+    "umbrella_signals": []
+  }
+}

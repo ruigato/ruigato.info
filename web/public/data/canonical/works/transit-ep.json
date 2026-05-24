@@ -1,0 +1,86 @@
+{
+  "id": "1242",
+  "slug": "transit-ep",
+  "title": "Transit EP",
+  "published_at": "2005-04-01",
+  "occurred_on": "2005-04-01",
+  "event_name": "release",
+  "summary": "Edição online de ílbum de música para exposição Transit - contributos para um novo universo TAP, da experimentadesign.",
+  "summary_localized": {
+    "pt": "Edição online de álbum de música para a exposição Transit - contributos para um novo universo TAP, da experimentadesign.",
+    "en": "Online album release for the exhibition Transit - contributos para um novo universo TAP, by experimentadesign."
+  },
+  "body_html": "http://www.monocromatica.com/netlabel/releases/tube025/[tube025]-01-rui_gato_-_muzak_tinta_meuda.mp3\n\nname: Transit EP\ndate: 2005-04-01\ntype: music release\nevent: release\n\ncity: Lisboa, Portugal\nplace: internet\n\nclient: testtube\ncollaboration: n/a\n\ndescription PT: Edição online de ílbum de música para exposição Transit - contributos para um novo universo TAP, da experimentadesign.\n\nlinks: <a href=\"https://www.flickr.com/photos/seexd/sets/72157629318337563/\" target=\"_blank\" rel=\"noopener\">https://www.flickr.com/photos/seexd/sets/72157629318337563/</a>",
+  "legacy_wp_id": 1242,
+  "venue": {
+    "venue_name": "Internet",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "testtube",
+    "name": "Testtube",
+    "slug": "testtube",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2005/04/transit.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "experimenta",
+    "monocromatica",
+    "music",
+    "release"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.flickr.com/photos/seexd/sets/72157629318337563/",
+      "url": "https://www.flickr.com/photos/seexd/sets/72157629318337563/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2005/04/transit.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2005/04/transit-590x590.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Transit EP",
+    "umbrella_signals": []
+  }
+}

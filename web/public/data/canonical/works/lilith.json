@@ -1,0 +1,92 @@
+{
+  "id": "1056",
+  "slug": "lilith",
+  "title": "Lilith",
+  "published_at": "2012-10-10",
+  "occurred_on": "2012-10-10",
+  "event_name": "peça teatro",
+  "summary": "Música ao vivo para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Música ao vivo para a peça de teatro da companhia JGM.",
+    "en": "Live music for the theatre piece by the JGM company."
+  },
+  "body_html": "<p>name: Lilith<br />\ndate: 2012-10-10<br />\ntype:  theatre<br />\nevent: peça teatro</p>\n<p>city: Lisboa, Portugal<br />\nplace: Teatro S. Luiz</p>\n<p>client: João Garcia Miguel<br />\ncollaboration: n/a</p>\n<p>description PT: Música ao vivo para peça de Teatro da companhia JGM.</p>\n<p>links: <a href=\"http://www.joaogarciamiguel.com/2012/filter/Theatre/Lilith\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/2012/filter/Theatre/Lilith</a></p>\n",
+  "legacy_wp_id": 1056,
+  "venue": {
+    "venue_name": "Teatro S. Luiz",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/re_lIsbvK4GT77Ga11QNiuDPkFVlI5VxVhVZcvDNxq4.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "live performance",
+    "music",
+    "theatre"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/2012/filter/Theatre/Lilith",
+      "url": "http://www.joaogarciamiguel.com/2012/filter/Theatre/Lilith",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/re_lIsbvK4GT77Ga11QNiuDPkFVlI5VxVhVZcvDNxq4.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/re_lIsbvK4GT77Ga11QNiuDPkFVlI5VxVhVZcvDNxq4-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Lilith",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

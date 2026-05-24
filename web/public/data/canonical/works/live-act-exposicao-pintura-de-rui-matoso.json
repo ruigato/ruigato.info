@@ -1,0 +1,63 @@
+{
+  "id": "1266",
+  "slug": "live-act-exposicao-pintura-de-rui-matoso",
+  "title": "Live act exposição pintura de Rui Matoso",
+  "published_at": "1996-11-01",
+  "occurred_on": "1996-11-01",
+  "event_name": "exposição",
+  "summary": "Live act exposição pintura de Rui Matoso.",
+  "summary_localized": {
+    "pt": "Live act exposição pintura de Rui Matoso.",
+    "en": "Live act at Rui Matoso's painting exhibition."
+  },
+  "body_html": "<p><br>\nname: Live act exposição pintura de Rui Matoso<br>\ndate: 1996-11-01<br>\ntype:  live act<br>\nevent: exposição<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: Torres Vedras<br>\n<br>\nclient: Rui Matoso<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Live act exposição pintura de Rui Matoso.<br>\n<br>\nlinks: <a href=\"n/a\" rel=\"noopener\" target=\"_blank\">n/a</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1266,
+  "venue": {
+    "venue_name": null,
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "rui-matoso",
+    "name": "Rui Matoso",
+    "slug": "rui-matoso",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music",
+    "realtime"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "n/a",
+      "url": "n/a",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Live act exposição pintura de Rui Matoso",
+    "umbrella_signals": []
+  }
+}

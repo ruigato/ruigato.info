@@ -1,0 +1,86 @@
+{
+  "id": "1207",
+  "slug": "outersites-ii-radio-spectrum-fm",
+  "title": "Outersites II @ radio Spectrum FM",
+  "published_at": "2003-12-19",
+  "occurred_on": "2003-12-19",
+  "event_name": "radio",
+  "summary": "Live act na radio Spectrum FM (91.3).",
+  "summary_localized": {
+    "pt": "Actuação ao vivo na rádio Spectrum FM (91.3).",
+    "en": "Live act na radio Spectrum FM (91.3)."
+  },
+  "body_html": "<p><br>\nname: Outersites II @ radio Spectrum FM<br>\ndate: 2003-12-19<br>\ntype:  live act<br>\nevent: radio<br>\n<br>\ncity: Cape Town, áfrica do Sul<br>\nplace: Radio Spectrum Studios<br>\n<br>\nclient: Red Bull Music Academy Portugal<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Live act na radio Spectrum FM (91.3).<br>\n<br>\nlinks: <a href=\"http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1207,
+  "venue": {
+    "venue_name": "Radio Spectrum Studios",
+    "city": "Cape Town",
+    "region_or_state": "áfrica do Sul",
+    "country": null,
+    "raw_location": "Cape Town, áfrica do Sul"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2003/12/radioSpectrum.png",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "outersites-ii",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music",
+    "radio"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_OUTERSITES.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2003/12/radioSpectrum.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2003/12/radioSpectrum-512x170.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Outersites II @ radio Spectrum FM",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1196",
+  "slug": "platform-superpanorama",
+  "title": "plat|::|form @ Superpanorama",
+  "published_at": "2003-09-20",
+  "occurred_on": "2003-09-20",
+  "event_name": "concerto",
+  "summary": "Live act plat|::|form com Burnt Friedman + Tonne + D-Fuse.",
+  "summary_localized": {
+    "pt": "Live act plat|::|form com Burnt Friedman + Tonne + D-Fuse.",
+    "en": "plat|::|form live act with Burnt Friedman, Tonne, and D-Fuse."
+  },
+  "body_html": "<p>name: plat|::|form @ Superpanorama<br />\ndate: 2003-09-20<br />\ntype:  live act<br />\nevent: concerto</p>\n<p>city: Lisboa, Portugal<br />\nplace: Panorâmico de Monsanto</p>\n<p>client: Experimenta<br />\ncollaboration: Tiago Martins, Nuno Clímaco Pinto</p>\n<p>description PT: Live act plat|::|form com Burnt Friedman + Tonne + D-Fuse.</p>\n<p>links: <a href=\"http://www.experimentadesign.pt/2003/pt/progpanorama.htm\" rel=\"noopener\" target=\"_blank\">http://www.experimentadesign.pt/2003/pt/progpanorama.htm</a></p>\n",
+  "legacy_wp_id": 1196,
+  "venue": {
+    "venue_name": "Panorâmico de Monsanto",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "plat-form",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "experimenta",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.experimentadesign.pt/2003/pt/progpanorama.htm",
+      "url": "http://www.experimentadesign.pt/2003/pt/progpanorama.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form @ Superpanorama",
+    "umbrella_signals": []
+  }
+}

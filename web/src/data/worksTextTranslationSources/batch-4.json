@@ -1,0 +1,560 @@
+[
+  {
+    "slug": "playground-records-compilation",
+    "title": "Playground Records Compilation",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Composição e Produção faixa Expedit de Elastic Void, cd compilação da Playground Records.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "voyager-magazine",
+    "title": "Voyager Magazine",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Pós-Produção áudio para série de clips Magazine.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "simpletone-bor-land-compilation",
+    "title": "Simpletone - Bor Land Compilation",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Produção para duas faixas de Simpletone, cd da Bor-land CD1MH.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "dia-santo",
+    "title": "Dia Santo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Pós-Produção áudio para Série Documental.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-radio-spectrum-fm",
+    "title": "Outersites II @ radio Spectrum FM",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act na radio Spectrum FM (91.3).",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "3-ugly-ducks-sutra-club",
+    "title": "3 Ugly Ducks @ Sutra Club",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act com Adreas Dimitriadis (Grécia) e Serge Van der Velde (Bélgica) ' Sutra Club.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "red-bull-music-academy-cape-town",
+    "title": "Red Bull Music Academy Cape Town",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Residência artística na Red Bull Music Academy Cape Town 2003.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "invisible-reality",
+    "title": "Invisible Reality",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design e live act para conferência sobre design de Gonçalo Prudêncio.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "voyager-03",
+    "title": "Voyager 03",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para instalação Video.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-superpanorama",
+    "title": "plat|::|form @ Superpanorama",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act plat|::|form com Burnt Friedman + Tonne + D-Fuse.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "exd-03",
+    "title": "EXD 03",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para anúncio TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-santa-bar",
+    "title": "plat|::|form @ Santa Bar",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ Santa Bar.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-frescuras",
+    "title": "plat|::|form @ Frescuras",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ Frescuras.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "innova03",
+    "title": "Innova'03",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para vídeo de apresentação institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-pateo-da-musica",
+    "title": "plat|::|form @ Páteo da Música",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act plat|::|form @ Páteo da Música.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "o-jogo",
+    "title": "O Jogo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música Original para genérico TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "chaosmos",
+    "title": "Chaosmos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música original para exposição de pintura.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "silos-automoveis-de-lisboa",
+    "title": "Silos Automóveis de Lisboa",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para apresentação de vídeo institucional.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-lounge-bar",
+    "title": "plat|::|form @ Lounge Bar",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ Lounge Bar.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "saulo",
+    "title": "Saulo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound Design para documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-zdb",
+    "title": "plat|::|form @ ZdB",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ ZdB.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-fragil",
+    "title": "plat|::|form @ Frágil",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act plat|::|form @ Frágil.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "elastic-void",
+    "title": "Elastic Void",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição de CD.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-estgad",
+    "title": "plat|::|form @ ESTGAD",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ ESTGAD.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-king-size",
+    "title": "plat|::|form @ King Size",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ King Size Record Store.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "platform-guarda",
+    "title": "plat|::|form @ Guarda",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act plat|::|form @ Mediateca Guarda.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-vyrus-yorn-shopping",
+    "title": "Outersites II @ Vyrus Yorn Shopping",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ Vyrus Yorn Shopping.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-alcantara-club",
+    "title": "Outersites II @ Alcantara Club",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ Alcantara Club.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "elastic-void-convento-dels-angels",
+    "title": "Elastic Void @ Convento dels Angels",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live electronics projecto “Elastic Void” com DJ Landscope, na exposição “Voyager” da ExperimentaDesign.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-boom-festival-2002",
+    "title": "Outersites II @ Boom Festival 2002",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ Boom Festival 2002.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "monocromatica-radio-spots",
+    "title": "monocromatica radio spots",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound Design e Produção de 2 spots publicitários para rádio.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-op-art-2",
+    "title": "Outersites II @ Op Art",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ Op Art.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-frescuras",
+    "title": "Outersites II @ Frescuras",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ frescuras bar.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "dressing-room",
+    "title": "Dressing Room",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Manipulação sonora e colaboração em performance de arte de Patrícia Sobreiro, “Dressing Room”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-maus-habitos",
+    "title": "Outersites II @ Maus Hábitos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act Outersites II @ Maus Hábitos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "academia-de-estrelas",
+    "title": "Academia de Estrelas",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Operador de áudio para programa de televisão.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-fnac-chiado",
+    "title": "Outersites II @ FNAC Chiado",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ FNAC Chiado.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-s-h-e",
+    "title": "Outersites II @ S.H.E.",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ Sociedade Harmonia Eborense.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-op-art",
+    "title": "Outersites II @ Op Art",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ Op Art.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-fnac-colombo",
+    "title": "Outersites II @ FNAC Colombo",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ FNAC Store.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-ii-santa-casa",
+    "title": "Outersites II @ Santa Casa",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act Outersites II @ santa casa bar.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "volun",
+    "title": "Volun",
+    "summary_source_locale": "pt",
+    "summary_source_text": "2 músicas no CD de compilação da mono¨cromatica “Volun”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "pensao-de-sangue",
+    "title": "Pensão de Sangue",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Pós-produção de áudio para adaptação de peça de teatro para DVD.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "monitoring-space-invaders",
+    "title": "Monitoring Space Invaders",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound Design para documentário.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "stop-motion",
+    "title": "Stop Motion",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live electronics com colectivo Houselab, “Stop Motion”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "voyager-red-module",
+    "title": "Voyager Red Module",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora, na Bienal experimentadesign 2001.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "voyager-blue-module",
+    "title": "Voyager Blue Module",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para instalação video, na Bienal experimentadesign 2001.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "berlindes",
+    "title": "Berlindes",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música para peça de Video Art de Margarida Moura Guedes “Berlindes”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "exd-magazine",
+    "title": "EXD Magazine",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música Original e Sound Design para programa de TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "servico-publico",
+    "title": "Serviço Público",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para genérico de programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "a-blues-2",
+    "title": "a Blues",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Manipulação sonora de feedback com amplificador combo, para performance de Margarida Mestre.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-i-2",
+    "title": "Outersites I @ ZdB",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act de música electrónica do projecto “Outersites”, 4 dias.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "a-blues",
+    "title": "a Blues",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Manipulação sonora de feedback com amplificador combo, para performance de Margarida Mestre.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "outersites-i",
+    "title": "Outersites I",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act de música electrónica do projecto “Outersites”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "voyager-exhibition-soundtrack",
+    "title": "Voyager Exhibition Soundtrack",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act música improvisada para exposição Voyager, na Bienal experimentadesign 2001.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "random-process-of-creating-young-men",
+    "title": "Random Process of Creating Young Men",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Banda Sonora Original para cinema.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "live-act-elastic-void",
+    "title": "Live act Elastic Void",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live acts de música electrónica do projecto “Elastic Void”.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "houseware-2000",
+    "title": "Houseware 2000",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act do colectivo de mixed media Houselab.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "loja-do-cidadao",
+    "title": "Loja do Cidadão",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound design para genérico de programa TV.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "hlmrphss",
+    "title": "HLMRPHSS",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Interpretação musical em concerto por Emanuel Dimas Pimenta.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "enceguecer",
+    "title": "Enceguecer",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação sonora em exposição colectiva.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "live-act-exposicao-pintura-de-rui-matoso",
+    "title": "Live act exposição pintura de Rui Matoso",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Live act exposição pintura de Rui Matoso.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  }
+]

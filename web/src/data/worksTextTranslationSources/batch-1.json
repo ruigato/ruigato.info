@@ -1,0 +1,587 @@
+[
+  {
+    "slug": "merita-protean-quartet",
+    "title": "MERITA PROTEAN QUARTET",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Workshop e Residência Artística em Espanha:\nOf place and space: tutor sobre o tema, com João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "merita-akilone-quartet",
+    "title": "MERITA AKILONE QUARTET",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Workshop e Residência Artística em Portugal:\nOf place and space: tutor sobre o tema, com João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "passarola-2",
+    "title": "Passarola #2",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Concerto do projecto VIA Scarlatti | Passarola: Sonata em Si Menor, K.87, Domenico Scarlatti + Vítor Joaquim, Pedro Emanuel Pereira e Rui Gato, no contexto da apresentação do CE...",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "fading",
+    "title": "Fading",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sound Design para video em exposição individual \"Fading\" de Luís Campos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "passarola",
+    "title": "Passarola #1",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Concerto do projecto VIA Scarlatti | Passarola: Culture, Technology and Innovation at Work, com Pedro Emanuel Pereira, Piano; Vítor Joaquim, Electrónica; Rui Gato, Electrónica.",
+    "description_source_locale": "pt",
+    "description_source_text": "Concerto do projecto VIA Scarlatti | Passarola: Culture, Technology and Innovation at Work, com Pedro Emanuel Pereira, Piano; Vítor Joaquim, Electrónica; Rui Gato, Electrónica.\n\n11:00 PANEL III - Os Activos Culturais como Vantagem Competitiva\n\nIsabel Furtado | President of the Board of COTEC Portugal\n\nClemens PFlanz | Member of European Cultural and Creative Industries Alliance",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "musa-tutoring",
+    "title": "MUSA TUTORING",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Workshop e Residência Artística em Portugal:\nInterdisciplinaridade Entre as Artes. Tutor sobre o tema, e participação no concerto no MAAT com os quartetos e com Vitor Joaquim. P...",
+    "description_source_locale": "pt",
+    "description_source_text": "Workshop e Residência Artística em Portugal:\nInterdisciplinaridade Entre as Artes. Tutor sobre o tema, e participação no concerto no MAAT com os quartetos e com Vitor Joaquim.\n\nPrograma de Formação Superior em Empreendedorismo Cultural para Jovens\n\nMúsicos – Ensinado em Inglês\n\nMUSA é um programa Europeu de formação profissional direccionado a jovens quartetos de\ncordas compostos por músicos entre os 20 e 35 anos de idade. Tem como objectivo\ncomplementar a formação de jovens músicos na írea clíssica, dando-lhes novas\ncompetências, através de abordagens multidisciplinares.\nO programa é co-financiado pelo programa Erasmus+ da União Europeia como uma\nparceria estratégica para apoiar a inovação, composta por seis entidades: Le Dimore del\nQuartetto como principal promotor, o IED ' Istituto Europeo di Design e o ASK ' Centre for\nResearch on Management and Economics of Arts and Culture Institutions (Itília),\nProQuartet ' Centre européen de musique de chambre de Paris e La Ferme de Villefavard\nen Limousin (França), e pela experimentadesign (Portugal).\nCom o principal objectivo de proporcionar conhecimentos e competências que estão em\nfalta nos currículos gerais de formação musical, e que são fundamentais para a construção\nde carreiras profissionais de sucesso, o programa é composto por três residências artísticas\nque incluem uma série de workshops sobre vários temas e concertos. Em cada residência\nparticipam três ou quatro jovens quartetos de cordas profissionais, seleccionados por um\nconcurso de abrangência Europeia.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "criatech-2020",
+    "title": "Criatech 2020",
+    "summary_source_locale": "pt",
+    "summary_source_text": "APARELHO GEOMÉTRICO LEVÓGIRO Museu de Arte Nova – Sala de Projeção, por Rui Gato (POR) O Aparelho Geométrico Levógiro é um sistema audiovisual generativo que reage à presença do...",
+    "description_source_locale": "pt",
+    "description_source_text": "APARELHO GEOMÉTRICO LEVÓGIRO\n\nMuseu de Arte Nova – Sala de Projeção, por Rui Gato (POR)\n\nO Aparelho Geométrico Levógiro é um sistema audiovisual generativo que reage à presença do público, permitindo uma modulação do conteúdo artístico em tempo real. Uma zona de interação é definida para um utilizador de cada vez experimentar a modulação desta realidade temporária, que se desenvolve generativamente a partir de um conjunto de composições musicais e visuais pré-estabelecidas pelo autor.\n\nGEOMÚSICA",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "porto-legends-custom-media-server",
+    "title": "Porto Legends Custom Media Server",
+    "summary_source_locale": "en",
+    "summary_source_text": "The Porto Legends video mapping custom server comprises 50 video projector heads controlled by 1 master server and 5 node servers and a mapping laptop, all custom coded in Touch...",
+    "description_source_locale": "en",
+    "description_source_text": "The Porto Legends video mapping custom server comprises 50 video projector heads controlled by 1 master server and 5 node servers and a mapping laptop, all custom coded in TouchDesigner, running since 2018 to the date. All video projector outputs have realtime mapping grids available to fine tune, and OCUBO keeps updating the content every 3 to 6 months.\n\ncoding, concept and tech installation by Rui Gato for OLAB - installation with David Negrão, and OCUBO team.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "torre-nos-v8",
+    "title": "Torre NOS Primavera Sound v8",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "megalith-v2",
+    "title": "Megalith (v2)",
+    "summary_source_locale": "en",
+    "summary_source_text": "This is the second iteration of the Megalith piece the datagrama collective did for Boom Festival 2018.",
+    "description_source_locale": "en",
+    "description_source_text": "This is the second iteration of the Megalith piece the datagrama collective did for Boom Festival 2018. This time, the 6 neo-megalithic structures where high-tech inspired, with a lasercut work designed by Datagrama (cutted by cerebral concepts), and a pixel mapping LED patch developed by Ed Apples and with help by visionreactor. A amazingly cool addition to the setting was the molecule sculpture by Mars-1, placed right in the center of all the action.\n\nMore focused on the interactive aspect of the piece, here we use 3 kinect sensors to track the movements of 3 persons, so they can control the beams of light that are on top of the neo-megaliths. Two modes of interaction, Sky mode ' and Earth mode ' with 12 different looks overall. We also took some time to have fun doing “moon mapping”. Moon mapping was an experiment where we pointed all the beams to the moon from one point of view. We are planning on making that an actual automatic feature for future versions, maybe even good for star mapping! Sky mode is when the users hands are controlling a beam each, and freely moving them in the night sky. Earth mode is with the beams pointing to specific nodes of the central molecule, and the user changes between positions, color saturation, focus and zoom, with both hands.\n\ncoding, concept and tech installation by Rui Gato, David Negrão and João Data (Datagrama).\nPixel mapping and LED tech on the neo-megaliths by Ed Apples and Matt Beluominni (visionreactor).\nmolecule statue by Mars-1",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "light-connector-brussels",
+    "title": "Light Connector @ Brussels",
+    "summary_source_locale": "en",
+    "summary_source_text": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the insta...",
+    "description_source_locale": "en",
+    "description_source_text": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the installation with no restraints, recharging people with energy by the playfulness of a shared magical experience.\"\n\n\"The main concept is the bringing together of the public, in conscious exploration, to perform visual connections and geometric patterns in between the proximal space that we are used to modulate in a socially reserved way. This way, barriers between people are brought down, and new forms of interaction emerge. Responsible for activating this interaction, it provides the spontaneous connection, in the form of energy, between all.\"\n\ncoding, concept and tech installation by Rui Gato, David Negrão, and OCUBO team.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "light-connector-doha",
+    "title": "Light Connector @ Doha",
+    "summary_source_locale": "en",
+    "summary_source_text": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the insta...",
+    "description_source_locale": "en",
+    "description_source_text": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the installation with no restraints, recharging people with energy by the playfulness of a shared magical experience.\"\n\n\"The main concept is the bringing together of the public, in conscious exploration, to perform visual connections and geometric patterns in between the proximal space that we are used to modulate in a socially reserved way. This way, barriers between people are brought down, and new forms of interaction emerge. Responsible for activating this interaction, it provides the spontaneous connection, in the form of energy, between all.\"\n\ncoding, concept and tech installation by Rui Gato, David Negrão, and OCUBO team.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "light-connector-cascais",
+    "title": "Light Connector @ Cascais",
+    "summary_source_locale": "en",
+    "summary_source_text": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the insta...",
+    "description_source_locale": "en",
+    "description_source_text": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the installation with no restraints, recharging people with energy by the playfulness of a shared magical experience.\"\n\n\"The main concept is the bringing together of the public, in conscious exploration, to perform visual connections and geometric patterns in between the proximal space that we are used to modulate in a socially reserved way. This way, barriers between people are brought down, and new forms of interaction emerge. Responsible for activating this interaction, it provides the spontaneous connection, in the form of energy, between all.\"\n\ncoding, concept and tech installation by Rui Gato, David Negrão, and OCUBO team.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "megalith",
+    "title": "Megalith",
+    "summary_source_locale": "en",
+    "summary_source_text": "It's a solar clock driven installation, designed for Boom Festival, that starts at sunset and ends at sunrise, with generative geometry controlling 6 robotic beams, standing on...",
+    "description_source_locale": "en",
+    "description_source_text": "It's a solar clock driven installation, designed for Boom Festival, that starts at sunset and ends at sunrise, with generative geometry controlling 6 robotic beams, standing on top of 6 neo-megalithic structures made by atelier Rethorica with bio construction techniques.\n\nEvery hour, and every half hour, the interactive mode activates for 10 minutes, and the boomers can control the lights with their bodies.\n\nDuring the first half hour the installation is focused on Earth light patterns, projected on the ground. During the second half hour, the focus is the night sky, using lines to draw Sacred Geometry in the starred canvas.",
+    "needs_description_translation": true
+  },
+  {
+    "slug": "sacred-geometry-in-music-composition-talk-at-the-liminal-village-boom-festival-2018",
+    "title": "Sacred Geometry in Music Composition",
+    "summary_source_locale": "en",
+    "summary_source_text": "The harmony of sacred geometric proportions has been inspiring many artists to interpret its beauty in many different directions.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "workshop-touchdesigner-goma",
+    "title": "Workshop TouchDesigner GOMA",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Oficina de Iniciação ao TouchDesigner no contexto da residência artística no CCC.CR.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "heineken-museum",
+    "title": "Heineken Museum",
+    "summary_source_locale": "pt",
+    "summary_source_text": "instalação interactiva de videomapping no Heineken Museum.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-nos-primavera-sound-v7",
+    "title": "Torre NOS Primavera Sound v7",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "aparelho-geometrico-levogiro",
+    "title": "Aparelho Geométrico Levógiro",
+    "summary_source_locale": "pt",
+    "summary_source_text": "instalação audiovisual interactiva name: Aparelho Geométrico Levógiro\ndate: 2018-05-17\ntype: interactive installation\nevent: Residência Artística Rui Gato city: Caldas da Rainha...",
+    "description_source_locale": "pt",
+    "description_source_text": "instalação audiovisual interactiva\n\nname: Aparelho Geométrico Levógiro\ndate: 2018-05-17\ntype: interactive installation\nevent: Residência Artística Rui Gato\n\ncity: Caldas da Rainha, Portugal\nplace: CCC.CR\n\nclient: CCC.CR\ncollaboration: n/a\n\nDocumentação de instalação patente na sala de exposições do CCC das Caldas da Rainha. Um sistema audiovisual generativo, que reage à presença do público, permitindo uma modulação do conteúdo artístico em tempo real.\n\nUma zona de interacção é definida, para um utilizador de cada vez experimentar a modulação desta realidade temporária, que se desenvolve generativamente, a partir de um conjunto de composições musicais e visuais pré-estabelecidas pelo autor.",
+    "needs_description_translation": false
+  },
+  {
+    "slug": "monada-nomada",
+    "title": "Mónada Nómada",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Espectículo audiovisual inserido no contexto da residência artística no CCC.CR.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "eu-sou-o-cosmos",
+    "title": "Eu Sou o Cosmos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Co-autoria de peça de arte com Rui Toscano, no contexto da sua exposição “Eu Sou o Cosmos”, patente na galeria Cristina Guerra, em Lisboa.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "oficina-touchdesigner-ccc-cr",
+    "title": "Oficina TouchDesigner CCC.CR",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Oficina de Iniciação ao TouchDesigner no contexto da residência artística no CCC.CR.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "touchdesigner-summit-2018",
+    "title": "TouchDesigner Summit 2018",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Apresentação do projecto Geometrical Music na TouchDesigner Summit 2018.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "inside",
+    "title": "INSIDE",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Espectáculo audiovisual de 100 metros no contexto do programa Primeira Pedra da experimentadesign.",
+    "description_source_locale": "pt",
+    "description_source_text": "INSIDE é uma obra audiovisual que ocupou 1.024 m² da fachada do Museu Nacional dos Coches com videomapping.\nO sistema tecnológico utilizado criou um dispositivo narrativo imersivo e sensorial, com elementos visuais de geração em tempo real, desenho de som multicanal e vídeo.\n\nNum espectáculo audiovisual de cerca de 15 minutos, INSIDE conta uma história em 3 momentos, desenvolvendo uma narrativa que explora as diferentes fases da formação da pedra, a sua extração e transformação através do engenho humano e o uso resultante da genialidade do trabalho do homem.\n\nFez parte do programa Primeira Pedra www.primeirapedra.com e integrou a EXD17, numa primeira\nnoite de 30.09.17.",
+    "needs_description_translation": false
+  },
+  {
+    "slug": "space-machine",
+    "title": "Space Machine",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act com Lunn no festival Lisb-On palco principal ' colectivo de ex alunos portugueses da Red Bull Music Academy.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-nos-primavera-sound-v6",
+    "title": "Torre NOS Primavera Sound v6",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "periferico",
+    "title": "Periférico",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Contribuição de Blakat para show de VHILS por convite de Pedro Zaz (United VJs).",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "ginga-beat-rbma-alumni-session",
+    "title": "Ginga Beat RBMA Alumni session",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Conversa de alunos da RBMA na emissão da Pop Up rádio Ginga Beat / vodafone.fm.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "boom-radio-release-rui-gato-boom-festival-2016",
+    "title": "Boom Radio Release Rui Gato @ Boom festival 2016",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição online de música.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "galeria-kinect-ericeira-wsr",
+    "title": "Galeria Kinect Ericeira WSR",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema interactivo de design experiencial, instalação permanente.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "retorno-ao-paraiso-palacio-do-principe-real",
+    "title": "Retorno ao Paraíso @ Palácio do Príncipe Real",
+    "summary_source_locale": "pt",
+    "summary_source_text": "colaboração com desenho de som para instalação de joão garcia miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "maat-opening",
+    "title": "MAAT opening",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Perfomance ao vivo com video de Rui Toscano e música de Rafael Toral e Rui Gato, na data de inauguração do MAAT.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "rui-gato-boom-festival-2016",
+    "title": "Rui Gato @ Boom festival 2016",
+    "summary_source_locale": "en",
+    "summary_source_text": "live act no chillout gardens do boom festival 2016.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "boom-festival-2016-videomapping",
+    "title": "Boom Festival 2016 videomapping",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Participação na equipa responsível pelo videomapping / pixelmapping do Alchemy Circle, e instalação de video no Boom Festival 2016.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "retorno-ao-paraiso-elvas",
+    "title": "Retorno ao Paraíso @ Elvas",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Colaboração com desenho de som para instalação de João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-nos-primavera-sound-v5",
+    "title": "Torre NOS Primavera Sound v5",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "mesa-interactiva-ericeira-wsr",
+    "title": "Mesa Interactiva Ericeira WSR",
+    "summary_source_locale": "pt",
+    "summary_source_text": "sistema interactivo design experiencial, instalação permanente.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "resistance",
+    "title": "Resistance",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação video para exposição do programa Primeira Pedra da experimentadesign.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "retorno-ao-paraiso-ilhavo",
+    "title": "Retorno ao Paraíso @ Ílhavo",
+    "summary_source_locale": "pt",
+    "summary_source_text": "colaboração com desenho de som para instalação de João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "blinc",
+    "title": "Blinc",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping para o festival Blinc.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "miragem",
+    "title": "Miragem",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping para inauguração de parque da cidade de Torres Vedras, com música de Nuno Corte-Real.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "lollapalooza",
+    "title": "Lollapalooza",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping para palco de electrónica do Lollapalooza Festival, pelo colectivo Datagrama.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-nos-primavera-sound-v4",
+    "title": "Torre NOS Primavera Sound v4",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "how-to-do-things-with-words-1",
+    "title": "How to do things with words #1",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação interactiva ao ar livre, no contexto do Only Connect II ' Laboratório de artes digitais da Companhia João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "only-connect-ii",
+    "title": "Only Connect II",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Tutor em laboratório de artes digitais da Companhia João Garcia Miguel.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "gatos-live-pecha-kucha-night-lisbon",
+    "title": "Gatos live @ Pecha Kucha Night Lisbon",
+    "summary_source_locale": "en",
+    "summary_source_text": "Perfomance live do bando Gatos na Pecha Kucha Night #20 Lisbon.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "boom-radio-release-rui-gato-boom-festival-2014",
+    "title": "Boom Radio Release Rui Gato @ Boom festival 2014",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Edição online de música.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "rui-gato-boom-festival-2014",
+    "title": "Rui Gato @ Boom festival 2014",
+    "summary_source_locale": "en",
+    "summary_source_text": "Live act no palco Chill Out Gardens do Boom Festival 2014.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "boom-digital-mandalas",
+    "title": "Boom Digital Mandalas",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação interactiva do duo Blakat no Boom Festival 2014.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-nos-primavera-sound-v3",
+    "title": "Torre NOS Primavera Sound v3",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "gatos-live-bar-a-barraca",
+    "title": "Gatos live @ bar A Barraca",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Improvisação ao vivo do bando de Gatos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "centro-interpretativo-companhia-das-lezirias",
+    "title": "Centro Interpretativo Companhia das Lezírias",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema para instalação museulógica com 12 ecrãs.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "inauguracao-c-i-tapete-de-arraiolos",
+    "title": "Inauguração C.I. Tapete de Arraiolos",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Videomapping para inauguração do Centro Interpretativo do Tapete de Arraiolos.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "gatos-live-aogosto",
+    "title": "Gatos live @ Aogosto",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Performance do bando Gatos no festival Aogosto.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "santas-de-roca",
+    "title": "Santas de Roca",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sonoplastia para peça de Teatro de Costanza Givone.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "torre-optimus-primavera-sound-v2",
+    "title": "Torre Optimus Primavera Sound v2",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Sistema em tempo real para controlo lumínico da Torre Optimus ' Palco principal Optimus Primavera Sound.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "festival-in-warmup",
+    "title": "Festival IN warmup",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação interactiva no contexto do festival IN.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-aveiro",
+    "title": "As Barcas @ Aveiro",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-sesc-consolacao",
+    "title": "As Barcas @ SESC Consolação",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-rio-de-janeiro",
+    "title": "As Barcas @ Rio De Janeiro",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "pureza",
+    "title": "Pureza",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Instalação interactiva para exposição da experimentadesign.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-dresden",
+    "title": "As Barcas @ Dresden",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "quatuor-pour-la-fin-du-temps",
+    "title": "Quatuor pour la fin du temps",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Cenírio video para concerto do Ensemble D'Arcos de Nuno Corte-Real.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "as-barcas-bilbau",
+    "title": "As Barcas @ Bilbau",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  },
+  {
+    "slug": "lilith",
+    "title": "Lilith",
+    "summary_source_locale": "pt",
+    "summary_source_text": "Música ao vivo para peça de Teatro da companhia JGM.",
+    "description_source_locale": null,
+    "description_source_text": null,
+    "needs_description_translation": false
+  }
+]

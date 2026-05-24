@@ -1,0 +1,84 @@
+{
+  "id": "1131",
+  "slug": "camilo-o-presidente",
+  "title": "Camilo, o presidente",
+  "published_at": "2009-04-04",
+  "occurred_on": "2009-04-04",
+  "event_name": "n/a",
+  "summary": "Genérico para programa TV.",
+  "summary_localized": {
+    "pt": "Genérico para programa de TV.",
+    "en": "Title sequence for a TV programme."
+  },
+  "body_html": "<p>name: Camilo, o presidente<br>date: 2009-04-04<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: HOW</p><p>client: CBV<br>collaboration: Margarida Moura Guedes</p><p>description PT: Genérico para programa TV.</p><p>links: <a href=\"https://vimeo.com/5019852\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/5019852\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/5019852\" data-uid=\"4toqe\" id=\"embedpress_wrapper_4toqe\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_4toqe\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_4toqe\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/5019852\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/5019852\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_4toqe\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/5019852\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/5019852\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-196c6b588471f604cff9dbc950def98d responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/5019852?app_id=122963\" width=\"640\" height=\"512\" frameborder=\"0\" title=\"2009 . camilo, o presidente\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 1131,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cbv",
+    "name": "Cbv",
+    "slug": "cbv",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/5019852",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/5019852?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Camilo, o presidente",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

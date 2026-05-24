@@ -1,0 +1,68 @@
+{
+  "id": "1332",
+  "slug": "elastic-void-convento-dels-angels",
+  "title": "Elastic Void @ Convento dels Angels",
+  "published_at": "2002-10-01",
+  "occurred_on": "2002-10-01",
+  "event_name": "Voyager EXD",
+  "summary": "Live electronics projecto “Elastic Void” com DJ Landscope, na exposição “Voyager” da ExperimentaDesign.",
+  "summary_localized": {
+    "pt": "Live electronics projecto “Elastic Void” com DJ Landscope, na exposição “Voyager” da ExperimentaDesign.",
+    "en": "Live electronics project \"Elastic Void\" with DJ Landscope at the ExperimentaDesign exhibition \"Voyager\"."
+  },
+  "body_html": "</p>\n<p>\nname: Elastic Void @ Convento dels Angels<br />\ndate: 2002-10-01<br />\ntype:  live act<br />\nevent: Voyager EXD</p>\n<p>city: Barcelona, Espanha<br />\nplace: Convento Dels Angels</p>\n<p>client: Experimenta<br />\ncollaboration: João Paulo Feliciano</p>\n<p>description PT: Live electronics projecto “Elastic Void” com DJ Landscope, na exposição “Voyager” da ExperimentaDesign.</p>\n<p>links: <a href=\"http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm</a></p>\n",
+  "legacy_wp_id": 1332,
+  "venue": {
+    "venue_name": "Convento Dels Angels",
+    "city": "Barcelona",
+    "region_or_state": null,
+    "country": "Spain",
+    "raw_location": "Barcelona, Espanha"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "elastic-void",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm",
+      "url": "http://www.monocromatica.com/v5/artists/artists_ELASTIC_VOID.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Elastic Void @ Convento dels Angels",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "1092",
+  "slug": "quatuor-pour-la-fin-du-temps-2",
+  "title": "Quatuor pour la fin du temps",
+  "published_at": "2008-02-02",
+  "occurred_on": "2008-02-02",
+  "event_name": "Concerto",
+  "summary": "Cenírio video para concerto do Ensemble D'Arcos de Nuno Corte-Real.",
+  "summary_localized": {
+    "pt": "Cenário vídeo para concerto do Ensemble D'Arcos de Nuno Corte-Real.",
+    "en": "Video scenography for a concert by Ensemble D'Arcos and Nuno Corte-Real."
+  },
+  "body_html": "<p>name: Quatuor pour la fin du temps<br>date: 2008-02-02<br>type: motion graphics<br>event: Concerto</p><p>city: Torres Vedras, Portugal<br>place: Teatro-Cine Torres Vedras</p><p>client: CM Torres Vedras<br>collaboration: Margarida Moura Guedes, Ricardo Viana, Nuno Côrte-Real, Ensemble d&#039;Arcos</p><p>description PT: Cenírio video para concerto do Ensemble D&#039;Arcos de Nuno Corte-Real.</p><p>links: <a href=\"http://darcos-bios.blogspot.pt/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://darcos-bios.blogspot.pt/\">http://darcos-bios.blogspot.pt/</a></p>",
+  "legacy_wp_id": 1092,
+  "venue": {
+    "venue_name": "Teatro-Cine Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-torres-vedras",
+    "name": "CM Torres Vedras",
+    "slug": "cm-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Viana",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Nuno Côrte-Real",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Ensemble d&#039;Arcos",
+      "is_organization": false,
+      "sort_order": 3
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://darcos-bios.blogspot.pt/",
+      "url": "http://darcos-bios.blogspot.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Quatuor pour la fin du temps",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

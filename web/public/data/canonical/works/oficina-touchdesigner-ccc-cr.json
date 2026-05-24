@@ -1,0 +1,114 @@
+{
+  "id": "902",
+  "slug": "oficina-touchdesigner-ccc-cr",
+  "title": "Oficina TouchDesigner CCC.CR",
+  "published_at": "2018-03-09",
+  "occurred_on": "2018-03-09",
+  "event_name": "Residência Artística Rui Gato",
+  "summary": "Oficina de Iniciação ao TouchDesigner no contexto da residência artística no CCC.CR.",
+  "summary_localized": {
+    "pt": "Oficina de iniciação ao TouchDesigner no contexto da residência artística no CCC.CR.",
+    "en": "Introductory TouchDesigner workshop in the context of the artistic residency at CCC.CR."
+  },
+  "body_html": "\n\n<p>name: Oficina TouchDesigner CCC.CR<br/>date: 2018-03-09<br/>type: tutoring<br/>event: Residência Artística Rui Gato</p>\n<p>city: Caldas da Rainha, Portugal<br/>place: CCC.CR</p>\n<p>client: CCC.CR<br/>collaboration: Ivan DelSol, David Negrão, Matt Schaft</p>\n<p>description PT: Oficina de Iniciação ao TouchDesigner no contexto da residência artística no CCC.CR. Durante 3 dias, em sessões de 4 horas + laboratório livre à noite, foi dado um workshop intensivo de iniciação ao TouchDesigner, que contou com a presença excepcional de Ivan DelSol, programador da Derivative.</p>\n<p>description EN: TouchDesigner Introduction Workshop in the context of the artistic residency at CCC.CR.<br/>Over 3 days, during 4-hour sessions plus an open lab session in the evening, an intensive introductory workshop to TouchDesigner was held, featuring the exceptional presence of Ivan DelSol, a programmer from Derivative.ca</p>\n<p>links: <a href=\"http://derivative.ca/\" rel=\"noopener\" target=\"_blank\">http://derivative.ca/</a></p>\n",
+  "legacy_wp_id": 902,
+  "venue": {
+    "venue_name": "CCC.CR",
+    "city": "Caldas da Rainha",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Caldas da Rainha, Portugal"
+  },
+  "client": {
+    "id": "ccc-cr",
+    "name": "CCC.CR",
+    "slug": "ccc-cr",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/Y03tjKyH26K6yt0pUGBeoVswCcaHfBUj2FOyLtB6ywE.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "tutoring",
+  "categories": [
+    "tutoring"
+  ],
+  "tags": [
+    "artistic residency",
+    "blakat",
+    "talks",
+    "touchdesigner",
+    "tutoring",
+    "Workshop"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Ivan DelSol",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Matt Schaft",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://derivative.ca/",
+      "url": "http://derivative.ca/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Y03tjKyH26K6yt0pUGBeoVswCcaHfBUj2FOyLtB6ywE.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Y03tjKyH26K6yt0pUGBeoVswCcaHfBUj2FOyLtB6ywE-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Oficina TouchDesigner CCC.CR",
+    "umbrella_signals": [
+      "Blakat:high"
+    ]
+  }
+}

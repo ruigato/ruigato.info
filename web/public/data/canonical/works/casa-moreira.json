@@ -1,0 +1,98 @@
+{
+  "id": "1024",
+  "slug": "casa-moreira",
+  "title": "Casa Moreira",
+  "published_at": "2011-12-15",
+  "occurred_on": "2011-12-15",
+  "event_name": "Montrarte",
+  "summary": "Videomapping para montra de loja tradicional, no contexto do concurso Montrarte '11 da Cooperativa de Comunicação e Cultura de Torres Vedras.",
+  "summary_localized": {
+    "pt": "Videomapping para montra de loja tradicional, no contexto do concurso Montrarte '11 da Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "en": "Videomapping for the window display of a traditional shop, in the context of the Montrarte '11 competition by Cooperativa de Comunicação e Cultura de Torres Vedras."
+  },
+  "body_html": "</p>\n<p>name: Casa Moreira<br />date: 2011-12-15<br />type: video mapping<br />event: Montrarte</p>\n<p>city: Torres Vedras, Portugal<br />place: Casa Moreira</p>\n<p>client: CCCTV<br />collaboration: n/a</p>\n<p>description PT: Videomapping para montra de loja tradicional, no contexto do concurso Montrarte &#8217;11 da Cooperativa de Comunicação e Cultura de Torres Vedras.</p>\n<p>links: <a data-mce-href=\"https://vimeo.com/33575943\" href=\"https://vimeo.com/33575943\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"n48b1\" data-url=\"embedpresss://vimeo.com/33575943\" id=\"embedpress_wrapper_n48b1\" style=\"width: 589px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_n48b1\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_n48b1\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/33575943\" href=\"https://vimeo.com/33575943\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_n48b1\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/33575943\" data-mce-selected=\"inline-boundary\" href=\"https://vimeo.com/33575943\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-509ea99385dff82b07ee670a39366ae8 responsive embedpress_ignore_mouseout\" style=\"max-width: 589px;\"><iframe allowfullscreen=\"\" class=\"embedpress_ignore_mouseout\" frameborder=\"0\" height=\"422\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/33575943?app_id=122963\" title=\"CASA MOREIRA\" webkitallowfullscreen=\"\" width=\"750\"></iframe></div>\n<p><span class=\"wpview-end embedpress_ignore_mouseout\"></span></p>\n</div>\n<p> </p>\n",
+  "legacy_wp_id": 1024,
+  "venue": {
+    "venue_name": "Casa Moreira",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "ccctv",
+    "name": "Ccctv",
+    "slug": "ccctv",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "medium",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/RUtSFczFUXxZxjMdcEIwmOQp09iCqzk1sjzGjsK8Gp8.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "3D",
+    "motion graphics",
+    "videomapping"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/RUtSFczFUXxZxjMdcEIwmOQp09iCqzk1sjzGjsK8Gp8.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/RUtSFczFUXxZxjMdcEIwmOQp09iCqzk1sjzGjsK8Gp8-768x433.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/33575943",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/33575943?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Casa Moreira",
+    "umbrella_signals": [
+      "HOW:medium"
+    ]
+  }
+}

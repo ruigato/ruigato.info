@@ -29,7 +29,7 @@ export function HomePage() {
       <p className="home-lead">
         Música em tempo real, som, imagem em movimento e geometria. Percorre as{" "}
         <Link to="/works">obras</Link>, a{" "}
-        <Link to="/timeline">timeline</Link> e a página{" "}
+        <Link to="/">timeline</Link> e a página{" "}
         <Link to="/about">about</Link>
         {cfg.items.some((i) => i.to === "/p/contact") ? (
           <>

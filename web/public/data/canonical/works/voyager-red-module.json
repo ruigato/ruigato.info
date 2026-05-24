@@ -1,0 +1,98 @@
+{
+  "id": "1298",
+  "slug": "voyager-red-module",
+  "title": "Voyager Red Module",
+  "published_at": "2001-10-18",
+  "occurred_on": "2001-10-18",
+  "event_name": "exd 01",
+  "summary": "Instalação sonora, na Bienal experimentadesign 2001.",
+  "summary_localized": {
+    "pt": "Instalação sonora, na Bienal experimentadesign 2001.",
+    "en": "Sound installation at the 2001 ExperimentaDesign Biennial."
+  },
+  "body_html": "name: Voyager Red Module\ndate: 2001-10-18\ntype: sonic art\nevent: exd 01\n\ncity: Lisboa, Milano, Londres, Portugal\nplace: Pavilhão de Portugal\n\nclient: Experimenta\ncollaboration: Rafael Toral, Miguel Vieira Baptista, Vasco Gato\n\ndescription PT: Instalação sonora, na Bienal experimentadesign 2001.\n\nlinks: <a href=\"http://www.experimentadesign.pt/2001/e/d/d0301.html\" target=\"_blank\" rel=\"noopener\">http://www.experimentadesign.pt/2001/e/d/d0301.html</a>",
+  "legacy_wp_id": 1298,
+  "venue": {
+    "venue_name": "Pavilhão de Portugal",
+    "city": "Lisbon",
+    "region_or_state": "Milano",
+    "country": null,
+    "raw_location": "Lisboa, Milano, Londres, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/gaYUU1myskUaLo8KIkeKQxmN6W3bTa-qeHmzb5pOsBg.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sonic art",
+    "sound design"
+  ],
+  "tags": [
+    "collaboration",
+    "exhibition",
+    "experimenta",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Rafael Toral",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Miguel Vieira Baptista",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Vasco Gato",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.experimentadesign.pt/2001/e/d/d0301.html",
+      "url": "http://www.experimentadesign.pt/2001/e/d/d0301.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/gaYUU1myskUaLo8KIkeKQxmN6W3bTa-qeHmzb5pOsBg.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Voyager Red Module",
+    "umbrella_signals": []
+  }
+}

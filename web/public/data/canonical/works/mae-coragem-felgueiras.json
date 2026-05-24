@@ -1,0 +1,136 @@
+{
+  "id": "1016",
+  "slug": "mae-coragem-felgueiras",
+  "title": "Mãe Coragem @ Felgueiras",
+  "published_at": "2011-09-15",
+  "occurred_on": "2011-09-15",
+  "event_name": "peça teatro",
+  "summary": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device, live music, and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "<p>\nname: Mãe Coragem @ Felgueiras<br>\ndate: 2011-09-15<br>\ntype:  theatre<br>\nevent: peça teatro</p><p>city: Felgueiras, Portugal<br>\nplace: Teatro Municipal Fonseca Moreira</p><p>client: João Garcia Miguel<br>\ncollaboration: Paulo Carocinho, André Sier, Jonathan Street, Tonan Quito, Miguel Moreira, Custódia Gallego, Sara Ribeiro, Paula Diogo, Luís Bombico</p><p>description PT: Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p><p>links: <a href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"https://vimeo.com/23849370\">https://vimeo.com/23849370</a></p><p><a href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" data-mce-selected=\"inline-boundary\"> http://www.joaogarciamiguel.com/Mae-Coragem</a></p>",
+  "legacy_wp_id": 1016,
+  "venue": {
+    "venue_name": "Teatro Municipal Fonseca Moreira",
+    "city": "Felgueiras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Felgueiras, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "mae-coragem",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "live performance",
+    "music",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Jonathan Street",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Tonan Quito",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Miguel Moreira",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Custódia Gallego",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "collaboration",
+      "name": "Paula Diogo",
+      "is_organization": false,
+      "sort_order": 7
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 8
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "url": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/23849370",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Mãe Coragem @ Felgueiras",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "1270",
+  "slug": "hlmrphss",
+  "title": "HLMRPHSS",
+  "published_at": "2000-06-03",
+  "occurred_on": "2000-06-03",
+  "event_name": "concerto",
+  "summary": "Interpretação musical em concerto por Emanuel Dimas Pimenta.",
+  "summary_localized": {
+    "pt": "Interpretação musical em concerto por Emanuel Dimas Pimenta.",
+    "en": "Musical performance in concert by Emanuel Dimas Pimenta."
+  },
+  "body_html": "<p>\nname: HLMRPHSS<br />\ndate: 2000-06-03<br />\ntype:  live act<br />\nevent: concerto</p>\n<p>city: Badajoz, Espanha<br />\nplace: MEIAC</p>\n<p>client: Emanuel Dimas Pimenta<br />\ncollaboration: João Paulo Feliciano, Daniel Barroca</p>\n<p>description PT: Interpretação musical em concerto por Emanuel Dimas Pimenta.</p>\n<p>links: <a href=\"http://www.emanuelpimenta.net/\" rel=\"noopener\" target=\"_blank\">http://www.emanuelpimenta.net/</a></p>\n\n<!-- wp:paragraph -->\n<p><a href=\"https://www.discogs.com/release/13065267-Emanuel-Dimas-de-Melo-Pimenta-HLMRPHSS\">https://www.discogs.com/release/13065267-Emanuel-Dimas-de-Melo-Pimenta-HLMRPHSS</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>http://www.mic.pt/dispatcher?where=2&amp;what=2&amp;show=1&amp;obra_id=741&amp;lang=PT</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 1270,
+  "venue": {
+    "venue_name": "Meiac",
+    "city": "Badajoz",
+    "region_or_state": null,
+    "country": "Spain",
+    "raw_location": "Badajoz, Espanha"
+  },
+  "client": {
+    "id": "emanuel-dimas-pimenta",
+    "name": "Emanuel Dimas Pimenta",
+    "slug": "emanuel-dimas-pimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2000/06/R-13065267-1547421874-5487.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "artistic residency",
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Daniel Barroca",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.emanuelpimenta.net/",
+      "url": "http://www.emanuelpimenta.net/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "https://www.discogs.com/release/13065267-Emanuel-Dimas-de-Melo-Pimenta-HLMRPHSS",
+      "url": "https://www.discogs.com/release/13065267-Emanuel-Dimas-de-Melo-Pimenta-HLMRPHSS",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2000/06/R-13065267-1547421874-5487.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2000/06/R-13065267-1547421874-5487-512x170.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "HLMRPHSS",
+    "umbrella_signals": [
+      "HOW:mention"
+    ]
+  }
+}

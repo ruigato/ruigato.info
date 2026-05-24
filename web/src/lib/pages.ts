@@ -11,7 +11,7 @@ export async function loadPages(): Promise<SitePage[]> {
     loadPromise = import("../data/pages.json").then((m) => {
       const { pages } = m.default as { pages: SitePage[] }
       cache = pages
-      return pages
+      return cache
     })
   }
   return loadPromise

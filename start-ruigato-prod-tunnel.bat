@@ -4,6 +4,7 @@ setlocal
 set "CLOUDFLARED=cloudflared"
 set "TUNNEL_NAME=ruigato-prod"
 set "TUNNEL_CONFIG=C:\Users\gator\.cloudflared\ruigato-prod.yml"
+set "LOCAL_PORT=80"
 
 where %CLOUDFLARED% >nul 2>&1
 if errorlevel 1 (
@@ -20,10 +21,10 @@ if not exist "%TUNNEL_CONFIG%" (
     exit /b 1
 )
 
-netstat -ano | findstr /r /c:":80 .*LISTENING" >nul 2>&1
+netstat -ano | findstr /r /c:":%LOCAL_PORT% .*LISTENING" >nul 2>&1
 if errorlevel 1 (
-    echo [WARN] Apache parece nao estar a ouvir na porta 80.
-    echo O tunnel vai arrancar, mas o site pode nao responder ate iniciares o Apache.
+    echo [WARN] O servidor Vite nao parece estar a ouvir na porta %LOCAL_PORT%.
+    echo O tunnel vai arrancar, mas o site pode nao responder ate iniciares o front-end novo.
 )
 
 start "ruigato-prod-tunnel" /min %CLOUDFLARED% tunnel --config "%TUNNEL_CONFIG%" run %TUNNEL_NAME%

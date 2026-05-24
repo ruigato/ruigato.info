@@ -1,0 +1,106 @@
+{
+  "id": "1300",
+  "slug": "stop-motion",
+  "title": "Stop Motion",
+  "published_at": "2001-11-01",
+  "occurred_on": "2001-11-01",
+  "event_name": "Odisseia nas Imagens - Porto 2001",
+  "summary": "Live electronics com colectivo Houselab, “Stop Motion”.",
+  "summary_localized": {
+    "pt": "Live electronics com colectivo Houselab, “Stop Motion”.",
+    "en": "Live electronics with the Houselab collective, \"Stop Motion\"."
+  },
+  "body_html": "<p><br>\nname: Stop Motion<br>\ndate: 2001-11-01<br>\ntype:  live act<br>\nevent: Odisseia nas Imagens - Porto 2001<br>\n<br>\ncity: Porto, Portugal<br>\nplace: Media Lounge<br>\n<br>\nclient: Porto 2001<br>\ncollaboration: Rafael Toral, João Paulo Feliciano, João Carrilho, Rui Toscano, Rui Valério, Pedro Fradique, Hélder Luís<br>\n<br>\ndescription PT: Live electronics com colectivo Houselab, “Stop Motion”.<br>\n<br>\nlinks: <a href=\"http://www.joaopaulofeliciano.com/jpf_images_content/stopmotion01.jpg\" rel=\"noopener\" target=\"_blank\">http://www.joaopaulofeliciano.com/jpf_images_content/stopmotion01.jpg</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1300,
+  "venue": {
+    "venue_name": "Media Lounge",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "porto-2001",
+    "name": "Porto 2001",
+    "slug": "porto-2001",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "houselab",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Rafael Toral",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "João Carrilho",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Toscano",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Valério",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Fradique",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Hélder Luís",
+      "is_organization": false,
+      "sort_order": 6
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaopaulofeliciano.com/jpf_images_content/stopmotion01.jpg",
+      "url": "http://www.joaopaulofeliciano.com/jpf_images_content/stopmotion01.jpg",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Stop Motion",
+    "umbrella_signals": []
+  }
+}

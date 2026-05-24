@@ -1,0 +1,75 @@
+{
+  "id": "994",
+  "slug": "acp",
+  "title": "ACP",
+  "published_at": "2011-05-01",
+  "occurred_on": "2011-05-01",
+  "event_name": "n/a",
+  "summary": "Packshot para anuncio TV.",
+  "summary_localized": {
+    "pt": "Packshot para anuncio TV.",
+    "en": "Packshot for a TV commercial."
+  },
+  "body_html": "<p>name: ACP<br>date: 2011-05-01<br>type: 3D<br>event: n/a</p><p>city: Torres Vedras, Portugal<br>place: HOW</p><p>client: ACP<br>collaboration: n/a</p><p>description PT: Packshot para anuncio TV.</p><p>links: <a href=\"https://vimeo.com/25046015\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/25046015\"></a></p><div class=\"embedpress_wrapper wpview wpview-wrap\" data-url=\"embedpresss://vimeo.com/25046015\" data-uid=\"7msdp\" id=\"embedpress_wrapper_7msdp\" data-loading-text=\"Loading your embed...\" style=\"width: 589px;\"><div id=\"embedpress_controller_panel_7msdp\" class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\"><div id=\"embedpress_button_edit_7msdp\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/25046015\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/25046015\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div><div id=\"embedpress_button_remove_7msdp\" class=\"embedpress_ignore_mouseout embedpress_controller_button\"><div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a href=\"https://vimeo.com/25046015\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://vimeo.com/25046015\" data-mce-selected=\"inline-boundary\" class=\"embedpress_ignore_mouseout\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div></div></div><div class=\"embedpress-wrapper ose-vimeo ose-uid-aceffc2d94ba61811dd0844ff2c7e046 responsive\" style=\"max-width: 589px;\"><iframe src=\"https://player.vimeo.com/video/25046015?app_id=122963\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"2011 . ACP packshot\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div><span class=\"wpview-end\"></span></div><p>&nbsp;</p>",
+  "legacy_wp_id": 994,
+  "venue": {
+    "venue_name": "HOW",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "acp",
+    "name": "Acp",
+    "slug": "acp",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW"
+  ],
+  "credits": [],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/25046015",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/25046015?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "ACP",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

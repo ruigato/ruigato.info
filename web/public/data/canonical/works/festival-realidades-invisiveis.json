@@ -1,0 +1,98 @@
+{
+  "id": "1224",
+  "slug": "festival-realidades-invisiveis",
+  "title": "Festival Realidades Invisíveis",
+  "published_at": "2004-05-15",
+  "occurred_on": "2004-05-15",
+  "event_name": "Festival Realidades Invísiveis",
+  "summary": "Produção de evento multidisciplinar, pela Cooperativa de Comunicação e Cultura de Torres Vedras.",
+  "summary_localized": {
+    "pt": "Produção de evento multidisciplinar pela Cooperativa de Comunicação e Cultura de Torres Vedras.",
+    "en": "Production of a multidisciplinary event by the Cooperativa de Comunicação e Cultura de Torres Vedras."
+  },
+  "body_html": "<p><br>\nname: Festival Realidades Invisíveis<br>\ndate: 2004-05-15<br>\ntype:  misc<br>\nevent: Festival Realidades Invísiveis<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: CCCTV<br>\n<br>\nclient: CCCTV<br>\ncollaboration: Tiago Martins, CCCTV, Rui Matoso<br>\n<br>\ndescription PT: Produção de evento multidisciplinar, pela Cooperativa de Comunicação e Cultura de Torres Vedras.<br>\n<br>\nlinks: </p><p><a href=\"http://www.ruadebaixo.com/realidades-invisiveis.html\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"http://www.ruadebaixo.com/realidades-invisiveis.html\" data-mce-selected=\"inline-boundary\">http://www.ruadebaixo.com/realidades-invisiveis.html</a></p><p><a href=\"http://www.helderluis.com/multimedia-and-video/invisible-realities/\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"http://www.helderluis.com/multimedia-and-video/invisible-realities/\"> http://www.helderluis.com/multimedia-and-video/invisble-realities/</a></p><p><a href=\"https://www.youtube.com/watch?v=JhMMYnoiSR8\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"https://www.youtube.com/watch?v=JhMMYnoiSR8\"> https://www.youtube.com/watch?v=JhMMYnoiSR8</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1224,
+  "venue": {
+    "venue_name": "Ccctv",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "ccctv",
+    "name": "Ccctv",
+    "slug": "ccctv",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "misc",
+  "categories": [
+    "misc"
+  ],
+  "tags": [
+    "collaboration",
+    "curator",
+    "production"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ccctv",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Matoso",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.ruadebaixo.com/realidades-invisiveis.html",
+      "url": "http://www.ruadebaixo.com/realidades-invisiveis.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://www.helderluis.com/multimedia-and-video/invisible-realities/",
+      "url": "http://www.helderluis.com/multimedia-and-video/invisible-realities/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=JhMMYnoiSR8",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Festival Realidades Invisíveis",
+    "umbrella_signals": []
+  }
+}

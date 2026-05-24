@@ -1,0 +1,78 @@
+{
+  "id": "1200",
+  "slug": "invisible-reality",
+  "title": "Invisible Reality",
+  "published_at": "2003-10-30",
+  "occurred_on": "2003-10-30",
+  "event_name": "Conferência",
+  "summary": "Sound design e live act para conferência sobre design de Gonçalo Prudêncio.",
+  "summary_localized": {
+    "pt": "Sound design e live act para conferência sobre design de Gonçalo Prudêncio.",
+    "en": "Sound design and live act for a design conference by Gonçalo Prudêncio."
+  },
+  "body_html": "<p><br>\nname: Invisible Reality<br>\ndate: 2003-10-30<br>\ntype:  live act<br>\nevent: Conferência<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: Cinema S. Jorge<br>\n<br>\nclient: Experimenta<br>\ncollaboration: Gonçalo Prudêncio<br>\n<br>\ndescription PT: Sound design e live act para conferência sobre design de Gonçalo Prudêncio.<br>\n<br>\nlinks: </p><p><a href=\"https://gpodonline.net/invisible-reality/\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"https://gpodonline.net/invisible-reality/\">https://gpodonline.net/invisible-reality/ </a></p><p><a href=\"http://www.experimentadesign.pt/2003/pt/progplateaux.htm\" rel=\"noopener\" target=\"_blank\" data-mce-href=\"http://www.experimentadesign.pt/2003/pt/progplateaux.htm\">http://www.experimentadesign.pt/2003/pt/progplateaux.htm</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1200,
+  "venue": {
+    "venue_name": "Cinema S. Jorge",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Gonçalo Prudêncio",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://gpodonline.net/invisible-reality/",
+      "url": "https://gpodonline.net/invisible-reality/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    },
+    {
+      "id": "link-2",
+      "label": "http://www.experimentadesign.pt/2003/pt/progplateaux.htm",
+      "url": "http://www.experimentadesign.pt/2003/pt/progplateaux.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Invisible Reality",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1096",
+  "slug": "platform-proxeto-edicion",
+  "title": "plat|::|form @ Proxeto Edicíon",
+  "published_at": "2008-04-03",
+  "occurred_on": "2008-04-03",
+  "event_name": "concerto",
+  "summary": "Participação portuguesa com Platform, pela testtube.",
+  "summary_localized": {
+    "pt": "Participação portuguesa com Platform, pela testtube.",
+    "en": "Portuguese participation with Platform, by testtube."
+  },
+  "body_html": "<p>name: plat|::|form @ Proxeto Edicíon<br>date: 2008-04-03<br>type: live act<br>event: concerto</p><p>city: Pontevedra, Espanha<br>place: Pazo da Cultura</p><p>client: Instituto Camões<br>collaboration: Nuno Clímaco Pinto, Pedro Campos Costa</p><p>description PT: Participação portuguesa com Platform, pela testtube.</p><p>links: <a href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.monocromatica.com/netlabel/releases/tube118.htm\">http://www.monocromatica.com/netlabel/releases/tube118.htm</a></p>",
+  "legacy_wp_id": 1096,
+  "venue": {
+    "venue_name": "Pazo da Cultura",
+    "city": "Pontevedra",
+    "region_or_state": null,
+    "country": "Spain",
+    "raw_location": "Pontevedra, Espanha"
+  },
+  "client": {
+    "id": "instituto-camoes",
+    "name": "Instituto Camões",
+    "slug": "instituto-camoes",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "plat-form",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Campos Costa",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube118.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form @ Proxeto Edicíon",
+    "umbrella_signals": []
+  }
+}

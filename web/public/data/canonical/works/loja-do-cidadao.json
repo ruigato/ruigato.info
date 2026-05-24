@@ -1,0 +1,61 @@
+{
+  "id": "1272",
+  "slug": "loja-do-cidadao",
+  "title": "Loja do Cidadão",
+  "published_at": "2000-09-11",
+  "occurred_on": "2000-09-11",
+  "event_name": "n/a",
+  "summary": "Sound design para genérico de programa TV.",
+  "summary_localized": {
+    "pt": "Sound design para genérico de programa TV.",
+    "en": "Sound design for a TV programme title sequence."
+  },
+  "body_html": "<p><br>\nname: Loja do Cidadão<br>\ndate: 2000-09-11<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: RTP<br>\n<br>\nclient: Mínima Ideia<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Sound design para genérico de programa TV.<br>\n<br>\nlinks: <a href=\"http://minimaideiablog.blogspot.pt/2012/05/loja-do-cidadao-1999.html\" rel=\"noopener\" target=\"_blank\">http://minimaideiablog.blogspot.pt/2012/05/loja-do-cidadao-1999.html</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1272,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "blackbox",
+    "sound design",
+    "television"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://minimaideiablog.blogspot.pt/2012/05/loja-do-cidadao-1999.html",
+      "url": "http://minimaideiablog.blogspot.pt/2012/05/loja-do-cidadao-1999.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Loja do Cidadão",
+    "umbrella_signals": []
+  }
+}

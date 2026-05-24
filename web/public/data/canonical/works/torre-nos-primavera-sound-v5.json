@@ -1,0 +1,113 @@
+{
+  "id": "874",
+  "slug": "torre-nos-primavera-sound-v5",
+  "title": "Torre NOS Primavera Sound v5",
+  "published_at": "2016-06-09",
+  "occurred_on": "2016-06-09",
+  "event_name": "NOS Primavera Sound",
+  "summary": "Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound.",
+  "summary_localized": {
+    "pt": "Sistema em tempo real para controlo lumínico da Torre NOS no palco principal do NOS Primavera Sound.",
+    "en": "Real-time system for lighting control of the Torre NOS on the NOS Primavera Sound main stage."
+  },
+  "body_html": "\n\n<p>name: Torre NOS Primavera Sound v5<br/>date: 2016-06-09<br/>type: light<br/>event: NOS Primavera Sound</p>\n<p>city: Porto, Portugal<br/>place: Parque da Cidade Porto</p>\n<p>client: João Paulo Feliciano<br/>collaboration: João Paulo Feliciano, Pedro Cabral, Sílvia de Sá, Alberto Lopes</p>\n<p>description PT: Sistema em tempo real para controlo lumínico da Torre NOS ' Palco principal NOS Primavera Sound. Projecto de João Paulo Feliciano com o colectivo 5 Watts.</p>\n<p>links: <a href=\"https://www.nosprimaverasound.com/?lang=en\" rel=\"noopener\" target=\"_blank\">https://www.nosprimaverasound.com/?lang=en</a></p>\n",
+  "legacy_wp_id": 874,
+  "venue": {
+    "venue_name": "Parque da Cidade Porto",
+    "city": "Porto",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Porto, Portugal"
+  },
+  "client": {
+    "id": "joao-paulo-feliciano",
+    "name": "João Paulo Feliciano",
+    "slug": "joao-paulo-feliciano",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/VfjLj1tluVJHFyMG_Rk86iwBohV9hsoVIAwfkgnnss.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "torre-nos-primavera-sound",
+  "primary_category": "light",
+  "categories": [
+    "light"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "light",
+    "live performance",
+    "realtime",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "João Paulo Feliciano",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Cabral",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Sílvia de Sá",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Alberto Lopes",
+      "is_organization": false,
+      "sort_order": 3
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.nosprimaverasound.com/?lang=en",
+      "url": "https://www.nosprimaverasound.com/?lang=en",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/VfjLj1tluVJHFyMG_Rk86iwBohV9hsoVIAwfkgnnss.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/VfjLj1tluVJHFyMG_Rk86iwBohV9hsoVIAwfkgnnss-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Torre NOS Primavera Sound v5",
+    "umbrella_signals": []
+  }
+}

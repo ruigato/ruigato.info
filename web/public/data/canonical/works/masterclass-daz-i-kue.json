@@ -1,0 +1,133 @@
+{
+  "id": "1236",
+  "slug": "masterclass-daz-i-kue",
+  "title": "Masterclass Daz I Kue",
+  "published_at": "2004-12-01",
+  "occurred_on": "2004-12-01",
+  "event_name": "Masterclass",
+  "summary": "Master Class Com Daz I Kue (Bugz in the Attic ' UK) e 9 músicos nacionais (Miguel Cardona (Coldfinger), João Barbosa (1-UIK Project), Kaspar, Kronic, Francisco Rebelo (Space Boy...",
+  "summary_localized": {
+    "pt": "Masterclass com Daz I Kue (Bugz in the Attic, UK) e nove músicos nacionais.",
+    "en": "Masterclass with Daz I Kue (Bugz in the Attic, UK) and nine Portuguese musicians."
+  },
+  "body_html": "<p>name: Masterclass Daz I Kue<br />\ndate: 2004-12-01<br />\ntype:  misc<br />\nevent: Masterclass</p>\n<p>city: Lisboa, Portugal<br />\nplace: Restart</p>\n<p>client: Red Bull Music Academy Portugal<br />\ncollaboration: Miguel Cardona, João Barbosa, Kaspar, Kronic, Francisco Rebelo, João Gomes da Silva, Miguel Guia, Daz I Kue</p>\n<p>description PT: Master Class Com Daz I Kue (Bugz in the Attic ' UK) e 9 músicos nacionais (Miguel Cardona (Coldfinger), João Barbosa (1-UIK Project), Kaspar, Kronic, Francisco Rebelo (Space Boys/Cool Hipnoise), João Gomes (Space Boys/Cool Hipnoise e Miguel Guia (Loopless))</p>\n<p>links: <a href=\"http://www.redbullmusicacademy.com/\" rel=\"noopener\" target=\"_blank\">http://www.redbullmusicacademy.com/</a></p>\n",
+  "legacy_wp_id": 1236,
+  "venue": {
+    "venue_name": "Restart",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "red-bull-music-academy-portugal",
+    "name": "Red Bull Music Academy Portugal",
+    "slug": "red-bull-music-academy-portugal",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/BPg8wUNMjVskCHdfTWYM9aas9Q_HiUJ7ABsFrC8pv1k.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "misc",
+  "categories": [
+    "misc"
+  ],
+  "tags": [
+    "collaboration",
+    "masterclass"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Miguel Cardona",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Barbosa",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Kaspar",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Kronic",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Francisco Rebelo",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "João Gomes da Silva",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Miguel Guia",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "collaboration",
+      "name": "Daz I Kue",
+      "is_organization": false,
+      "sort_order": 7
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.redbullmusicacademy.com/",
+      "url": "http://www.redbullmusicacademy.com/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/BPg8wUNMjVskCHdfTWYM9aas9Q_HiUJ7ABsFrC8pv1k.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/BPg8wUNMjVskCHdfTWYM9aas9Q_HiUJ7ABsFrC8pv1k-768x442.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Masterclass Daz I Kue",
+    "umbrella_signals": []
+  }
+}

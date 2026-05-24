@@ -1,0 +1,144 @@
+{
+  "id": "3310",
+  "slug": "light-connector-cascais",
+  "title": "Light Connector @ Cascais",
+  "published_at": "2018-09-21",
+  "occurred_on": "2018-09-21",
+  "event_name": "Lumina Light Festival 2018",
+  "summary": "\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the insta...",
+  "summary_localized": {
+    "pt": "\"Light Connector\" é uma obra interactiva que combina projecção no chão com interacção baseada no movimento do público.",
+    "en": "\"Light Connector\" is an interactive artwork that combines floor projection with interaction driven by the audience's movement."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p>name: Light Connector<br>date: 2018-09-21<br>type: interactive installation | OCUBO<br>event: Lumina Light Festival 2018</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>city: Cascais, Portugal<br>place: Cascais</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>client: OCUBO<br>collaboration: David Negrão, OCUBO team</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Light Connector is an interactive installation made in the context of OCUBO and OLAB work development.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>description EN:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\"Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the installation with no restraints, recharging people with energy by the playfulness of a shared magical experience.\"</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\"The main concept is the bringing together of the public, in conscious exploration, to perform visual connections and geometric patterns in between the proximal space that we are used to modulate in a socially reserved way. This way, barriers between people are brought down, and new forms of interaction emerge. Responsible for activating this interaction, it provides the spontaneous connection, in the form of energy, between all.\"</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>team:<br><br>coding, concept and tech installation by Rui Gato, David Negrão, and OCUBO team.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>links:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://www.ocubo.com/lightconnector\">https://www.ocubo.com/lightconnector</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:gallery {\"linkTo\":\"none\"} -->\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped\"><!-- wp:image {\"id\":3317,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2018/09/3074457345676369589_resultado.jpg\" alt=\"\" class=\"wp-image-3317\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3315,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2018/09/3074457345676369594_resultado.jpg\" alt=\"\" class=\"wp-image-3315\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":3316,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2018/09/3074457345676369599_resultado.jpg\" alt=\"\" class=\"wp-image-3316\"/></figure>\n<!-- /wp:image --></figure>\n<!-- /wp:gallery -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+  "legacy_wp_id": 3310,
+  "venue": {
+    "venue_name": null,
+    "city": "Cascais",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Cascais, Portugal"
+  },
+  "client": {
+    "id": "ocubo",
+    "name": "OCUBO",
+    "slug": "ocubo",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "ocubo",
+    "name": "OCUBO",
+    "slug": "ocubo",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2018/09/3074457345676369589_resultado.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "light-connector",
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "interactive installation",
+    "OCUBO"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "OCUBO team",
+      "is_organization": true,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.ocubo.com/lightconnector",
+      "url": "https://www.ocubo.com/lightconnector",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "\"Light Connector\" is an innovative artwork that combines floor-projected visuals with interactivity driven by the audience's body movement. Visitors are free to explore the installation without restraint, recharging themselves through the playfulness of a shared magical experience.\n\nThe central concept is to bring the public together in a conscious exploration, enabling them to perform visual connections and geometric patterns within the proximal space that we usually modulate in a socially reserved way. In this way, barriers between people are lowered and new forms of interaction emerge. By activating this interaction, the work provides a spontaneous connection, in the form of energy, between everyone.\n\nCoding, concept, and tech installation by Rui Gato, David Negrão, and the OCUBO team.\n\nhttps://www.ocubo.com/lightconnector"
+    },
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "\"Light Connector\" é uma obra inovadora que combina projecção visual no chão com interacção baseada no movimento do público, que pode explorar livremente a instalação, recarregando-se de energia através da ludicidade de uma experiência mágica partilhada.\n\nO conceito central consiste em aproximar o público numa exploração consciente, levando-o a criar ligações visuais e padrões geométricos no espaço de proximidade que habitualmente modulamos de forma socialmente reservada. Desta forma, as barreiras entre as pessoas descem e emergem novas formas de interacção. Ao activar essa interacção, a obra proporciona uma ligação espontânea, sob a forma de energia, entre todos.\n\nProgramação, conceito e instalação técnica por Rui Gato, David Negrão e equipa OCUBO.\n\nhttps://www.ocubo.com/lightconnector"
+    }
+  ],
+  "quotes": [
+    {
+      "locale": "en",
+      "content": "Light Connector is an innovative artwork that combines floor projected visuals with interactivity input from the body movement of the audience, who is free to explore the installation with no restraints, recharging people with energy by the playfulness of a shared magical experience.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "locale": "en",
+      "content": "The main concept is the bringing together of the public, in conscious exploration, to perform visual connections and geometric patterns in between the proximal space that we are used to modulate in a socially reserved way. This way, barriers between people are brought down, and new forms of interaction emerge. Responsible for activating this interaction, it provides the spontaneous connection, in the form of energy, between all.",
+      "source_label": null,
+      "source_url": null
+    }
+  ],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2018/09/3074457345676369589_resultado.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2018/09/3074457345676369589_resultado-768x513.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2018/09/3074457345676369594_resultado.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2018/09/3074457345676369599_resultado.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Light Connector",
+    "umbrella_signals": [
+      "OCUBO:high"
+    ]
+  }
+}

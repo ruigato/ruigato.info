@@ -1,0 +1,75 @@
+{
+  "id": "1168",
+  "slug": "platform-estgad",
+  "title": "plat|::|form @ ESTGAD",
+  "published_at": "2002-11-12",
+  "occurred_on": "2002-11-12",
+  "event_name": "concerto",
+  "summary": "Live act plat|::|form @ ESTGAD.",
+  "summary_localized": {
+    "pt": "Actuação ao vivo de plat|::|form na ESTGAD.",
+    "en": "Live act plat|::|form @ ESTGAD."
+  },
+  "body_html": "<p><br>\nname: plat|::|form @ ESTGAD<br>\ndate: 2002-11-12<br>\ntype:  live act<br>\nevent: concerto<br>\n<br>\ncity: Caldas da Rainha, Portugal<br>\nplace: ESTGAD<br>\n<br>\nclient: ESTGAD<br>\ncollaboration: Nuno Clímaco Pinto, Tiago Martins<br>\n<br>\ndescription PT: Live act plat|::|form @ ESTGAD.<br>\n<br>\nlinks: <a href=\"http://www.transforma.org.pt/pt/?/historial/doismiledois/platform\" rel=\"noopener\" target=\"_blank\">http://www.transforma.org.pt/pt/?/historial/doismiledois/platform</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1168,
+  "venue": {
+    "venue_name": "Estgad",
+    "city": "Caldas da Rainha",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Caldas da Rainha, Portugal"
+  },
+  "client": {
+    "id": "estgad",
+    "name": "Estgad",
+    "slug": "estgad",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": "plat-form",
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "collaboration",
+    "concert",
+    "live performance",
+    "music"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Clímaco Pinto",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.transforma.org.pt/pt/?/historial/doismiledois/platform",
+      "url": "http://www.transforma.org.pt/pt/?/historial/doismiledois/platform",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "plat|::|form @ ESTGAD",
+    "umbrella_signals": []
+  }
+}

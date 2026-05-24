@@ -1,0 +1,92 @@
+{
+  "id": "980",
+  "slug": "beam-drop-ep",
+  "title": "Beam Drop EP",
+  "published_at": "2011-01-25",
+  "occurred_on": "2011-01-25",
+  "event_name": "release",
+  "summary": "Edição online de música, a partir de gravação feita com Hiraku Susuki, sobre a peça Beam Drop de Chris Burden, exposta em Inhotim.",
+  "summary_localized": {
+    "pt": "Edição online de música, a partir de gravação feita com Hiraku Susuki, sobre a peça Beam Drop de Chris Burden, exposta em Inhotim.",
+    "en": "Online music release based on a recording made with Hiraku Susuki around Chris Burden's Beam Drop, exhibited at Inhotim."
+  },
+  "body_html": "</p>\n<p>name: Beam Drop EP<br />date: 2011-01-25<br />type: music release<br />event: release</p>\n<p>city: Lisboa, Portugal<br />place: internet</p>\n<p>client: testtube<br />collaboration: Hiraku Suzuki</p>\n<p>description PT: Edição online de música, a partir de gravação feita com Hiraku Susuki, sobre a peça Beam Drop de Chris Burden, exposta em Inhotim.</p>\n<p>links: <a data-mce-href=\"http://www.monocromatica.com/netlabel/releases/tube222.htm\" href=\"http://www.monocromatica.com/netlabel/releases/tube222.htm\" rel=\"noopener\" target=\"_blank\">http://www.monocromatica.com/netlabel/releases/tube222.htm</a></p>\n",
+  "legacy_wp_id": 980,
+  "venue": {
+    "venue_name": "Internet",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "testtube",
+    "name": "Testtube",
+    "slug": "testtube",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2011/01/tube222_cover_front.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "monocromatica",
+    "music",
+    "release"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Hiraku Suzuki",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.monocromatica.com/netlabel/releases/tube222.htm",
+      "url": "http://www.monocromatica.com/netlabel/releases/tube222.htm",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/01/tube222_cover_front.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/01/tube222_cover_front-590x590.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Beam Drop EP",
+    "umbrella_signals": []
+  }
+}

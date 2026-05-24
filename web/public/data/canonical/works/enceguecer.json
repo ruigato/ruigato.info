@@ -1,0 +1,68 @@
+{
+  "id": "1268",
+  "slug": "enceguecer",
+  "title": "Enceguecer",
+  "published_at": "1998-07-04",
+  "occurred_on": "1998-07-04",
+  "event_name": "exposição colectiva",
+  "summary": "Instalação sonora em exposição colectiva.",
+  "summary_localized": {
+    "pt": "Instalação sonora em exposição colectiva.",
+    "en": "Sound installation in a group exhibition."
+  },
+  "body_html": "</p>\n<p>name: Enceguecer<br />\ndate: 1998-07-04<br />\ntype: sonic art<br />\nevent: exposição colectiva</p>\n<p>city: Torres Vedras, Portugal<br />\nplace: Torres Vedras</p>\n<p>client: CCCTV<br />\ncollaboration: Pedro Moreira</p>\n<p>description PT: Instalação sonora em exposição colectiva.</p>\n<p>links: <a href=\"n/a\" rel=\"noopener\" target=\"_blank\">n/a</a></p>\n",
+  "legacy_wp_id": 1268,
+  "venue": {
+    "venue_name": null,
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "ccctv",
+    "name": "Ccctv",
+    "slug": "ccctv",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "collaboration",
+    "installation",
+    "sonic art"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Pedro Moreira",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "n/a",
+      "url": "n/a",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Enceguecer",
+    "umbrella_signals": []
+  }
+}

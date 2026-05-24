@@ -1,0 +1,101 @@
+{
+  "id": "882",
+  "slug": "maat-opening",
+  "title": "MAAT opening",
+  "published_at": "2016-10-02",
+  "occurred_on": "2016-10-02",
+  "event_name": "Jantar inauguração MAAT",
+  "summary": "Perfomance ao vivo com video de Rui Toscano e música de Rafael Toral e Rui Gato, na data de inauguração do MAAT.",
+  "summary_localized": {
+    "pt": "Performance ao vivo com vídeo de Rui Toscano e música de Rafael Toral e Rui Gato, na inauguração do MAAT.",
+    "en": "Live performance with video by Rui Toscano and music by Rafael Toral and Rui Gato at the opening of MAAT."
+  },
+  "body_html": "\n\n<p>name: MAAT opening<br/>date: 2016-10-02<br/>type: live act<br/>event: Jantar inauguração MAAT</p>\n<p>city: Lisboa, Portugal<br/>place: MAAT</p>\n<p>client: Fundação EDP<br/>collaboration: Rafael Toral, Rui Toscano</p>\n<p>description PT: Perfomance ao vivo com video de Rui Toscano e música de Rafael Toral e Rui Gato, na data de inauguração do MAAT.</p>\n<p>links: <a href=\"https://www.maat.pt/en\" rel=\"noopener\" target=\"_blank\">https://www.maat.pt/en</a></p>\n",
+  "legacy_wp_id": 882,
+  "venue": {
+    "venue_name": "Maat",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "fundacao-edp",
+    "name": "Fundação EDP",
+    "slug": "fundacao-edp",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/Y9NoPwk7CQrhnxOb0uo6Sj1IX-bUK086VfPTMimPK3M.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "live act",
+  "categories": [
+    "live act"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "live performance",
+    "music",
+    "touchdesigner",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Rafael Toral",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Rui Toscano",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.maat.pt/en",
+      "url": "https://www.maat.pt/en",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Y9NoPwk7CQrhnxOb0uo6Sj1IX-bUK086VfPTMimPK3M.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Y9NoPwk7CQrhnxOb0uo6Sj1IX-bUK086VfPTMimPK3M-768x768.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "MAAT opening",
+    "umbrella_signals": []
+  }
+}

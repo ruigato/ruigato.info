@@ -1,0 +1,185 @@
+{
+  "id": "2382",
+  "slug": "megalith-v2",
+  "title": "Megalith (v2)",
+  "published_at": "2019-04-21",
+  "occurred_on": "2019-04-21",
+  "event_name": "The Full Moon Return / Tipper & Friends",
+  "summary": "This is the second iteration of the Megalith piece the datagrama collective did for Boom Festival 2018.",
+  "summary_localized": {
+    "pt": "Segunda iteração de Megalith, peça do colectivo datagrama para o Boom Festival 2018.",
+    "en": "Second iteration of Megalith, a piece by the datagrama collective for Boom Festival 2018."
+  },
+  "body_html": "<p><br />photo by: Ed Apples</p>\n<p>name: Megalith (v2)<br />date: 2019-04-21<br />type: light, interactive installation<br />event: The Full Moon Return / Tipper &amp; Friends</p>\n<p>city: Live Oak, Florida<br />place: Spirit of the Suwannee Music Park</p>\n<p>client: Tipper &amp; Friends<br />collaboration: David Negrão, João Beira, Ed Apples, visionreactor, cerebral concepts, Datagrama, Mars-1</p>\n<p>description EN:</p>\n<p>This is the second iteration of the Megalith piece the datagrama collective did for Boom Festival 2018. This time, the 6 neo-megalithic structures where high-tech inspired, with a lasercut work designed by Datagrama (cutted by cerebral concepts), and a pixel mapping LED patch developed by Ed Apples and with help by visionreactor. A amazingly cool addition to the setting was the molecule sculpture by Mars-1, placed right in the center of all the action.</p>\n<p>More focused on the interactive aspect of the piece, here we use 3 kinect sensors to track the movements of 3 persons, so they can control the beams of light that are on top of the neo-megaliths. Two modes of interaction, Sky mode ' and Earth mode ' with 12 different looks overall. We also took some time to have fun doing “moon mapping”. Moon mapping was an experiment where we pointed all the beams to the moon from one point of view. We are planning on making that an actual automatic feature for future versions, maybe even good for star mapping! Sky mode is when the users hands are controlling a beam each, and freely moving them in the night sky. Earth mode is with the beams pointing to specific nodes of the central molecule, and the user changes between positions, color saturation, focus and zoom, with both hands.</p>\n<p>team:</p>\n<p>coding, concept and tech installation by Rui Gato, David Negrão and João Data (Datagrama).<br />Pixel mapping and LED tech on the neo-megaliths by Ed Apples and Matt Beluominni (visionreactor).<br />molecule statue by Mars-1</p>\n<p>special thanks to:<br />Echo Higuchi<br />Theron Pray<br />Ian Smith<br />Scotty<br />Mamma<br />Dave Veller<br />David Tipper<br />Jonathan Singer<br />William Allan Ross<br />Erika Dajoh<br />The Drone Guy (you know who you are)</p>\n<p>links:</p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157680149771848\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 2382,
+  "venue": {
+    "venue_name": "Spirit of the Suwannee Music Park",
+    "city": "Live Oak",
+    "region_or_state": "Florida",
+    "country": null,
+    "raw_location": "Live Oak, Florida"
+  },
+  "client": {
+    "id": "tipper-friends",
+    "name": "Tipper & Friends",
+    "slug": "tipper-friends",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "datagrama",
+    "name": "Datagrama",
+    "slug": "datagrama",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2019/04/Tipper420-189.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "megalith",
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation",
+    "light"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "datagrama",
+    "installation",
+    "interactive",
+    "light",
+    "realtime",
+    "sacred geometry",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "João Beira",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Ed Apples",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Visionreactor",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Cerebral Concepts",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Datagrama",
+      "is_organization": true,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Mars-1",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "photography",
+      "name": "Ed Apples",
+      "is_organization": false,
+      "sort_order": 7
+    },
+    {
+      "role": "special_thanks",
+      "name": "Echo Higuchi\nTheron Pray\nIan Smith\nScotty\nMamma\nDave Veller\nDavid Tipper\nJonathan Singer\nWilliam Allan Ross\nErika Dajoh\nThe Drone Guy (you know who you are)",
+      "is_organization": false,
+      "sort_order": 8
+    }
+  ],
+  "links": [],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "This is the second iteration of Megalith, a piece created by the datagrama collective for Boom Festival 2018. This time, the six neo-megalithic structures had a high-tech inspiration, with laser-cut work designed by Datagrama and cut by cerebral concepts, and a pixel-mapped LED patch developed by Ed Apples with support from visionreactor. An especially striking addition to the setting was the molecule sculpture by Mars-1, placed at the centre of the whole action.\n\nThis version is more focused on the interactive aspect of the piece, using 3 Kinect sensors to track the movements of 3 people so they can control the beams of light on top of the neo-megaliths. There are two interaction modes, \"Sky mode\" and \"Earth mode\", with 12 looks overall. We also took time to experiment with \"moon mapping\", pointing all the beams at the moon from one viewpoint. We plan to make that an automatic feature in future versions, perhaps even useful for star mapping. In \"Sky mode\", users control one beam with each hand and move them freely across the night sky. In \"Earth mode\", the beams point to specific nodes of the central molecule, and the user changes positions, colour saturation, focus, and zoom with both hands.\n\nCoding, concept, and tech installation by Rui Gato, David Negrão, and João Data (Datagrama).\nPixel mapping and LED technology on the neo-megaliths by Ed Apples and Matt Beluominni (visionreactor).\nMolecule sculpture by Mars-1"
+    },
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "Esta é a segunda iteração de Megalith, peça realizada pelo colectivo datagrama para o Boom Festival 2018. Desta vez, as seis estruturas neo-megalíticas foram inspiradas por uma estética high-tech, com trabalho de corte a laser desenhado pela Datagrama e executado pela cerebral concepts, e com um sistema LED de pixel mapping desenvolvido por Ed Apples com o apoio da visionreactor. Uma adição especialmente marcante ao cenário foi a escultura molecular de Mars-1, colocada no centro de toda a acção.\n\nEsta versão está mais centrada no aspecto interactivo da peça, usando 3 sensores Kinect para seguir os movimentos de 3 pessoas e permitir-lhes controlar os feixes de luz colocados no topo dos neo-megalitos. Há dois modos de interacção, \"Sky mode\" e \"Earth mode\", com 12 visuais no total. Houve ainda tempo para experimentar o \"moon mapping\", apontando todos os feixes para a lua a partir de um ponto de vista específico. Está previsto transformar isso numa funcionalidade automática em versões futuras, talvez até útil para star mapping. Em \"Sky mode\", os utilizadores controlam um feixe com cada mão e movem-nos livremente no céu nocturno. Em \"Earth mode\", os feixes apontam para nós específicos da molécula central, e o utilizador altera posições, saturação de cor, foco e zoom com ambas as mãos.\n\nProgramação, conceito e instalação técnica por Rui Gato, David Negrão e João Data (Datagrama).\nPixel mapping e tecnologia LED nos neo-megalitos por Ed Apples e Matt Beluominni (visionreactor).\nEscultura molecular por Mars-1"
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2019/04/Tipper420-189.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2019/04/Tipper420-189-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157680149771848/47737458362.jpg",
+      "gallery_items": [
+        "/media/flickr/72157680149771848/47737458362.jpg",
+        "/media/flickr/72157680149771848/47000538054.jpg",
+        "/media/flickr/72157680149771848/40823442073.jpg",
+        "/media/flickr/72157680149771848/32846258207.jpg",
+        "/media/flickr/72157680149771848/32846257937.jpg",
+        "/media/flickr/72157680149771848/47000538574.jpg",
+        "/media/flickr/72157680149771848/47000538414.jpg",
+        "/media/flickr/72157680149771848/47000538244.jpg",
+        "/media/flickr/72157680149771848/47000537884.jpg",
+        "/media/flickr/72157680149771848/32846258697.jpg",
+        "/media/flickr/72157680149771848/32846258627.jpg",
+        "/media/flickr/72157680149771848/32846258467.jpg",
+        "/media/flickr/72157680149771848/32846258367.jpg",
+        "/media/flickr/72157680149771848/32846258257.jpg",
+        "/media/flickr/72157680149771848/32846257687.jpg",
+        "/media/flickr/72157680149771848/47733847721.jpg",
+        "/media/flickr/72157680149771848/46817201675.jpg",
+        "/media/flickr/72157680149771848/33856713718.jpg",
+        "/media/flickr/72157680149771848/33856713388.jpg",
+        "/media/flickr/72157680149771848/33856713228.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Megalith (v2)",
+    "umbrella_signals": [
+      "Datagrama:high"
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "1390",
+  "slug": "aparelho-geometrico-levogiro",
+  "title": "Aparelho Geométrico Levógiro",
+  "published_at": "2018-05-17",
+  "occurred_on": "2018-05-17",
+  "event_name": "Residência Artística Rui Gato",
+  "summary": "instalação audiovisual interactiva name: Aparelho Geométrico Levógiro\ndate: 2018-05-17\ntype: interactive installation\nevent: Residência Artística Rui Gato city: Caldas da Rainha...",
+  "summary_localized": {
+    "pt": "Instalação audiovisual interactiva apresentada na residência artística Rui Gato, no CCC.CR, em Caldas da Rainha.",
+    "en": "Interactive audiovisual installation presented during Rui Gato's artistic residency at CCC.CR in Caldas da Rainha."
+  },
+  "body_html": "<!-- wp:paragraph -->\n<p><strong>name:</strong> Aparelho Geométrico Levógiro</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>date:</strong> 2018-05-17</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>type:</strong> interactive installation</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>event:</strong> Residência Artística Rui Gato</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>city:</strong> Caldas da Rainha, Portugal</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>place:</strong> CCC.CR</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>client:</strong> CCC.CR</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2>description EN</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>audiovisual interactive installation</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2>description PT</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>instalação audiovisual interactiva</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>agradecimentos:</strong> Paulo Carocinho (utilizador da instalação no filme)\nNoah Norman (GLSL fluids .tox)\nRuben Santos (montagem e debugging)\nBruno Gomes (Sony a7r)</p>\n<!-- /wp:paragraph -->\n\n<p>name: Aparelho Geométrico Levógiro<br />date: 2018-05-17<br />type: interactive installation<br />event: Residência Artística Rui Gato</p>\n<p>city: Caldas da Rainha, Portugal<br />place: CCC.CR</p>\n<p>client: CCC.CR<br />collaboration: n/a</p>\n<p>description PT: instalação audiovisual interactiva</p>\n<p>Documentação de instalação patente na sala de exposições do CCC das Caldas da Rainha. Um sistema audiovisual generativo, que reage à presença do público, permitindo uma modulação do conteúdo artístico em tempo real.</p>\n<p>Uma zona de interacção é definida, para um utilizador de cada vez experimentar a modulação desta realidade temporária, que se desenvolve generativamente, a partir de um conjunto de composições musicais e visuais pré-estabelecidas pelo autor.</p>\n<p>Esta instalação esteve patente no Centro Cultural e de Congressos<br />das Caldas da Rainha entre 17 e 25 de Maio de 2018, resultado<br />de uma residência artística de Rui Gato na mesma instituição.</p>\n<p>A rotação das formas geométricas geram a música,<br />e os visitantes interagem usando as mãos,<br />alterando as formas e consequentemente, a música.</p>\n<p>agradecimentos:</p>\n<p>Paulo Carocinho (utilizador da instalação no filme)<br />Noah Norman (GLSL fluids .tox)<br />Ruben Santos (montagem e debugging)<br />Bruno Gomes (Sony a7r)</p>\n<p>links:<!-- ./photonic-level-1-container --><span id=\"photonic-flickr-stream-7-container-end\"></span></p>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:embed {\"url\":\"https://www.youtube.com/embed/RbY9Kv3-eJM\",\"type\":\"rich\",\"providerNameSlug\":\"embed-handler\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://www.youtube.com/embed/RbY9Kv3-eJM\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157697270827515\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 1390,
+  "venue": {
+    "venue_name": "CCC.CR",
+    "city": "Caldas da Rainha",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Caldas da Rainha, Portugal"
+  },
+  "client": {
+    "id": "ccc-cr",
+    "name": "CCC.CR",
+    "slug": "ccc-cr",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/ApfkHisttuxI7KBaKZP4sFOYA4s-0WYOaW6gISHgMEI.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "artistic residency",
+    "code",
+    "generative",
+    "geoMusic",
+    "interactive",
+    "music",
+    "sonic art",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "special_thanks",
+      "name": "Paulo Carocinho (utilizador da instalação no filme)\nNoah Norman (GLSL fluids .tox)\nRuben Santos (montagem",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "special_thanks",
+      "name": "debugging)\nBruno Gomes (Sony a7r)",
+      "is_organization": false,
+      "sort_order": 1
+    }
+  ],
+  "links": [],
+  "descriptions": [
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "audiovisual interactive installation\n\ninstalação audiovisual interactiva\n\nname: Aparelho Geométrico Levógiro\ndate: 2018-05-17\ntype: interactive installation\nevent: Residência Artística Rui Gato\n\ncity: Caldas da Rainha, Portugal\nplace: CCC.CR\n\nclient: CCC.CR\ncollaboration: n/a\n\nDocumentação de instalação patente na sala de exposições do CCC das Caldas da Rainha. Um sistema audiovisual generativo, que reage à presença do público, permitindo uma modulação do conteúdo artístico em tempo real."
+    },
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "instalação audiovisual interactiva\n\nname: Aparelho Geométrico Levógiro\ndate: 2018-05-17\ntype: interactive installation\nevent: Residência Artística Rui Gato\n\ncity: Caldas da Rainha, Portugal\nplace: CCC.CR\n\nclient: CCC.CR\ncollaboration: n/a\n\nDocumentação de instalação patente na sala de exposições do CCC das Caldas da Rainha. Um sistema audiovisual generativo, que reage à presença do público, permitindo uma modulação do conteúdo artístico em tempo real.\n\nUma zona de interacção é definida, para um utilizador de cada vez experimentar a modulação desta realidade temporária, que se desenvolve generativamente, a partir de um conjunto de composições musicais e visuais pré-estabelecidas pelo autor."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/ApfkHisttuxI7KBaKZP4sFOYA4s-0WYOaW6gISHgMEI.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/ApfkHisttuxI7KBaKZP4sFOYA4s-0WYOaW6gISHgMEI-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157697270827515/40564448040.jpg",
+      "gallery_items": [
+        "/media/flickr/72157697270827515/40564448040.jpg",
+        "/media/flickr/72157697270827515/42360822471.jpg",
+        "/media/flickr/72157697270827515/41638104674.jpg",
+        "/media/flickr/72157697270827515/41638104284.jpg",
+        "/media/flickr/72157697270827515/40553541190.jpg",
+        "/media/flickr/72157697270827515/40553538640.jpg",
+        "/media/flickr/72157697270827515/40553534840.jpg",
+        "/media/flickr/72157697270827515/27490969117.jpg",
+        "/media/flickr/72157697270827515/27490968497.jpg",
+        "/media/flickr/72157697270827515/27490966537.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/embed/RbY9Kv3-eJM",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Aparelho Geométrico Levógiro",
+    "umbrella_signals": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "944",
+  "slug": "miragem",
+  "title": "Miragem",
+  "published_at": "2015-09-26",
+  "occurred_on": "2015-09-26",
+  "event_name": "Inauguração",
+  "summary": "Videomapping para inauguração de parque da cidade de Torres Vedras, com música de Nuno Corte-Real.",
+  "summary_localized": {
+    "pt": "Videomapping para a inauguração do parque da cidade de Torres Vedras, com música de Nuno Corte-Real.",
+    "en": "Video mapping for the opening of the Torres Vedras city park, with music by Nuno Corte-Real."
+  },
+  "body_html": "<p>name: Miragem<br />date: 2015-09-26<br />type: video mapping<br />event: Inauguração</p>\n<p>city: Torres Vedras, Portugal<br />place: Parque Choupal</p>\n<p>client: CM Torres Vedras<br />collaboration: Nuno Côrte-Real, David Negrão, João Garcia Miguel, Pedro Cabral, Manuel Morgado, Ruben Santos</p>\n<p>description PT: Videomapping para inauguração de parque da cidade de Torres Vedras, com música de Nuno Corte-Real.</p>\n<p>description EN: Miragem is a videomapping show made for the opening of a park in the city of Torres Vedras.<br />Its a multidisciplinary show, that joins spacialized music with robotic lights and synced multivideo projection, all around the theme “nature, technology, art”.<br />it was projected during the two days of celebration that the city hall of Torres Vedras gave for the opening of this landmark garden.</p>\n<p>SHOW<br />Art Direction: Rui Gato<br />concept, 3D, coding, videomapping: Rui Gato / David Negrão<br />Music: Nuno Côrte-Real<br />Light Design: João Garcia Miguel<br />Sound Design: Manuel Morgado<br />Infographics: Ruben Santos<br />Light Technical Direction: Pedro Cabral<br />Projection: Hipnose<br />Sound: Promeios</p>\n<p>DOCUMENTATION<br />image: Ruben Santos / Telmo Martins<br />edit: Ruben Santos / Rui Gato</p>\n<p>THANKS TO<br />Carlos M. S. Miguel<br />Duda<br />Arq. Rafaela Valentim<br />Daniel Shaeffer<br />Susana Luiz<br />Keith Lostracco<br />Luís Miguel Bombico<br />Adriano Marinho<br />Eng. Azeredo Lopes<br />Oliveiras SA<br />Rui Penetra<br />Ruben Borges<br />Arq. Bruno Félix Ferreira<br />Nuno Castro<br />Arq. Ana Aguiar<br />Eng. Alcino Antunes<br />Pedro Brazil</p>\n<p>links:</p>\n<div id=\"photonic-flickr-stream-12\" class=\"photonic-flickr-stream photonic-stream\">\n<p><!-- ./photonic-level-1-container --><br /><span id=\"photonic-flickr-stream-12-container-end\"></span></p>\n</div>\n<p><!-- .photonic-stream or .photonic-panel --></p>\n\n<!-- wp:embed {\"url\":\"https://youtu.be/sgOrJVEudPU\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/sgOrJVEudPU\n</div></figure>\n<!-- /wp:embed -->\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037522021\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 944,
+  "venue": {
+    "venue_name": "Parque Choupal",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-torres-vedras",
+    "name": "CM Torres Vedras",
+    "slug": "cm-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/om0HeUmNGIP2lrk9nGHoSJnnled0cZMrHmQRFN3wQbI.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "video mapping"
+  ],
+  "tags": [
+    "3D",
+    "blakat",
+    "code",
+    "collaboration",
+    "motion graphics",
+    "realtime",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Nuno Côrte-Real",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "João Garcia Miguel",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Pedro Cabral",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Manuel Morgado",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Ruben Santos",
+      "is_organization": false,
+      "sort_order": 5
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/om0HeUmNGIP2lrk9nGHoSJnnled0cZMrHmQRFN3wQbI.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/om0HeUmNGIP2lrk9nGHoSJnnled0cZMrHmQRFN3wQbI-768x432.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037522021/43687565240.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037522021/43687565240.jpg",
+        "/media/flickr/72157694037522021/40665696805.jpg",
+        "/media/flickr/72157694037522021/26689989247.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/sgOrJVEudPU",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Miragem",
+    "umbrella_signals": [
+      "HOW:medium",
+      "Blakat:high"
+    ]
+  }
+}

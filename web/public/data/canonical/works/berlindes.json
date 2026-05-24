@@ -1,0 +1,68 @@
+{
+  "id": "1294",
+  "slug": "berlindes",
+  "title": "Berlindes",
+  "published_at": "2001-09-17",
+  "occurred_on": "2001-09-17",
+  "event_name": "Encontros ACARTE",
+  "summary": "Música para peça de Video Art de Margarida Moura Guedes “Berlindes”.",
+  "summary_localized": {
+    "pt": "Música para peça de Video Art de Margarida Moura Guedes “Berlindes”.",
+    "en": "Music for Margarida Moura Guedes's video art piece \"Berlindes\"."
+  },
+  "body_html": "<p><br>\nname: Berlindes<br>\ndate: 2001-09-17<br>\ntype:  sonic art<br>\nevent: Encontros ACARTE<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: F. C. Gulbenkian<br>\n<br>\nclient: ACARTE<br>\ncollaboration: Margarida Moura Guedes<br>\n<br>\ndescription PT: Música para peça de Video Art de Margarida Moura Guedes “Berlindes”.<br>\n<br>\nlinks: <a href=\"https://gulbenkian.pt/\" rel=\"noopener\" target=\"_blank\">https://gulbenkian.pt/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1294,
+  "venue": {
+    "venue_name": "F. C. Gulbenkian",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "acarte",
+    "name": "Acarte",
+    "slug": "acarte",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "collaboration",
+    "digital arts",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://gulbenkian.pt/",
+      "url": "https://gulbenkian.pt/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Berlindes",
+    "umbrella_signals": []
+  }
+}

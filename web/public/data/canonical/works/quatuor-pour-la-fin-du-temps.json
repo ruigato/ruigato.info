@@ -1,0 +1,113 @@
+{
+  "id": "1060",
+  "slug": "quatuor-pour-la-fin-du-temps",
+  "title": "Quatuor pour la fin du temps",
+  "published_at": "2012-11-11",
+  "occurred_on": "2012-11-11",
+  "event_name": "Concerto",
+  "summary": "Cenírio video para concerto do Ensemble D'Arcos de Nuno Corte-Real.",
+  "summary_localized": {
+    "pt": "Cenário vídeo para o concerto do Ensemble D'Arcos, de Nuno Corte-Real.",
+    "en": "Video scenography for the Ensemble D'Arcos concert by Nuno Corte-Real."
+  },
+  "body_html": "<p>name: Quatuor pour la fin du temps<br />\ndate: 2012-11-11<br />\ntype:  motion graphics<br />\nevent: Concerto</p>\n<p>city: Torres Vedras, Portugal<br />\nplace: Teatro-Cine Torres Vedras</p>\n<p>client: CM Torres Vedras<br />\ncollaboration: Margarida Moura Guedes, Nuno Côrte-Real, David Negrão</p>\n<p>description PT: Cenírio video para concerto do Ensemble D'Arcos de Nuno Corte-Real.</p>\n<p>links: <a href=\"https://www.iseg.ulisboa.pt/aquila/publico/units/events.do?method=viewEvent&amp;unitID=102&amp;announcementId=1132791&amp;contentContextPath_PATH=/instituicao/ISEG/pagina-inicial&amp;_request_checksum_=e14b239c6ed27448ec5662c5314f750908db3315&amp;locale=en\" rel=\"noopener\" target=\"_blank\">https://www.iseg.ulisboa.pt/aquila/publico/units/events.do?method=viewEvent&amp;unitID=102&amp;announcementId=1132791&amp;contentContextPath_PATH=/instituicao/ISEG/pagina-inicial&amp;_request_checksum_=e14b239c6ed27448ec5662c5314f750908db3315&amp;locale=en</a></p>\n",
+  "legacy_wp_id": 1060,
+  "venue": {
+    "venue_name": "Teatro-Cine Torres Vedras",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "cm-torres-vedras",
+    "name": "CM Torres Vedras",
+    "slug": "cm-torres-vedras",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/ot43tixxOZfdoVO8nI6Vm-VMlg4e5hgkL0YxHJmT6SU.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "motion graphics",
+  "categories": [
+    "motion graphics"
+  ],
+  "tags": [
+    "code",
+    "collaboration",
+    "HOW",
+    "realtime",
+    "touchdesigner"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Nuno Côrte-Real",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "https://www.iseg.ulisboa.pt/aquila/publico/units/events.do?method=viewEvent&unitID=102&announcementId=1132791&contentContextPath_PATH=/instituicao/ISEG/pagina-inicial&_request_checksum_=e14b239c6ed27448ec5662c5314f750908db3315&locale=en",
+      "url": "https://www.iseg.ulisboa.pt/aquila/publico/units/events.do?method=viewEvent&unitID=102&announcementId=1132791&contentContextPath_PATH=/instituicao/ISEG/pagina-inicial&_request_checksum_=e14b239c6ed27448ec5662c5314f750908db3315&locale=en",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/ot43tixxOZfdoVO8nI6Vm-VMlg4e5hgkL0YxHJmT6SU.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/ot43tixxOZfdoVO8nI6Vm-VMlg4e5hgkL0YxHJmT6SU-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Quatuor pour la fin du temps",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "1078",
+  "slug": "os-franceses-vem-ai",
+  "title": "Os Franceses vêm aí!",
+  "published_at": "2007-04-04",
+  "occurred_on": "2007-04-04",
+  "event_name": "n/a",
+  "summary": "Curta-metragem.",
+  "summary_localized": {
+    "pt": "Curta-metragem.",
+    "en": "Short film."
+  },
+  "body_html": "</p>\n<p>name: Os Franceses vêm aí!<br />date: 2007-04-04<br />type: misc<br />event: n/a</p>\n<p>city: Torres Vedras, Portugal<br />place: Torres Vedras</p>\n<p>client: Promotorres<br />collaboration: Margarida Moura Guedes, Ricardo Viana, Paula Oliveira</p>\n<p>description PT: Curta-metragem.</p>\n<p>links: <a data-mce-href=\"https://vimeo.com/15363362\" href=\"https://vimeo.com/15363362\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"xehqj\" data-url=\"embedpresss://vimeo.com/15363362\" id=\"embedpress_wrapper_xehqj\" style=\"width: 589px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_xehqj\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_xehqj\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/15363362\" href=\"https://vimeo.com/15363362\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_xehqj\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/15363362\" data-mce-selected=\"inline-boundary\" href=\"https://vimeo.com/15363362\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-ddbfab6c558e7d77b6b3ef04f658e94c responsive embedpress_ignore_mouseout\" style=\"max-width: 589px;\"><iframe allowfullscreen=\"\" class=\"embedpress_ignore_mouseout\" frameborder=\"0\" height=\"288\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/15363362?app_id=122963\" title=\"2007 . os franceses vêm aí!\" webkitallowfullscreen=\"\" width=\"360\"></iframe></div>\n<p><span class=\"wpview-end embedpress_ignore_mouseout\"></span></p>\n</div>\n<p> </p>\n",
+  "legacy_wp_id": 1078,
+  "venue": {
+    "venue_name": null,
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "promotorres",
+    "name": "Promotorres",
+    "slug": "promotorres",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/Syv2S1cr2y-1NU4ZE_tNo8Hy0LT-EPwEjO_kAYcPWMQ.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "misc",
+  "categories": [
+    "misc"
+  ],
+  "tags": [
+    "blackbox",
+    "cinema",
+    "collaboration",
+    "director",
+    "motion graphics",
+    "production",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Ricardo Viana",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Paula Oliveira",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Syv2S1cr2y-1NU4ZE_tNo8Hy0LT-EPwEjO_kAYcPWMQ.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/Syv2S1cr2y-1NU4ZE_tNo8Hy0LT-EPwEjO_kAYcPWMQ-590x345.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/15363362",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/15363362?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Os Franceses vêm aí!",
+    "umbrella_signals": []
+  }
+}

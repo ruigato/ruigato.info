@@ -1,0 +1,60 @@
+{
+  "id": "1260",
+  "slug": "ringtones-vodafone",
+  "title": "Ringtones Vodafone",
+  "published_at": "2005-09-09",
+  "occurred_on": "2005-09-09",
+  "event_name": "n/a",
+  "summary": "Sound design de 3 ringtones para a Vodafone.",
+  "summary_localized": {
+    "pt": "Sound design de três ringtones para a Vodafone.",
+    "en": "Sound design for three ringtones for Vodafone."
+  },
+  "body_html": "<p><br>\nname: Ringtones Vodafone<br>\ndate: 2005-09-09<br>\ntype:  sound design<br>\nevent: n/a<br>\n<br>\ncity: Lisboa, Portugal<br>\nplace: blackbox<br>\n<br>\nclient: Vodafone<br>\ncollaboration: n/a<br>\n<br>\ndescription PT: Sound design de 3 ringtones para a Vodafone.<br>\n<br>\nlinks: <a href=\"http://www.vodafone.pt/main/particulares/\" rel=\"noopener\" target=\"_blank\">http://www.vodafone.pt/main/particulares/</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1260,
+  "venue": {
+    "venue_name": "Blackbox",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "vodafone",
+    "name": "Vodafone",
+    "slug": "vodafone",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound design",
+  "categories": [
+    "sound design"
+  ],
+  "tags": [
+    "experimenta",
+    "sound design"
+  ],
+  "credits": [],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.vodafone.pt/main/particulares/",
+      "url": "http://www.vodafone.pt/main/particulares/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Ringtones Vodafone",
+    "umbrella_signals": []
+  }
+}

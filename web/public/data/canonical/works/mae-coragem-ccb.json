@@ -1,0 +1,131 @@
+{
+  "id": "978",
+  "slug": "mae-coragem-ccb",
+  "title": "Mãe Coragem @ CCB",
+  "published_at": "2011-01-24",
+  "occurred_on": "2011-01-24",
+  "event_name": "peça teatro",
+  "summary": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device, live music, and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "</p>\n<p>name: Mãe Coragem @ CCB<br />date: 2011-01-24<br />type: theatre<br />event: peça teatro</p>\n<p>city: Lisboa, Portugal<br />place: Centro Cultural de Belém</p>\n<p>client: João Garcia Miguel<br />collaboration: Paulo Carocinho, André Sier, Jonathan Street</p>\n<p>description PT: Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p>\n<p>links: <a data-mce-href=\"https://vimeo.com/23849370\" href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"2bdia\" data-url=\"embedpresss://vimeo.com/23849370\" id=\"embedpress_wrapper_2bdia\" style=\"width: 589px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_2bdia\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_2bdia\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/23849370\" href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_2bdia\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/23849370\" href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-089231d8789ebf242c88ea5bb902c757 responsive\" style=\"max-width: 589px;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"422\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/23849370?app_id=122963\" title=\"2011 . Mãe Coragem . mapping\" webkitallowfullscreen=\"\" width=\"750\"></iframe></div>\n<p><span class=\"wpview-end\"></span></p>\n</div>\n<p><a data-mce-href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" data-mce-selected=\"inline-boundary\" href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/Mae-Coragem</a></p>\n",
+  "legacy_wp_id": 978,
+  "venue": {
+    "venue_name": "Centro Cultural de Belém",
+    "city": "Lisbon",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Lisboa, Portugal"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/vc_0P-qLx6Nis6om6VVjfiDscO0mD0S10StNQuniHTE.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": "mae-coragem",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "live performance",
+    "music",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Jonathan Street",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "url": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vc_0P-qLx6Nis6om6VVjfiDscO0mD0S10StNQuniHTE.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/vc_0P-qLx6Nis6om6VVjfiDscO0mD0S10StNQuniHTE-768x406.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/23849370",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/23849370?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Mãe Coragem @ CCB",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

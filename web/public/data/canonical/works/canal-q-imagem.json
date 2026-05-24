@@ -1,0 +1,77 @@
+{
+  "id": "970",
+  "slug": "canal-q-imagem",
+  "title": "Canal Q imagem",
+  "published_at": "2010-09-09",
+  "occurred_on": "2010-09-09",
+  "event_name": "n/a",
+  "summary": "Logotipo e imagem para canal TV.",
+  "summary_localized": {
+    "pt": "Logotipo e imagem para canal TV.",
+    "en": "Logo and visual identity for a TV channel."
+  },
+  "body_html": "name: Canal Q imagem\r\ndate: 2010-09-09\r\ntype: 3D\r\nevent: n/a\r\n\r\ncity: Torres Vedras, Portugal\r\nplace: Canal Q\r\n\r\nclient: Canal Q\r\ncollaboration: Margarida Moura Guedes\r\n\r\ndescription PT: Logotipo e imagem para canal TV.\r\n\r\nlinks:\r\n\r\n[embed mce-style=\"width: 589px;\"]https://vimeo.com/10608581[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 970,
+  "venue": {
+    "venue_name": "Canal Q",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "canal-q",
+    "name": "Canal Q",
+    "slug": "canal-q",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "3D",
+    "collaboration",
+    "HOW",
+    "motion graphics",
+    "sound design",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/10608581[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Canal Q imagem",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1013",
+  "slug": "exd11",
+  "title": "EXD'11",
+  "published_at": "2011-09-01",
+  "occurred_on": "2011-09-01",
+  "event_name": "n/a",
+  "summary": "Anuncio institucional para TV.",
+  "summary_localized": {
+    "pt": "Anuncio institucional para TV.",
+    "en": "Institutional TV commercial."
+  },
+  "body_html": "name: EXD'11\r\ndate: 2011-09-01\r\ntype: 3D\r\nevent: n/a\r\n\r\ncity: Torres Vedras, Portugal\r\nplace: RTP\r\n\r\nclient: Experimenta\r\ncollaboration: Margarida Moura Guedes\r\n\r\ndescription PT: Anuncio institucional para TV.\r\n\r\nlinks:\r\n\r\n[embed mce-style=\"width: 589px;\"]https://vimeo.com/29577119[/embed]\r\n\r\n&nbsp;",
+  "legacy_wp_id": 1013,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "how",
+    "name": "HOW",
+    "slug": "how",
+    "kind": "studio"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "3D",
+  "categories": [
+    "3D"
+  ],
+  "tags": [
+    "collaboration",
+    "HOW",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/29577119[/embed",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "EXD'11",
+    "umbrella_signals": [
+      "HOW:high"
+    ]
+  }
+}

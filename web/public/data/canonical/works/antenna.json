@@ -1,0 +1,179 @@
+{
+  "id": "1018",
+  "slug": "antenna",
+  "title": "ANTENNA",
+  "published_at": "2011-10-01",
+  "occurred_on": "2011-10-01",
+  "event_name": "Exposição",
+  "summary": "Participação na peça de video ANTENNA de Rui Toscano, com desenho de som a partir de sintetizador analógico.",
+  "summary_localized": {
+    "pt": "Participação na peça de video ANTENNA de Rui Toscano, com desenho de som a partir de sintetizador analógico.",
+    "en": "Participation in Rui Toscano's video piece ANTENNA, with sound design created from an analogue synthesizer."
+  },
+  "body_html": "</p>\n<p>name: ANTENNA<br />\ndate: 2011-10-01<br />\ntype: sonic art<br />\nevent: Exposição</p>\n<p>city: Funchal, Portugal<br />\nplace: Porta 33</p>\n<p>client: Rui Toscano<br />\ncollaboration: Rui Toscano</p>\n<p>description PT: Participação na peça de video ANTENNA de Rui Toscano, com desenho de som a partir de sintetizador analógico.</p>\n<p>links: <a href=\"http://www.artecapital.net/recomendacoes.php?ref=561\" rel=\"noopener\" target=\"_blank\">http://www.artecapital.net/recomendacoes.php?ref=561</a></p>\n\n<!-- wp:image {\"id\":2976,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-1-1024x335.png\" alt=\"\" class=\"wp-image-2976\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2975,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-2-1024x331.png\" alt=\"\" class=\"wp-image-2975\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2974,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-3-1024x333.png\" alt=\"\" class=\"wp-image-2974\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2973,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-4-1024x333.png\" alt=\"\" class=\"wp-image-2973\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2972,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-5-1024x539.png\" alt=\"\" class=\"wp-image-2972\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2971,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-5c-1024x538.png\" alt=\"\" class=\"wp-image-2971\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2970,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-6-1024x310.png\" alt=\"\" class=\"wp-image-2970\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2969,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-7-1024x333.png\" alt=\"\" class=\"wp-image-2969\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2968,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-8-1024x312.png\" alt=\"\" class=\"wp-image-2968\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2965,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-10-1024x333.png\" alt=\"\" class=\"wp-image-2965\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":2966,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-9-1024x331.png\" alt=\"\" class=\"wp-image-2966\"/></figure>\n<!-- /wp:image -->",
+  "legacy_wp_id": 1018,
+  "venue": {
+    "venue_name": "Porta 33",
+    "city": "Funchal",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Funchal, Portugal"
+  },
+  "client": {
+    "id": "rui-toscano",
+    "name": "Rui Toscano",
+    "slug": "rui-toscano",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-6.png",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "sonic art",
+  "categories": [
+    "sonic art"
+  ],
+  "tags": [
+    "collaboration",
+    "sound design"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Rui Toscano",
+      "is_organization": false,
+      "sort_order": 0
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.artecapital.net/recomendacoes.php?ref=561",
+      "url": "http://www.artecapital.net/recomendacoes.php?ref=561",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-6.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-6-768x233.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-1-1024x335.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-2-1024x331.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-5",
+      "sort_order": 4,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-3-1024x333.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-6",
+      "sort_order": 5,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-4-1024x333.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-7",
+      "sort_order": 6,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-5-1024x539.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-8",
+      "sort_order": 7,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-5c-1024x538.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-9",
+      "sort_order": 8,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-6-1024x310.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-10",
+      "sort_order": 9,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-7-1024x333.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-11",
+      "sort_order": 10,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-8-1024x312.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-12",
+      "sort_order": 11,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-10-1024x333.png",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-13",
+      "sort_order": 12,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2011/10/antenna_viewing_ARP_AXXE_wave-9-1024x331.png",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "ANTENNA",
+    "umbrella_signals": []
+  }
+}

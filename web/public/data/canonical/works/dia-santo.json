@@ -1,0 +1,81 @@
+{
+  "id": "1206",
+  "slug": "dia-santo",
+  "title": "Dia Santo",
+  "published_at": "2004-01-01",
+  "occurred_on": "2004-01-01",
+  "event_name": "n/a",
+  "summary": "Pós-Produção áudio para Série Documental.",
+  "summary_localized": {
+    "pt": "Pós-Produção áudio para Série Documental.",
+    "en": "Audio post-production for a documentary series."
+  },
+  "body_html": "<p><br>\nname: Dia Santo<br>\ndate: 2004-01-01<br>\ntype:  sound engineering<br>\nevent: n/a<br>\n<br>\ncity: Torres Vedras, Portugal<br>\nplace: RTP<br>\n<br>\nclient: Mínima Ideia<br>\ncollaboration: Margarida Moura Guedes, Tiago Martins, Luís Hipólito<br>\n<br>\ndescription PT: Pós-Produção áudio para Série Documental.<br>\n<br>\nlinks: <a href=\"http://minimaideiablog.blogspot.pt/2012/05/dia-santo-2004-porto-covo.html\" rel=\"noopener\" target=\"_blank\">http://minimaideiablog.blogspot.pt/2012/05/dia-santo-2004-porto-covo.html</a><br>\n<br>\n </p>",
+  "legacy_wp_id": 1206,
+  "venue": {
+    "venue_name": "Rtp",
+    "city": "Torres Vedras",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Torres Vedras, Portugal"
+  },
+  "client": {
+    "id": "minima-ideia",
+    "name": "Mínima Ideia",
+    "slug": "minima-ideia",
+    "kind": "client"
+  },
+  "umbrella_entity": null,
+  "umbrella_entity_confidence": null,
+  "featured_media": null,
+  "iteration_of_work_id": null,
+  "primary_category": "sound engineering",
+  "categories": [
+    "sound engineering"
+  ],
+  "tags": [
+    "blackbox",
+    "minimaideia",
+    "sound engineering",
+    "television"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Margarida Moura Guedes",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Tiago Martins",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Hipólito",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://minimaideiablog.blogspot.pt/2012/05/dia-santo-2004-porto-covo.html",
+      "url": "http://minimaideiablog.blogspot.pt/2012/05/dia-santo-2004-porto-covo.html",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Dia Santo",
+    "umbrella_signals": []
+  }
+}

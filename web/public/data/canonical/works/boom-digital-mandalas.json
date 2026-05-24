@@ -1,0 +1,135 @@
+{
+  "id": "928",
+  "slug": "boom-digital-mandalas",
+  "title": "Boom Digital Mandalas",
+  "published_at": "2014-08-02",
+  "occurred_on": "2014-08-02",
+  "event_name": "Boom Festival",
+  "summary": "Instalação interactiva do duo Blakat no Boom Festival 2014.",
+  "summary_localized": {
+    "pt": "Instalação interactiva do duo Blakat no Boom Festival 2014.",
+    "en": "Interactive installation by the Blakat duo at Boom Festival 2014."
+  },
+  "body_html": "<p> </p>\n<p>[embed]https://www.youtube.com/watch?v=PVvWecln7xo[/embed]</p>\n<p>name: Boom Digital Mandalas<br />date: 2014-08-02<br />type: interactive installation<br />event: Boom Festival</p>\n<p>city: Idanha-a-nova, Portugal<br />place: Boomland</p>\n<p>client: Boom Festival<br />collaboration: Paulo Carocinho, Lugu Test Area, David Negrão</p>\n<p>description PT: Instalação interactiva do duo Blakat no Boom Festival 2014.</p>\n<p>links: <a href=\"https://youtu.be/PVvWecln7xo\" target=\"_blank\" rel=\"noopener\">https://youtu.be/PVvWecln7xo</a></p>\n\n<!-- wp:photonic/gallery {\"shortcode\":\"{\\u0022type\\u0022:\\u0022flickr\\u0022,\\u0022view\\u0022:\\u0022photosets\\u0022,\\u0022photoset_id\\u0022:\\u002272157694037521951\\u0022,\\u0022user_id\\u0022:\\u0022141356798@N05\\u0022,\\u0022columns\\u0022:\\u0022auto\\u0022,\\u0022layout\\u0022:\\u0022circle\\u0022}\"} /-->",
+  "legacy_wp_id": 928,
+  "venue": {
+    "venue_name": "Boomland",
+    "city": "Idanha-a-Nova",
+    "region_or_state": null,
+    "country": "Portugal",
+    "raw_location": "Idanha-a-nova, Portugal"
+  },
+  "client": {
+    "id": "boom-festival",
+    "name": "Boom Festival",
+    "slug": "boom-festival",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "blakat",
+    "name": "Blakat",
+    "slug": "blakat",
+    "kind": "collective"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2014/08/mandalas.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "interactive installation",
+  "categories": [
+    "interactive installation"
+  ],
+  "tags": [
+    "blakat",
+    "boom",
+    "code",
+    "collaboration",
+    "installation",
+    "interactive",
+    "realtime",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Lugu Test Area",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "David Negrão",
+      "is_organization": false,
+      "sort_order": 2
+    }
+  ],
+  "links": [],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2014/08/mandalas.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2014/08/mandalas-768x512.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-3",
+      "sort_order": 2,
+      "kind": "gallery",
+      "local_path": "/media/flickr/72157694037521951/41558388591.jpg",
+      "gallery_items": [
+        "/media/flickr/72157694037521951/41558388591.jpg",
+        "/media/flickr/72157694037521951/41558387301.jpg"
+      ],
+      "external_url": null,
+      "platform": "flickr_migrated"
+    },
+    {
+      "id": "media-4",
+      "sort_order": 3,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://www.youtube.com/watch?v=PVvWecln7xo[/embed",
+      "platform": "youtube"
+    },
+    {
+      "id": "media-5",
+      "sort_order": 4,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://youtu.be/PVvWecln7xo",
+      "platform": "youtube"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Boom Digital Mandalas",
+    "umbrella_signals": [
+      "Blakat:high"
+    ]
+  }
+}

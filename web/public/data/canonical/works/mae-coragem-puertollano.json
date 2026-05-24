@@ -1,0 +1,144 @@
+{
+  "id": "988",
+  "slug": "mae-coragem-puertollano",
+  "title": "Mãe Coragem @ Puertollano",
+  "published_at": "2011-04-06",
+  "occurred_on": "2011-04-06",
+  "event_name": "Feira de Teatro de Castilla la Mancha",
+  "summary": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+  "summary_localized": {
+    "pt": "Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.",
+    "en": "Audiovisual scenic device, live music, and live audiovisual manipulation for a theatre piece by JGM."
+  },
+  "body_html": "</p>\n<p>name: Mãe Coragem @ Puertollano<br />date: 2011-04-06<br />type: theatre<br />event: Feira de Teatro de Castilla la Mancha</p>\n<p>city: Puertollano, Espanha<br />place: Auditorio Puertollano</p>\n<p>client: João Garcia Miguel<br />collaboration: Paulo Carocinho, André Sier, Jonathan Street, Tonan Quito, Miguel Moreira, Custódia Gallego, Sara Ribeiro, Paula Diogo, Luís Bombico</p>\n<p>description PT: Dispositivo cénico audiovisual, música ao vivo, manipulação ao vivo audiovisual para peça de Teatro da companhia JGM.</p>\n<p>links: <a data-mce-href=\"https://vimeo.com/23849370\" href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\"></a></p>\n<div class=\"embedpress_wrapper wpview wpview-wrap\" data-loading-text=\"Loading your embed...\" data-uid=\"9ntjv\" data-url=\"embedpresss://vimeo.com/23849370\" id=\"embedpress_wrapper_9ntjv\" style=\"width: 589px;\">\n<div class=\"embedpress_controller_panel embedpress_ignore_mouseout hidden\" id=\"embedpress_controller_panel_9ntjv\">\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_edit_9ntjv\">\n<div class=\"embedpress-icon-pencil embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/23849370\" href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n<div class=\"embedpress_ignore_mouseout embedpress_controller_button\" id=\"embedpress_button_remove_9ntjv\">\n<div class=\"embedpress-icon-x embedpress_ignore_mouseout\"><a class=\"embedpress_ignore_mouseout\" data-mce-href=\"https://vimeo.com/23849370\" href=\"https://vimeo.com/23849370\" rel=\"noopener\" target=\"_blank\"><span class=\"hidden embedpress_ignore_mouseout\">&amp;nbsp;</span></a></div>\n</div>\n</div>\n<div class=\"embedpress-wrapper ose-vimeo ose-uid-089231d8789ebf242c88ea5bb902c757 responsive\" style=\"max-width: 589px;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"422\" loading=\"lazy\" mozallowfullscreen=\"\" src=\"https://player.vimeo.com/video/23849370?app_id=122963\" title=\"2011 . Mãe Coragem . mapping\" webkitallowfullscreen=\"\" width=\"750\"></iframe></div>\n<p><span class=\"wpview-end\"></span></p>\n</div>\n<p><a data-mce-href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" data-mce-selected=\"inline-boundary\" href=\"http://www.joaogarciamiguel.com/Mae-Coragem\" rel=\"noopener\" target=\"_blank\">http://www.joaogarciamiguel.com/Mae-Coragem</a></p>\n",
+  "legacy_wp_id": 988,
+  "venue": {
+    "venue_name": "Auditorio Puertollano",
+    "city": "Puertollano",
+    "region_or_state": null,
+    "country": "Spain",
+    "raw_location": "Puertollano, Espanha"
+  },
+  "client": {
+    "id": "joao-garcia-miguel",
+    "name": "João Garcia Miguel",
+    "slug": "joao-garcia-miguel",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "companhia-joao-garcia-miguel",
+    "name": "Companhia João Garcia Miguel",
+    "slug": "companhia-joao-garcia-miguel",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": null,
+  "iteration_of_work_id": "mae-coragem",
+  "primary_category": "theatre",
+  "categories": [
+    "theatre"
+  ],
+  "tags": [
+    "code",
+    "live performance",
+    "music",
+    "realtime",
+    "sound design",
+    "theatre",
+    "video"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "Paulo Carocinho",
+      "is_organization": false,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "André Sier",
+      "is_organization": false,
+      "sort_order": 1
+    },
+    {
+      "role": "collaboration",
+      "name": "Jonathan Street",
+      "is_organization": false,
+      "sort_order": 2
+    },
+    {
+      "role": "collaboration",
+      "name": "Tonan Quito",
+      "is_organization": false,
+      "sort_order": 3
+    },
+    {
+      "role": "collaboration",
+      "name": "Miguel Moreira",
+      "is_organization": false,
+      "sort_order": 4
+    },
+    {
+      "role": "collaboration",
+      "name": "Custódia Gallego",
+      "is_organization": false,
+      "sort_order": 5
+    },
+    {
+      "role": "collaboration",
+      "name": "Sara Ribeiro",
+      "is_organization": false,
+      "sort_order": 6
+    },
+    {
+      "role": "collaboration",
+      "name": "Paula Diogo",
+      "is_organization": false,
+      "sort_order": 7
+    },
+    {
+      "role": "collaboration",
+      "name": "Luís Bombico",
+      "is_organization": false,
+      "sort_order": 8
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "url": "http://www.joaogarciamiguel.com/Mae-Coragem",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://vimeo.com/23849370",
+      "platform": "vimeo"
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "video_embed",
+      "local_path": null,
+      "external_url": "https://player.vimeo.com/video/23849370?app_id=122963",
+      "platform": "vimeo"
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Mãe Coragem @ Puertollano",
+    "umbrella_signals": [
+      "Companhia João Garcia Miguel:high"
+    ]
+  }
+}

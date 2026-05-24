@@ -1,0 +1,110 @@
+{
+  "id": "869",
+  "slug": "resistance",
+  "title": "Resistance",
+  "published_at": "2016-05-26",
+  "occurred_on": "2016-05-26",
+  "event_name": "Resistance Exposição",
+  "summary": "Instalação video para exposição do programa Primeira Pedra da experimentadesign.",
+  "summary_localized": {
+    "pt": "Instalação vídeo para uma exposição do programa Primeira Pedra da experimentadesign.",
+    "en": "Video installation for an exhibition in experimentadesign's Primeira Pedra programme."
+  },
+  "body_html": "\n\n<p>name: Resistance<br/>date: 2016-05-26<br/>type: video mapping<br/>event: Resistance Exposição</p>\n<p>city: Veneza, Itília<br/>place: La Giodeca</p>\n<p>client: Experimenta<br/>collaboration: ALTA, experimenta</p>\n<p>description PT: Instalação video para exposição do programa Primeira Pedra da experimentadesign.</p>\n<p>links: <a href=\"http://www.alta.international/\" rel=\"noopener\" target=\"_blank\">http://www.alta.international/</a></p>\n",
+  "legacy_wp_id": 869,
+  "venue": {
+    "venue_name": "La Giodeca",
+    "city": "Venice",
+    "region_or_state": null,
+    "country": "Italy",
+    "raw_location": "Veneza, Itília"
+  },
+  "client": {
+    "id": "experimenta",
+    "name": "Experimenta",
+    "slug": "experimenta",
+    "kind": "client"
+  },
+  "umbrella_entity": {
+    "id": "alta",
+    "name": "ALTA",
+    "slug": "alta",
+    "kind": "company"
+  },
+  "umbrella_entity_confidence": "high",
+  "featured_media": {
+    "id": "media-1",
+    "sort_order": 0,
+    "kind": "image",
+    "local_path": "/media/wp-content/uploads/2025/03/VrG-Cbn0-k_gQ3_HFfCuvKoIt4vp-llulut6PpZvd90.jpg",
+    "external_url": null,
+    "platform": null
+  },
+  "iteration_of_work_id": null,
+  "primary_category": "video mapping",
+  "categories": [
+    "light",
+    "video mapping"
+  ],
+  "tags": [
+    "ALTA",
+    "code",
+    "collaboration",
+    "installation",
+    "light",
+    "touchdesigner",
+    "videomapping"
+  ],
+  "credits": [
+    {
+      "role": "collaboration",
+      "name": "ALTA",
+      "is_organization": true,
+      "sort_order": 0
+    },
+    {
+      "role": "collaboration",
+      "name": "Experimenta",
+      "is_organization": true,
+      "sort_order": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "label": "http://www.alta.international/",
+      "url": "http://www.alta.international/",
+      "kind": "external",
+      "preview_title": null,
+      "preview_description": null,
+      "preview_image": null
+    }
+  ],
+  "descriptions": [],
+  "quotes": [],
+  "media": [
+    {
+      "id": "media-1",
+      "sort_order": 0,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/VrG-Cbn0-k_gQ3_HFfCuvKoIt4vp-llulut6PpZvd90.jpg",
+      "external_url": null,
+      "platform": null
+    },
+    {
+      "id": "media-2",
+      "sort_order": 1,
+      "kind": "image",
+      "local_path": "/media/wp-content/uploads/2025/03/VrG-Cbn0-k_gQ3_HFfCuvKoIt4vp-llulut6PpZvd90-768x576.jpg",
+      "external_url": null,
+      "platform": null
+    }
+  ],
+  "review_flags": [],
+  "_migration_debug": {
+    "meta_name": "Resistance",
+    "umbrella_signals": [
+      "ALTA:high"
+    ]
+  }
+}
