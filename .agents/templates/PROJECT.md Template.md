@@ -201,8 +201,9 @@ Short notes for humans and LLMs working in this project: local setup quirks, nam
 - Update this file when the project direction, architecture, active fronts, roadmap, API surface, deployment, or status changes materially.
 - Keep the `Core idea` stable unless the project identity changes.
 - Keep the `Current status`, `Active fronts`, `Current roadmap`, `Recent decisions`, and `Open questions` fresh.
-- When an LLM makes a meaningful change, it should update this file or explicitly say why no update was needed.
-- Project-level status automation may update this file from recent commits, task changes, docs, roadmap changes, and API/dashboard changes.
+- During normal development, LLM agents should not update this file mid-session. They should review and update it during session closeout if the completed work changed project direction, architecture, active fronts, roadmap, API surface, deployment, decisions, risks, or status materially.
+- If no `PROJECT.md` update is needed at closeout, the agent should explicitly say why.
+- Recurring hygiene or status scans may report that this file appears stale, but should not rewrite it automatically unless Rui explicitly asks for a maintenance-only update.
 - Second Brain aggregation may read this file as the source of truth for central project summaries and dashboards.
 
 ## Links

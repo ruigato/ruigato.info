@@ -1,0 +1,10 @@
+---
+description: Coding discipline for LLM agents. Apply when writing, debugging, refactoring, reviewing, or documenting code.
+alwaysApply: true
+---
+
+# Coding Discipline
+
+Follow `.agents/rules/coding-discipline.md`.
+
+Also follow `AGENTS.md` and the project-specific Cursor rules in this repository. If rules conflict, prefer project-specific instructions and safe, minimal, verified changes.

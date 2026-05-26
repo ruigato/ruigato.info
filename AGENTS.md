@@ -40,17 +40,19 @@ For frontend work, use the commands and conventions in `web/README.md` and `web/
 
 Keep generated/canonical content pipelines separate from manual editorial changes unless the task explicitly bridges them.
 
-## Project status automation
+## Project status policy
 
-When running a project status scan:
+Do not update `docs/PROJECT.md` during normal implementation. Use it as briefing/context during the session, and review it only at closeout.
+
+When reviewing project status at closeout:
 
 1. Read `docs/PROJECT.md` and this `AGENTS.md`.
 2. Inspect recent commits, uncommitted changes, editorial pipeline changes, content/data model changes, API/dashboard changes, and frontend changes.
-3. Update `docs/PROJECT.md` when the site's concept, public editorial surface, dashboard/API ambitions, current status, roadmap, decisions, risks, or open questions changed materially.
+3. Update `docs/PROJECT.md` only if the completed session changed the site's concept, public editorial surface, dashboard/API ambitions, current status, roadmap, decisions, risks, or open questions materially.
 4. Keep implementation noise out of `docs/PROJECT.md`; summarize editorial/system state and direction.
 5. Never add private Second Brain or family/work-sensitive material to public-facing sections unless explicitly requested.
 
-Suggested cadence: daily while active; weekly when slower.
+Recurring hygiene scans may report that `docs/PROJECT.md` appears stale, but should not rewrite it automatically unless Rui explicitly asks for a maintenance-only update.
 
 ## Second Brain integration
 
@@ -82,9 +84,15 @@ At the end of a meaningful work session:
 
 1. Review the working tree and summarize changed, added, removed, and generated files.
 2. Run the smallest relevant verification for the work done, or explain why verification was not run.
-3. Update `docs/PROJECT.md` if the session changed public/editorial scope, current status, architecture, API/dashboard ambitions, active fronts, roadmap, decisions, risks, or open questions.
+3. Update `docs/PROJECT.md` now, and only now, if the session changed public/editorial scope, current status, architecture, API/dashboard ambitions, active fronts, roadmap, decisions, risks, or open questions.
 4. Remove accidental local noise from the proposed commit scope, such as `.DS_Store`, caches, temporary files, and unrelated generated artifacts.
 5. Propose a coherent commit when the work is ready, including a suggested commit message.
 6. Do not commit automatically unless Rui explicitly asks for a commit.
 
 Preferred closeout: update `docs/PROJECT.md` when needed, prepare a clean commit proposal, then wait for Rui's confirmation before committing.
+
+## Coding discipline
+
+For coding, debugging, refactoring, review, or technical documentation, follow `.agents/rules/coding-discipline.md`.
+
+In short: think before coding, prefer simple implementations, make surgical changes, and verify with the smallest meaningful check.
