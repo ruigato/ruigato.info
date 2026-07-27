@@ -91,6 +91,16 @@ At the end of a meaningful work session:
 
 Preferred closeout: update `docs/PROJECT.md` when needed, prepare a clean commit proposal, then wait for Rui's confirmation before committing.
 
+## Control Tower checkpoints
+
+This is an active Second Brain project. Cursor, Claude Code and Codex must
+recognize **«fecha este checkpoint»**, session closeout and session open.
+Those close triggers authorize the narrowly relevant `docs/PROJECT.md`
+update, verification, commit and push; after a successful push, use the local
+Second Brain publisher to refresh the Control Tower. Never publish private
+material through this public repo, include unrelated worktrees, or ask Rui to
+name the underlying command. On open, publish only after the required pulls.
+
 ## Coding discipline
 
 For coding, debugging, refactoring, review, or technical documentation, follow `.agents/rules/coding-discipline.md`.
