@@ -1,8 +1,8 @@
 ---
 template: project-md
-version: 1
+version: 3
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-07-27
 ---
 
 # PROJECT.md
@@ -100,11 +100,28 @@ Fontes consultadas neste repositório:
 
 ## Current status
 
-Em 2026-05-24, o repositório contém um novo front-end Vite/React em `web/`, com rotas para timeline, obras, obras destacadas, detalhe de obra, música, GeoMusica, about e páginas exportadas. A rota inicial actual é a timeline.
+- Operational status: active
+- Status updated: 2026-07-27
+- Current status summary: O arquivo React/Vite e o pipeline editorial de 257 obras estão disponíveis. A frente activa retomada é seleccionar os projectos OCUBO/OLAB dos últimos sete anos que devem entrar no site público; a publicação continua dependente da conclusão dos textos finais no OLAB Dashboard.
+- Primary next step: Seleccionar no OLAB Dashboard os projectos OCUBO/OLAB dos últimos sete anos que devem entrar no site e identificar os textos finais ainda em falta.
+- Primary owner: Rui
+- Due date: none
+- Waiting on: Conclusão dos textos finais dos projectos seleccionados no OLAB Dashboard antes da publicação.
 
-A camada de dados inclui ficheiros JSON gerados e canónicos. `web/src/data/worksCanonical.json`, `web/public/data/canonical/works-index.json` e `web/src/data/timeline-events.json` contêm actualmente 257 itens cada. O commit mais recente adicionou pipeline canónica de obras, editor editorial e expansões do site/portfolio.
+## Priorities and next steps
 
-O desenvolvimento local está documentado em `web/README.md`: entrar em `web/`, correr `npm install`, `npm run dev` e abrir `http://localhost/`. O servidor Vite usa a porta fixa 80 e permite `ruigato.info` e `www.ruigato.info` como hosts para o setup com Cloudflare Tunnel.
+### Active now
+
+1. **Priority — Seleccionar o arquivo OLAB recente** Owner: Rui
+   - Why / outcome: definir o conjunto editorial que deve representar os últimos sete anos de trabalho.
+   - Next concrete action: Seleccionar no OLAB Dashboard os projectos OCUBO/OLAB dos últimos sete anos que devem entrar no site e identificar os textos finais ainda em falta.
+   - Status: `active`
+2. **Priority — Rever a apresentação pública** Owner: Rui
+   - Next concrete action: rever a qualidade editorial e a apresentação pública do conjunto seleccionado antes de o publicar.
+   - Status: `planned`
+3. **Priority — Clarificar a governação dos conteúdos** Owner: Rui
+   - Next concrete action: documentar a relação canónica entre dados do site, conteúdo editorial e textos finais do OLAB Dashboard.
+   - Status: `planned`
 
 ## Canonical principles and invariants
 
