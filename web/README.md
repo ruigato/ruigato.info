@@ -12,7 +12,7 @@ npm run dev
 
 Abre **http://localhost/** (porta fixa em `vite.config.ts`).
 
-Se arrancares o túnel Cloudflare configurado para `ruigato.info`, este front-end local também fica exposto publicamente a partir da mesma porta `80`.
+O tunnel de produção já não corre na máquina de desenvolvimento. Está no HAL9000 e aponta para a build estática servida por Nginx; não arrancar o tunnel local durante desenvolvimento normal.
 
 Em desenvolvimento via túnel, o Vite serve também pedidos a `/wp-content/...` directamente a partir da cópia local do WordPress em `C:\xampp\htdocs\ruigato\wp-content` por omissão. Esse fallback continua disponível, mas o modelo preferido agora é servir media legado já copiado para `public/media/wp-content/...`.
 
@@ -23,7 +23,15 @@ cd web
 npm run build
 ```
 
-Saída em web/dist/ (estático). Cutover futuro: servir isto em produção quando a paridade estiver validada.
+Saída em `web/dist/` (estático). Desde 2026-09-14, esta é a superfície servida em produção pelo HAL9000.
+
+Depois de publicar o commit desejado no GitHub, a promoção pode ser feita a partir do Mac ou LAB002:
+
+```bash
+ssh ruigato@hal9000 '~/server/scripts/deploy.sh ruigato origin/main'
+```
+
+O servidor usa uma deploy key GitHub read-only e mantém credenciais e `.env.local` fora do repositório. Para rollback, substituir `origin/main` por um commit ou tag explícito.
 
 ## Conteúdo
 

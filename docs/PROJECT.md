@@ -2,7 +2,7 @@
 template: project-md
 version: 1
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-09-14
 ---
 
 # PROJECT.md
@@ -100,11 +100,31 @@ Fontes consultadas neste repositório:
 
 ## Current status
 
-Em 2026-05-24, o repositório contém um novo front-end Vite/React em `web/`, com rotas para timeline, obras, obras destacadas, detalhe de obra, música, GeoMusica, about e páginas exportadas. A rota inicial actual é a timeline.
+- Operational status: active
+- Status updated: 2026-09-14
+- Current status summary: o front-end Vite/React é a superfície pública activa. Desde 14 de Setembro é servido como build estática pelo HAL9000 (Linux/Omarchy), em Docker/Nginx, através do named tunnel Cloudflare existente. O origin antigo no LAB002 foi desactivado depois de validação pública dos dois hostnames.
+- Primary next step: validar visualmente timeline, obras, obras destacadas, music, GeoMusica, about, links e contact no novo origin HAL9000.
+- Primary owner: Rui
+- Due date: none
+- Waiting on: none
+
+O repositório contém o front-end em `web/`, com rotas para timeline, obras, obras destacadas, detalhe de obra, música, GeoMusica, about e páginas exportadas. A rota inicial actual é a timeline.
 
 A camada de dados inclui ficheiros JSON gerados e canónicos. `web/src/data/worksCanonical.json`, `web/public/data/canonical/works-index.json` e `web/src/data/timeline-events.json` contêm actualmente 257 itens cada. O commit mais recente adicionou pipeline canónica de obras, editor editorial e expansões do site/portfolio.
 
-O desenvolvimento local está documentado em `web/README.md`: entrar em `web/`, correr `npm install`, `npm run dev` e abrir `http://localhost/`. O servidor Vite usa a porta fixa 80 e permite `ruigato.info` e `www.ruigato.info` como hosts para o setup com Cloudflare Tunnel.
+O desenvolvimento continua no Mac ou LAB002 conforme `web/README.md`. O HAL9000 tem uma checkout de deploy separada, autenticada por deploy key GitHub read-only; compila o commit escolhido e só depois actualiza a cópia estática servida. O runbook operacional vive em `hal9000-infra`, fora deste repositório, e mantém `.env` e credenciais Cloudflare apenas na máquina.
+
+## Priorities and next steps
+
+1. **Priority — QA visual pós-migração** Owner: Rui
+   - Next concrete action: validar visualmente timeline, obras, obras destacadas, music, GeoMusica, about, links e contact no novo origin HAL9000.
+   - Status: `active`
+2. **Priority — Continuar manutenção editorial a partir do repositório** Owner: Rui
+   - Next concrete action: fazer alterações no Mac/LAB002, publicar no GitHub e promover uma revisão explícita no HAL9000 por SSH.
+   - Status: `active`
+3. **Priority — Versionar a infraestrutura operacional** Owner: Rui
+   - Next concrete action: decidir o repositório remoto e política de backup para a pasta local `hal9000-infra`, sem incluir segredos.
+   - Status: `planned`
 
 ## Canonical principles and invariants
 
@@ -149,10 +169,10 @@ O desenvolvimento local está documentado em `web/README.md`: entrar em `web/`, 
 
 ### Hosting and tunnel
 
-- Status: parcialmente documentado
+- Status: produção activa no HAL9000
 - Purpose: servir o front-end local através de `ruigato.info` e `www.ruigato.info`.
-- Current work: README e scripts `.bat` referem Cloudflare Tunnel e servidor Vite local na porta 80.
-- Next step: documentar detalhes confirmados de operação sem expor credenciais ou informação sensível.
+- Current work: build estática do commit `c97296ea` servida por Nginx em Docker; tunnel Cloudflare no mesmo stack; portas Web ligadas apenas a loopback. O Docker e Tailscale arrancam automaticamente com o HAL9000.
+- Next step: executar QA visual das rotas principais e escolher um remoto privado para o runbook `hal9000-infra`.
 
 ## Product / system map
 
@@ -279,10 +299,10 @@ flowchart TD
 
 ### Now
 
-- [ ] Confirmar se o front-end Vite/React é já a superfície pública activa pretendida.
+- [x] Confirmar que o front-end Vite/React é a superfície pública activa.
 - [ ] Validar timeline, obras, obras destacadas, music, GeoMusica, about, links e contact contra o site público desejado.
 - [ ] Clarificar governação dos dados canónicos: export gerado, export canónico, overrides, ficheiros de revisão e gravações do editor.
-- [ ] Documentar detalhes seguros do tunnel/runbook local.
+- [x] Documentar os detalhes seguros de hosting/tunnel no runbook `hal9000-infra`.
 
 ### Next
 
@@ -301,6 +321,8 @@ flowchart TD
 
 | Date | Decision | Reason | Link |
 |------|----------|--------|------|
+| 2026-09-14 | Migrar o hosting público do LAB002 para o HAL9000 e servir a build estática em Docker/Nginx através do tunnel existente. | Libertar o LAB002 para poder ser desligado sem interromper os serviços pessoais e manter uma unidade de deploy portável. | `hal9000-infra/README.md` |
+| 2026-09-14 | Manter desenvolvimento no Mac/LAB002 e usar no servidor apenas deploy keys GitHub read-only. | Separar autoria de código, operação e credenciais; permitir promoção e rollback por SSH sem copiar chaves pessoais. | `hal9000-infra/scripts/deploy.sh` |
 | 2026-05-24 | Usar este `docs/PROJECT.md` baseado no template como brief canónico e ficheiro de estado. | Alinhar o repositório com `AGENTS.md` e o template local. | `.agents/templates/PROJECT.md Template.md` |
 | 2026-05 | Construir e expandir um front-end Vite/React em vez de editar directamente o WordPress. | O README e `web/README.md` descrevem o novo front-end e dizem que o WordPress não é alterado por este projecto. | `README.md`, `web/README.md` |
 | 2026-05 | Manter exports WordPress e media legacy como inputs do novo front-end. | O repositório inclui scripts de export WordPress, dados canónicos, rewrite de media e integração de plugin de timeline. | `web/README.md` |
@@ -312,14 +334,15 @@ flowchart TD
 - O caminho legacy de media por omissão no código está orientado a Windows/XAMPP.
 - Dados gerados, dados canónicos e overrides manuais podem divergir se as regras de regeneração não forem claras.
 - O site público não deve absorver acidentalmente material privado do Second Brain ou informação sensível familiar/profissional.
-- Cloudflare Tunnel/alojamento local significa que a disponibilidade pública pode depender de uma máquina local ligada.
+- Cloudflare Tunnel/alojamento local significa que a disponibilidade pública depende do HAL9000, da ligação de 40/40 Mbps e da electricidade/rede locais.
+- `hal9000-infra` ainda é uma pasta operacional local sem remoto Git confirmado; os segredos estão correctamente excluídos, mas o runbook precisa de backup/versionamento próprio.
 - Não há suite dedicada de testes automatizados definida.
 - O repositório contém muitos dados canónicos gerados; alterações futuras devem evitar churn ruidoso quando possível.
 
 ## Open questions
 
-- O front-end Vite/React é já o site de produção pretendido, ou ainda é uma camada de paridade/protótipo ao lado do WordPress?
-- Qual é o caminho exacto de produção: servidor Vite local, build estática `web/dist/`, outro host estático, ou outro servidor?
+- Qual é a checklist visual mínima para declarar o QA pós-migração concluído?
+- Em que repositório privado deve ser versionado o runbook `hal9000-infra`?
 - Que ficheiros são a fonte editorial de verdade das obras: export WordPress, `worksCanonical.json`, JSON público por obra, overrides, ou output gravado pelo editor?
 - O editor local de obras deve alguma vez estar disponível fora de desenvolvimento?
 - Que fronteira público/privado deve existir se houver dashboard futuro?
