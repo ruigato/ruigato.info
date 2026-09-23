@@ -1,6 +1,6 @@
 ---
 template: project-md
-version: 1
+version: 3
 created: 2026-05-24
 updated: 2026-09-14
 ---
@@ -106,7 +106,7 @@ Fontes consultadas neste repositório:
 - Primary next step: validar visualmente timeline, obras, obras destacadas, music, GeoMusica, about, links e contact no novo origin HAL9000.
 - Primary owner: Rui
 - Due date: none
-- Waiting on: none
+- Waiting on: conclusao dos textos finais dos projectos OLAB seleccionados antes da respectiva publicacao.
 
 O repositório contém o front-end em `web/`, com rotas para timeline, obras, obras destacadas, detalhe de obra, música, GeoMusica, about e páginas exportadas. A rota inicial actual é a timeline.
 
@@ -124,6 +124,13 @@ O desenvolvimento continua no Mac ou LAB002 conforme `web/README.md`. O HAL9000 
    - Status: `active`
 3. **Priority — Versionar a infraestrutura operacional** Owner: Rui
    - Next concrete action: decidir o repositório remoto e política de backup para a pasta local `hal9000-infra`, sem incluir segredos.
+   - Status: `planned`
+
+4. **Priority — Seleccionar o arquivo OLAB recente** Owner: Rui
+   - Next concrete action: Seleccionar no OLAB Dashboard os projectos OCUBO/OLAB dos ultimos sete anos que devem entrar no site e identificar os textos finais ainda em falta.
+   - Status: `active`
+5. **Priority — Rever a apresentacao e governacao editorial** Owner: Rui
+   - Next concrete action: rever o conjunto seleccionado e documentar a relacao canonica entre dados do site e textos finais do Dashboard antes da publicacao.
    - Status: `planned`
 
 ## Canonical principles and invariants
