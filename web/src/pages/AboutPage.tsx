@@ -3,6 +3,7 @@ import { htmlForLocale, splitEnPtExportBody } from "../lib/localizedExportBody"
 import { prepareLegacyBodyHtml } from "../lib/legacyHtml"
 import { useSiteLocale } from "../context/SiteLocaleContext"
 import type { LocaleCode } from "../types/content"
+import portraitUrl from "../assets/rui-gato.jpg"
 
 const UI = {
   en: {
@@ -123,10 +124,9 @@ export function AboutPage() {
           ) : null}
         </div>
         {leadImageHtml ? (
-          <div
-            className="about-page__media"
-            dangerouslySetInnerHTML={{ __html: leadImageHtml }}
-          />
+          <div className="about-page__media">
+            <img src={portraitUrl} alt="Rui Gato" width={590} height={393} />
+          </div>
         ) : null}
       </div>
     </div>

@@ -53,6 +53,8 @@ Saída: `web/src/data/works.json`, `pages.json`, `timeline-events.json`. Cada ob
 
 O export canónico reescreve referências do WordPress (`https://www.ruigato.info/wp-content/...`) para caminhos locais do front-end em `/media/wp-content/...`.
 
+A fotografia da página About está versionada em `src/assets/rui-gato.jpg` e é incluída directamente na build, sem depender do arquivo de media WordPress.
+
 Para sincronizar esses ficheiros locais a partir da tua cópia WordPress em XAMPP, corre:
 
 ```bash
