@@ -475,7 +475,7 @@ raycaster.params.Points = { threshold: 0 };}
 
   function showCategoryLabel(slug){
     const entry=timelineData[slug];
-    const label=entry?.name?.trim()
+    const label=entry&&entry.name&&entry.name.trim()
       ? entry.name
       : slug.replace(/-/g,' ').split(' ').map(s=>s.charAt(0).toUpperCase()+s.slice(1)).join(' ');
     categoryLabel.textContent=label;
@@ -490,12 +490,10 @@ raycaster.params.Points = { threshold: 0 };}
   // —————————————————————————————————————————————
   function initDataStructures(){
     const allTs=Object.values(timelineData).flatMap(cat=>cat.posts.map(p=>new Date(p.date).getTime())).filter(t=>!isNaN(t));
-    tMin=NAV_MIN_TS;
-    tMax=NAV_MAX_TS;
+    tMin=NAV_MIN_TS; tMax=NAV_MAX_TS; TOTAL_SPAN=tMax-tMin; arcLines.length=0;
     const boundedTs=allTs.filter(ts=>ts>=NAV_MIN_TS&&ts<=NAV_MAX_TS);
     dataMinTs=boundedTs.length?Math.min(...boundedTs):NAV_MIN_TS;
     dataMaxTs=boundedTs.length?Math.max(...boundedTs):NAV_MAX_TS;
-    TOTAL_SPAN=tMax-tMin; arcLines.length=0;
     pointSystems.forEach(s=>scene.remove(s.group)); pointSystems.length=0;
     if(particleSystem) scene.remove(particleSystem);
     if(baselineLine) scene.remove(baselineLine);
@@ -548,8 +546,6 @@ group.add(pts);
       if(l2.material&&l2.material.resolution) l2.material.resolution.set(width,height);
     });
   }
-
-
   function createCircleTexture(size){
     const c=document.createElement('canvas');
     c.width=c.height=size;
@@ -1106,11 +1102,27 @@ function pickArc(x, y) {
   }
 
 
+  function handleCanvasWheel(event) {
+    // Preserve pinch and vertical wheel zoom in OrbitControls.
+    if (ORIENTATION !== "horizontal" || event.ctrlKey) return
+    const mode = event.deltaMode
+    const { deltaX, deltaY } = event
+    if (Math.abs(deltaX) <= Math.abs(deltaY)) return
+
+    event.preventDefault()
+    event.stopImmediatePropagation()
+    let pixels = deltaX
+    if (mode === WheelEvent.DOM_DELTA_LINE) pixels *= 16
+    if (mode === WheelEvent.DOM_DELTA_PAGE) pixels *= width
+    panCameraByPixels(-pixels, 0)
+  }
+
   function dispose() {
     cancelAnimationFrame(rafId)
     window.removeEventListener("resize", onResize)
     document.removeEventListener("pointerdown", docClickOutside)
     if (renderer) {
+      renderer.domElement.removeEventListener("wheel", handleCanvasWheel, true)
       renderer.domElement.removeEventListener("pointermove", handlePointerMove)
       renderer.domElement.removeEventListener("pointerdown", handlePointerDown)
       renderer.domElement.removeEventListener("pointerup", handleCanvasPointerUp)
@@ -1130,6 +1142,7 @@ function pickArc(x, y) {
   }
 
   init()
+  renderer.domElement.addEventListener("wheel", handleCanvasWheel, { capture: true, passive: false })
   animate()
 
   return dispose

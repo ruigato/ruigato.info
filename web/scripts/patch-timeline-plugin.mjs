@@ -25,11 +25,13 @@ const oldSanity = `  // ——————————————————�
   if (!container) { return; }
   Object.assign(container.style, {
     position:'fixed',top:'140px',left:'0',width:'100vw',height:'100vh',margin:'0',padding:'0',
-    zIndex:'100',background:'linear-gradient(to top,#333,#000,#333)'
+    zIndex:'100',background:'linear-gradient(to bottom, #333333 0%, #2a2a2a 22%, #1a1a1a 50%, #2a2a2a 78%, #333333 100%)'
   });
 `
 
-const newSanity = `  // 3) HOST STYLING (embedded in SPA) — preenche o .timeline-canvas-host (flex); header no fluxo do Layout
+const newSanity = `  // —————————————————————————————————————————————
+  // 3) HOST STYLING (embedded in SPA) — preenche o .timeline-canvas-host (flex); header no fluxo do Layout
+  // —————————————————————————————————————————————
   if (!container || !timelineData || Object.keys(timelineData).length === 0) {
     return () => {}
   }
@@ -48,7 +50,7 @@ const newSanity = `  // 3) HOST STYLING (embedded in SPA) — preenche o .timeli
   })
 `
 
-if (!s.includes(oldSanity.slice(0, 80))) {
+if (!s.includes(oldSanity)) {
   console.error("patch: expected SANITY block not found — raw file changed?")
   process.exit(1)
 }
@@ -213,11 +215,27 @@ export function runTimelinePluginRuntime(
 `
 
 const footer = `
+  function handleCanvasWheel(event) {
+    // Preserve pinch and vertical wheel zoom in OrbitControls.
+    if (ORIENTATION !== "horizontal" || event.ctrlKey) return
+    const mode = event.deltaMode
+    const { deltaX, deltaY } = event
+    if (Math.abs(deltaX) <= Math.abs(deltaY)) return
+
+    event.preventDefault()
+    event.stopImmediatePropagation()
+    let pixels = deltaX
+    if (mode === WheelEvent.DOM_DELTA_LINE) pixels *= 16
+    if (mode === WheelEvent.DOM_DELTA_PAGE) pixels *= width
+    panCameraByPixels(-pixels, 0)
+  }
+
   function dispose() {
     cancelAnimationFrame(rafId)
     window.removeEventListener("resize", onResize)
     document.removeEventListener("pointerdown", docClickOutside)
     if (renderer) {
+      renderer.domElement.removeEventListener("wheel", handleCanvasWheel, true)
       renderer.domElement.removeEventListener("pointermove", handlePointerMove)
       renderer.domElement.removeEventListener("pointerdown", handlePointerDown)
       renderer.domElement.removeEventListener("pointerup", handleCanvasPointerUp)
@@ -229,10 +247,15 @@ const footer = `
       tooltip.remove()
       tooltip = null
     }
+    if (categoryLabel) {
+      categoryLabel.remove()
+      categoryLabel = null
+    }
     container.replaceChildren()
   }
 
   init()
+  renderer.domElement.addEventListener("wheel", handleCanvasWheel, { capture: true, passive: false })
   animate()
 
   return dispose
