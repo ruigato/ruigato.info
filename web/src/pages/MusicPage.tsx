@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom"
-import { useEffect, useMemo, useState } from "react"
+import { useEffect, useMemo, useState, type ReactNode } from "react"
+import { useSiteLocale } from "../context/SiteLocaleContext"
+import { GEOMUSICA_RELEASES } from "../data/geomusicaReleases"
 import { usePage } from "../hooks/usePage"
 import { useWorks } from "../hooks/useWorks"
 import { loadWorkDetail } from "../lib/works"
@@ -36,35 +38,26 @@ function localizeLegacyWpMediaUrl(url: string): string {
   return url
 }
 
-const FEATURED_FULL_RELEASE: MusicRelease = {
-  href: "https://youtu.be/hNgTr9Tfrn8?si=UMQ8hMwjc9zl5e3l",
-  title: "Shapes For Piano 1",
-  imageSrc: "https://i.ytimg.com/vi/hNgTr9Tfrn8/hqdefault.jpg",
-  kicker: "GeoMusica official release",
-  sortKey: "2021-01-01",
+const GEOMUSICA_UI = {
+  en: {
+    heading: "GeoMusica Releases",
+    dateLocale: "en-GB",
+    album: "Album · 9 tracks",
+    single: "Single",
+    study: "Audiovisual study",
+    playlist: "YouTube playlist",
+    liveWorks: "Live works",
+  },
+  pt: {
+    heading: "Lançamentos GeoMusica",
+    dateLocale: "pt-PT",
+    album: "Álbum · 9 faixas",
+    single: "Single",
+    study: "Estudo audiovisual",
+    playlist: "Playlist no YouTube",
+    liveWorks: "Obras ao vivo",
+  },
 }
-
-const OFFICIAL_YOUTUBE_RELEASES: MusicRelease[] = [
-  {
-    href: "https://www.youtube.com/watch?v=D0skQOed4kg",
-    title: "Allotrope1 - n8 n4 s1 g250",
-    imageSrc: "https://i.ytimg.com/vi/D0skQOed4kg/hqdefault.jpg",
-    kicker: "GeoMusica official release",
-    sortKey: "2022-09-10",
-  },
-  {
-    href: "https://www.youtube.com/watch?v=8jTjJgghd1A",
-    title: "Allotrope2 - n8 n2 g360 g144 s1",
-    imageSrc: "https://i.ytimg.com/vi/8jTjJgghd1A/hqdefault.jpg",
-    kicker: "GeoMusica official release",
-    sortKey: "2022-09-10",
-  },
-].sort((a, b) => (b.sortKey ?? "").localeCompare(a.sortKey ?? ""))
-
-const GEOMUSICA_RELEASES: MusicRelease[] = [
-  FEATURED_FULL_RELEASE,
-  ...OFFICIAL_YOUTUBE_RELEASES,
-]
 
 function parseMusicPageContent(html: string): MusicPageContent {
   if (typeof DOMParser === "undefined") {
@@ -159,7 +152,7 @@ function extractSoundcloudMusicReleases(works: Work[] | null): MusicRelease[] {
     .sort((a, b) => b.sortKey!.localeCompare(a.sortKey!))
 }
 
-function MusicCard({ release }: { release: MusicRelease }) {
+function MusicCard({ release, children }: { release: MusicRelease; children?: ReactNode }) {
   const media = release.imageSrc ? (
     <img
       src={rewriteLegacyMediaUrl(release.imageSrc)}
@@ -204,12 +197,17 @@ function MusicCard({ release }: { release: MusicRelease }) {
         <div className="music-card__media-link music-card__media-link--static">{media}</div>
       )}
 
-      <div className="music-card__body">{title}</div>
+      <div className="music-card__body">
+        {title}
+        {children}
+      </div>
     </article>
   )
 }
 
 export function MusicPage() {
+  const { locale } = useSiteLocale()
+  const geoUi = GEOMUSICA_UI[locale]
   const { page, loading, error } = usePage("music")
   const { works } = useWorks()
   const [detailedMusicReleases, setDetailedMusicReleases] = useState<Work[] | null>(null)
@@ -243,9 +241,10 @@ export function MusicPage() {
     }
   }, [works])
 
+  const bodyHtml = page?.bodyHtml
   const content = useMemo(
-    () => (page?.bodyHtml ? parseMusicPageContent(page.bodyHtml) : null),
-    [page?.bodyHtml],
+    () => (bodyHtml ? parseMusicPageContent(bodyHtml) : null),
+    [bodyHtml],
   )
   const soundcloudReleases = useMemo(
     () => extractSoundcloudMusicReleases(detailedMusicReleases),
@@ -308,10 +307,48 @@ export function MusicPage() {
         ))}
       </div>
 
-      <h2 className="music-page__section-title">GEOMUSICA RELEASES</h2>
-      <div className="music-page__grid" aria-label="GeoMusica releases">
+      <h2 className="music-page__section-title" id="geomusica-releases">{geoUi.heading}</h2>
+      <div className="music-page__grid" role="group" aria-labelledby="geomusica-releases">
         {GEOMUSICA_RELEASES.map((release) => (
-          <MusicCard key={release.href ?? release.title} release={release} />
+          <MusicCard key={release.title} release={{ ...release, href: release.youtube }}>
+            <div className="music-card__details">
+              <p className="music-card__meta">
+                {geoUi[release.format]} ·{" "}
+                <time dateTime={release.date}>
+                  {new Intl.DateTimeFormat(geoUi.dateLocale, {
+                    day: release.date.length === 10 ? "numeric" : undefined,
+                    month: "long",
+                    year: "numeric",
+                    timeZone: "UTC",
+                  }).format(new Date(release.date))}
+                </time>
+              </p>
+              <p>{release.description[locale]}</p>
+              {release.credit && <p className="music-card__meta">{release.credit[locale]}</p>}
+              <ul className="music-card__links">
+                {[
+                  [release.format === "album" ? geoUi.playlist : "YouTube", release.youtube],
+                  ["Bandcamp", release.bandcamp],
+                  ["Spotify", release.spotify],
+                  ["Apple Music", release.appleMusic],
+                ].map(([label, url]) => url && (
+                  <li key={label}>
+                    <a href={url} target="_blank" rel="noopener noreferrer">{label}</a>
+                  </li>
+                ))}
+              </ul>
+              {release.relatedWorks && (
+                <div>
+                  <p className="music-card__meta">{geoUi.liveWorks}</p>
+                  <ul className="music-card__links">
+                    {release.relatedWorks.map(({ slug, title }) => (
+                      <li key={slug}><Link to={`/works/${slug}`}>{title}</Link></li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          </MusicCard>
         ))}
       </div>
 

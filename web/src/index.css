@@ -2097,6 +2097,7 @@ button.tg-filter.tg-nav-font:active {
 
 .music-card__body {
   display: flex;
+  flex-direction: column;
   align-items: flex-start;
   padding-top: 0.75rem;
   min-height: 5rem;
@@ -2125,6 +2126,37 @@ button.tg-filter.tg-nav-font:active {
 
 .music-card__title--static:hover {
   text-decoration: none;
+}
+
+.music-card__details {
+  display: grid;
+  gap: 0.55rem;
+  margin-top: 0.35rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.music-card__details p {
+  margin: 0;
+}
+
+.music-card__meta {
+  color: #bfbfbf;
+  font-size: 0.78rem;
+}
+
+.music-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.music-card__links a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .music-page__footer-link {
