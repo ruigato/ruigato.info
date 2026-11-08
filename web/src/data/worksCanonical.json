@@ -24901,5 +24901,240 @@
       "meta_name": "Live act exposição pintura de Rui Matoso",
       "umbrella_signals": []
     }
+  },
+  {
+    "id": "shapes-for-piano-1",
+    "slug": "shapes-for-piano-1",
+    "title": "Shapes for Piano 1",
+    "published_at": "2021-12-21",
+    "legacy_wp_id": null,
+    "summary": "GeoMusica’s first album brings together nine pieces for microtonal piano. The subdivisions of polygons and stellated shapes determine the pitches. In the opening track, subdivisions of a triangle preserve the melodic contour as the scale changes.",
+    "summary_localized": {
+      "en": "Album · 9 tracks",
+      "pt": "Álbum · 9 faixas"
+    },
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/shapes-for-piano-1.jpg"
+    },
+    "descriptions": [
+      {
+        "locale": "pt",
+        "kind": "description",
+        "content": "O primeiro álbum da GeoMusica reúne nove peças para piano microtonal. As subdivisões de polígonos e formas estreladas determinam as frequências das notas. Na primeira faixa, as subdivisões de um triângulo preservam o contorno melódico à medida que a escala se transforma.\n\nCapa: pormenor de Melencolia I (1514), de Albrecht Dürer."
+      },
+      {
+        "locale": "en",
+        "kind": "description",
+        "content": "GeoMusica’s first album brings together nine pieces for microtonal piano. The subdivisions of polygons and stellated shapes determine the pitches. In the opening track, subdivisions of a triangle preserve the melodic contour as the scale changes.\n\nCover: detail from Melencolia I (1514) by Albrecht Dürer."
+      }
+    ],
+    "links": [
+      {
+        "label": "YouTube (playlist)",
+        "url": "https://www.youtube.com/playlist?list=PLErTONIIcY3alYgDhkGIcMZWttNS2C6rG",
+        "kind": "video"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://ruigato.bandcamp.com/album/shapes-for-piano-1",
+        "kind": "audio"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/1iAaSzoDUQbjSIfOT42EcQ",
+        "kind": "audio"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/pt/album/shapes-for-piano-1/1663045628",
+        "kind": "audio"
+      }
+    ],
+    "review_flags": []
+  },
+  {
+    "id": "allotrope-1",
+    "slug": "allotrope-1",
+    "title": "Allotrope 1",
+    "published_at": "2022-09-23",
+    "legacy_wp_id": null,
+    "summary": "Six layers of geometry drive six electronic instruments. Rhythms emerge directly from the rotation of the shapes, without quantisation, and geometric proportions are mapped to equal-tempered synth notes.",
+    "summary_localized": {
+      "en": "Single",
+      "pt": "Single"
+    },
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/allotrope-1.jpg"
+    },
+    "descriptions": [
+      {
+        "locale": "pt",
+        "kind": "description",
+        "content": "Seis camadas de geometria comandam seis instrumentos electrónicos. Os ritmos surgem directamente da rotação das formas, sem quantização, e as proporções geométricas são traduzidas em notas de sintetizador em temperamento igual.\n\nFotografia de capa: José Hipólito (2022)."
+      },
+      {
+        "locale": "en",
+        "kind": "description",
+        "content": "Six layers of geometry drive six electronic instruments. Rhythms emerge directly from the rotation of the shapes, without quantisation, and geometric proportions are mapped to equal-tempered synth notes.\n\nCover photograph: José Hipólito (2022)."
+      }
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=D0skQOed4kg",
+        "kind": "video"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://ruigato.bandcamp.com/album/allotrope-1",
+        "kind": "audio"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/2NzmESp317COKtoGDbUSlw",
+        "kind": "audio"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/pt/album/allotrope-1-n8-n4-mod2-g250-single/1663914165",
+        "kind": "audio"
+      }
+    ],
+    "review_flags": []
+  },
+  {
+    "id": "allotrope-2",
+    "slug": "allotrope-2",
+    "title": "Allotrope 2",
+    "published_at": "2023-01-03",
+    "legacy_wp_id": null,
+    "summary": "The second piece in the Allotrope series takes its rhythmic research into dub techno. Subdivisions of squares, octahedra and eight-pointed star forms provide the basis for six instrumental layers.",
+    "summary_localized": {
+      "en": "Single",
+      "pt": "Single"
+    },
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/allotrope-2.jpg"
+    },
+    "descriptions": [
+      {
+        "locale": "pt",
+        "kind": "description",
+        "content": "A segunda peça da série Allotrope leva a investigação rítmica para o dub techno. As subdivisões de quadrados, octaedros e formas estreladas de oito pontas servem de base a seis camadas instrumentais.\n\nFotografia de capa: José Hipólito (2022)."
+      },
+      {
+        "locale": "en",
+        "kind": "description",
+        "content": "The second piece in the Allotrope series takes its rhythmic research into dub techno. Subdivisions of squares, octahedra and eight-pointed star forms provide the basis for six instrumental layers.\n\nCover photograph: José Hipólito (2022)."
+      }
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=8jTjJgghd1A",
+        "kind": "video"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://ruigato.bandcamp.com/album/allotrope-2",
+        "kind": "audio"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/7LRwA8bmPKjoKzF8ezwYY0",
+        "kind": "audio"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/pt/album/allotrope-2-n8-n2-g360-g144-s1-single/1663489578",
+        "kind": "audio"
+      }
+    ],
+    "review_flags": []
+  },
+  {
+    "id": "passarola-estudo",
+    "slug": "passarola-estudo",
+    "title": "Passarola — Scarlatti K. 87",
+    "published_at": "2023-03",
+    "legacy_wp_id": null,
+    "summary": "An audiovisual study of Domenico Scarlatti’s Piano Sonata in B minor, K. 87. Rui Gato composed the study from research for Passarola — Variations on the Past and the Future K.87, the live work created with Pedro Emanuel Pereira and Vítor Joaquim.",
+    "summary_localized": {
+      "en": "Audiovisual study",
+      "pt": "Estudo audiovisual"
+    },
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/passarola.jpg"
+    },
+    "descriptions": [
+      {
+        "locale": "pt",
+        "kind": "description",
+        "content": "Um estudo audiovisual sobre a Sonata para Piano em Si menor K. 87, de Domenico Scarlatti. Rui Gato compôs este estudo a partir da investigação para Passarola — Variations on the Past and the Future K.87, a obra ao vivo criada com Pedro Emanuel Pereira e Vítor Joaquim."
+      },
+      {
+        "locale": "en",
+        "kind": "description",
+        "content": "An audiovisual study of Domenico Scarlatti’s Piano Sonata in B minor, K. 87. Rui Gato composed the study from research for Passarola — Variations on the Past and the Future K.87, the live work created with Pedro Emanuel Pereira and Vítor Joaquim."
+      }
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Yq9_0W0oFZs",
+        "kind": "video"
+      },
+      {
+        "label": "Passarola #1",
+        "url": "/works/passarola",
+        "kind": "project"
+      },
+      {
+        "label": "Passarola #2",
+        "url": "/works/passarola-2",
+        "kind": "project"
+      }
+    ],
+    "review_flags": []
   }
 ]

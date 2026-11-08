@@ -1,0 +1,60 @@
+{
+  "id": "shapes-for-piano-1",
+  "slug": "shapes-for-piano-1",
+  "title": "Shapes for Piano 1",
+  "published_at": "2021-12-21",
+  "legacy_wp_id": null,
+  "summary": "GeoMusica’s first album brings together nine pieces for microtonal piano. The subdivisions of polygons and stellated shapes determine the pitches. In the opening track, subdivisions of a triangle preserve the melodic contour as the scale changes.",
+  "summary_localized": {
+    "en": "Album · 9 tracks",
+    "pt": "Álbum · 9 faixas"
+  },
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "music release",
+    "geomusica"
+  ],
+  "featured_media": {
+    "id": "cover",
+    "kind": "image",
+    "local_path": "/geomusica-releases/shapes-for-piano-1.jpg"
+  },
+  "descriptions": [
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "O primeiro álbum da GeoMusica reúne nove peças para piano microtonal. As subdivisões de polígonos e formas estreladas determinam as frequências das notas. Na primeira faixa, as subdivisões de um triângulo preservam o contorno melódico à medida que a escala se transforma.\n\nCapa: pormenor de Melencolia I (1514), de Albrecht Dürer."
+    },
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "GeoMusica’s first album brings together nine pieces for microtonal piano. The subdivisions of polygons and stellated shapes determine the pitches. In the opening track, subdivisions of a triangle preserve the melodic contour as the scale changes.\n\nCover: detail from Melencolia I (1514) by Albrecht Dürer."
+    }
+  ],
+  "links": [
+    {
+      "label": "YouTube (playlist)",
+      "url": "https://www.youtube.com/playlist?list=PLErTONIIcY3alYgDhkGIcMZWttNS2C6rG",
+      "kind": "video"
+    },
+    {
+      "label": "Bandcamp",
+      "url": "https://ruigato.bandcamp.com/album/shapes-for-piano-1",
+      "kind": "audio"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/album/1iAaSzoDUQbjSIfOT42EcQ",
+      "kind": "audio"
+    },
+    {
+      "label": "Apple Music",
+      "url": "https://music.apple.com/pt/album/shapes-for-piano-1/1663045628",
+      "kind": "audio"
+    }
+  ],
+  "review_flags": []
+}

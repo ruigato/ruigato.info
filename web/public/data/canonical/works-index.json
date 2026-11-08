@@ -11275,5 +11275,93 @@
     "iteration_of_work_id": null,
     "featured_media": null,
     "review_flags": []
+  },
+  {
+    "id": "shapes-for-piano-1",
+    "slug": "shapes-for-piano-1",
+    "title": "Shapes for Piano 1",
+    "summary": "GeoMusica’s first album brings together nine pieces for microtonal piano. The subdivisions of polygons and stellated shapes determine the pitches. In the opening track, subdivisions of a triangle preserve the melodic contour as the scale changes.",
+    "published_at": "2021-12-21",
+    "legacy_wp_id": null,
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/shapes-for-piano-1.jpg"
+    },
+    "review_flags": []
+  },
+  {
+    "id": "allotrope-1",
+    "slug": "allotrope-1",
+    "title": "Allotrope 1",
+    "summary": "Six layers of geometry drive six electronic instruments. Rhythms emerge directly from the rotation of the shapes, without quantisation, and geometric proportions are mapped to equal-tempered synth notes.",
+    "published_at": "2022-09-23",
+    "legacy_wp_id": null,
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/allotrope-1.jpg"
+    },
+    "review_flags": []
+  },
+  {
+    "id": "allotrope-2",
+    "slug": "allotrope-2",
+    "title": "Allotrope 2",
+    "summary": "The second piece in the Allotrope series takes its rhythmic research into dub techno. Subdivisions of squares, octahedra and eight-pointed star forms provide the basis for six instrumental layers.",
+    "published_at": "2023-01-03",
+    "legacy_wp_id": null,
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/allotrope-2.jpg"
+    },
+    "review_flags": []
+  },
+  {
+    "id": "passarola-estudo",
+    "slug": "passarola-estudo",
+    "title": "Passarola — Scarlatti K. 87",
+    "summary": "An audiovisual study of Domenico Scarlatti’s Piano Sonata in B minor, K. 87. Rui Gato composed the study from research for Passarola — Variations on the Past and the Future K.87, the live work created with Pedro Emanuel Pereira and Vítor Joaquim.",
+    "published_at": "2023-03",
+    "legacy_wp_id": null,
+    "primary_category": "music release",
+    "categories": [
+      "music release"
+    ],
+    "tags": [
+      "music release",
+      "geomusica"
+    ],
+    "featured_media": {
+      "id": "cover",
+      "kind": "image",
+      "local_path": "/geomusica-releases/passarola.jpg"
+    },
+    "review_flags": []
   }
 ]

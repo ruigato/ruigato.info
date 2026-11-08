@@ -7,6 +7,7 @@ import { extractFlickrRefsFromHtml } from "./extract-flickr-refs.mjs"
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const root = path.join(__dirname, "..")
 const worksPath = path.join(root, "src/data/works.json")
+const geoMusicaReleasesPath = path.join(root, "src/data/geomusicaReleases.json")
 const flickrManifestPath = path.join(root, "src/data/flickr-galleries.json")
 const overridesPath = path.join(root, "src/data/worksCanonicalOverrides.json")
 const textTranslationsDir = path.join(root, "src/data/worksTextTranslations")
@@ -203,6 +204,15 @@ function main() {
       textTranslations[work.slug] ?? {},
     ),
   )
+  const { formats, releases } = readJson(geoMusicaReleasesPath)
+  const slugs = new Set(canonicalWorks.map((work) => work.slug))
+  for (const release of releases) {
+    if (slugs.has(release.slug)) {
+      throw new Error(`Duplicate canonical work slug: ${release.slug}`)
+    }
+    slugs.add(release.slug)
+    canonicalWorks.push(canonicalizeGeoMusicaRelease(release, formats[release.format]))
+  }
   const reviewQueue = canonicalWorks
     .filter((work) => work.review_flags.length > 0)
     .map((work) => ({
@@ -235,6 +245,41 @@ function main() {
     for (const ref of mediaSync.missingRefs.slice(0, 20)) {
       console.warn(`- ${ref}`)
     }
+  }
+}
+
+function canonicalizeGeoMusicaRelease(release, formatLabels) {
+  const links = [
+    { label: release.format === "album" ? "YouTube (playlist)" : "YouTube", url: release.youtube, kind: "video" },
+    { label: "Bandcamp", url: release.bandcamp, kind: "audio" },
+    { label: "Spotify", url: release.spotify, kind: "audio" },
+    { label: "Apple Music", url: release.appleMusic, kind: "audio" },
+    ...(release.relatedWorks ?? []).map(({ slug, title }) => ({
+      label: title,
+      url: `/works/${slug}`,
+      kind: "project",
+    })),
+  ].filter((link) => link.url)
+
+  return {
+    id: release.slug,
+    slug: release.slug,
+    title: release.workTitle ?? release.title,
+    published_at: release.date,
+    legacy_wp_id: null,
+    summary: release.description.en,
+    summary_localized: formatLabels,
+    primary_category: "music release",
+    categories: ["music release"],
+    tags: ["music release", "geomusica"],
+    featured_media: { id: "cover", kind: "image", local_path: release.imageSrc },
+    descriptions: Object.entries(release.description).map(([locale, text]) => ({
+      locale,
+      kind: "description",
+      content: [text, release.credit?.[locale]].filter(Boolean).join("\n\n"),
+    })),
+    links,
+    review_flags: [],
   }
 }
 

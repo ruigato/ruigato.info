@@ -1,0 +1,60 @@
+{
+  "id": "allotrope-2",
+  "slug": "allotrope-2",
+  "title": "Allotrope 2",
+  "published_at": "2023-01-03",
+  "legacy_wp_id": null,
+  "summary": "The second piece in the Allotrope series takes its rhythmic research into dub techno. Subdivisions of squares, octahedra and eight-pointed star forms provide the basis for six instrumental layers.",
+  "summary_localized": {
+    "en": "Single",
+    "pt": "Single"
+  },
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "music release",
+    "geomusica"
+  ],
+  "featured_media": {
+    "id": "cover",
+    "kind": "image",
+    "local_path": "/geomusica-releases/allotrope-2.jpg"
+  },
+  "descriptions": [
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "A segunda peça da série Allotrope leva a investigação rítmica para o dub techno. As subdivisões de quadrados, octaedros e formas estreladas de oito pontas servem de base a seis camadas instrumentais.\n\nFotografia de capa: José Hipólito (2022)."
+    },
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "The second piece in the Allotrope series takes its rhythmic research into dub techno. Subdivisions of squares, octahedra and eight-pointed star forms provide the basis for six instrumental layers.\n\nCover photograph: José Hipólito (2022)."
+    }
+  ],
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=8jTjJgghd1A",
+      "kind": "video"
+    },
+    {
+      "label": "Bandcamp",
+      "url": "https://ruigato.bandcamp.com/album/allotrope-2",
+      "kind": "audio"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/album/7LRwA8bmPKjoKzF8ezwYY0",
+      "kind": "audio"
+    },
+    {
+      "label": "Apple Music",
+      "url": "https://music.apple.com/pt/album/allotrope-2-n8-n2-g360-g144-s1-single/1663489578",
+      "kind": "audio"
+    }
+  ],
+  "review_flags": []
+}

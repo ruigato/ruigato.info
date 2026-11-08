@@ -1,0 +1,55 @@
+{
+  "id": "passarola-estudo",
+  "slug": "passarola-estudo",
+  "title": "Passarola — Scarlatti K. 87",
+  "published_at": "2023-03",
+  "legacy_wp_id": null,
+  "summary": "An audiovisual study of Domenico Scarlatti’s Piano Sonata in B minor, K. 87. Rui Gato composed the study from research for Passarola — Variations on the Past and the Future K.87, the live work created with Pedro Emanuel Pereira and Vítor Joaquim.",
+  "summary_localized": {
+    "en": "Audiovisual study",
+    "pt": "Estudo audiovisual"
+  },
+  "primary_category": "music release",
+  "categories": [
+    "music release"
+  ],
+  "tags": [
+    "music release",
+    "geomusica"
+  ],
+  "featured_media": {
+    "id": "cover",
+    "kind": "image",
+    "local_path": "/geomusica-releases/passarola.jpg"
+  },
+  "descriptions": [
+    {
+      "locale": "pt",
+      "kind": "description",
+      "content": "Um estudo audiovisual sobre a Sonata para Piano em Si menor K. 87, de Domenico Scarlatti. Rui Gato compôs este estudo a partir da investigação para Passarola — Variations on the Past and the Future K.87, a obra ao vivo criada com Pedro Emanuel Pereira e Vítor Joaquim."
+    },
+    {
+      "locale": "en",
+      "kind": "description",
+      "content": "An audiovisual study of Domenico Scarlatti’s Piano Sonata in B minor, K. 87. Rui Gato composed the study from research for Passarola — Variations on the Past and the Future K.87, the live work created with Pedro Emanuel Pereira and Vítor Joaquim."
+    }
+  ],
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Yq9_0W0oFZs",
+      "kind": "video"
+    },
+    {
+      "label": "Passarola #1",
+      "url": "/works/passarola",
+      "kind": "project"
+    },
+    {
+      "label": "Passarola #2",
+      "url": "/works/passarola-2",
+      "kind": "project"
+    }
+  ],
+  "review_flags": []
+}

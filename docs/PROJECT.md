@@ -110,7 +110,7 @@ Fontes consultadas neste repositório:
 
 O repositório contém o front-end em `web/`, com rotas para timeline, obras, obras destacadas, detalhe de obra, música, GeoMusica, about e páginas exportadas. A rota inicial actual é a timeline.
 
-A camada de dados inclui ficheiros JSON gerados e canónicos. `web/src/data/worksCanonical.json`, `web/public/data/canonical/works-index.json` e `web/src/data/timeline-events.json` contêm actualmente 257 itens cada. O commit mais recente adicionou pipeline canónica de obras, editor editorial e expansões do site/portfolio.
+A camada de dados inclui ficheiros JSON gerados e canónicos. `web/src/data/worksCanonical.json` e `web/public/data/canonical/works-index.json` contêm 261 obras. O export da timeline em `web/src/data/timeline-events.json` contém 257 eventos.
 
 O desenvolvimento continua no Mac ou LAB002 conforme `web/README.md`. O HAL9000 tem uma checkout de deploy separada, autenticada por deploy key GitHub read-only; compila o commit escolhido e só depois actualiza a cópia estática servida. O runbook operacional vive em `hal9000-infra`, fora deste repositório, e mantém `.env` e credenciais Cloudflare apenas na máquina.
 
@@ -151,7 +151,7 @@ O desenvolvimento continua no Mac ou LAB002 conforme `web/README.md`. O HAL9000 
 - Status: activo
 - Purpose: apresentar o site público e arquivo através de uma interface React/Vite moderna.
 - Current work: existem no código timeline inicial, arquivo de obras, obras destacadas, música, GeoMusica, about, páginas exportadas e detalhe de obra.
-- Em `/music`, o catálogo bilingue da GeoMusica reúne o álbum *Shapes for Piano 1*, os singles *Allotrope 1* e *Allotrope 2* e o estudo audiovisual *Passarola*, ligado às duas fichas da obra ao vivo.
+- O catálogo bilingue da GeoMusica reúne o álbum *Shapes for Piano 1*, os singles *Allotrope 1* e *Allotrope 2* e o estudo audiovisual *Passarola*, ligado às duas fichas da obra ao vivo. As quatro entradas estão em `/music` e têm fichas no portefólio (`/works`), com a categoria e a etiqueta `music release`.
 - Next step: verificar paridade pública e qualidade editorial face à superfície desejada para `ruigato.info`.
 
 ### Canonical works pipeline
@@ -246,12 +246,12 @@ flowchart TD
 - Resource: `web/src/data/worksCanonical.json`
 - Source of truth: saída da pipeline canónica de obras, com overrides/review relevantes
 - Consumer: páginas de obras, detalhe de obra, obras destacadas, música e apresentação relacionada com GeoMusica
-- Notes: actualmente 257 itens.
+- Notes: actualmente 261 obras, incluindo quatro entradas editoriais da GeoMusica geradas a partir de `web/src/data/geomusicaReleases.json`, a mesma fonte da secção de lançamentos em `/music`.
 
 - Resource: `web/public/data/canonical/works-index.json` e `web/public/data/canonical/works/*.json`
 - Source of truth: script de export canónico
 - Consumer: superfície estática pública de dados canónicos
-- Notes: o commit mais recente adicionou 257 ficheiros JSON por obra.
+- Notes: o índice tem 261 entradas e existe um ficheiro JSON por obra.
 
 - Resource: `web/src/data/worksCanonicalOverrides.json`
 - Source of truth: camada manual/editorial de overrides

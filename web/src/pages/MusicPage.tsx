@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { useEffect, useMemo, useState, type ReactNode } from "react"
 import { useSiteLocale } from "../context/SiteLocaleContext"
-import { GEOMUSICA_RELEASES } from "../data/geomusicaReleases"
+import { GEOMUSICA_RELEASE_FORMATS, GEOMUSICA_RELEASES } from "../data/geomusicaReleases"
 import { usePage } from "../hooks/usePage"
 import { useWorks } from "../hooks/useWorks"
 import { loadWorkDetail } from "../lib/works"
@@ -42,18 +42,12 @@ const GEOMUSICA_UI = {
   en: {
     heading: "GeoMusica Releases",
     dateLocale: "en-GB",
-    album: "Album · 9 tracks",
-    single: "Single",
-    study: "Audiovisual study",
     playlist: "YouTube playlist",
     liveWorks: "Live works",
   },
   pt: {
     heading: "Lançamentos GeoMusica",
     dateLocale: "pt-PT",
-    album: "Álbum · 9 faixas",
-    single: "Single",
-    study: "Estudo audiovisual",
     playlist: "Playlist no YouTube",
     liveWorks: "Obras ao vivo",
   },
@@ -313,7 +307,7 @@ export function MusicPage() {
           <MusicCard key={release.title} release={{ ...release, href: release.youtube }}>
             <div className="music-card__details">
               <p className="music-card__meta">
-                {geoUi[release.format]} ·{" "}
+                {GEOMUSICA_RELEASE_FORMATS[release.format][locale]} ·{" "}
                 <time dateTime={release.date}>
                   {new Intl.DateTimeFormat(geoUi.dateLocale, {
                     day: release.date.length === 10 ? "numeric" : undefined,
