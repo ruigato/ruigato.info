@@ -151,7 +151,7 @@ O desenvolvimento continua no Mac ou LAB002 conforme `web/README.md`. O HAL9000 
 - Status: activo
 - Purpose: apresentar o site público e arquivo através de uma interface React/Vite moderna.
 - Current work: existem no código timeline inicial, arquivo de obras, obras destacadas, música, GeoMusica, about, páginas exportadas e detalhe de obra.
-- O catálogo bilingue da GeoMusica reúne o álbum *Shapes for Piano 1*, os singles *Allotrope 1* e *Allotrope 2* e o estudo audiovisual *Passarola*, ligado às duas fichas da obra ao vivo. As quatro entradas estão em `/music` e têm fichas no portefólio (`/works`), com a categoria e a etiqueta `music release`.
+- O catálogo bilingue da GeoMusica reúne o álbum *Shapes for Piano 1*, os singles *Allotrope 1* e *Allotrope 2* e o estudo audiovisual *Passarola*, ligado às duas fichas da obra ao vivo. As quatro entradas estão em `/music`, têm fichas no portefólio (`/works`) com a categoria e a etiqueta `music release` e aparecem nessa categoria na timeline.
 - Next step: verificar paridade pública e qualidade editorial face à superfície desejada para `ruigato.info`.
 
 ### Canonical works pipeline
@@ -241,7 +241,7 @@ flowchart TD
 - Resource: `web/src/data/timeline-events.json`
 - Source of truth: dados gerados/exportados para timeline
 - Consumer: construtor de dados da timeline
-- Notes: actualmente 257 itens.
+- Notes: o export contém 257 eventos. A timeline acrescenta os quatro lançamentos editoriais a partir de `web/src/data/geomusicaReleases.json`.
 
 - Resource: `web/src/data/worksCanonical.json`
 - Source of truth: saída da pipeline canónica de obras, com overrides/review relevantes

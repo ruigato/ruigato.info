@@ -1,7 +1,7 @@
 /** Formato esperado pelo runtime `timeline-threejs` (plugin WordPress). */
 export type TimelinePluginPost = {
   title: string
-  /** ISO date string (YYYY-MM-DD ou mais longo; o plugin usa .slice(0,10)) */
+  /** Data ISO, com precisão de mês (YYYY-MM) ou de dia (YYYY-MM-DD). */
   date: string
   link: string
   thumbnail?: string

@@ -2,6 +2,7 @@ import catalogue from "./geomusicaReleases.json"
 import type { LocaleCode } from "../types/content"
 
 type GeoMusicaRelease = {
+  slug: string
   title: string
   imageSrc: string
   date: string

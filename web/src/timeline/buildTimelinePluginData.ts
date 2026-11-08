@@ -1,6 +1,12 @@
+import { GEOMUSICA_RELEASES } from "../data/geomusicaReleases"
 import type { TimelineEvent, Work } from "../types/content"
 import type { TimelinePluginData } from "./timelinePluginTypes"
 import { rewriteLegacyMediaUrl } from "../lib/legacyHtml"
+
+const releaseEvents = GEOMUSICA_RELEASES.map(({ slug, title, date }): TimelineEvent => {
+  const [year, month] = date.split("-").map(Number)
+  return { id: slug, label: title, year, month, workSlug: slug }
+})
 
 function slugifyCategory(name: string): string {
   return name
@@ -11,7 +17,7 @@ function slugifyCategory(name: string): string {
 }
 
 /**
- * Converte obras + eventos exportados para o objecto `timelineData` do plugin WebGL.
+ * Converte os eventos exportados e os lançamentos editoriais para o formato do plugin WebGL.
  */
 export function buildTimelinePluginData(
   works: Work[],
@@ -23,7 +29,7 @@ export function buildTimelinePluginData(
   const buckets: TimelinePluginData = {}
   const seenInCat = new Set<string>()
 
-  for (const ev of events) {
+  for (const ev of [...events, ...releaseEvents]) {
     if (!ev.workSlug) continue
     const w = workBySlug[ev.workSlug]
     if (!w) continue
